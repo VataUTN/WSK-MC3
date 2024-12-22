@@ -4457,3 +4457,66 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [22Dec2024 22:29:52.371] [Worker-Main-9/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [0, 23], pos: MutableBlockPos{x=13, y=69, z=370}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
 [22Dec2024 22:29:52.371] [Worker-Main-9/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [0, 23], pos: MutableBlockPos{x=8, y=68, z=371}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
 [22Dec2024 22:29:52.371] [Worker-Main-9/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [1, 23], pos: MutableBlockPos{x=22, y=68, z=370}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[22Dec2024 22:32:34.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 has made the advancement [Battle Hardened]
+[22Dec2024 22:32:43.884] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9347ms or 186 ticks behind
+[22Dec2024 22:33:12.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax has made the advancement [Voluntary Exile]
+[22Dec2024 22:33:47.598] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-17, 26], pos: MutableBlockPos{x=-271, y=57, z=419}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[22Dec2024 22:33:47.599] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-17, 25], pos: MutableBlockPos{x=-272, y=74, z=408}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[22Dec2024 22:33:47.599] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-17, 25], pos: MutableBlockPos{x=-271, y=73, z=410}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[22Dec2024 22:33:47.599] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-17, 25], pos: MutableBlockPos{x=-272, y=74, z=409}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[22Dec2024 22:33:47.599] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-17, 26], pos: MutableBlockPos{x=-269, y=74, z=416}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[22Dec2024 22:33:47.599] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-17, 25], pos: MutableBlockPos{x=-271, y=74, z=407}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[22Dec2024 22:34:11.147] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [0, 27], pos: MutableBlockPos{x=11, y=64, z=432}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[22Dec2024 22:34:15.639] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/10602, l='ServerLevel[world]', x=-1307.50, y=72.00, z=3105.50]
+[22Dec2024 22:34:44.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 was slain by Magma Cube
+[22Dec2024 22:35:10.654] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=7, z=-17}
+[22Dec2024 22:35:10.656] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=6, z=-16}
+[22Dec2024 22:35:10.656] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=256, y=7, z=-18}
+[22Dec2024 22:36:15.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vata74 moved wrongly!
+[22Dec2024 22:36:15.991] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=7, z=-17}
+[22Dec2024 22:36:15.992] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=6, z=-16}
+[22Dec2024 22:36:15.992] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=256, y=7, z=-18}
+[22Dec2024 22:36:30.901] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@57bbc8d5
+[22Dec2024 22:36:30.963] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Joacoo_17[/127.12.163.108:56735] logged in with entity id 13992 at (-1285.4980894705711, 68.0, 3247.655549281458)
+[22Dec2024 22:36:30.969] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Joacoo_17
+[22Dec2024 22:36:30.970] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Joacoo_17
+[22Dec2024 22:36:30.970] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Joacoo_17
+[22Dec2024 22:36:30.970] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Joacoo_17
+[22Dec2024 22:36:30.989] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Joacoo_17
+[22Dec2024 22:36:30.997] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Joacoo_17
+[22Dec2024 22:36:31.002] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Joacoo_17
+[22Dec2024 22:36:31.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joacoo_17 joined the game
+[22Dec2024 22:36:31.139] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7aaaddc4-adb9-3168-b6ff-709541dea5ed
+[22Dec2024 22:36:31.153] [Server thread/INFO] [Jade/]: Syncing config to Joacoo_17 (7aaaddc4-adb9-3168-b6ff-709541dea5ed)
+[22Dec2024 22:36:41.489] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[22Dec2024 22:36:44.699] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=7, z=-24}
+[22Dec2024 22:36:44.700] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=259, y=6, z=-25}
+[22Dec2024 22:36:46.191] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[22Dec2024 22:37:16.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 has reached the goal [Something Unnatural]
+[22Dec2024 22:37:18.590] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=7, z=-24}
+[22Dec2024 22:37:18.590] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=259, y=6, z=-25}
+[22Dec2024 22:37:20.968] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vata74 moved wrongly!
+[22Dec2024 22:37:22.803] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=7, z=-24}
+[22Dec2024 22:37:22.804] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=259, y=6, z=-25}
+[22Dec2024 22:37:39.788] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=7, z=-24}
+[22Dec2024 22:37:39.789] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=259, y=6, z=-25}
+[22Dec2024 22:37:47.492] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=7, z=-24}
+[22Dec2024 22:37:47.493] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=259, y=6, z=-25}
+[22Dec2024 22:37:50.979] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vata74 moved wrongly!
+[22Dec2024 22:37:55.863] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1046, y=55, z=3073} BlockPos{x=-1046, y=56, z=3073}
+[22Dec2024 22:37:57.583] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=8, z=2}
+[22Dec2024 22:37:57.584] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=7, z=0}
+[22Dec2024 22:37:57.584] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=257, y=6, z=2}
+[22Dec2024 22:37:57.584] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=256, y=6, z=0}
+[22Dec2024 22:38:16.755] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[22Dec2024 22:39:17.647] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=7, z=-24}
+[22Dec2024 22:39:17.648] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=259, y=6, z=-25}
+[22Dec2024 22:39:48.994] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=7, z=-24}
+[22Dec2024 22:39:48.995] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=259, y=6, z=-25}
+[22Dec2024 22:40:23.477] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=7, z=-24}
+[22Dec2024 22:40:23.486] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=259, y=6, z=-25}
+[22Dec2024 22:40:59.543] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/19774, l='ServerLevel[world]', x=-796.50, y=42.00, z=2788.50]
+[22Dec2024 22:41:06.722] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vata74 moved wrongly!
+[22Dec2024 22:41:56.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 drowned
+[22Dec2024 22:42:44.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax drowned whilst trying to escape Drowned
+[22Dec2024 22:42:45.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 has made the advancement [Hunt and Gather]

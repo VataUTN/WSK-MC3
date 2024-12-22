@@ -116,6 +116,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-12-22 22:35:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2024-12-21 03:25:03 +0000"
@@ -521,6 +527,12 @@
   "blue_skies:recipes/blue_skies_dungeon/glowing_poison_stone": {
     "criteria": {
       "has_item": "2024-12-22 03:36:54 +0000"
+    },
+    "done": true
+  },
+  "dungeons_plus:adventure/find_warped_garden": {
+    "criteria": {
+      "in_structure": "2024-12-22 22:37:16 +0000"
     },
     "done": true
   },
@@ -1367,6 +1379,12 @@
   "windswept:recipes/misc/blue_dye_from_bluebells": {
     "criteria": {
       "has_bluebells": "2024-12-21 02:32:07 +0000"
+    },
+    "done": true
+  },
+  "aether:regen_stone": {
+    "criteria": {
+      "regen_stone": "2024-12-22 22:32:34 +0000"
     },
     "done": true
   },
@@ -2501,6 +2519,12 @@
   "decorative_blocks:recipes/decorative_blocks.general/spruce_seat": {
     "criteria": {
       "has_plank": "2024-12-22 03:22:22 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/fishing_rod_repairing": {
+    "criteria": {
+      "has_fishing_rod": "2024-12-22 22:38:02 +0000"
     },
     "done": true
   },
@@ -3886,6 +3910,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-21 22:16:11 +0000",
       "windswept:chilled": "2024-12-22 00:52:34 +0000",
+      "minecraft:magma_cube": "2024-12-22 22:35:15 +0000",
       "minecraft:spider": "2024-12-21 05:23:11 +0000",
       "minecraft:creeper": "2024-12-21 22:32:45 +0000",
       "minecraft:witch": "2024-12-22 03:17:06 +0000",
@@ -3896,6 +3921,7 @@
       "minecraft:enderman": "2024-12-22 01:12:55 +0000",
       "minecraft:vex": "2024-12-21 22:03:23 +0000",
       "minecraft:zombie": "2024-12-21 01:56:55 +0000",
+      "minecraft:drowned": "2024-12-22 22:37:50 +0000",
       "savage_and_ravage:iceologer": "2024-12-22 01:02:06 +0000",
       "minecraft:zombie_villager": "2024-12-21 22:37:07 +0000"
     },
@@ -4126,6 +4152,12 @@
   "aether:recipes/redstone/skyroot_note_block": {
     "criteria": {
       "has_redstone": "2024-12-21 04:45:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-12-22 22:37:58 +0000"
     },
     "done": true
   },

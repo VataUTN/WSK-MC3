@@ -3348,6 +3348,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-22 22:32:50 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/misc/aether_iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_gloves": "2024-12-22 00:17:12 +0000"
@@ -3751,6 +3757,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-22 22:32:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2024-12-21 22:49:53 +0000"
@@ -3970,6 +3982,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2024-12-22 00:21:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-22 22:32:50 +0000"
     },
     "done": true
   },
@@ -5057,6 +5075,7 @@
       "minecraft:deep_cold_ocean": "2024-12-22 07:42:15 +0000",
       "minecraft:ice_spikes": "2024-12-22 00:59:55 +0000",
       "minecraft:frozen_ocean": "2024-12-22 20:21:48 +0000",
+      "minecraft:deep_frozen_ocean": "2024-12-22 22:36:36 +0000",
       "minecraft:ocean": "2024-12-22 07:12:42 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-22 04:28:18 +0000",
       "minecraft:snowy_beach": "2024-12-22 00:59:39 +0000",
@@ -5686,7 +5705,8 @@
       "golden_apple": "2024-12-21 23:36:50 +0000",
       "bread": "2024-12-22 07:49:54 +0000",
       "rotten_flesh": "2024-12-22 20:27:31 +0000",
-      "buzzier_bees:honey_bread": "2024-12-21 22:57:29 +0000"
+      "buzzier_bees:honey_bread": "2024-12-21 22:57:29 +0000",
+      "carrot": "2024-12-22 22:33:21 +0000"
     },
     "done": false
   },
@@ -6273,6 +6293,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "carrot": "2024-12-22 22:32:51 +0000"
+    },
+    "done": false
+  },
   "stoneworks:recipes/stoneworks.main/tuff_shingle_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-12-21 23:19:15 +0000"
@@ -6444,6 +6470,12 @@
   "stoneworks:recipes/stoneworks.main/basalt_tile_wall_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2024-12-22 22:12:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_pickaxe_repairing": {
+    "criteria": {
+      "has_diamond_pickaxe": "2024-12-22 22:30:46 +0000"
     },
     "done": true
   },
