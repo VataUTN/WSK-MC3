@@ -4531,3 +4531,8 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [22Dec2024 22:51:05.332] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6545ms or 130 ticks behind
 [22Dec2024 22:51:07.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax has completed the challenge [Free Willy]
 [22Dec2024 22:51:09.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 has made the advancement [Tooth Fairy]
+[22Dec2024 22:55:10.314] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=7, z=-24}
+[22Dec2024 22:55:10.315] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=259, y=6, z=-25}
+[22Dec2024 22:56:36.656] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vata74 lost connection: Disconnected
+[22Dec2024 22:56:36.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 left the game
+[22Dec2024 22:56:36.658] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for aa13d00e-5bda-37e1-a49d-1216688ffe68

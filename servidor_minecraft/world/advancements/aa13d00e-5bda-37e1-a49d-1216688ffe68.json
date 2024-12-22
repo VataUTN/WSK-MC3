@@ -1232,6 +1232,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2024-12-22 22:50:31 +0000"
+    },
+    "done": true
+  },
   "environmental:recipes/decorations/wisteria_ladder": {
     "criteria": {
       "has_stick": "2024-12-21 02:15:57 +0000"
@@ -1901,6 +1907,12 @@
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2024-12-21 22:51:48 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:adventure/tooth_fairy": {
+    "criteria": {
+      "thrasher_tooth": "2024-12-22 22:51:09 +0000"
     },
     "done": true
   },
