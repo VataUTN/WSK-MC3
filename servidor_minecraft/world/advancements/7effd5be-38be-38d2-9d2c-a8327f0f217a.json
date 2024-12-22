@@ -350,6 +350,12 @@
     },
     "done": true
   },
+  "environmental:recipes/food/cooked_venison": {
+    "criteria": {
+      "has_venison": "2024-12-22 23:47:21 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/andesite_tile_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-21 05:29:31 +0000"
@@ -1074,6 +1080,12 @@
   "goodending:recipes/cypress_boat": {
     "criteria": {
       "in_water": "2024-12-21 03:34:28 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_chestplate_repairing": {
+    "criteria": {
+      "has_leather_chestplate": "2024-12-22 23:32:53 +0000"
     },
     "done": true
   },
@@ -2092,6 +2104,12 @@
     },
     "done": true
   },
+  "environmental:recipes/food/cooked_venison_from_smoking": {
+    "criteria": {
+      "has_venison": "2024-12-22 23:47:21 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/oak_ladder": {
     "criteria": {
       "has_stick": "2024-12-21 03:35:51 +0000"
@@ -3070,8 +3088,10 @@
       "byg:firecracker_shrubland": "2024-12-22 01:33:20 +0000",
       "byg:embur_bog": "2024-12-22 22:25:44 +0000",
       "byg:dacite_ridges": "2024-12-21 03:38:59 +0000",
+      "byg:autumnal_valley": "2024-12-22 23:44:36 +0000",
       "byg:howling_peaks": "2024-12-22 01:46:45 +0000",
       "byg:twilight_meadow": "2024-12-22 04:25:06 +0000",
+      "byg:skyris_vale": "2024-12-22 23:45:44 +0000",
       "byg:cardinal_tundra": "2024-12-21 05:11:19 +0000",
       "byg:amaranth_fields": "2024-12-22 01:32:47 +0000",
       "byg:basalt_barrera": "2024-12-22 01:32:16 +0000",
@@ -4054,6 +4074,12 @@
     },
     "done": true
   },
+  "immersive_weathering:recipes/prismarine_brick": {
+    "criteria": {
+      "has_copper_block": "2024-12-22 23:33:56 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/bamboo_trapdoor": {
     "criteria": {
       "has_bundle": "2024-12-21 03:33:37 +0000"
@@ -4914,6 +4940,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2024-12-21 05:12:32 +0000",
+      "minecraft:old_growth_pine_taiga": "2024-12-22 23:47:27 +0000",
       "minecraft:taiga": "2024-12-22 04:18:42 +0000",
       "minecraft:deep_ocean": "2024-12-21 05:22:45 +0000",
       "minecraft:frozen_river": "2024-12-21 05:11:11 +0000",
@@ -5123,6 +5150,12 @@
     "criteria": {
       "has_stick": "2024-12-21 03:35:51 +0000",
       "has_the_recipe": "2024-12-21 03:35:51 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/frozen/obsidian": {
+    "criteria": {
+      "has_magma_block": "2024-12-22 23:33:46 +0000"
     },
     "done": true
   },
@@ -6863,6 +6896,12 @@
   "aether:recipes/combat/iron_leggings_repairing": {
     "criteria": {
       "has_iron_leggings": "2024-12-21 05:44:47 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/food/cooked_venison_from_campfire_cooking": {
+    "criteria": {
+      "has_venison": "2024-12-22 23:47:21 +0000"
     },
     "done": true
   },

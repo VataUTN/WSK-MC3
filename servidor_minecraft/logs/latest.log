@@ -4089,3 +4089,101 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [22Dec2024 23:32:07.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax was impaled by Drowned
 [22Dec2024 23:32:31.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 has made the advancement [Chompy]
 [22Dec2024 23:32:42.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 was slain by Crocodile
+[22Dec2024 23:34:18.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax discovered the floor was lava
+[22Dec2024 23:36:21.556] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vata74 lost connection: Disconnected
+[22Dec2024 23:36:21.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 left the game
+[22Dec2024 23:36:21.558] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for aa13d00e-5bda-37e1-a49d-1216688ffe68
+[22Dec2024 23:37:05.658] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6adb664
+[22Dec2024 23:37:05.684] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Twuelvi[/127.76.167.49:57725] logged in with entity id 16657 at (390.36327583253785, 68.0, -368.5158421207788)
+[22Dec2024 23:37:05.685] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Twuelvi
+[22Dec2024 23:37:05.686] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Twuelvi
+[22Dec2024 23:37:05.686] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Twuelvi
+[22Dec2024 23:37:05.686] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Twuelvi
+[22Dec2024 23:37:05.689] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Twuelvi
+[22Dec2024 23:37:05.692] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Twuelvi
+[22Dec2024 23:37:05.693] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Twuelvi
+[22Dec2024 23:37:05.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Twuelvi joined the game
+[22Dec2024 23:37:05.779] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f0e9e050-51e8-3f94-b642-25238c260572
+[22Dec2024 23:37:05.815] [Server thread/INFO] [Jade/]: Syncing config to Twuelvi (f0e9e050-51e8-3f94-b642-25238c260572)
+[22Dec2024 23:37:13.337] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[22Dec2024 23:37:15.715] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=7, z=-17}
+[22Dec2024 23:37:15.716] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=6, z=-16}
+[22Dec2024 23:37:15.716] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=256, y=7, z=-18}
+[22Dec2024 23:37:28.007] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22328ms or 446 ticks behind
+[22Dec2024 23:37:34.640] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=8, z=2}
+[22Dec2024 23:37:34.641] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=7, z=0}
+[22Dec2024 23:37:34.641] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=257, y=6, z=2}
+[22Dec2024 23:37:34.642] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=256, y=6, z=0}
+[22Dec2024 23:38:02.015] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=7, z=-24}
+[22Dec2024 23:38:02.016] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=259, y=6, z=-25}
+[22Dec2024 23:38:39.173] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9694ms or 193 ticks behind
+[22Dec2024 23:38:39.486] [Server thread/INFO] [de.cas_ual_ty.deuf.DEUF/]: Changing UUID of entity minecraft:chest_minecart that already existed from 301da3a5-6d4a-4c7b-912c-8ab7e4f28cc9 to 54526f22-e1bd-4ba6-96d9-69d28b89669f
+[22Dec2024 23:39:03.908] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=8, z=2}
+[22Dec2024 23:39:03.908] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=7, z=0}
+[22Dec2024 23:39:03.909] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=257, y=6, z=2}
+[22Dec2024 23:39:03.909] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=256, y=6, z=0}
+[22Dec2024 23:39:13.628] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=7, z=-24}
+[22Dec2024 23:39:13.629] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=259, y=6, z=-25}
+[22Dec2024 23:39:43.359] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=96, y=45, z=-531}
+[22Dec2024 23:40:44.972] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=7, z=-17}
+[22Dec2024 23:40:44.973] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=6, z=-16}
+[22Dec2024 23:40:44.974] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=256, y=7, z=-18}
+[22Dec2024 23:40:48.788] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=7, z=-17}
+[22Dec2024 23:40:48.789] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=6, z=-16}
+[22Dec2024 23:40:48.789] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=256, y=7, z=-18}
+[22Dec2024 23:41:11.400] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=8, z=2}
+[22Dec2024 23:41:11.401] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=7, z=0}
+[22Dec2024 23:41:11.401] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=257, y=6, z=2}
+[22Dec2024 23:41:11.401] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=256, y=6, z=0}
+[22Dec2024 23:41:17.666] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=7, z=-17}
+[22Dec2024 23:41:17.666] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=6, z=-16}
+[22Dec2024 23:41:17.667] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=256, y=7, z=-18}
+[22Dec2024 23:41:51.268] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=118, y=-42, z=4629} but found not block entity block Block{minecraft:cave_air} at location
+[22Dec2024 23:41:51.269] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=118, y=-42, z=4629}
+[22Dec2024 23:41:59.553] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=7, z=-17}
+[22Dec2024 23:41:59.554] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=6, z=-16}
+[22Dec2024 23:41:59.555] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=256, y=7, z=-18}
+[22Dec2024 23:42:24.945] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joacoo_17 lost connection: Disconnected
+[22Dec2024 23:42:24.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joacoo_17 left the game
+[22Dec2024 23:42:24.948] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7aaaddc4-adb9-3168-b6ff-709541dea5ed
+[22Dec2024 23:43:10.311] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=8, z=2}
+[22Dec2024 23:43:10.312] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=7, z=0}
+[22Dec2024 23:43:10.313] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=257, y=6, z=2}
+[22Dec2024 23:43:10.313] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=256, y=6, z=0}
+[22Dec2024 23:50:05.998] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Twuelvi lost connection: Timed out
+[22Dec2024 23:50:05.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Twuelvi left the game
+[22Dec2024 23:50:05.999] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f0e9e050-51e8-3f94-b642-25238c260572
+[22Dec2024 23:50:06.038] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[22Dec2024 23:50:07.749] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-479, y=-49, z=-724} but found not block entity block Block{sculked:sculked_wart} at location
+[22Dec2024 23:50:07.750] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{sculked:sculked_wart} but failed at location BlockPos{x=-479, y=-49, z=-724}
+[22Dec2024 23:50:22.452] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6e52107
+[22Dec2024 23:50:22.472] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Twuelvi[/127.76.167.49:43615] logged in with entity id 28990 at (-11.80415327215693, 75.7531999805212, -624.2991981536067)
+[22Dec2024 23:50:22.473] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Twuelvi
+[22Dec2024 23:50:22.473] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Twuelvi
+[22Dec2024 23:50:22.474] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Twuelvi
+[22Dec2024 23:50:22.474] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Twuelvi
+[22Dec2024 23:50:22.476] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Twuelvi
+[22Dec2024 23:50:22.478] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Twuelvi
+[22Dec2024 23:50:22.478] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Twuelvi
+[22Dec2024 23:50:22.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Twuelvi joined the game
+[22Dec2024 23:50:22.534] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f0e9e050-51e8-3f94-b642-25238c260572
+[22Dec2024 23:50:22.548] [Server thread/INFO] [Jade/]: Syncing config to Twuelvi (f0e9e050-51e8-3f94-b642-25238c260572)
+[22Dec2024 23:51:34.613] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@78ec84d1
+[22Dec2024 23:51:34.632] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Vata74[/127.104.211.112:39777] logged in with entity id 29645 at (-1196.5, 71.0, 3270.5)
+[22Dec2024 23:51:34.634] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Vata74
+[22Dec2024 23:51:34.634] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Vata74
+[22Dec2024 23:51:34.635] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Vata74
+[22Dec2024 23:51:34.635] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Vata74
+[22Dec2024 23:51:34.637] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Vata74
+[22Dec2024 23:51:34.639] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Vata74
+[22Dec2024 23:51:34.639] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Vata74
+[22Dec2024 23:51:34.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 joined the game
+[22Dec2024 23:51:34.744] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for aa13d00e-5bda-37e1-a49d-1216688ffe68
+[22Dec2024 23:51:34.748] [Server thread/INFO] [Jade/]: Syncing config to Vata74 (aa13d00e-5bda-37e1-a49d-1216688ffe68)
+[22Dec2024 23:51:46.135] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[22Dec2024 23:51:49.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 was blown up by Creeper
+[22Dec2024 23:52:55.778] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=18}
+[22Dec2024 23:52:55.909] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1, y=-56, z=26}
+[22Dec2024 23:52:55.909] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-2, y=-56, z=26}
+[22Dec2024 23:52:55.910] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=-56, z=26}
+[22Dec2024 23:52:55.910] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=19}

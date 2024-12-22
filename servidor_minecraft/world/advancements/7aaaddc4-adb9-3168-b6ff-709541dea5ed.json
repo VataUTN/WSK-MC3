@@ -1955,6 +1955,7 @@
   },
   "repurposed_structures:pyramids": {
     "criteria": {
+      "in_pyramid_icy": "2024-12-22 23:40:31 +0000",
       "in_pyramid_flower_forest": "2024-12-21 05:36:24 +0000"
     },
     "done": false
@@ -1980,6 +1981,12 @@
   "stoneworks:recipes/stoneworks.main/mossy_cobbled_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-21 03:39:10 +0000"
+    },
+    "done": true
+  },
+  "windswept:recipes/misc/leather_from_frozen_flesh": {
+    "criteria": {
+      "has_frozen_flesh": "2024-12-22 23:40:27 +0000"
     },
     "done": true
   },
@@ -3458,7 +3465,8 @@
       "byg:basalt_barrera": "2024-12-22 01:39:28 +0000",
       "byg:temperate_rainforest": "2024-12-21 02:12:02 +0000",
       "byg:maple_taiga": "2024-12-22 03:08:50 +0000",
-      "byg:dacite_shore": "2024-12-21 23:13:59 +0000"
+      "byg:dacite_shore": "2024-12-21 23:13:59 +0000",
+      "byg:frosted_taiga": "2024-12-22 23:36:57 +0000"
     },
     "done": false
   },
@@ -4638,6 +4646,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-21 03:55:07 +0000",
+      "windswept:chilled": "2024-12-22 23:40:06 +0000",
       "minecraft:spider": "2024-12-22 23:12:56 +0000",
       "minecraft:creeper": "2024-12-21 05:40:55 +0000",
       "minecraft:husk": "2024-12-22 02:19:18 +0000",
