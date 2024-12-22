@@ -80,6 +80,12 @@
     },
     "done": true
   },
+  "aether_redux:double_jump": {
+    "criteria": {
+      "double_jump": "2024-12-22 21:02:13 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_item": "2024-12-22 03:16:30 +0000"
@@ -320,6 +326,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-22 20:56:44 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/dark_oak_slab_from_dark_oak_logs_sawing": {
     "criteria": {
       "has_dark_oak_logs": "2024-12-21 03:24:13 +0000"
@@ -401,6 +413,12 @@
   "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-22 03:41:19 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/galosphere/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2024-12-22 21:09:17 +0000"
     },
     "done": true
   },
@@ -614,6 +632,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-12-22 20:24:12 +0000"
+    },
+    "done": true
+  },
   "environmental:recipes/building_blocks/willow_bookshelf": {
     "criteria": {
       "has_book": "2024-12-21 04:52:30 +0000"
@@ -665,6 +689,12 @@
   "stoneworks:recipes/stoneworks.main/mossy_granite_brick_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-21 22:51:48 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_helmet_repairing": {
+    "criteria": {
+      "has_diamond_helmet": "2024-12-22 22:03:11 +0000"
     },
     "done": true
   },
@@ -779,6 +809,12 @@
   "stoneworks:recipes/stoneworks.main/granite_brick_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-21 22:51:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2024-12-22 20:24:19 +0000"
     },
     "done": true
   },
@@ -947,6 +983,12 @@
   "alexsmobs:alexsmobs/banana": {
     "criteria": {
       "banana": "2024-12-21 03:22:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2024-12-22 20:56:44 +0000"
     },
     "done": true
   },
@@ -1238,6 +1280,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-22 20:56:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-12-21 02:28:45 +0000"
@@ -1406,6 +1454,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-12-22 20:24:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2024-12-21 04:43:34 +0000"
@@ -1427,6 +1481,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2024-12-21 04:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2024-12-22 20:56:35 +0000"
     },
     "done": true
   },
@@ -1550,6 +1610,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_leggings_repairing": {
+    "criteria": {
+      "has_diamond_leggings": "2024-12-22 22:03:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-22 01:18:08 +0000"
@@ -1571,6 +1637,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-22 04:07:32 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/galosphere/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2024-12-22 21:09:17 +0000"
     },
     "done": true
   },
@@ -1598,9 +1670,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-22 20:31:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2024-12-21 23:03:58 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_boots_repairing": {
+    "criteria": {
+      "has_diamond_boots": "2024-12-22 22:03:09 +0000"
     },
     "done": true
   },
@@ -1862,6 +1946,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-12-22 20:24:12 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/dark_oak_sign_from_dark_oak_logs_sawing": {
     "criteria": {
       "has_dark_oak_logs": "2024-12-21 03:24:13 +0000"
@@ -2006,6 +2096,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-22 20:56:44 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/oak_fence_from_oak_planks_sawing": {
     "criteria": {
       "has_oak_planks": "2024-12-21 02:15:17 +0000"
@@ -2105,6 +2201,12 @@
   "vinery:wine_rack_5": {
     "criteria": {
       "has_spruce_planks": "2024-12-22 03:22:22 +0000"
+    },
+    "done": true
+  },
+  "aether:phoenix_armor": {
+    "criteria": {
+      "phoenix_gloves": "2024-12-22 20:41:44 +0000"
     },
     "done": true
   },
@@ -2222,6 +2324,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-22 21:03:59 +0000"
+    },
+    "done": true
+  },
   "nethersdelight:recipes/nethersdelight/blackstone_blast_furnace": {
     "criteria": {
       "has_iron": "2024-12-21 22:06:46 +0000"
@@ -2294,6 +2402,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2024-12-22 20:24:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2024-12-21 02:15:57 +0000"
@@ -2354,6 +2468,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2024-12-22 21:04:02 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/dry_bamboo_ladder": {
     "criteria": {
       "has_dry_bamboo": "2024-12-21 01:48:14 +0000"
@@ -2381,6 +2501,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2024-12-21 04:43:34 +0000"
+    },
+    "done": true
+  },
+  "vinery:grass_slab": {
+    "criteria": {
+      "has_grass_block": "2024-12-22 20:52:17 +0000"
     },
     "done": true
   },
@@ -2516,6 +2642,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2024-12-22 20:24:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-21 02:15:17 +0000"
@@ -2599,6 +2731,12 @@
       "has_spruce_planks": "2024-12-22 03:22:22 +0000"
     },
     "done": true
+  },
+  "aether:obsidian_armor": {
+    "criteria": {
+      "obsidian_gloves": "2024-12-22 20:41:43 +0000"
+    },
+    "done": false
   },
   "woodworks:recipes/building_blocks/birch_stairs_from_birch_planks_sawing": {
     "criteria": {
@@ -2765,6 +2903,12 @@
   "blue_skies:get_moonstone_shard": {
     "criteria": {
       "obtain_moonstone_shard": "2024-12-22 00:45:49 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_chestplate_repairing": {
+    "criteria": {
+      "has_diamond_chestplate": "2024-12-22 22:03:04 +0000"
     },
     "done": true
   },
@@ -3141,6 +3285,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2024-12-22 22:03:04 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/flowering_azalea_boat": {
     "criteria": {
       "in_water": "2024-12-21 02:28:05 +0000"
@@ -3291,6 +3441,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-22 21:03:59 +0000"
+    },
+    "done": true
+  },
   "environmental:recipes/decorations/willow_ladder": {
     "criteria": {
       "has_stick": "2024-12-21 02:15:57 +0000"
@@ -3336,6 +3492,12 @@
   "stoneworks:recipes/stoneworks.main/mossy_cobbled_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-21 22:51:45 +0000"
+    },
+    "done": true
+  },
+  "savage_and_ravage:adventure/creeper_spores": {
+    "criteria": {
+      "creeper_spores": "2024-12-22 21:45:56 +0000"
     },
     "done": true
   },
@@ -3580,6 +3742,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2024-12-22 20:24:19 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_everbright_blocks/frostbright_bookshelf": {
     "criteria": {
       "has_item": "2024-12-21 04:52:30 +0000"
@@ -3662,6 +3830,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-22 01:18:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2024-12-22 20:24:24 +0000"
     },
     "done": true
   },
@@ -3912,6 +4086,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-22 20:56:35 +0000"
+    },
+    "done": true
+  },
   "twilightdelight:recipes/frozen/packed_ice": {
     "criteria": {
       "has_ice": "2024-12-22 00:01:54 +0000"
@@ -3963,6 +4143,12 @@
   "stoneworks:recipes/stoneworks.main/andesite_pavers_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-22 03:44:23 +0000"
+    },
+    "done": true
+  },
+  "windswept:recipes/misc/snow_golem_banner_pattern": {
+    "criteria": {
+      "has_golden_carrot": "2024-12-22 21:04:02 +0000"
     },
     "done": true
   },
@@ -4604,6 +4790,7 @@
   },
   "immersive_weathering:immersive_weathering/dirts": {
     "criteria": {
+      "grass": "2024-12-22 20:52:17 +0000",
       "dirt": "2024-12-21 01:49:32 +0000"
     },
     "done": false
@@ -4836,6 +5023,12 @@
     },
     "done": true
   },
+  "aether:valkyrie_loot": {
+    "criteria": {
+      "valkyrie_gloves": "2024-12-22 20:41:46 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/rocky_dirt": {
     "criteria": {
       "has_item": "2024-12-22 03:47:08 +0000"
@@ -4944,7 +5137,11 @@
       "melon_slice": "2024-12-21 04:55:19 +0000",
       "neapolitan:strawberries": "2024-12-22 05:45:43 +0000",
       "cooked_porkchop": "2024-12-22 04:40:31 +0000",
+      "cooked_beef": "2024-12-22 21:38:10 +0000",
       "mutton": "2024-12-22 19:43:56 +0000",
+      "cooked_chicken": "2024-12-22 20:24:48 +0000",
+      "cooked_mutton": "2024-12-22 20:25:28 +0000",
+      "golden_carrot": "2024-12-22 21:12:24 +0000",
       "neapolitan:banana": "2024-12-21 03:22:54 +0000",
       "bread": "2024-12-21 23:02:50 +0000",
       "rotten_flesh": "2024-12-21 04:37:57 +0000",
@@ -4957,6 +5154,12 @@
   "stoneworks:recipes/stoneworks.main/mossy_cobbled_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-22 03:44:23 +0000"
+    },
+    "done": true
+  },
+  "windswept:recipes/food/mutton_pie": {
+    "criteria": {
+      "has_cooked_mutton": "2024-12-22 20:24:19 +0000"
     },
     "done": true
   },
@@ -5206,6 +5409,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/galosphere/raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2024-12-22 21:09:17 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/birch_palisade": {
     "criteria": {
       "has_log": "2024-12-21 02:32:02 +0000"
@@ -5449,7 +5658,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "wheat": "2024-12-21 03:26:17 +0000"
+      "wheat": "2024-12-21 03:26:17 +0000",
+      "carrot": "2024-12-22 20:29:53 +0000"
     },
     "done": false
   },
@@ -5609,6 +5819,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/diamond_shovel_repairing": {
+    "criteria": {
+      "has_diamond_shovel": "2024-12-22 22:07:44 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cooking/mushroom_stew": {
     "criteria": {
       "has_any_ingredient": "2024-12-21 02:18:01 +0000"
@@ -5648,6 +5864,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-22 03:16:30 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_pickaxe_repairing": {
+    "criteria": {
+      "has_diamond_pickaxe": "2024-12-22 21:54:02 +0000"
     },
     "done": true
   },
@@ -5840,6 +6062,12 @@
   "byg:root": {
     "criteria": {
       "tick": "2024-12-21 01:48:13 +0000"
+    },
+    "done": true
+  },
+  "aether:read_lore": {
+    "criteria": {
+      "lore_book_entry": "2024-12-22 20:47:10 +0000"
     },
     "done": true
   },
@@ -6176,6 +6404,12 @@
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-21 05:22:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-22 20:31:22 +0000"
     },
     "done": true
   },
