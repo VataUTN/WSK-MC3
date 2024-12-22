@@ -1,0 +1,17 @@
+{
+	id: "fbb53e14-15bb-301e-ba91-84f057026ea3"
+	type: "player"
+	player_name: "Nefario99"
+	ranks: {
+		fbb53e14-15bb-301e-ba91-84f057026ea3: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Nefario99"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFD059"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,17 @@
+{
+	id: "aa13d00e-5bda-37e1-a49d-1216688ffe68"
+	type: "player"
+	player_name: "Vata74"
+	ranks: {
+		aa13d00e-5bda-37e1-a49d-1216688ffe68: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Vata74"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF8759"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

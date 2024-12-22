@@ -1,0 +1,78 @@
+[22Dec2024 20:17:31.365] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853]
+[22Dec2024 20:17:31.369] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 21.0.5 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[22Dec2024 20:17:32.941] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/WSK-MC3/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[22Dec2024 20:17:33.259] [main/INFO] [MoreCrashInfoTransformerService/]: MoreCrashInfo TransformationService: ./tmp/MoreCrashInfo-Locator-1.19.2.jar
+[22Dec2024 20:17:33.271] [main/INFO] [MoreCrashInfoTransformerService/]: Added ./tmp/MoreCrashInfo-Locator-1.19.2.jar to SERVICE with Rebuilt
+[22Dec2024 20:17:33.375] [main/INFO] [MoreCrashInfoModLocator/]: Minecraft version 1.19.2 major 19
+[22Dec2024 20:17:33.452] [main/INFO] [MoreCrashInfoModLocator/]: MoreCrashInfo ModLocator: /workspaces/WSK-MC3/servidor_minecraft/tmp/MoreCrashInfo-Core-1.19.2.jar
+[22Dec2024 20:17:34.390] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/WSK-MC3/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.2-43.4.2/fmlcore-1.19.2-43.4.2.jar is missing mods.toml file
+[22Dec2024 20:17:34.391] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/WSK-MC3/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.4.2/javafmllanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[22Dec2024 20:17:34.393] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/WSK-MC3/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.4.2/lowcodelanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[22Dec2024 20:17:34.394] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/WSK-MC3/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.2-43.4.2/mclanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[22Dec2024 20:17:34.844] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[22Dec2024 20:17:34.851] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: terrablender. Using Mod File: /workspaces/WSK-MC3/servidor_minecraft/mods/TerraBlender-forge-1.19.2-2.0.1.166.jar
+[22Dec2024 20:17:34.853] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: resourcefullib. Using Mod File: /workspaces/WSK-MC3/servidor_minecraft/mods/resourcefullib-forge-1.19.2-1.1.24.jar
+[22Dec2024 20:17:34.854] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: curios. Using Mod File: /workspaces/WSK-MC3/servidor_minecraft/mods/curios-forge-1.19.2-5.1.4.2.jar
+[22Dec2024 20:17:34.854] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 15 dependencies adding them to mods collection
+[22Dec2024 20:17:42.356] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[22Dec2024 20:17:42.898] [main/ERROR] [mixin/]: Mixin config debugify-common.mixins.json does not specify "minVersion" property
+[22Dec2024 20:17:42.901] [main/ERROR] [mixin/]: Mixin config debugify.mixins.json does not specify "minVersion" property
+[22Dec2024 20:17:43.015] [main/ERROR] [mixin/]: Mixin config rottencreatures-common.mixins.json does not specify "minVersion" property
+[22Dec2024 20:17:43.018] [main/ERROR] [mixin/]: Mixin config rottencreatures.mixins.json does not specify "minVersion" property
+[22Dec2024 20:17:43.030] [main/ERROR] [mixin/]: Mixin config spruceui.mixins.json does not specify "minVersion" property
+[22Dec2024 20:17:43.452] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
+[22Dec2024 20:17:43.454] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
+[22Dec2024 20:17:43.454] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.aizistral.nochatreports.MixinConnector]
+[22Dec2024 20:17:43.457] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[22Dec2024 20:17:43.631] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.9.3+mc1.19.2: 75 options available, 2 override(s) found
+[22Dec2024 20:17:43.633] [main/WARN] [ModernFix/]: Option 'mixin.bugfix.item_cache_flag' overriden (by mods [canary]) to 'false'
+[22Dec2024 20:17:43.633] [main/WARN] [ModernFix/]: Option 'mixin.perf.blast_search_trees' overriden (by user configuration) to 'false'
+[22Dec2024 20:17:43.634] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[22Dec2024 20:17:43.667] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[22Dec2024 20:17:43.701] [main/WARN] [mixin/]: Reference map 'vinery-forge-refmap.json' for vinery.mixins.json could not be read. If this is a development environment you can ignore this message
+[22Dec2024 20:17:43.755] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 31 options available, 0 override(s) found
+[22Dec2024 20:17:43.762] [main/WARN] [mixin/]: Reference map 'lmft-forge-refmap.json' for lmft.mixins.json could not be read. If this is a development environment you can ignore this message
+[22Dec2024 20:17:43.790] [main/WARN] [mixin/]: Reference map 'nitrogen_internals.refmap.json' for nitrogen_internals.mixins.json could not be read. If this is a development environment you can ignore this message
+[22Dec2024 20:17:43.827] [main/WARN] [mixin/]: Reference map 'EpheroLib-refmap.json' for epherolib.mixins.json could not be read. If this is a development environment you can ignore this message
+[22Dec2024 20:17:44.009] [main/WARN] [mixin/]: Reference map '${refmap_target}refmap.json' for corgilib.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[22Dec2024 20:17:44.012] [main/WARN] [mixin/]: Reference map 'fastpaintings-forge-refmap.json' for fastpaintings-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[22Dec2024 20:17:44.253] [main/WARN] [CanaryConfig/]: No configuration key exists with name 'mixin.block.hopper', ignoring
+[22Dec2024 20:17:44.266] [main/WARN] [CanaryConfig/]: Option 'mixin.world.block_entity_ticking.world_border' requires 'mixin.util.world_border_listener=true' but found 'false'. Setting 'mixin.world.block_entity_ticking.world_border=false'.
+[22Dec2024 20:17:44.267] [main/INFO] [Canary/]: Loaded configuration file for Canary: 124 options available, 1 override(s) found
+[22Dec2024 20:17:44.325] [main/WARN] [mixin/]: Reference map 'v_slab_compat-common-refmap.json' for v_slab_compat-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[22Dec2024 20:17:44.509] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[22Dec2024 20:17:45.076] [main/WARN] [mixin/]: Reference map 'xlpackets.refmap.json' for xlpackets.mixins.json could not be read. If this is a development environment you can ignore this message
+[22Dec2024 20:17:45.349] [main/WARN] [mixin/]: Reference map 'netherdepthsupgrade.refmap.json' for netherdepthsupgrade.mixins.json could not be read. If this is a development environment you can ignore this message
+[22Dec2024 20:17:45.471] [main/WARN] [mixin/]: Reference map 'rottencreatures-forge-refmap.json' for rottencreatures.mixins.json could not be read. If this is a development environment you can ignore this message
+[22Dec2024 20:17:47.851] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[22Dec2024 20:17:47.852] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/Minecraft (java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER)
+[22Dec2024 20:17:47.853] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.Minecraft was not found modernfix-common.mixins.json:bugfix.world_leaks.MinecraftMixin
+[22Dec2024 20:17:47.912] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/worldselection/WorldSelectionList$WorldListEntry for invalid dist DEDICATED_SERVER
+[22Dec2024 20:17:47.912] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/worldselection/WorldSelectionList$WorldListEntry (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/worldselection/WorldSelectionList$WorldListEntry for invalid dist DEDICATED_SERVER)
+[22Dec2024 20:17:47.912] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.worldselection.WorldSelectionList$WorldListEntry was not found modernfix-common.mixins.json:bugfix.world_screen_skipped.WorldSelectionListMixin
+[22Dec2024 20:17:47.913] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/mojang/blaze3d/vertex/BufferBuilder for invalid dist DEDICATED_SERVER
+[22Dec2024 20:17:47.913] [main/WARN] [mixin/]: Error loading class: com/mojang/blaze3d/vertex/BufferBuilder (java.lang.RuntimeException: Attempted to load class com/mojang/blaze3d/vertex/BufferBuilder for invalid dist DEDICATED_SERVER)
+[22Dec2024 20:17:47.914] [main/WARN] [mixin/]: @Mixin target com.mojang.blaze3d.vertex.BufferBuilder was not found modernfix-common.mixins.json:bugfix.buffer_builder_leak.BufferBuilderMixin
+[22Dec2024 20:17:48.042] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/worldselection/CreateWorldScreen for invalid dist DEDICATED_SERVER
+[22Dec2024 20:17:48.043] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/worldselection/CreateWorldScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/worldselection/CreateWorldScreen for invalid dist DEDICATED_SERVER)
+[22Dec2024 20:17:48.047] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.worldselection.CreateWorldScreen was not found modernfix-forge.mixins.json:bugfix.extra_experimental_screen.CreateWorldScreenMixin
+[22Dec2024 20:17:48.054] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/worldselection/WorldGenSettingsComponent (java.lang.ClassNotFoundException: net.minecraft.client.gui.screens.worldselection.WorldGenSettingsComponent)
+[22Dec2024 20:17:48.054] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.worldselection.WorldGenSettingsComponent was not found modernfix-forge.mixins.json:bugfix.file_dialog_title.WorldGenSettingsComponentMixin
+[22Dec2024 20:17:48.855] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/resources/SplashManager (java.lang.ClassNotFoundException: net.minecraft.client.resources.SplashManager)
+[22Dec2024 20:17:48.856] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.resources.SplashManager was not found whatareyouvotingfor.mixins.json:SplashManagerMixin
+[22Dec2024 20:17:50.289] [main/WARN] [Canary/]: Force-disabling mixin 'ai.poi.tasks.RaiderMoveThroughVillageGoalMixin' as rule 'mixin.ai.poi' (added by user configuration) disables it and children
+[22Dec2024 20:17:51.031] [main/INFO] [com.cupboard.Cupboard/]: Loaded config for: recipeessentials.json
+[22Dec2024 20:17:51.171] [main/INFO] [com.cupboard.Cupboard/]: Loaded config for: structureessentials.json
+[22Dec2024 20:17:51.285] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
+[22Dec2024 20:17:51.286] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin
+[22Dec2024 20:17:51.292] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/multiplayer/ServerSelectionList for invalid dist DEDICATED_SERVER
+[22Dec2024 20:17:51.293] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/multiplayer/ServerSelectionList (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/multiplayer/ServerSelectionList for invalid dist DEDICATED_SERVER)
+[22Dec2024 20:17:51.293] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.multiplayer.ServerSelectionList was not found serverbrowser.mixins.json:ServerSelectionMixin
+[22Dec2024 20:17:51.763] [main/WARN] [mixin/]: Error loading class: noobanidus/mods/lootr/config/ConfigManager (java.lang.ClassNotFoundException: noobanidus.mods.lootr.config.ConfigManager)
+[22Dec2024 20:17:51.783] [main/WARN] [mixin/]: Error loading class: com/mojang/blaze3d/audio/Channel (java.lang.ClassNotFoundException: com.mojang.blaze3d.audio.Channel)
+[22Dec2024 20:17:51.784] [main/WARN] [mixin/]: @Mixin target com.mojang.blaze3d.audio.Channel was not found assets/sound_physics_remastered/sound_physics_remastered.mixins.json:ChannelAccessor
+[22Dec2024 20:17:51.788] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Will be applying 2 memory leak fixes!
+[22Dec2024 20:17:51.788] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Currently enabled memory leak fixes: [entityMemoriesLeak, biomeTemperatureLeak]
+[22Dec2024 20:17:52.205] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.2.0).
+[22Dec2024 20:17:52.207] [main/WARN] [MixinExtras|Service/]: Found problematic active MixinExtras instance at ca.fxco.memoryleakfix.mixinextras (version 0.2.0-beta.8)
+[22Dec2024 20:17:52.207] [main/WARN] [MixinExtras|Service/]: Versions from 0.2.0-beta.1 to 0.2.0-beta.9 have limited support and it is strongly recommended to update.

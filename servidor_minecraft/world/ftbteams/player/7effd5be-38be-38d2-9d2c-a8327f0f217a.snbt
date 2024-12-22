@@ -1,0 +1,17 @@
+{
+	id: "7effd5be-38be-38d2-9d2c-a8327f0f217a"
+	type: "player"
+	player_name: "Domitax"
+	ranks: {
+		7effd5be-38be-38d2-9d2c-a8327f0f217a: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Domitax"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF9159"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

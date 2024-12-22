@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "3027ebdb349e42cfaad663b66d4c7533"
+	name: "Twuelvi"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

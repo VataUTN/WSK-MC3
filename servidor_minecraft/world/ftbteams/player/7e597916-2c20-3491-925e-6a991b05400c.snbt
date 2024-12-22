@@ -1,0 +1,17 @@
+{
+	id: "7e597916-2c20-3491-925e-6a991b05400c"
+	type: "player"
+	player_name: "maggie_"
+	ranks: {
+		7e597916-2c20-3491-925e-6a991b05400c: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "maggie_"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFAE"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

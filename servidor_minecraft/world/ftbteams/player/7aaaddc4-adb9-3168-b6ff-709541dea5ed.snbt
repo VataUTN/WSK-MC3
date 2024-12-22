@@ -1,0 +1,17 @@
+{
+	id: "7aaaddc4-adb9-3168-b6ff-709541dea5ed"
+	type: "player"
+	player_name: "Joacoo_17"
+	ranks: {
+		7aaaddc4-adb9-3168-b6ff-709541dea5ed: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Joacoo_17"
+		"ftbteams:description": ""
+		"ftbteams:color": "#E6FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

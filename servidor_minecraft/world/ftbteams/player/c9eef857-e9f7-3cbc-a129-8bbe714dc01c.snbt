@@ -1,0 +1,17 @@
+{
+	id: "c9eef857-e9f7-3cbc-a129-8bbe714dc01c"
+	type: "player"
+	player_name: "Brandomita"
+	ranks: {
+		c9eef857-e9f7-3cbc-a129-8bbe714dc01c: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Brandomita"
+		"ftbteams:description": ""
+		"ftbteams:color": "#6459FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

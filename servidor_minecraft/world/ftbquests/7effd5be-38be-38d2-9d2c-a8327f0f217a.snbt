@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "7effd5be38be38d29d2ca8327f0f217a"
+	name: "Domitax"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		22C96A7FD13A57AE: 1
+	}
+	started: {
+		4E33D80DA11F2414: 1734755632964L
+		0000000000000001: 1734755632964L
+		22C96A7FD13A57AE: 1734755632964L
+		554FCDBDC9485FA2: 1734755632964L
+	}
+	completed: {
+		22C96A7FD13A57AE: 1734755632964L
+		554FCDBDC9485FA2: 1734755632964L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}

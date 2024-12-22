@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "b5254b30a0e048788f0294985d19a0c2"
+	name: "Nefario99"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

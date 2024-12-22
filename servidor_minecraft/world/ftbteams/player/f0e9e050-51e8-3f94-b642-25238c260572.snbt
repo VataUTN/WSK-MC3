@@ -1,0 +1,17 @@
+{
+	id: "f0e9e050-51e8-3f94-b642-25238c260572"
+	type: "player"
+	player_name: "Twuelvi"
+	ranks: {
+		f0e9e050-51e8-3f94-b642-25238c260572: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Twuelvi"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFB359"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
