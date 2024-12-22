@@ -572,6 +572,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_stonebrick_wall": {
+    "criteria": {
+      "has_item": "2024-12-22 22:25:00 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/dry_bamboo_trapdoor": {
     "criteria": {
       "has_dry_bundle": "2024-12-21 22:45:52 +0000"
@@ -1052,6 +1058,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_stonebrick_slab": {
+    "criteria": {
+      "has_item": "2024-12-22 22:25:00 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/birch_planks_from_birch_logs_sawing": {
     "criteria": {
       "has_birch_logs": "2024-12-21 23:09:38 +0000"
@@ -1142,6 +1154,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_stonebrick_stairs": {
+    "criteria": {
+      "has_item": "2024-12-22 22:25:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2024-12-21 23:38:57 +0000"
@@ -1157,6 +1175,12 @@
   "stoneworks:recipes/stoneworks.main/cobbled_calcite_wall_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-12-22 21:42:59 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/cracked_lunar_stonebrick_from_smelting_lunar_stonebrick": {
+    "criteria": {
+      "has_item": "2024-12-22 22:25:00 +0000"
     },
     "done": true
   },
@@ -1391,6 +1415,12 @@
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2024-12-21 22:59:10 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/chiseled_lunar_stonebrick_stonecutting_lunar_stonebrick": {
+    "criteria": {
+      "has_item": "2024-12-22 22:25:00 +0000"
     },
     "done": true
   },
@@ -1802,6 +1832,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-22 22:25:42 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/basalt_tile_slab_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2024-12-22 22:12:11 +0000"
@@ -1931,6 +1967,12 @@
   "woodworks:recipes/decorations/warped_chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-21 22:50:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2024-12-22 22:24:28 +0000"
     },
     "done": true
   },
@@ -2129,6 +2171,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-21 22:53:40 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_stonebrick_stairs_stonecutting_lunar_stonebrick": {
+    "criteria": {
+      "has_item": "2024-12-22 22:25:00 +0000"
     },
     "done": true
   },
@@ -2483,6 +2531,12 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2024-12-22 00:21:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-22 22:25:42 +0000"
     },
     "done": true
   },
@@ -3044,6 +3098,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-22 22:24:28 +0000"
+    },
+    "done": true
+  },
   "clayworks:recipes/building_blocks/cracked_deepslate_bricks_from_baking": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-21 23:30:37 +0000"
@@ -3119,6 +3179,7 @@
       "byg:red_oak_forest": "2024-12-22 00:18:35 +0000",
       "byg:autumnal_forest": "2024-12-22 04:27:16 +0000",
       "byg:cika_woods": "2024-12-22 01:05:15 +0000",
+      "byg:embur_bog": "2024-12-22 22:25:42 +0000",
       "byg:zelkova_forest": "2024-12-22 01:05:28 +0000",
       "byg:dacite_ridges": "2024-12-21 22:49:47 +0000",
       "byg:autumnal_valley": "2024-12-22 01:03:02 +0000",
@@ -4525,6 +4586,12 @@
     },
     "done": true
   },
+  "bygonenether:root": {
+    "criteria": {
+      "entered_nether": "2024-12-22 22:25:42 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/mossy_cobbled_basalt_wall_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2024-12-22 22:12:11 +0000"
@@ -5063,6 +5130,12 @@
   "stoneworks:recipes/stoneworks.main/andesite_paver_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-22 21:42:24 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_stonebrick_wall_stonecutting_lunar_stonebrick": {
+    "criteria": {
+      "has_item": "2024-12-22 22:25:00 +0000"
     },
     "done": true
   },
@@ -5887,9 +5960,21 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_stonebrick_slab_stonecutting_lunar_stonebrick": {
+    "criteria": {
+      "has_item": "2024-12-22 22:25:00 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/basalt_tiles_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2024-12-22 22:12:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-22 22:24:28 +0000"
     },
     "done": true
   },
@@ -6893,6 +6978,12 @@
   "ecologics:recipes/ecologics/coconut_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-22 20:38:04 +0000"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:main/root": {
+    "criteria": {
+      "entered_nether": "2024-12-22 22:25:42 +0000"
     },
     "done": true
   },

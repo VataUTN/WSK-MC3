@@ -1580,6 +1580,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-22 22:26:50 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/granite_brick_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-21 22:51:48 +0000"
@@ -2222,6 +2228,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-22 22:26:50 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/cracked_granite_tiles_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-21 22:51:48 +0000"
@@ -2839,6 +2851,7 @@
       "byg:rose_fields": "2024-12-22 04:01:18 +0000",
       "byg:cika_woods": "2024-12-21 04:42:28 +0000",
       "byg:firecracker_shrubland": "2024-12-21 22:31:20 +0000",
+      "byg:embur_bog": "2024-12-22 22:26:51 +0000",
       "byg:zelkova_forest": "2024-12-21 22:44:03 +0000",
       "byg:dacite_ridges": "2024-12-21 22:48:08 +0000",
       "byg:shattered_glacier": "2024-12-22 00:44:20 +0000",
@@ -4101,6 +4114,12 @@
   "twigs:recipes/tuff/tuff_stairs_stonecutting": {
     "criteria": {
       "has_item": "2024-12-22 07:09:32 +0000"
+    },
+    "done": true
+  },
+  "bygonenether:root": {
+    "criteria": {
+      "entered_nether": "2024-12-22 22:26:50 +0000"
     },
     "done": true
   },
@@ -6356,6 +6375,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-22 03:41:19 +0000"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:main/root": {
+    "criteria": {
+      "entered_nether": "2024-12-22 22:26:50 +0000"
     },
     "done": true
   },
