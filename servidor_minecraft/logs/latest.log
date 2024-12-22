@@ -4536,3 +4536,19 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [22Dec2024 22:56:36.656] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vata74 lost connection: Disconnected
 [22Dec2024 22:56:36.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 left the game
 [22Dec2024 22:56:36.658] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for aa13d00e-5bda-37e1-a49d-1216688ffe68
+[22Dec2024 23:03:50.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax has made the advancement [Sunken City]
+[22Dec2024 23:03:50.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 has made the advancement [Sunken City]
+[22Dec2024 23:04:34.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax was slain by Deepling Brute
+[22Dec2024 23:08:08.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax was slain by Deepling Brute
+[22Dec2024 23:08:47.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 was slain by Deepling Brute
+[22Dec2024 23:13:12.104] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Nefario99) moved wrongly! 0.3294831811259158
+[22Dec2024 23:13:12.150] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Nefario99) moved wrongly! 0.7912794733479984
+[22Dec2024 23:13:12.174] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Nefario99) moved wrongly! 1.1875174662208536
+[22Dec2024 23:13:12.252] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Nefario99) moved wrongly! 1.577992808952942
+[22Dec2024 23:13:12.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Nefario99) moved wrongly! 1.9718258213010813
+[22Dec2024 23:13:12.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Nefario99) moved wrongly! 0.332518269680655
+[22Dec2024 23:13:12.402] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Nefario99) moved wrongly! 0.28532014335137745
+[22Dec2024 23:13:12.451] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Nefario99) moved wrongly! 0.6419520099099287
+[22Dec2024 23:13:16.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 was slain by Deepling Brute
+[22Dec2024 23:13:19.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax was slain by Deepling Brute
+[22Dec2024 23:13:39.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 was slain by Deepling Brute

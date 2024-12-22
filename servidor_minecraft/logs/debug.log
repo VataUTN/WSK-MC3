@@ -17760,3 +17760,193 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [22Dec2024 22:59:48.805] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [22Dec2024 22:59:48.834] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [22Dec2024 23:02:29.186] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[22Dec2024 23:03:50.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax has made the advancement [Sunken City]
+[22Dec2024 23:03:50.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 has made the advancement [Sunken City]
+[22Dec2024 23:03:52.543] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_circle_2
+[22Dec2024 23:03:52.557] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_circle_3
+[22Dec2024 23:03:52.567] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_circle_1
+[22Dec2024 23:03:57.912] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_2
+[22Dec2024 23:03:57.915] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/big/room_big_9
+[22Dec2024 23:03:57.916] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/corridor/straight/corridor_straight_1
+[22Dec2024 23:03:57.917] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/corridor/corner/corridor_corner_1
+[22Dec2024 23:03:57.920] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/big/room_big_5
+[22Dec2024 23:03:57.921] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_12
+[22Dec2024 23:03:57.923] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_26
+[22Dec2024 23:04:00.411] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:dragon_fossil_2
+[22Dec2024 23:04:00.418] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:dragon_fossil_1
+[22Dec2024 23:04:07.602] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/table2
+[22Dec2024 23:04:34.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax was slain by Deepling Brute
+[22Dec2024 23:04:40.536] [Server thread/DEBUG] [twilightforest/]: Player Domitax (7effd5be-38be-38d2-9d2c-a8327f0f217a) respawned and received items held in storage
+[22Dec2024 23:04:48.807] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 23:04:48.837] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 23:05:49.086] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[22Dec2024 23:07:18.658] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:ghosttown/roads/street_05
+[22Dec2024 23:07:20.376] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of yungsbridges:bridge/stone/16_0
+[22Dec2024 23:07:28.455] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of yungsbridges:bridge/wood/17_0_broken
+[22Dec2024 23:07:33.438] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of yungsbridges:bridge/stone/22_0
+[22Dec2024 23:07:46.963] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterwitchhuts:witch_hut_lg
+[22Dec2024 23:08:06.602] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:deep_ruin2
+[22Dec2024 23:08:08.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax was slain by Deepling Brute
+[22Dec2024 23:08:09.598] [Server thread/DEBUG] [twilightforest/]: Player Domitax (7effd5be-38be-38d2-9d2c-a8327f0f217a) respawned and received items held in storage
+[22Dec2024 23:08:47.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 was slain by Deepling Brute
+[22Dec2024 23:08:49.324] [Server thread/DEBUG] [twilightforest/]: Player Nefario99 (fbb53e14-15bb-301e-ba91-84f057026ea3) respawned and received items held in storage
+[22Dec2024 23:08:55.613] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:starts/junction_lg
+[22Dec2024 23:08:55.618] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:hallways/hallway_turn
+[22Dec2024 23:08:55.619] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:hallways/hallway_2
+[22Dec2024 23:08:55.619] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:hallways/hallway_3
+[22Dec2024 23:08:55.620] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:hallways/hallway_4
+[22Dec2024 23:08:55.621] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:stairs/stairs_straight
+[22Dec2024 23:08:55.622] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:hall_doorways/hall_doorway
+[22Dec2024 23:08:55.623] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:hall_doorways/hall_doorway_small
+[22Dec2024 23:08:55.624] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:rooms/bunks_md
+[22Dec2024 23:08:55.624] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:hall_doorways/hall_door_wood
+[22Dec2024 23:08:55.625] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:stairs/spiral_stairs_2floor_1
+[22Dec2024 23:08:55.626] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:rooms/armoury_sm
+[22Dec2024 23:08:55.627] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:hall_doorways/hall_doorway_2torch
+[22Dec2024 23:08:55.628] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:rooms/storeroom
+[22Dec2024 23:08:55.631] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:rooms/prison_lg
+[22Dec2024 23:08:55.654] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:rooms/grand_library
+[22Dec2024 23:08:55.659] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:rooms/crypt_sm
+[22Dec2024 23:08:55.661] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:rooms/mess
+[22Dec2024 23:08:55.662] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:stairs/spiral_stairs_3floor_1
+[22Dec2024 23:08:55.663] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:rooms/sealed_cell
+[22Dec2024 23:08:55.663] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:hall_doorways/hall_doorway_banner
+[22Dec2024 23:08:55.667] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:rooms/junction_md
+[22Dec2024 23:08:55.672] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:rooms/treasure_room_lg
+[22Dec2024 23:08:55.675] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:rooms/armoury_md
+[22Dec2024 23:08:55.675] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:hall_doorways/hall_door_iron
+[22Dec2024 23:08:55.678] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:rooms/library_md
+[22Dec2024 23:08:55.680] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:rooms/sealed_collapse
+[22Dec2024 23:08:55.681] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:stairs/spiral_stairs_3floor_0
+[22Dec2024 23:08:55.682] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:stairs/spiral_stairs_2floor_0
+[22Dec2024 23:08:55.683] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:rooms/cmd_acarii
+[22Dec2024 23:08:55.683] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:rooms/cmd_yung
+[22Dec2024 23:08:55.684] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hallway_end_statue_lantern_r
+[22Dec2024 23:08:55.684] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hallway_end_statue_shield_r
+[22Dec2024 23:08:55.685] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hallway_end_statue_book_l
+[22Dec2024 23:08:55.685] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hall_wall_cobble_terminator
+[22Dec2024 23:08:55.685] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hallway_end
+[22Dec2024 23:08:55.686] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hallway_end_statue_chest_r
+[22Dec2024 23:08:55.686] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hall_doorway_terminator
+[22Dec2024 23:08:55.686] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hallway_end_chest_trap
+[22Dec2024 23:08:55.687] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hallway_end_statue_sword
+[22Dec2024 23:08:55.687] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hallway_end_statue_chest_l
+[22Dec2024 23:08:55.687] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hallway_end_statue_lantern_l
+[22Dec2024 23:08:55.688] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hallway_end_statue_book_r
+[22Dec2024 23:08:55.688] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hallway_end_statue_shield_l
+[22Dec2024 23:08:55.689] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/spiral_stairs_terminator
+[22Dec2024 23:08:55.689] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hall_wall_terminator
+[22Dec2024 23:08:55.690] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hallway_end_chest
+[22Dec2024 23:08:55.690] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:walls/hall_wall
+[22Dec2024 23:08:55.691] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:walls/hall_wall_cobble
+[22Dec2024 23:08:55.691] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:statues/statue_lantern_l
+[22Dec2024 23:08:55.693] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:statues/statue_sword
+[22Dec2024 23:08:55.695] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:statues/statue_shield_r
+[22Dec2024 23:08:55.703] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:statues/statue_chest_r
+[22Dec2024 23:08:55.704] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:treasure/corner/treasure_corner_9
+[22Dec2024 23:08:55.704] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:treasure/corner/treasure_corner_3
+[22Dec2024 23:08:55.705] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:treasure/portal/treasure_portal_2
+[22Dec2024 23:08:55.705] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:treasure/wall/treasure_wall_1
+[22Dec2024 23:08:55.705] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:treasure/corner/treasure_corner_10
+[22Dec2024 23:08:55.708] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:treasure/corner/treasure_corner_1
+[22Dec2024 23:08:55.708] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:treasure/portal/treasure_portal_5
+[22Dec2024 23:08:55.709] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:treasure/corner/treasure_corner_7
+[22Dec2024 23:08:55.709] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:treasure/wall/treasure_wall_0
+[22Dec2024 23:08:55.721] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:statues/statue_lantern_r
+[22Dec2024 23:08:55.725] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:statues/statue_shield_l
+[22Dec2024 23:08:55.751] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:statues/statue_book_r
+[22Dec2024 23:08:55.770] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:statues/statue_book_l
+[22Dec2024 23:08:55.783] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:portal_rooms/portal_room
+[22Dec2024 23:09:08.756] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/roof/roof_0_2
+[22Dec2024 23:09:08.757] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/roof/roof_split_4
+[22Dec2024 23:09:08.758] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/roof/roof_split_2
+[22Dec2024 23:09:08.759] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/roof/roof_3_2
+[22Dec2024 23:09:08.760] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_24
+[22Dec2024 23:09:08.761] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/dungeon/door_3
+[22Dec2024 23:09:08.764] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/big/room_big_7
+[22Dec2024 23:09:08.766] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_27
+[22Dec2024 23:09:08.770] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/big/room_big_6
+[22Dec2024 23:09:08.772] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_4
+[22Dec2024 23:09:08.774] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/dungeon/stair_mid_2
+[22Dec2024 23:09:08.776] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_34
+[22Dec2024 23:09:08.778] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/wall/flat/wall_flat_1
+[22Dec2024 23:09:08.782] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/big/room_big_1
+[22Dec2024 23:09:08.785] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_28
+[22Dec2024 23:09:08.788] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/corridor/straight/corridor_straight_6
+[22Dec2024 23:09:08.790] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/big/room_big_11
+[22Dec2024 23:09:08.791] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/roof/roof_4_3
+[22Dec2024 23:09:08.793] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/big/room_big_8
+[22Dec2024 23:09:08.795] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_32
+[22Dec2024 23:09:08.937] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[22Dec2024 23:09:08.937] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[22Dec2024 23:09:48.871] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 23:09:48.920] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 23:09:49.099] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:maya_temple
+[22Dec2024 23:10:11.484] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_5
+[22Dec2024 23:10:21.300] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:village/shaded_woodlands/town_centers/1
+[22Dec2024 23:10:21.310] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:village/brightlands/town_centers/1
+[22Dec2024 23:10:21.317] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:village/calming_skies/town_centers/2
+[22Dec2024 23:10:21.323] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:village/slushlands/town_centers/1
+[22Dec2024 23:10:21.329] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:village/sunset_maple_forest/town_centers/1
+[22Dec2024 23:10:21.335] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:village/crystal_dunes/town_centers/1
+[22Dec2024 23:10:26.326] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of byg:village/tropical/town_centers/tropical_meeting_point_1
+[22Dec2024 23:10:26.347] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of byg:village/ruins/town_centers/ruins_meeting_point_1
+[22Dec2024 23:10:26.365] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of byg:village/ruins/streets/ruins_crossroad_04
+[22Dec2024 23:10:26.369] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of byg:village/ruins/streets/ruins_square_01
+[22Dec2024 23:10:26.371] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of byg:village/ruins/ruins_lamp_1
+[22Dec2024 23:10:26.373] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of byg:village/ruins/houses/ruins_small_house_1
+[22Dec2024 23:10:26.374] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of byg:village/ruins/houses/ruins_small_house_2
+[22Dec2024 23:10:26.375] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of byg:village/ruins/houses/ruins_small_house_3
+[22Dec2024 23:10:26.376] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of byg:village/ruins/houses/ruins_small_house_4
+[22Dec2024 23:10:26.378] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of byg:village/ruins/houses/ruins_small_house_5
+[22Dec2024 23:10:26.379] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of byg:village/ruins/houses/ruins_small_house_6
+[22Dec2024 23:10:26.380] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of byg:village/ruins/houses/ruins_small_house_7
+[22Dec2024 23:10:26.380] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of byg:village/ruins/houses/ruins_small_house_8
+[22Dec2024 23:10:26.383] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of byg:village/ruins/houses/ruins_medium_house_1
+[22Dec2024 23:10:26.384] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of byg:village/ruins/houses/ruins_medium_house_2
+[22Dec2024 23:10:26.385] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of byg:village/ruins/houses/ruins_medium_house_3
+[22Dec2024 23:10:26.386] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of byg:village/ruins/houses/ruins_medium_house_4
+[22Dec2024 23:10:26.395] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of byg:village/ruins/streets/ruins_straight_02
+[22Dec2024 23:10:26.401] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of byg:village/ruins/streets/ruins_turn_01
+[22Dec2024 23:10:26.417] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of byg:village/ruins/streets/ruins_corner_01
+[22Dec2024 23:10:26.422] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of byg:village/ruins/streets/ruins_crossroad_02
+[22Dec2024 23:10:26.423] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of byg:village/ruins/streets/ruins_straight_03
+[22Dec2024 23:10:26.424] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of byg:village/ruins/streets/ruins_square_02
+[22Dec2024 23:10:26.424] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of byg:village/ruins/streets/ruins_corner_02
+[22Dec2024 23:10:26.425] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of byg:village/ruins/streets/ruins_crossroad_01
+[22Dec2024 23:10:26.430] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of byg:village/ruins/streets/ruins_straight_01
+[22Dec2024 23:10:26.430] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of byg:village/ruins/streets/ruins_crossroad_03
+[22Dec2024 23:10:37.013] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of yungsbridges:bridge/wood/17_0
+[22Dec2024 23:10:49.219] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sphinx
+[22Dec2024 23:10:49.284] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_ruin3
+[22Dec2024 23:11:43.206] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[22Dec2024 23:12:29.236] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[22Dec2024 23:12:53.572] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/mossy_ruin/main
+[22Dec2024 23:12:53.583] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/tower/grassy_small1
+[22Dec2024 23:12:53.612] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/desert/copper_house1
+[22Dec2024 23:13:12.104] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Nefario99) moved wrongly! 0.3294831811259158
+[22Dec2024 23:13:12.150] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Nefario99) moved wrongly! 0.7912794733479984
+[22Dec2024 23:13:12.174] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Nefario99) moved wrongly! 1.1875174662208536
+[22Dec2024 23:13:12.252] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Nefario99) moved wrongly! 1.577992808952942
+[22Dec2024 23:13:12.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Nefario99) moved wrongly! 1.9718258213010813
+[22Dec2024 23:13:12.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Nefario99) moved wrongly! 0.332518269680655
+[22Dec2024 23:13:12.402] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Nefario99) moved wrongly! 0.28532014335137745
+[22Dec2024 23:13:12.451] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Nefario99) moved wrongly! 0.6419520099099287
+[22Dec2024 23:13:16.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 was slain by Deepling Brute
+[22Dec2024 23:13:17.919] [Server thread/DEBUG] [twilightforest/]: Player Nefario99 (fbb53e14-15bb-301e-ba91-84f057026ea3) respawned and received items held in storage
+[22Dec2024 23:13:19.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax was slain by Deepling Brute
+[22Dec2024 23:13:20.475] [Server thread/DEBUG] [twilightforest/]: Player Domitax (7effd5be-38be-38d2-9d2c-a8327f0f217a) respawned and received items held in storage
+[22Dec2024 23:13:37.673] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/dungeon/door_5
+[22Dec2024 23:13:37.675] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_25
+[22Dec2024 23:13:37.678] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/big/room_big_4
+[22Dec2024 23:13:37.681] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_11
+[22Dec2024 23:13:37.684] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_17
+[22Dec2024 23:13:37.686] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/corridor/cross/corridor_cross_3
+[22Dec2024 23:13:37.692] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/corridor/cross/corridor_cross_1
+[22Dec2024 23:13:37.694] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/dungeon/room_4
+[22Dec2024 23:13:37.695] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/corridor/cross/corridor_cross_4
+[22Dec2024 23:13:37.705] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_29
+[22Dec2024 23:13:37.707] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/garden/garden_1
+[22Dec2024 23:13:39.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 was slain by Deepling Brute
+[22Dec2024 23:13:41.735] [Server thread/DEBUG] [twilightforest/]: Player Nefario99 (fbb53e14-15bb-301e-ba91-84f057026ea3) respawned and received items held in storage
+[22Dec2024 23:13:43.086] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of yungsbridges:bridge/stone/24_0
