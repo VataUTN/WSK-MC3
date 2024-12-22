@@ -17727,3 +17727,23 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [22Dec2024 22:42:44.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax drowned whilst trying to escape Drowned
 [22Dec2024 22:42:45.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 has made the advancement [Hunt and Gather]
 [22Dec2024 22:42:46.328] [Server thread/DEBUG] [twilightforest/]: Player Domitax (7effd5be-38be-38d2-9d2c-a8327f0f217a) respawned and received items held in storage
+[22Dec2024 22:44:29.241] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 22:44:29.271] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 22:44:32.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax has reached the goal [Something Unnatural]
+[22Dec2024 22:45:48.986] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[22Dec2024 22:47:00.256] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=7, z=-24}
+[22Dec2024 22:47:00.256] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=259, y=6, z=-25}
+[22Dec2024 22:47:14.560] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6473ms or 129 ticks behind
+[22Dec2024 22:48:09.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 has reached the goal [Something Unnatural]
+[22Dec2024 22:48:42.203] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-950, y=56, z=3059} BlockPos{x=-950, y=54, z=3058}
+[22Dec2024 22:49:08.886] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[22Dec2024 22:49:08.886] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[22Dec2024 22:49:35.679] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 22:49:35.710] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 22:49:44.353] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6667ms or 133 ticks behind
+[22Dec2024 22:50:02.253] [Server thread/DEBUG] [mixin/]: Mixing HoldingPlayerMixin from moonlight-common.mixins.json into net.minecraft.world.level.saveddata.maps.MapItemSavedData$HoldingPlayer
+[22Dec2024 22:50:31.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 has completed the challenge [Free Willy]
+[22Dec2024 22:51:05.332] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6545ms or 130 ticks behind
+[22Dec2024 22:51:07.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax has completed the challenge [Free Willy]
+[22Dec2024 22:51:09.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 has made the advancement [Tooth Fairy]
+[22Dec2024 22:52:29.136] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!

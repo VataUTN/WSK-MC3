@@ -104,6 +104,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-22 22:39:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2024-12-21 04:54:57 +0000"
@@ -245,6 +251,12 @@
   "environmental:recipes/building_blocks/cherry_bookshelf": {
     "criteria": {
       "has_book": "2024-12-21 04:52:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-12-22 22:47:59 +0000"
     },
     "done": true
   },
@@ -512,9 +524,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-12-22 22:47:59 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/oak_support": {
     "criteria": {
       "has_plank": "2024-12-21 02:15:17 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/packed_ice_freezing": {
+    "criteria": {
+      "has_water_bucket": "2024-12-22 22:48:58 +0000"
     },
     "done": true
   },
@@ -793,6 +817,12 @@
       "has_stick": "2024-12-21 02:15:57 +0000"
     },
     "done": true
+  },
+  "repurposed_structures:villages": {
+    "criteria": {
+      "in_village_mushroom": "2024-12-22 22:43:16 +0000"
+    },
+    "done": false
   },
   "aether:recipes/combat/iron_sword_repairing": {
     "criteria": {
@@ -1349,6 +1379,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/pumpkin_soup": {
     "criteria": {
       "has_any_ingredient": "2024-12-22 04:38:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-12-22 22:47:59 +0000"
     },
     "done": true
   },
@@ -2024,6 +2060,12 @@
     },
     "done": true
   },
+  "friendsandfoes:recipes/redstone/copper_button": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-22 22:39:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2024-12-21 02:28:45 +0000"
@@ -2567,6 +2609,12 @@
   "stoneworks:recipes/stoneworks.main/polished_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-12-22 07:09:32 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/blue_ice_freezing": {
+    "criteria": {
+      "has_water_bucket": "2024-12-22 22:48:58 +0000"
     },
     "done": true
   },
@@ -3484,6 +3532,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/galosphere/glow_flare": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-22 22:39:40 +0000"
+    },
+    "done": true
+  },
   "environmental:recipes/decorations/willow_ladder": {
     "criteria": {
       "has_stick": "2024-12-21 02:15:57 +0000"
@@ -3517,6 +3571,12 @@
   "dungeons_plus:adventure/find_snowy_temple": {
     "criteria": {
       "in_structure": "2024-12-21 23:55:26 +0000"
+    },
+    "done": true
+  },
+  "windswept:recipes/decorations/brown_mushroom_basket": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-22 22:46:37 +0000"
     },
     "done": true
   },
@@ -3704,6 +3764,12 @@
   "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_cobblestone": {
     "criteria": {
       "has_item": "2024-12-22 03:16:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-22 22:48:58 +0000"
     },
     "done": true
   },
@@ -3897,6 +3963,12 @@
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2024-12-21 23:03:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-22 22:39:40 +0000"
     },
     "done": true
   },
@@ -4413,6 +4485,12 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/ice_from_bucket_freezing": {
+    "criteria": {
+      "has_water_bucket": "2024-12-22 22:48:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_sword": "2024-12-21 04:56:53 +0000"
@@ -4518,6 +4596,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2024-12-21 05:01:00 +0000",
+      "minecraft:mushroom_fields": "2024-12-22 22:43:39 +0000",
       "minecraft:taiga": "2024-12-22 01:25:08 +0000",
       "minecraft:deep_ocean": "2024-12-21 05:16:02 +0000",
       "minecraft:frozen_river": "2024-12-21 05:02:19 +0000",

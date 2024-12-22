@@ -4520,3 +4520,14 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [22Dec2024 22:41:56.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 drowned
 [22Dec2024 22:42:44.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax drowned whilst trying to escape Drowned
 [22Dec2024 22:42:45.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 has made the advancement [Hunt and Gather]
+[22Dec2024 22:44:32.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax has reached the goal [Something Unnatural]
+[22Dec2024 22:47:00.256] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=7, z=-24}
+[22Dec2024 22:47:00.256] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=259, y=6, z=-25}
+[22Dec2024 22:47:14.560] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6473ms or 129 ticks behind
+[22Dec2024 22:48:09.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 has reached the goal [Something Unnatural]
+[22Dec2024 22:48:42.203] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-950, y=56, z=3059} BlockPos{x=-950, y=54, z=3058}
+[22Dec2024 22:49:44.353] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6667ms or 133 ticks behind
+[22Dec2024 22:50:31.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 has completed the challenge [Free Willy]
+[22Dec2024 22:51:05.332] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6545ms or 130 ticks behind
+[22Dec2024 22:51:07.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax has completed the challenge [Free Willy]
+[22Dec2024 22:51:09.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 has made the advancement [Tooth Fairy]

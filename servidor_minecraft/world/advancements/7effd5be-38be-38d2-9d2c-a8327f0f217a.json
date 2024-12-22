@@ -572,6 +572,12 @@
     },
     "done": true
   },
+  "dungeons_plus:adventure/find_warped_garden": {
+    "criteria": {
+      "in_structure": "2024-12-22 22:44:32 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/spruce_palisade": {
     "criteria": {
       "has_log": "2024-12-22 02:30:13 +0000"
@@ -856,6 +862,7 @@
   },
   "repurposed_structures:villages": {
     "criteria": {
+      "in_village_mushroom": "2024-12-22 22:45:35 +0000",
       "in_village_oak": "2024-12-22 03:05:59 +0000"
     },
     "done": false
