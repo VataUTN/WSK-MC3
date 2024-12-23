@@ -17558,3 +17558,23 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [23Dec2024 22:51:53.064] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
 [23Dec2024 22:52:02.416] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Dec2024 22:52:02.456] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 22:52:28.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Domitax> zzzzz
+[23Dec2024 22:52:34.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Domitax> duerman
+[23Dec2024 22:52:37.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Domitax> me suicido sino
+[23Dec2024 22:52:44.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> se me va el verano
+[23Dec2024 22:55:13.324] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[23Dec2024 22:56:17.279] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/40902, l='ServerLevel[world]', x=830.50, y=73.00, z=-1465.50]
+[23Dec2024 22:56:47.227] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/41300, l='ServerLevel[world]', x=825.50, y=76.00, z=-1478.50]
+[23Dec2024 22:56:53.427] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/41425, l='ServerLevel[world]', x=840.50, y=75.00, z=-1474.50]
+[23Dec2024 22:57:02.322] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 22:57:02.353] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 22:57:07.477] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/41660, l='ServerLevel[world]', x=839.50, y=75.00, z=-1474.50]
+[23Dec2024 22:58:33.224] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[23Dec2024 23:01:53.074] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[23Dec2024 23:01:53.074] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[23Dec2024 23:02:02.310] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 23:02:02.338] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 23:02:10.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRIOMAX was slain by Zombie
+[23Dec2024 23:02:22.640] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRIOMAX lost connection: Disconnected
+[23Dec2024 23:02:22.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRIOMAX left the game
+[23Dec2024 23:02:22.641] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 2a6eaa93-079a-3dca-be78-732c2db22348
