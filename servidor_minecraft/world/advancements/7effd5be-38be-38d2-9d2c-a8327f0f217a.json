@@ -416,6 +416,12 @@
     },
     "done": true
   },
+  "aether:recipes/misc/aether_tune_enchanting": {
+    "criteria": {
+      "has_disc": "2024-12-23 05:38:43 +0000"
+    },
+    "done": true
+  },
   "clayworks:recipes/decorations/gray_glazed_terracotta_from_baking": {
     "criteria": {
       "has_gray_terracotta": "2024-12-21 05:48:20 +0000"
@@ -467,6 +473,12 @@
   "stoneworks:recipes/stoneworks.main/mossy_tuff_bricks_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-12-22 20:51:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2024-12-23 05:35:07 +0000"
     },
     "done": true
   },
@@ -563,6 +575,12 @@
   "bambooeverything:recipes/bamboo_bundle": {
     "criteria": {
       "has_bamboo": "2024-12-21 03:33:37 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bamboo_mat": {
+    "criteria": {
+      "has_bamboo": "2024-12-23 05:36:44 +0000"
     },
     "done": true
   },
@@ -920,6 +938,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-23 05:34:48 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tables/oak_table_slab": {
     "criteria": {
       "has_bamboo": "2024-12-22 23:17:01 +0000"
@@ -1007,6 +1031,12 @@
   "woodworks:recipes/redstone/oak_trapdoor_from_oak_logs_sawing": {
     "criteria": {
       "has_oak_logs": "2024-12-21 03:45:34 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/db/upgrade_aquatic/river_palisade": {
+    "criteria": {
+      "has_planks": "2024-12-23 05:52:13 +0000"
     },
     "done": true
   },
@@ -1308,6 +1338,12 @@
   "comforts:sleeping_bag_gray": {
     "criteria": {
       "has_gray_wool": "2024-12-22 20:03:20 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/tf/upgrade_aquatic/hollow_river_log_vertical": {
+    "criteria": {
+      "has_planks": "2024-12-23 05:52:13 +0000"
     },
     "done": true
   },
@@ -1671,6 +1707,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/tf/upgrade_aquatic/river_banister": {
+    "criteria": {
+      "has_planks": "2024-12-23 05:52:13 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/redstone/spruce_fence_gate_from_spruce_logs_sawing": {
     "criteria": {
       "has_spruce_logs": "2024-12-22 02:30:13 +0000"
@@ -1792,9 +1834,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/golden_medium_pot": {
+    "criteria": {
+      "has_gold_block": "2024-12-23 05:34:48 +0000"
+    },
+    "done": true
+  },
   "upgradednetherite:recipes/essences/gold_essence": {
     "criteria": {
       "has_gold_ingot": "2024-12-22 21:42:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2024-12-23 05:34:08 +0000"
     },
     "done": true
   },
@@ -2006,6 +2060,12 @@
   "woodworks:recipes/building_blocks/spruce_planks_from_spruce_logs_sawing": {
     "criteria": {
       "has_spruce_logs": "2024-12-22 02:30:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-23 05:32:59 +0000"
     },
     "done": true
   },
@@ -2465,6 +2525,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/golden_thick_pot": {
+    "criteria": {
+      "has_gold_block": "2024-12-23 05:34:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-22 20:34:30 +0000"
@@ -2687,6 +2753,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/af/upgrade_aquatic/river_drawer": {
+    "criteria": {
+      "has_planks": "2024-12-23 05:52:13 +0000"
+    },
+    "done": true
+  },
   "byg:recipes/byg.byg/fir_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-21 05:05:51 +0000"
@@ -2732,6 +2804,12 @@
   "handcrafted:recipes/misc/black_sheet": {
     "criteria": {
       "has_sheet": "2024-12-22 04:16:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/af/upgrade_aquatic/river_shutter": {
+    "criteria": {
+      "has_planks": "2024-12-23 05:52:13 +0000"
     },
     "done": true
   },
@@ -3059,6 +3137,13 @@
     },
     "done": true
   },
+  "twigs:recipes/tables/bamboo_table": {
+    "criteria": {
+      "has_bamboo": "2024-12-23 05:36:44 +0000",
+      "has_the_recipe": "2024-12-23 05:36:44 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/dry_bamboo_ladder": {
     "criteria": {
       "has_dry_bamboo": "2024-12-21 03:33:37 +0000"
@@ -3074,6 +3159,12 @@
   "decorative_blocks:recipes/decorative_blocks.general/spruce_seat": {
     "criteria": {
       "has_plank": "2024-12-22 02:30:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/fishing_rod_repairing": {
+    "criteria": {
+      "has_fishing_rod": "2024-12-23 05:32:29 +0000"
     },
     "done": true
   },
@@ -3134,6 +3225,12 @@
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2024-12-22 04:16:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/tw/upgrade_aquatic/river_table": {
+    "criteria": {
+      "has_planks": "2024-12-23 05:52:13 +0000"
     },
     "done": true
   },
@@ -3356,6 +3453,12 @@
   "another_furniture:recipes/brown_lamp": {
     "criteria": {
       "has_wool": "2024-12-21 04:54:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/db/upgrade_aquatic/river_support": {
+    "criteria": {
+      "has_planks": "2024-12-23 05:52:13 +0000"
     },
     "done": true
   },
@@ -3709,6 +3812,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/golden_thin_pot": {
+    "criteria": {
+      "has_gold_block": "2024-12-23 05:34:48 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/redstone/birch_trapdoor_from_birch_logs_sawing": {
     "criteria": {
       "has_birch_logs": "2024-12-21 04:43:10 +0000"
@@ -3736,6 +3845,12 @@
   "stoneworks:recipes/stoneworks.main/cobbled_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-21 05:29:31 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/af/upgrade_aquatic/river_bench": {
+    "criteria": {
+      "has_planks": "2024-12-23 05:52:13 +0000"
     },
     "done": true
   },
@@ -3883,6 +3998,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-23 05:32:59 +0000"
+    },
+    "done": true
+  },
   "cataclysm:find_sunken_city": {
     "criteria": {
       "factory": "2024-12-22 23:03:50 +0000"
@@ -3938,6 +4059,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/af/upgrade_aquatic/river_planter_box": {
+    "criteria": {
+      "has_planks": "2024-12-23 05:52:13 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/spruce_bookshelf": {
     "criteria": {
       "has_book": "2024-12-23 03:55:40 +0000"
@@ -3971,6 +4098,12 @@
   "vinery:vinemaker_leggings": {
     "criteria": {
       "has_gold_ingot": "2024-12-22 21:42:39 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/azalea_flowers_from_flowering_azalea": {
+    "criteria": {
+      "has_item": "2024-12-23 05:36:46 +0000"
     },
     "done": true
   },
@@ -4235,6 +4368,12 @@
   "stoneworks:recipes/stoneworks.main/granite_brick_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-22 02:21:49 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/bamboo_table_slab": {
+    "criteria": {
+      "has_bamboo": "2024-12-23 05:36:44 +0000"
     },
     "done": true
   },
@@ -4977,9 +5116,21 @@
     },
     "done": true
   },
+  "twigs:recipes/paper_lanterns/allium_paper_lantern": {
+    "criteria": {
+      "has_item": "2024-12-23 05:57:34 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/birch_shelf": {
     "criteria": {
       "has_planks": "2024-12-21 04:43:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_wide_pot": {
+    "criteria": {
+      "has_gold_block": "2024-12-23 05:34:48 +0000"
     },
     "done": true
   },
@@ -5142,6 +5293,12 @@
   "bambooeverything:recipes/bamboo_bundle_uncrafting": {
     "criteria": {
       "has_bundle": "2024-12-21 03:33:37 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/af/upgrade_aquatic/river_table": {
+    "criteria": {
+      "has_planks": "2024-12-23 05:52:13 +0000"
     },
     "done": true
   },
@@ -5559,6 +5716,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/db/upgrade_aquatic/river_beam": {
+    "criteria": {
+      "has_planks": "2024-12-23 05:52:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_terracotta": {
     "criteria": {
       "has_terracotta": "2024-12-23 03:32:53 +0000"
@@ -5758,6 +5921,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-23 05:32:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2024-12-22 20:42:05 +0000"
@@ -5852,6 +6021,12 @@
   "clayworks:recipes/decorations/green_terracotta_wall_from_green_terracotta_stonecutting": {
     "criteria": {
       "has_green_terracotta": "2024-12-21 05:50:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-12-23 05:36:44 +0000"
     },
     "done": true
   },
@@ -6393,6 +6568,12 @@
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2024-12-21 04:43:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2024-12-23 05:34:48 +0000"
     },
     "done": true
   },
@@ -6954,6 +7135,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/af/upgrade_aquatic/river_shelf": {
+    "criteria": {
+      "has_planks": "2024-12-23 05:52:13 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/mossy_diorite_bricks_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-22 20:34:30 +0000"
@@ -7189,6 +7376,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-12-23 05:36:44 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/azalea_flowers_from_flowering_azalea_leaves": {
+    "criteria": {
+      "has_the_recipe": "2024-12-23 05:36:46 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/galosphere/barometer": {
     "criteria": {
       "has_redstone": "2024-12-22 01:56:04 +0000"
@@ -7207,6 +7406,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/af/upgrade_aquatic/river_chair": {
+    "criteria": {
+      "has_planks": "2024-12-23 05:52:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-21 05:29:31 +0000"
@@ -7222,6 +7427,12 @@
   "stoneworks:recipes/stoneworks.main/chiseled_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-22 20:34:30 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_shovel_repairing": {
+    "criteria": {
+      "has_diamond_shovel": "2024-12-23 05:58:26 +0000"
     },
     "done": true
   },
@@ -7342,6 +7553,12 @@
   "incubation:recipes/food/fried_egg": {
     "criteria": {
       "has_eggs": "2024-12-21 04:07:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-23 05:32:59 +0000"
     },
     "done": true
   },
@@ -7645,6 +7862,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2024-12-23 05:57:34 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/spruce_shelf": {
     "criteria": {
       "has_planks": "2024-12-22 02:30:21 +0000"
@@ -7795,6 +8018,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-23 05:34:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2024-12-22 01:56:04 +0000"
@@ -7816,6 +8045,12 @@
   "woodworks:recipes/decorations/mangrove_chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-21 03:37:49 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/bp/upgrade_aquatic/river_backpack_shelf": {
+    "criteria": {
+      "has_planks": "2024-12-23 05:52:13 +0000"
     },
     "done": true
   },
@@ -7894,6 +8129,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-22 03:12:24 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/db/upgrade_aquatic/river_seat": {
+    "criteria": {
+      "has_planks": "2024-12-23 05:52:13 +0000"
     },
     "done": true
   },

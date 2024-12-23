@@ -194,6 +194,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2024-12-23 05:48:11 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/diorite_pavers_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-21 03:39:10 +0000"
@@ -1785,6 +1791,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2024-12-23 05:50:13 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/db/byg/skyris_beam": {
     "criteria": {
       "has_planks": "2024-12-22 02:48:30 +0000"
@@ -2902,6 +2914,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2024-12-23 05:48:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2024-12-21 02:13:38 +0000"
@@ -3073,6 +3091,12 @@
   "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2024-12-23 00:05:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_black_dye": "2024-12-23 05:50:18 +0000"
     },
     "done": true
   },
@@ -3259,6 +3283,12 @@
   "stoneworks:recipes/stoneworks.main/mossy_cobbled_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-12-21 04:44:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2024-12-23 05:50:13 +0000"
     },
     "done": true
   },
@@ -5913,6 +5943,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2024-12-23 05:50:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2024-12-21 05:12:05 +0000",
@@ -6213,6 +6249,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2024-12-23 05:48:11 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/oak_stairs_from_oak_logs_sawing": {
     "criteria": {
       "has_oak_logs": "2024-12-21 02:18:44 +0000"
@@ -6354,6 +6396,12 @@
   "minecraft:recipes/food/rotten_flesh_from_smoking": {
     "criteria": {
       "has_frozen_rotten_flesh": "2024-12-22 23:59:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2024-12-23 05:50:18 +0000"
     },
     "done": true
   },
@@ -7440,6 +7488,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2024-12-23 05:50:18 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/melon_slice": {
     "criteria": {
       "has_mini_melon": "2024-12-21 04:30:00 +0000"
@@ -8482,6 +8536,12 @@
   "aether:recipes/combat/iron_gloves_repairing": {
     "criteria": {
       "has_iron_gloves": "2024-12-22 03:12:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-23 05:50:13 +0000"
     },
     "done": true
   },

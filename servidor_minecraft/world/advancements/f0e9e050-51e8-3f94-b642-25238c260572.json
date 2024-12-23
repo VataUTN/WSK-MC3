@@ -1160,6 +1160,12 @@
     },
     "done": true
   },
+  "twigs:recipes/cobblestone_bricks/cobblestone_brick_slab": {
+    "criteria": {
+      "has_item": "2024-12-23 05:33:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2024-12-21 04:05:42 +0000"
@@ -1325,6 +1331,12 @@
   "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-21 23:24:36 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_brick_slab_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-23 05:33:03 +0000"
     },
     "done": true
   },
@@ -2504,6 +2516,12 @@
     },
     "done": true
   },
+  "twigs:recipes/cobblestone_bricks/cobblestone_brick_wall": {
+    "criteria": {
+      "has_item": "2024-12-23 05:33:03 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/silt/brown_packed_silt_from_silt": {
     "criteria": {
       "has_item": "2024-12-23 00:53:15 +0000"
@@ -2567,6 +2585,12 @@
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_recipe": "2024-12-21 02:23:44 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_brick_stairs": {
+    "criteria": {
+      "has_item": "2024-12-23 05:33:03 +0000"
     },
     "done": true
   },
@@ -2936,6 +2960,12 @@
     },
     "done": true
   },
+  "goodending:recipes/orange_dye_from_spicy_wildflowers": {
+    "criteria": {
+      "has_item": "2024-12-23 05:31:59 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/dark_oak_boards_from_dark_oak_logs_sawing": {
     "criteria": {
       "has_dark_oak_logs": "2024-12-21 03:07:53 +0000"
@@ -3282,6 +3312,12 @@
   "aether:recipes/combat/leather_helmet_repairing": {
     "criteria": {
       "has_leather_helmet": "2024-12-23 02:30:28 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_brick_stairs_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-23 05:33:03 +0000"
     },
     "done": true
   },
@@ -3811,6 +3847,12 @@
   "environmental:adventure/obtain_explorer_gear": {
     "criteria": {
       "thief_hood": "2024-12-22 04:06:19 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cracked_cobblestone_bricks": {
+    "criteria": {
+      "has_item": "2024-12-23 05:33:03 +0000"
     },
     "done": true
   },
@@ -5704,6 +5746,12 @@
   "another_furniture:recipes/birch_chair": {
     "criteria": {
       "has_planks": "2024-12-21 04:10:27 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_brick_wall_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-23 05:33:03 +0000"
     },
     "done": true
   },

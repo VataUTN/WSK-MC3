@@ -4081,3 +4081,62 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [23Dec2024 05:29:50.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRIOMAX joined the game
 [23Dec2024 05:29:50.358] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 2a6eaa93-079a-3dca-be78-732c2db22348
 [23Dec2024 05:29:50.368] [Server thread/INFO] [Jade/]: Syncing config to BRIOMAX (2a6eaa93-079a-3dca-be78-732c2db22348)
+[23Dec2024 05:33:24.389] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinTraderEntity['Carry'/3569, l='ServerLevel[world]', x=623.60, y=0.00, z=-272.04] died: Carry was slain by BRIOMAX
+[23Dec2024 05:35:16.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRIOMAX has made the advancement [Suit Up]
+[23Dec2024 05:36:04.611] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4455ms or 89 ticks behind
+[23Dec2024 05:36:51.557] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3952ms or 79 ticks behind
+[23Dec2024 05:38:15.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRIOMAX has made the advancement [Not Today, Thank You]
+[23Dec2024 05:38:15.383] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joacoo_17 lost connection: Disconnected
+[23Dec2024 05:38:15.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joacoo_17 left the game
+[23Dec2024 05:38:15.384] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7aaaddc4-adb9-3168-b6ff-709541dea5ed
+[23Dec2024 05:40:16.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: maggie_ was blown up by Creeper
+[23Dec2024 05:40:35.540] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@117ee7de
+[23Dec2024 05:40:35.562] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Joacoo_17[/127.12.163.108:58089] logged in with entity id 7707 at (580.4070378146589, 64.0, -391.674272589265)
+[23Dec2024 05:40:35.563] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Joacoo_17
+[23Dec2024 05:40:35.563] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Joacoo_17
+[23Dec2024 05:40:35.564] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Joacoo_17
+[23Dec2024 05:40:35.564] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Joacoo_17
+[23Dec2024 05:40:35.566] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Joacoo_17
+[23Dec2024 05:40:35.568] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Joacoo_17
+[23Dec2024 05:40:35.568] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Joacoo_17
+[23Dec2024 05:40:35.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joacoo_17 joined the game
+[23Dec2024 05:40:35.626] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7aaaddc4-adb9-3168-b6ff-709541dea5ed
+[23Dec2024 05:40:35.635] [Server thread/INFO] [Jade/]: Syncing config to Joacoo_17 (7aaaddc4-adb9-3168-b6ff-709541dea5ed)
+[23Dec2024 05:42:21.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: maggie_ was shot by Skeleton
+[23Dec2024 05:43:41.271] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Twuelvi lost connection: Disconnected
+[23Dec2024 05:43:41.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Twuelvi left the game
+[23Dec2024 05:43:41.272] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f0e9e050-51e8-3f94-b642-25238c260572
+[23Dec2024 05:44:11.089] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vata74 moved wrongly!
+[23Dec2024 05:44:18.465] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vata74 moved wrongly!
+[23Dec2024 05:44:19.910] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vata74 moved wrongly!
+[23Dec2024 05:45:46.094] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vata74 moved wrongly!
+[23Dec2024 05:45:46.943] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vata74 moved wrongly!
+[23Dec2024 05:46:21.194] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vata74 moved wrongly!
+[23Dec2024 05:47:46.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: maggie_ was shot by Skeleton
+[23Dec2024 05:48:11.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joacoo_17 has made the advancement [Hunt and Gather]
+[23Dec2024 05:49:22.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: maggie_ was shot by Skeleton
+[23Dec2024 05:49:37.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: maggie_ was shot by Skeleton
+[23Dec2024 05:49:59.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: maggie_ was shot by Skeleton
+[23Dec2024 05:51:57.479] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vata74 lost connection: Disconnected
+[23Dec2024 05:51:57.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 left the game
+[23Dec2024 05:51:57.480] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for aa13d00e-5bda-37e1-a49d-1216688ffe68
+[23Dec2024 05:52:28.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: maggie_ fell from a high place
+[23Dec2024 05:52:35.369] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: maggie_ lost connection: Disconnected
+[23Dec2024 05:52:35.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: maggie_ left the game
+[23Dec2024 05:52:35.369] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7e597916-2c20-3491-925e-6a991b05400c
+[23Dec2024 05:54:23.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRIOMAX has made the advancement [Crack On]
+[23Dec2024 05:56:09.081] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6f7daf11
+[23Dec2024 05:56:09.097] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Twuelvi[/127.76.167.49:56581] logged in with entity id 18663 at (614.7368155403873, 84.5, -337.07613328786334)
+[23Dec2024 05:56:09.098] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Twuelvi
+[23Dec2024 05:56:09.099] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Twuelvi
+[23Dec2024 05:56:09.099] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Twuelvi
+[23Dec2024 05:56:09.099] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Twuelvi
+[23Dec2024 05:56:09.101] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Twuelvi
+[23Dec2024 05:56:09.103] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Twuelvi
+[23Dec2024 05:56:09.103] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Twuelvi
+[23Dec2024 05:56:09.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Twuelvi joined the game
+[23Dec2024 05:56:09.169] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f0e9e050-51e8-3f94-b642-25238c260572
+[23Dec2024 05:56:09.175] [Server thread/INFO] [Jade/]: Syncing config to Twuelvi (f0e9e050-51e8-3f94-b642-25238c260572)
+[23Dec2024 05:57:06.577] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=637, y=59, z=-409} BlockPos{x=637, y=60, z=-409}
+[23Dec2024 05:58:55.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRIOMAX has made the advancement [World of illusion]
+[23Dec2024 06:01:12.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Domitax> metete a dicscord cagon
