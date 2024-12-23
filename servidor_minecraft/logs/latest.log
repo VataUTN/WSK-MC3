@@ -4032,3 +4032,5 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [23Dec2024 16:18:28.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: * Server si se apaga o algo avisame por el grupo
 [23Dec2024 16:18:31.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: * Server anasi
 [23Dec2024 16:18:32.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Joacoo_17> dale
+[23Dec2024 16:41:47.940] [Server thread/INFO] [de.cas_ual_ty.deuf.DEUF/]: Changing UUID of entity alexsmobs:raccoon that already existed from afa28872-2322-4484-8f60-d1cbdf348ceb to 3a635280-da26-46b1-a53a-6675d516786d
+[23Dec2024 16:49:37.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joacoo_17 fell from a high place

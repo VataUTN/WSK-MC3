@@ -15341,3 +15341,16 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [23Dec2024 16:36:08.129] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
 [23Dec2024 16:39:28.079] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
 [23Dec2024 16:39:28.079] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[23Dec2024 16:39:34.096] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 16:39:34.130] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 16:41:47.940] [Server thread/INFO] [de.cas_ual_ty.deuf.DEUF/]: Changing UUID of entity alexsmobs:raccoon that already existed from afa28872-2322-4484-8f60-d1cbdf348ceb to 3a635280-da26-46b1-a53a-6675d516786d
+[23Dec2024 16:42:48.379] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[23Dec2024 16:44:34.071] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 16:44:34.099] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 16:46:08.179] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[23Dec2024 16:49:28.129] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[23Dec2024 16:49:28.129] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[23Dec2024 16:49:34.079] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 16:49:34.106] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 16:49:37.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joacoo_17 fell from a high place
+[23Dec2024 16:49:40.092] [Server thread/DEBUG] [twilightforest/]: Player Joacoo_17 (7aaaddc4-adb9-3168-b6ff-709541dea5ed) respawned and received items held in storage
