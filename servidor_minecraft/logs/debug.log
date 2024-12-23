@@ -20384,3 +20384,88 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [23Dec2024 00:25:04.379] [Server thread/DEBUG] [FTB Quests/]: Wrote 27225 bytes, 338 objects
 [23Dec2024 00:25:04.380] [Server thread/DEBUG] [FTB Teams/]: team login event for 87cdf4ed-e9f7-3845-9a2f-252f8164e2be sent
 [23Dec2024 00:25:04.384] [Server thread/INFO] [Jade/]: Syncing config to IAN9IRV018 (87cdf4ed-e9f7-3845-9a2f-252f8164e2be)
+[23Dec2024 00:25:13.411] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 00:25:13.445] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 00:25:55.007] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vata74 moved wrongly!
+[23Dec2024 00:26:02.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Twuelvi> xaero-waypoint:granja:G:34:-52:-42:7:false:0:Internal-overworld-waypoints
+[23Dec2024 00:27:37.929] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[23Dec2024 00:29:47.209] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IAN9IRV018 lost connection: Disconnected
+[23Dec2024 00:29:47.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAN9IRV018 left the game
+[23Dec2024 00:29:47.210] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 87cdf4ed-e9f7-3845-9a2f-252f8164e2be
+[23Dec2024 00:30:10.785] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[23Dec2024 00:30:13.404] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 00:30:13.432] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 00:30:15.486] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[23Dec2024 00:30:35.315] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ruined_aether_portal:ruined_aether_portal/ruined_aether_portal_04
+[23Dec2024 00:30:42.249] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/icy_3
+[23Dec2024 00:30:43.767] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/icy_1
+[23Dec2024 00:30:43.768] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/icy_2
+[23Dec2024 00:30:57.829] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[23Dec2024 00:31:02.473] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:gatekeeper/snowy/storage_2
+[23Dec2024 00:31:02.477] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:gatekeeper/snowy/bedroom_1
+[23Dec2024 00:31:07.009] [Server thread/INFO] [de.cas_ual_ty.deuf.DEUF/]: Changing UUID of entity minecraft:zombie that already existed from 52ecb518-a68c-4f1b-b320-699b18358743 to b3815d0b-768a-45ac-b83a-6c9c9b40b8a6
+[23Dec2024 00:31:24.355] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_plus:tower/top/full
+[23Dec2024 00:31:33.369] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/dark_forest_2
+[23Dec2024 00:31:33.370] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/dark_forest_1
+[23Dec2024 00:31:33.372] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/dark_forest_3
+[23Dec2024 00:31:42.674] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/zombie_start
+[23Dec2024 00:31:42.677] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/big_stairs/big_stairs_0
+[23Dec2024 00:31:42.678] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/big_stairs/big_stairs_crumbled_1
+[23Dec2024 00:31:42.679] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/big_stairs/big_stairs_crumbled_2
+[23Dec2024 00:31:42.682] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/room/floor1_room_2
+[23Dec2024 00:31:42.683] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby/cubby_double_0
+[23Dec2024 00:31:42.685] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/room/floor1_room_1
+[23Dec2024 00:31:42.688] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/room/floor1_specialroom_0
+[23Dec2024 00:31:42.691] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/room/floor1_room_0
+[23Dec2024 00:31:42.692] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/room/floor1_room_stairs
+[23Dec2024 00:31:42.693] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_1
+[23Dec2024 00:31:42.694] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_empty
+[23Dec2024 00:31:42.694] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_0
+[23Dec2024 00:31:42.695] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_2
+[23Dec2024 00:31:42.695] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_7
+[23Dec2024 00:31:42.696] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_4
+[23Dec2024 00:31:42.696] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/terminator/floor1_hall_terminator_4
+[23Dec2024 00:31:42.698] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/room/floor2_room_2
+[23Dec2024 00:31:42.699] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_5
+[23Dec2024 00:31:42.699] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_spawner_2
+[23Dec2024 00:31:42.700] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_8
+[23Dec2024 00:31:42.701] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_spawner_1
+[23Dec2024 00:31:42.703] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/room/floor2_room_0
+[23Dec2024 00:31:42.704] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/terminator/floor2_hall_terminator_4
+[23Dec2024 00:31:42.705] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/room/floor2_room_1
+[23Dec2024 00:31:42.707] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/room/floor2_room_3
+[23Dec2024 00:31:42.707] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/terminator/floor2_hall_terminator_3
+[23Dec2024 00:31:42.708] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_9
+[23Dec2024 00:31:42.709] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/terminator/floor2_hall_terminator_0
+[23Dec2024 00:31:42.709] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/terminator/floor2_hall_terminator_1
+[23Dec2024 00:31:42.710] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_chest_open_1
+[23Dec2024 00:31:42.711] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_chest_open_0
+[23Dec2024 00:31:42.711] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_chest_closed
+[23Dec2024 00:31:42.712] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_spawner_closed
+[23Dec2024 00:31:42.714] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_spawner_open_0
+[23Dec2024 00:31:42.714] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_empty_open_1
+[23Dec2024 00:31:42.715] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_flower_open_0
+[23Dec2024 00:31:48.899] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vata74 moved wrongly!
+[23Dec2024 00:32:19.563] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=31, y=120, z=-45} BlockPos{x=31, y=119, z=-45}
+[23Dec2024 00:32:38.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Twuelvi> vata?
+[23Dec2024 00:32:50.898] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=31, y=11, z=-45} BlockPos{x=31, y=3, z=-45}
+[23Dec2024 00:32:51.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> q
+[23Dec2024 00:33:03.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Twuelvi> tas minando pa bajo?
+[23Dec2024 00:33:06.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> si
+[23Dec2024 00:33:11.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Twuelvi> nice
+[23Dec2024 00:33:22.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Twuelvi> acompañame
+[23Dec2024 00:33:27.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Twuelvi> a buscar la arena
+[23Dec2024 00:33:32.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Twuelvi> ta peligroso
+[23Dec2024 00:34:00.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> ya voy
+[23Dec2024 00:34:17.729] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[23Dec2024 00:34:17.779] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[23Dec2024 00:34:31.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> mira
+[23Dec2024 00:34:50.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> mira esto
+[23Dec2024 00:35:04.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Twuelvi> alv
+[23Dec2024 00:35:07.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> subite
+[23Dec2024 00:35:13.381] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 00:35:13.412] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 00:35:13.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Twuelvi> solido
+[23Dec2024 00:35:14.846] [Server thread/INFO] [de.cas_ual_ty.deuf.DEUF/]: Changing UUID of entity minecraft:item that already existed from 47fa55f3-687f-4e4e-9d21-df039f4380f7 to 1f2465f5-9027-426a-abdd-3faa1654ec36
+[23Dec2024 00:35:25.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Twuelvi> lo podemos dejar pa la siguiente
+[23Dec2024 00:35:35.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Twuelvi> banco

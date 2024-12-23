@@ -838,6 +838,12 @@
     },
     "done": true
   },
+  "twigs:recipes/silt/silt_from_silt_balls": {
+    "criteria": {
+      "has_item": "2024-12-23 00:20:48 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/bamboo_trapdoor": {
     "criteria": {
       "has_bundle": "2024-12-21 02:23:44 +0000"
@@ -1050,6 +1056,7 @@
       "minecraft:creeper": "2024-12-21 21:36:58 +0000",
       "minecraft:phantom": "2024-12-21 23:20:41 +0000",
       "minecraft:zombie": "2024-12-21 02:56:42 +0000",
+      "quark:foxhound": "2024-12-23 00:22:26 +0000",
       "minecraft:drowned": "2024-12-21 23:18:51 +0000"
     },
     "done": false
@@ -1477,6 +1484,12 @@
   "woodworks:recipes/building_blocks/birch_planks_from_birch_logs_sawing": {
     "criteria": {
       "has_birch_logs": "2024-12-21 04:10:23 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/silt_brick": {
+    "criteria": {
+      "has_item": "2024-12-23 00:20:48 +0000"
     },
     "done": true
   },
@@ -2760,8 +2773,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "beef": "2024-12-23 00:23:34 +0000",
       "neapolitan:strawberry_scones": "2024-12-21 21:37:51 +0000",
       "cooked_porkchop": "2024-12-22 23:53:58 +0000",
+      "cooked_beef": "2024-12-23 00:34:12 +0000",
       "neapolitan:banana": "2024-12-21 23:28:08 +0000",
       "bread": "2024-12-21 21:38:52 +0000",
       "upgrade_aquatic:cooked_pike": "2024-12-21 05:13:15 +0000",

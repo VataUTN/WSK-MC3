@@ -3836,6 +3836,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/lost_tentacle": {
+    "criteria": {
+      "capsid": "2024-12-23 00:20:15 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/diorite_shingle_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-21 03:39:10 +0000"

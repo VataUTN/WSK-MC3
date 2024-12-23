@@ -992,3 +992,31 @@
 [23Dec2024 00:25:04.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAN9IRV018 joined the game
 [23Dec2024 00:25:04.377] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 87cdf4ed-e9f7-3845-9a2f-252f8164e2be
 [23Dec2024 00:25:04.384] [Server thread/INFO] [Jade/]: Syncing config to IAN9IRV018 (87cdf4ed-e9f7-3845-9a2f-252f8164e2be)
+[23Dec2024 00:25:55.007] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vata74 moved wrongly!
+[23Dec2024 00:26:02.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Twuelvi> xaero-waypoint:granja:G:34:-52:-42:7:false:0:Internal-overworld-waypoints
+[23Dec2024 00:29:47.209] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IAN9IRV018 lost connection: Disconnected
+[23Dec2024 00:29:47.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAN9IRV018 left the game
+[23Dec2024 00:29:47.210] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 87cdf4ed-e9f7-3845-9a2f-252f8164e2be
+[23Dec2024 00:30:10.785] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[23Dec2024 00:30:15.486] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[23Dec2024 00:31:07.009] [Server thread/INFO] [de.cas_ual_ty.deuf.DEUF/]: Changing UUID of entity minecraft:zombie that already existed from 52ecb518-a68c-4f1b-b320-699b18358743 to b3815d0b-768a-45ac-b83a-6c9c9b40b8a6
+[23Dec2024 00:31:48.899] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vata74 moved wrongly!
+[23Dec2024 00:32:19.563] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=31, y=120, z=-45} BlockPos{x=31, y=119, z=-45}
+[23Dec2024 00:32:38.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Twuelvi> vata?
+[23Dec2024 00:32:50.898] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=31, y=11, z=-45} BlockPos{x=31, y=3, z=-45}
+[23Dec2024 00:32:51.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> q
+[23Dec2024 00:33:03.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Twuelvi> tas minando pa bajo?
+[23Dec2024 00:33:06.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> si
+[23Dec2024 00:33:11.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Twuelvi> nice
+[23Dec2024 00:33:22.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Twuelvi> acompañame
+[23Dec2024 00:33:27.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Twuelvi> a buscar la arena
+[23Dec2024 00:33:32.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Twuelvi> ta peligroso
+[23Dec2024 00:34:00.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> ya voy
+[23Dec2024 00:34:31.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> mira
+[23Dec2024 00:34:50.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> mira esto
+[23Dec2024 00:35:04.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Twuelvi> alv
+[23Dec2024 00:35:07.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> subite
+[23Dec2024 00:35:13.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Twuelvi> solido
+[23Dec2024 00:35:14.846] [Server thread/INFO] [de.cas_ual_ty.deuf.DEUF/]: Changing UUID of entity minecraft:item that already existed from 47fa55f3-687f-4e4e-9d21-df039f4380f7 to 1f2465f5-9027-426a-abdd-3faa1654ec36
+[23Dec2024 00:35:25.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Twuelvi> lo podemos dejar pa la siguiente
+[23Dec2024 00:35:35.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Twuelvi> banco
