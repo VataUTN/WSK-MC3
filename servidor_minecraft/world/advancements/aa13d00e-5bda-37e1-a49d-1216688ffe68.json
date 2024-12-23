@@ -644,6 +644,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_leggings_repairing": {
+    "criteria": {
+      "has_golden_leggings": "2024-12-23 02:24:40 +0000"
+    },
+    "done": true
+  },
   "immersive_weathering:recipes/blackstone_bricks": {
     "criteria": {
       "has_copper_block": "2024-12-23 00:00:29 +0000"
@@ -4120,6 +4126,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-23 02:15:48 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/dark_prismarine_tiles_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2024-12-23 00:29:17 +0000"
@@ -6336,6 +6348,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/bow_repairing": {
+    "criteria": {
+      "has_bow": "2024-12-23 02:15:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2024-12-21 04:45:48 +0000"
@@ -6519,6 +6537,12 @@
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2024-12-21 04:45:48 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_leggings_repairing": {
+    "criteria": {
+      "has_chainmail_leggings": "2024-12-23 02:16:14 +0000"
     },
     "done": true
   },
@@ -7223,6 +7247,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-22 04:07:32 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/frozen/cutting/ice_bow": {
+    "criteria": {
+      "has_bow": "2024-12-23 02:15:48 +0000"
     },
     "done": true
   },

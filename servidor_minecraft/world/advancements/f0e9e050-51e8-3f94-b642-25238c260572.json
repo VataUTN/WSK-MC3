@@ -92,6 +92,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/tuff_shingle_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-23 02:19:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2024-12-22 23:52:06 +0000"
@@ -194,6 +200,12 @@
     },
     "done": true
   },
+  "twigs:recipes/tuff/tuff_wall": {
+    "criteria": {
+      "has_item": "2024-12-23 02:19:11 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/chainmail_chestplate_repairing": {
     "criteria": {
       "has_chainmail_chestplate": "2024-12-21 04:48:53 +0000"
@@ -227,6 +239,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 03:03:25 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/chiseled_tuff_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-23 02:19:11 +0000"
     },
     "done": true
   },
@@ -311,6 +329,12 @@
   "aether_redux:recipes/combat/cockatrice_rib_arrow": {
     "criteria": {
       "has_feather": "2024-12-22 23:39:08 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/mossy_tuff_bricks_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-23 02:19:11 +0000"
     },
     "done": true
   },
@@ -455,6 +479,12 @@
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-12-21 03:59:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_leggings_repairing": {
+    "criteria": {
+      "has_golden_leggings": "2024-12-23 02:22:54 +0000"
     },
     "done": true
   },
@@ -608,6 +638,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/cracked_tuff_tiles_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-23 02:19:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-21 23:01:24 +0000"
@@ -698,6 +734,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/tuff_plates_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-23 02:19:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2024-12-21 23:01:24 +0000"
@@ -755,6 +797,12 @@
   "woodworks:recipes/building_blocks/birch_planks_from_birch_logs_sawing": {
     "criteria": {
       "has_birch_logs": "2024-12-21 04:10:23 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/tuff_shingles_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-23 02:19:11 +0000"
     },
     "done": true
   },
@@ -1112,6 +1160,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/cobbled_tuff_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-23 02:19:11 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/skyroot_iron_vanilla_shield": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 03:03:25 +0000"
@@ -1160,6 +1214,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/tuff_plate_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-23 02:19:11 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/oak_shelf": {
     "criteria": {
       "has_planks": "2024-12-21 02:32:06 +0000"
@@ -1175,6 +1235,12 @@
   "stoneworks:recipes/stoneworks.main/nether_brick_plate_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-23 00:50:25 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/tuff_brick_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-23 02:19:11 +0000"
     },
     "done": true
   },
@@ -1244,9 +1310,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/tuff_tile_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-23 02:19:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2024-12-21 03:02:32 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tuff/tuff_slab": {
+    "criteria": {
+      "has_item": "2024-12-23 02:19:11 +0000"
     },
     "done": true
   },
@@ -1406,6 +1484,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/mossy_cobbled_tuff_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-23 02:19:10 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/warped_chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-21 02:56:11 +0000"
@@ -1520,6 +1604,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/tuff_tile_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-23 02:19:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-21 23:24:36 +0000"
@@ -1598,6 +1688,12 @@
     },
     "done": true
   },
+  "twigs:recipes/tuff/polished_tuff": {
+    "criteria": {
+      "has_item": "2024-12-23 02:19:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 03:03:25 +0000"
@@ -1640,6 +1736,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/mossy_tuff_brick_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-23 02:19:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-21 23:24:36 +0000"
@@ -1679,6 +1781,12 @@
   "twigs:recipes/silt/orange_packed_silt_from_silt": {
     "criteria": {
       "has_item": "2024-12-23 00:53:15 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/tuff_shingle_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-23 02:19:11 +0000"
     },
     "done": true
   },
@@ -1862,6 +1970,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/tuff_bricks_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-23 02:19:11 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/silt/brown_packed_silt_from_silt": {
     "criteria": {
       "has_item": "2024-12-23 00:53:15 +0000"
@@ -1889,6 +2003,12 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2024-12-21 04:10:27 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/polished_tuff_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-23 02:19:11 +0000"
     },
     "done": true
   },
@@ -1976,6 +2096,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/mossy_cobbled_tuff_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-23 02:19:11 +0000"
+    },
+    "done": true
+  },
   "backpacked:recipes/backpacked/crimson_backpack_shelf": {
     "criteria": {
       "has_stick": "2024-12-21 02:35:45 +0000"
@@ -2042,6 +2168,18 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/tuff_brick_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-23 02:19:11 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/polished_tuff_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-23 02:19:11 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/blue_ice_freezing": {
     "criteria": {
       "has_water_bucket": "2024-12-21 03:38:57 +0000"
@@ -2057,6 +2195,12 @@
   "farmersdelight:recipes/farmersdelight/honey_cookie": {
     "criteria": {
       "has_honey_bottle": "2024-12-21 04:49:26 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tuff/polished_tuff_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-23 02:19:11 +0000"
     },
     "done": true
   },
@@ -2201,6 +2345,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2024-12-22 23:52:06 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/polished_tuff_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-23 02:19:11 +0000"
     },
     "done": true
   },
@@ -2566,6 +2716,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/mossy_tuff_brick_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-23 02:19:11 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/galosphere/sterling_leggings_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-21 04:07:10 +0000"
@@ -2837,6 +2993,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/tuff_paver_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-23 02:19:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-21 23:24:36 +0000"
@@ -3061,6 +3223,12 @@
     },
     "done": false
   },
+  "stoneworks:recipes/stoneworks.main/tuff_tiles_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-23 02:19:11 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_bricks/cobblestone_brick_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_item": "2024-12-21 02:36:22 +0000"
@@ -3076,6 +3244,12 @@
   "farmersdelight:recipes/farmersdelight/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 03:03:25 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tuff/tuff_stairs": {
+    "criteria": {
+      "has_item": "2024-12-23 02:19:11 +0000"
     },
     "done": true
   },
@@ -3112,6 +3286,12 @@
   "woodworks:recipes/building_blocks/birch_boards_from_birch_planks_sawing": {
     "criteria": {
       "has_birch_planks": "2024-12-21 04:10:27 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/mossy_cobbled_tuff_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-23 02:19:11 +0000"
     },
     "done": true
   },
@@ -3169,6 +3349,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/tuff_paver_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-23 02:19:11 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/redstone/dark_oak_button_from_dark_oak_logs_sawing": {
     "criteria": {
       "has_dark_oak_logs": "2024-12-21 03:07:53 +0000"
@@ -3214,6 +3400,12 @@
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2024-12-21 04:49:35 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tuff/tuff_stairs_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-23 02:19:11 +0000"
     },
     "done": true
   },
@@ -3310,6 +3502,12 @@
   "byg:recipes/byg.byg/aspen_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-21 04:10:40 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/tuff_plate_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-23 02:19:11 +0000"
     },
     "done": true
   },
@@ -3439,6 +3637,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/tuff_tile_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-23 02:19:11 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/redstone/dark_oak_button_from_dark_oak_planks_sawing": {
     "criteria": {
       "has_dark_oak_planks": "2024-12-21 02:26:54 +0000"
@@ -3546,6 +3750,12 @@
     },
     "done": true
   },
+  "twigs:recipes/tuff/tuff_wall_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-23 02:19:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 03:03:25 +0000"
@@ -3591,6 +3801,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-21 02:36:22 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/cobbled_tuff_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-23 02:19:10 +0000"
     },
     "done": true
   },
@@ -3757,6 +3973,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/tuff_plate_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-23 02:19:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/honey_block": {
     "criteria": {
       "has_honey_bottle": "2024-12-21 04:49:26 +0000"
@@ -3814,6 +4036,12 @@
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-21 23:24:36 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tuff/polished_tuff_bricks_from_bloodstone_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-23 02:19:10 +0000"
     },
     "done": true
   },
@@ -3880,6 +4108,12 @@
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2024-12-21 21:42:11 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/cobbled_tuff_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-23 02:19:11 +0000"
     },
     "done": true
   },
@@ -3986,6 +4220,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/tuff_paver_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-23 02:19:11 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/grilled_salmon": {
     "criteria": {
       "has_salmon": "2024-12-21 04:16:49 +0000"
@@ -4031,6 +4271,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-21 03:40:03 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/polished_tuff_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-23 02:19:11 +0000"
     },
     "done": true
   },
@@ -4172,6 +4418,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/tuff_brick_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-23 02:19:11 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/galosphere/raw_silver_block": {
     "criteria": {
       "has_raw_silver": "2024-12-21 03:46:30 +0000"
@@ -4235,6 +4487,12 @@
   "aether:recipes/combat/shield_repairing": {
     "criteria": {
       "has_shield": "2024-12-21 03:48:59 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tuff/tuff_slab_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-23 02:19:11 +0000"
     },
     "done": true
   },
@@ -4389,6 +4647,12 @@
     },
     "done": false
   },
+  "stoneworks:recipes/stoneworks.main/tuff_shingle_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-23 02:19:11 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_bricks/cobblestone_brick_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_item": "2024-12-21 02:36:22 +0000"
@@ -4533,6 +4797,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/tuff_pillar_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-23 02:19:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-21 03:40:03 +0000"
@@ -4629,6 +4899,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/mossy_tuff_brick_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-23 02:19:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2024-12-21 02:31:55 +0000"
@@ -4689,6 +4965,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/tuff_pavers_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-23 02:19:11 +0000"
+    },
+    "done": true
+  },
   "byg:recipes/byg.byg/pine_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-21 04:10:40 +0000"
@@ -4722,6 +5004,12 @@
   "aether:recipes/combat/iron_chestplate_repairing": {
     "criteria": {
       "has_iron_chestplate": "2024-12-21 04:05:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2024-12-23 02:17:10 +0000"
     },
     "done": true
   },
@@ -4821,6 +5109,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/mossy_cobbled_tuff_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-23 02:19:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2024-12-21 04:10:27 +0000"
@@ -4854,6 +5148,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2024-12-23 00:37:35 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/cobbled_tuff_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-23 02:19:11 +0000"
     },
     "done": true
   },
@@ -4902,6 +5202,12 @@
   "stoneworks:recipes/stoneworks.main/nether_brick_plate_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-23 00:50:25 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/cracked_tuff_bricks_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2024-12-23 02:19:11 +0000"
     },
     "done": true
   },
