@@ -4073,3 +4073,58 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [23Dec2024 17:41:14.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Domitax> seguro no qerés la caña?
 [23Dec2024 17:41:18.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Domitax> te la regalo
 [23Dec2024 17:41:24.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Joacoo_17> na trancas
+[23Dec2024 17:51:26.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Domitax> sacate el moño wachin
+[23Dec2024 17:51:29.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Domitax> bichito de lu
+[23Dec2024 17:51:39.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Joacoo_17> no te regalés
+[23Dec2024 17:54:05.558] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3629ms or 72 ticks behind
+[23Dec2024 17:54:18.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Joacoo_17> voy a comer y vuelvo
+[23Dec2024 17:54:24.779] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3150ms or 63 ticks behind
+[23Dec2024 17:54:24.814] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joacoo_17 lost connection: Disconnected
+[23Dec2024 17:54:24.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joacoo_17 left the game
+[23Dec2024 17:54:24.814] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7aaaddc4-adb9-3168-b6ff-709541dea5ed
+[23Dec2024 17:54:53.622] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3293ms or 65 ticks behind
+[23Dec2024 17:55:16.189] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3210ms or 64 ticks behind
+[23Dec2024 18:06:52.436] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Verona'/31875, l='ServerLevel[world]', x=-836.84, y=72.00, z=3068.50] died: Verona was slain by Iron Golem
+[23Dec2024 18:11:36.201] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1a276611
+[23Dec2024 18:11:36.250] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Joacoo_17[/127.12.163.108:38305] logged in with entity id 32757 at (579.6782345882929, 64.0, -391.3922392388572)
+[23Dec2024 18:11:36.251] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Joacoo_17
+[23Dec2024 18:11:36.252] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Joacoo_17
+[23Dec2024 18:11:36.252] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Joacoo_17
+[23Dec2024 18:11:36.253] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Joacoo_17
+[23Dec2024 18:11:36.258] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Joacoo_17
+[23Dec2024 18:11:36.262] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Joacoo_17
+[23Dec2024 18:11:36.262] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Joacoo_17
+[23Dec2024 18:11:36.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joacoo_17 joined the game
+[23Dec2024 18:11:36.365] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7aaaddc4-adb9-3168-b6ff-709541dea5ed
+[23Dec2024 18:11:36.383] [Server thread/INFO] [Jade/]: Syncing config to Joacoo_17 (7aaaddc4-adb9-3168-b6ff-709541dea5ed)
+[23Dec2024 18:15:18.006] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7255c8a9
+[23Dec2024 18:15:18.021] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Twuelvi[/127.76.167.49:46103] logged in with entity id 34853 at (635.6411928327718, 156.0, -337.6357207728034)
+[23Dec2024 18:15:18.023] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Twuelvi
+[23Dec2024 18:15:18.023] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Twuelvi
+[23Dec2024 18:15:18.023] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Twuelvi
+[23Dec2024 18:15:18.023] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Twuelvi
+[23Dec2024 18:15:18.025] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Twuelvi
+[23Dec2024 18:15:18.028] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Twuelvi
+[23Dec2024 18:15:18.028] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Twuelvi
+[23Dec2024 18:15:18.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Twuelvi joined the game
+[23Dec2024 18:15:18.088] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f0e9e050-51e8-3f94-b642-25238c260572
+[23Dec2024 18:15:18.094] [Server thread/INFO] [Jade/]: Syncing config to Twuelvi (f0e9e050-51e8-3f94-b642-25238c260572)
+[23Dec2024 18:15:27.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Twuelvi suffocated in a wall
+[23Dec2024 18:15:29.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Joacoo_17> que olor a puto q hay de repente
+[23Dec2024 18:15:32.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Domitax> noooo
+[23Dec2024 18:15:35.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Joacoo_17> nooooooooo
+[23Dec2024 18:15:39.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Domitax> safio
+[23Dec2024 18:15:40.158] [Server thread/INFO] [de.cas_ual_ty.deuf.DEUF/]: Changing UUID of entity alexsmobs:blue_jay that already existed from e89c3bf2-63ec-4bf6-bb9b-30bbac25f054 to 1710c56c-9d29-4ff5-94bb-c0dd1f04d737
+[23Dec2024 18:15:54.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Twuelvi> mucho roll back
+[23Dec2024 18:15:57.251] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=124, y=64, z=-93}
+[23Dec2024 18:15:58.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Domitax> si
+[23Dec2024 18:16:10.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Twuelvi> quien pija me afano la waystone
+[23Dec2024 18:16:17.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Domitax> no se
+[23Dec2024 18:16:19.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Domitax> pero tengo 5
+[23Dec2024 18:16:21.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Domitax> queres una?
+[23Dec2024 18:16:43.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Twuelvi> weno una necesito
+[23Dec2024 18:19:33.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Domitax> zzzz
+[23Dec2024 18:19:35.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Domitax> por favor
+[23Dec2024 18:28:17.054] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Twuelvi lost connection: Disconnected
+[23Dec2024 18:28:17.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Twuelvi left the game
+[23Dec2024 18:28:17.055] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f0e9e050-51e8-3f94-b642-25238c260572
