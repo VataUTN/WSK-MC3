@@ -72,6 +72,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/af/upgrade_aquatic/river_planter_box": {
+    "criteria": {
+      "has_planks": "2024-12-23 05:07:48 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/cracked_calcite_tiles_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-12-22 04:44:16 +0000"
@@ -853,7 +859,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2024-12-23 03:30:10 +0000"
+      "minecraft:skeleton": "2024-12-23 03:30:10 +0000",
+      "minecraft:creeper": "2024-12-23 05:09:49 +0000"
     },
     "done": false
   },
@@ -1097,6 +1104,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/db/upgrade_aquatic/river_palisade": {
+    "criteria": {
+      "has_planks": "2024-12-23 05:07:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2024-12-23 04:19:51 +0000"
@@ -1238,6 +1251,12 @@
   "bambooeverything:recipes/bamboo_bundle_uncrafting": {
     "criteria": {
       "has_bundle": "2024-12-22 04:03:25 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/af/upgrade_aquatic/river_table": {
+    "criteria": {
+      "has_planks": "2024-12-23 05:07:48 +0000"
     },
     "done": true
   },
@@ -1403,6 +1422,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-23 05:12:30 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/light_gray_tall_stool": {
     "criteria": {
       "has_wool": "2024-12-22 04:31:26 +0000"
@@ -1412,6 +1437,12 @@
   "comforts:sleeping_bag_white": {
     "criteria": {
       "has_white_wool": "2024-12-23 04:19:51 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/tf/upgrade_aquatic/hollow_river_log_vertical": {
+    "criteria": {
+      "has_planks": "2024-12-23 05:07:48 +0000"
     },
     "done": true
   },
@@ -1601,6 +1632,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/db/upgrade_aquatic/river_beam": {
+    "criteria": {
+      "has_planks": "2024-12-23 05:07:48 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/redstone/birch_button_from_birch_planks_sawing": {
     "criteria": {
       "has_birch_planks": "2024-12-22 04:43:10 +0000"
@@ -1652,6 +1689,12 @@
   "handcrafted:recipes/misc/white_sheet": {
     "criteria": {
       "has_sheet": "2024-12-23 04:19:51 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/stone_sword_repairing": {
+    "criteria": {
+      "has_stone_sword": "2024-12-23 05:08:06 +0000"
     },
     "done": true
   },
@@ -1778,6 +1821,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-22 04:10:25 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/tf/upgrade_aquatic/river_banister": {
+    "criteria": {
+      "has_planks": "2024-12-23 05:07:48 +0000"
     },
     "done": true
   },
@@ -2830,6 +2879,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/af/upgrade_aquatic/river_drawer": {
+    "criteria": {
+      "has_planks": "2024-12-23 05:07:48 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/birch_palisade": {
     "criteria": {
       "has_log": "2024-12-23 04:45:39 +0000"
@@ -2863,6 +2918,12 @@
   "handcrafted:recipes/misc/black_sheet": {
     "criteria": {
       "has_sheet": "2024-12-23 04:19:22 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/af/upgrade_aquatic/river_shutter": {
+    "criteria": {
+      "has_planks": "2024-12-23 05:07:48 +0000"
     },
     "done": true
   },
@@ -3007,6 +3068,12 @@
   "galosphere:recipes/galosphere/smooth_allurite": {
     "criteria": {
       "has_allurite_block": "2024-12-22 04:43:07 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/af/upgrade_aquatic/river_shelf": {
+    "criteria": {
+      "has_planks": "2024-12-23 05:07:48 +0000"
     },
     "done": true
   },
@@ -3233,6 +3300,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/af/upgrade_aquatic/river_chair": {
+    "criteria": {
+      "has_planks": "2024-12-23 05:07:48 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/storage/acorn_storage_block": {
     "criteria": {
       "has_acorn": "2024-12-23 04:21:37 +0000"
@@ -3242,6 +3315,12 @@
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-22 04:27:17 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/tw/upgrade_aquatic/river_table": {
+    "criteria": {
+      "has_planks": "2024-12-23 05:07:48 +0000"
     },
     "done": true
   },
@@ -3458,6 +3537,18 @@
   "stoneworks:recipes/stoneworks.main/andesite_paver_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-22 04:27:17 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_pickaxe_repairing": {
+    "criteria": {
+      "has_iron_pickaxe": "2024-12-23 05:12:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/db/upgrade_aquatic/river_support": {
+    "criteria": {
+      "has_planks": "2024-12-23 05:07:48 +0000"
     },
     "done": true
   },
@@ -3793,6 +3884,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/af/upgrade_aquatic/river_bench": {
+    "criteria": {
+      "has_planks": "2024-12-23 05:07:48 +0000"
+    },
+    "done": true
+  },
   "windswept:recipes/food/wild_berry_juice": {
     "criteria": {
       "has_wild_berries": "2024-12-23 03:37:05 +0000"
@@ -3826,6 +3923,12 @@
   "galosphere:recipes/galosphere/allurite_brick_slab_from_allurite_block_stonecutting": {
     "criteria": {
       "has_allurite_block": "2024-12-22 04:43:07 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/bp/upgrade_aquatic/river_backpack_shelf": {
+    "criteria": {
+      "has_planks": "2024-12-23 05:07:48 +0000"
     },
     "done": true
   },
@@ -3874,6 +3977,12 @@
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2024-12-23 03:53:01 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/db/upgrade_aquatic/river_seat": {
+    "criteria": {
+      "has_planks": "2024-12-23 05:07:48 +0000"
     },
     "done": true
   },

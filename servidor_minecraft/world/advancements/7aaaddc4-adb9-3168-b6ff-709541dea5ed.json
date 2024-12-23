@@ -4423,6 +4423,12 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2024-12-23 05:08:06 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2024-12-22 01:28:34 +0000"
@@ -5937,6 +5943,7 @@
       "minecraft:frozen_ocean": "2024-12-21 05:12:57 +0000",
       "minecraft:deep_frozen_ocean": "2024-12-21 05:19:54 +0000",
       "minecraft:ocean": "2024-12-21 05:22:30 +0000",
+      "minecraft:jungle": "2024-12-23 05:08:38 +0000",
       "minecraft:snowy_beach": "2024-12-23 00:12:13 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-21 23:04:39 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-21 02:37:27 +0000",
@@ -7423,6 +7430,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2024-12-22 05:41:34 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2024-12-23 05:08:06 +0000"
     },
     "done": true
   },

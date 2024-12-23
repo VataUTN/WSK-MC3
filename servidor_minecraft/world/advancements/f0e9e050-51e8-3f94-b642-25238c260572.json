@@ -2648,6 +2648,12 @@
     },
     "done": true
   },
+  "vinery:grass_slab": {
+    "criteria": {
+      "has_grass_block": "2024-12-23 05:07:16 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/silt/yellow_packed_silt_from_silt": {
     "criteria": {
       "has_item": "2024-12-23 00:53:15 +0000"
@@ -4895,6 +4901,7 @@
   "immersive_weathering:immersive_weathering/dirts": {
     "criteria": {
       "soul soil": "2024-12-23 02:33:43 +0000",
+      "grass": "2024-12-23 05:07:16 +0000",
       "dirt": "2024-12-21 02:30:49 +0000"
     },
     "done": false
