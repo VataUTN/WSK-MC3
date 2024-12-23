@@ -1578,3 +1578,28 @@
 [23Dec2024 01:55:02.477] [Server thread/INFO] [Jade/]: Syncing config to Twuelvi (f0e9e050-51e8-3f94-b642-25238c260572)
 [23Dec2024 01:55:07.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Joacoo_17> me quiero matar
 [23Dec2024 01:56:11.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joacoo_17 burned to death
+[23Dec2024 01:59:06.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joacoo_17 was burnt to a crisp whilst fighting Ghast
+[23Dec2024 01:59:09.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Twuelvi> nooo
+[23Dec2024 01:59:17.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Joacoo_17> estoy hasta la pija
+[23Dec2024 01:59:35.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Twuelvi> venite a la granja
+[23Dec2024 01:59:38.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Twuelvi> te ayudo
+[23Dec2024 01:59:48.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Joacoo_17> es q ya tengo todo el camino hecho
+[23Dec2024 01:59:54.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Twuelvi> alv
+[23Dec2024 02:03:41.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joacoo_17 was fireballed by Ghast
+[23Dec2024 02:03:45.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Joacoo_17> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+[23Dec2024 02:07:18.411] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@307f7d2c
+[23Dec2024 02:07:18.431] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Vata74[/127.104.211.112:46715] logged in with entity id 103047 at (42.69999998807907, -49.0, -44.51517710696569)
+[23Dec2024 02:07:18.445] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Vata74
+[23Dec2024 02:07:18.446] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Vata74
+[23Dec2024 02:07:18.446] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Vata74
+[23Dec2024 02:07:18.447] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Vata74
+[23Dec2024 02:07:18.449] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Vata74
+[23Dec2024 02:07:18.454] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Vata74
+[23Dec2024 02:07:18.455] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Vata74
+[23Dec2024 02:07:18.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 joined the game
+[23Dec2024 02:07:18.535] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for aa13d00e-5bda-37e1-a49d-1216688ffe68
+[23Dec2024 02:07:18.539] [Server thread/INFO] [Jade/]: Syncing config to Vata74 (aa13d00e-5bda-37e1-a49d-1216688ffe68)
+[23Dec2024 02:07:26.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> lucio
+[23Dec2024 02:07:44.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Twuelvi> wa japen
+[23Dec2024 02:08:17.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 tried to swim in lava
+[23Dec2024 02:08:21.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Twuelvi> nooo

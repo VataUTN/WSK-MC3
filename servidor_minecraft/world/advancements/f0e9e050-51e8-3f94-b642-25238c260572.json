@@ -1124,6 +1124,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/leather_leggings_repairing": {
+    "criteria": {
+      "has_leather_leggings": "2024-12-23 01:57:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2024-12-22 05:41:04 +0000"
@@ -4034,6 +4040,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_chestplate_repairing": {
+    "criteria": {
+      "has_golden_chestplate": "2024-12-23 02:01:50 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/misc/aether_iron_nugget_from_blasting": {
     "criteria": {
       "has_chainmail_gloves": "2024-12-21 05:18:13 +0000"
@@ -4626,6 +4638,12 @@
   "aether:recipes/tools/iron_pickaxe_repairing": {
     "criteria": {
       "has_iron_pickaxe": "2024-12-21 04:05:42 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_helmet_repairing": {
+    "criteria": {
+      "has_golden_helmet": "2024-12-23 02:01:56 +0000"
     },
     "done": true
   },
