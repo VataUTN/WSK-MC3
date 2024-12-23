@@ -1499,3 +1499,4 @@
 [23Dec2024 01:16:55.090] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Twuelvi lost connection: Disconnected
 [23Dec2024 01:16:55.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Twuelvi left the game
 [23Dec2024 01:16:55.091] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f0e9e050-51e8-3f94-b642-25238c260572
+[23Dec2024 01:25:45.384] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VeinGoblinTraderEntity['Chester'/92638, l='ServerLevel[world]', x=-154.55, y=61.00, z=384.51] died: Chester fell from a high place

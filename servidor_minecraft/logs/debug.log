@@ -21035,3 +21035,24 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [23Dec2024 01:16:55.090] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Twuelvi lost connection: Disconnected
 [23Dec2024 01:16:55.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Twuelvi left the game
 [23Dec2024 01:16:55.091] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f0e9e050-51e8-3f94-b642-25238c260572
+[23Dec2024 01:17:38.179] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[23Dec2024 01:18:34.163] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/common/iron_golem
+[23Dec2024 01:18:34.166] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[23Dec2024 01:18:34.170] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of friendsandfoes:villages/mushroom/beekeeper_area
+[23Dec2024 01:18:34.184] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of farmersdelight:villages/mushroom/houses/compost_pile_1
+[23Dec2024 01:18:34.187] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incubation:villages/mushroom/chicken_coop_1
+[23Dec2024 01:18:34.192] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incubation:villages/persistent_chickens
+[23Dec2024 01:18:43.505] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/2/top
+[23Dec2024 01:18:43.506] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/2/bottom
+[23Dec2024 01:20:13.317] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 01:20:13.348] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 01:20:58.079] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[23Dec2024 01:22:06.311] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spider_nest_1
+[23Dec2024 01:24:17.686] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[23Dec2024 01:24:17.697] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-1235, y=65, z=3271} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[23Dec2024 01:24:17.699] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-1235, y=65, z=3271} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[23Dec2024 01:24:17.958] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[23Dec2024 01:24:18.038] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[23Dec2024 01:25:13.318] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 01:25:13.350] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 01:25:45.384] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VeinGoblinTraderEntity['Chester'/92638, l='ServerLevel[world]', x=-154.55, y=61.00, z=384.51] died: Chester fell from a high place
