@@ -1932,6 +1932,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2024-12-23 21:25:51 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/dry_bamboo_ladder": {
     "criteria": {
       "has_dry_bamboo": "2024-12-21 02:11:40 +0000"
@@ -3094,6 +3100,12 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2024-12-21 05:07:09 +0000"
+    },
+    "done": true
+  },
+  "windswept:recipes/misc/snow_golem_banner_pattern": {
+    "criteria": {
+      "has_golden_carrot": "2024-12-23 21:25:51 +0000"
     },
     "done": true
   },
