@@ -447,6 +447,12 @@
     },
     "done": true
   },
+  "savage_and_ravage:adventure/creeper_spores": {
+    "criteria": {
+      "creeper_spores": "2024-12-23 21:52:27 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/oak_ladder_from_oak_logs_sawing": {
     "criteria": {
       "has_oak_logs": "2024-12-23 03:44:14 +0000"
@@ -544,6 +550,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-23 21:50:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-23 04:24:07 +0000"
@@ -625,6 +637,12 @@
   "takesapillage:root": {
     "criteria": {
       "always": "2024-12-23 03:40:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-23 21:50:36 +0000"
     },
     "done": true
   },
@@ -898,6 +916,7 @@
       "minecraft:pillager": "2024-12-23 06:05:14 +0000",
       "minecraft:skeleton": "2024-12-23 05:10:22 +0000",
       "minecraft:spider": "2024-12-23 05:38:59 +0000",
+      "minecraft:creeper": "2024-12-23 21:48:08 +0000",
       "minecraft:witch": "2024-12-23 06:03:09 +0000",
       "minecraft:enderman": "2024-12-23 04:09:23 +0000",
       "minecraft:zombie": "2024-12-23 04:07:25 +0000",
@@ -1301,6 +1320,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-23 21:50:36 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_smithing_table": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 04:34:03 +0000"
@@ -1622,6 +1647,12 @@
   "stoneworks:recipes/stoneworks.main/diorite_tile_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-23 04:58:44 +0000"
+    },
+    "done": true
+  },
+  "magnumtorch:recipes/decorations/amethyst_magnum_torch": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-23 21:50:36 +0000"
     },
     "done": true
   },
@@ -2481,6 +2512,7 @@
       "neapolitan:strawberries": "2024-12-23 03:58:28 +0000",
       "mushroom_stew": "2024-12-23 04:20:13 +0000",
       "apple": "2024-12-23 03:46:12 +0000",
+      "enchanted_golden_apple": "2024-12-23 21:48:29 +0000",
       "bread": "2024-12-23 05:09:44 +0000",
       "golden_apple": "2024-12-23 06:03:01 +0000",
       "rotten_flesh": "2024-12-23 04:19:17 +0000",
@@ -3542,6 +3574,12 @@
   "aether:recipes/building_blocks/blue_ice_freezing": {
     "criteria": {
       "has_water_bucket": "2024-12-23 06:16:12 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/galosphere/amethyst_lamp": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-23 21:50:36 +0000"
     },
     "done": true
   },

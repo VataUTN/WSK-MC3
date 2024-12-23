@@ -15887,3 +15887,250 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [23Dec2024 21:48:03.992] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityBasedExplosionDamageCalculatorMixin from canary.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
 [23Dec2024 21:48:04.597] [Server thread/DEBUG] [mixin/]: Mixing item.AccessorCooldownInstance from bookshelf.common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
 [23Dec2024 21:48:32.824] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[23Dec2024 21:51:30.730] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:boat_1
+[23Dec2024 21:51:52.774] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[23Dec2024 21:51:52.774] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[23Dec2024 21:51:55.772] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:gatekeeper/plains/main_1
+[23Dec2024 21:51:55.775] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:gatekeeper/plains/path_1
+[23Dec2024 21:51:55.777] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:gatekeeper/plains/shack_1
+[23Dec2024 21:51:59.807] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 21:51:59.865] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 21:52:00.320] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Return portal found, redirecting! :)
+[23Dec2024 21:52:00.368] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-1235, y=65, z=3271} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[23Dec2024 21:52:00.371] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-1235, y=65, z=3271} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[23Dec2024 21:52:00.565] [Server thread/DEBUG] [mixin/]: Mixing ModifyPiglinBruteAi from bygonenether.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinBruteAi
+[23Dec2024 21:52:01.040] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_dungeon_2
+[23Dec2024 21:52:01.153] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_pillar_2
+[23Dec2024 21:52:01.306] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of netherdepthsupgrade:nether_fortress_piece
+[23Dec2024 21:52:01.321] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of netherdepthsupgrade:nether_fortress_side4
+[23Dec2024 21:52:01.943] [Worker-Main-3/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[23Dec2024 21:52:01.953] [Worker-Main-3/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[23Dec2024 21:52:01.954] [Worker-Main-3/DEBUG] [mixin/]: Mixing BeardifierMixin_Mansion from biomemakeover-common.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[23Dec2024 21:52:02.343] [Worker-Main-3/DEBUG] [mixin/]: Mixing access.SurfaceRuleContextAccess from byg.mixins.json into net.minecraft.world.level.levelgen.SurfaceRules$Context
+[23Dec2024 21:52:02.344] [Worker-Main-3/DEBUG] [mixin/]: Mixing SurfaceRulesContextMixin from blueprint.mixins.json into net.minecraft.world.level.levelgen.SurfaceRules$Context
+[23Dec2024 21:52:02.350] [Worker-Main-3/DEBUG] [mixin/]: Renaming synthetic method lambda$updateModdedBiomeSlice$0(Lcom/teamabnormals/blueprint/common/world/modification/ModdedBiomeSource;III)Lnet/minecraft/resources/ResourceLocation; to md1f8422$lambda$updateModdedBiomeSlice$0$0 in blueprint.mixins.json:SurfaceRulesContextMixin
+[23Dec2024 21:52:03.873] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/nether_2
+[23Dec2024 21:52:03.877] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/nether_3
+[23Dec2024 21:52:03.879] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/nether_1
+[23Dec2024 21:52:04.276] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 below top-6 above bottom]
+[23Dec2024 21:52:15.306] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Return portal found, redirecting! :)
+[23Dec2024 21:52:15.317] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=-144, y=37, z=412} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[23Dec2024 21:52:15.320] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=-144, y=37, z=412} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[23Dec2024 21:52:16.021] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_4
+[23Dec2024 21:52:16.177] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:large_logs
+[23Dec2024 21:52:27.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRIOMAX has made the advancement [Creepie Crawly]
+[23Dec2024 21:53:01.963] [Server thread/DEBUG] [mixin/]: Mixing RecipebookMixin from recipeessentials.mixins.json into net.minecraft.recipebook.ServerPlaceRecipe
+[23Dec2024 21:53:41.898] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Return portal found, redirecting! :)
+[23Dec2024 21:53:41.911] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-1235, y=65, z=3271} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[23Dec2024 21:53:41.912] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-1235, y=65, z=3271} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[23Dec2024 21:54:30.561] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of stalwart_dungeons:keeping_castle_spawn
+[23Dec2024 21:55:13.024] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[23Dec2024 21:55:25.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRIOMAX was shot by Forgotten
+[23Dec2024 21:55:25.986] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sandstone_totem_2
+[23Dec2024 21:55:25.987] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sandstone_totem_1
+[23Dec2024 21:55:25.988] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sandstone_totem_3
+[23Dec2024 21:55:25.989] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:red_sandstone_totem_2
+[23Dec2024 21:55:25.990] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:red_sandstone_totem_1
+[23Dec2024 21:55:26.327] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of stalwart_dungeons:awful_dungeon_spawn
+[23Dec2024 21:55:32.962] [Server thread/DEBUG] [twilightforest/]: Player BRIOMAX (2a6eaa93-079a-3dca-be78-732c2db22348) respawned and received items held in storage
+[23Dec2024 21:55:45.680] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [0, 43], pos: MutableBlockPos{x=0, y=69, z=698}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[23Dec2024 21:55:48.088] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/pyramid1
+[23Dec2024 21:56:23.421] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of stalwart_dungeons:awful_dungeon
+[23Dec2024 21:56:26.223] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2799ms or 55 ticks behind
+[23Dec2024 21:57:02.350] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 21:57:02.388] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 21:58:16.053] [Server thread/DEBUG] [mixin/]: Mixing net.minecraft.world.level.levelgen.blending.BlendingDataMixin from redirector.mixins.json into net.minecraft.world.level.levelgen.blending.BlendingData
+[23Dec2024 21:58:32.874] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[23Dec2024 21:58:57.577] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:tower_2
+[23Dec2024 21:58:57.582] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_tower_2
+[23Dec2024 21:58:57.584] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_tower_1
+[23Dec2024 21:58:57.586] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:tower_1
+[23Dec2024 21:58:57.588] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_tower_3
+[23Dec2024 21:58:57.589] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_tower_4
+[23Dec2024 21:58:57.594] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:decoration/jungle_well
+[23Dec2024 21:58:57.623] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:mod_integration/keep_create
+[23Dec2024 21:58:57.656] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep
+[23Dec2024 21:58:57.671] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:mobs/wither_skeleton
+[23Dec2024 21:58:57.672] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:mobs/skeleton
+[23Dec2024 21:58:57.672] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:mobs/piglin
+[23Dec2024 21:58:57.676] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/keep_right_side
+[23Dec2024 21:58:57.679] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/tower_stairs_chainable_back_right
+[23Dec2024 21:58:57.681] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/tower_stairs_top_back_right
+[23Dec2024 21:58:57.683] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/tower_bottom_back_right
+[23Dec2024 21:58:57.685] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/tower_stairs_bottom_back_right
+[23Dec2024 21:58:57.686] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/tower_stairs_mid_back_right
+[23Dec2024 21:58:57.689] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/keep_tower_back_right
+[23Dec2024 21:58:57.695] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:mod_integration/battle_bridge_gate_create
+[23Dec2024 21:58:57.698] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:battle_bridge/battle_bridge_start
+[23Dec2024 21:58:57.702] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/tower_stairs_top_back_left
+[23Dec2024 21:58:57.704] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/tower_stairs_chainable_back_left
+[23Dec2024 21:58:57.705] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/tower_bottom_back_left
+[23Dec2024 21:58:57.706] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/tower_stairs_mid_back_left
+[23Dec2024 21:58:57.708] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/tower_stairs_bottom_back_left
+[23Dec2024 21:58:57.710] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/keep_tower_back_left
+[23Dec2024 21:58:57.711] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/tower_stairs_top_front_right
+[23Dec2024 21:58:57.713] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/tower_stairs_chainable_front_right
+[23Dec2024 21:58:57.713] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/tower_bottom_front_right
+[23Dec2024 21:58:57.714] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/tower_stairs_mid_front_right
+[23Dec2024 21:58:57.716] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/keep_tower_front_right
+[23Dec2024 21:58:57.718] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/keep_left_side
+[23Dec2024 21:58:57.720] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/keep_well
+[23Dec2024 21:58:57.721] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/tower_stairs_top_front_left
+[23Dec2024 21:58:57.722] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/tower_stairs_chainable_front_left
+[23Dec2024 21:58:57.724] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/tower_stairs_bottom_front_left
+[23Dec2024 21:58:57.725] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/tower_bottom_front_left
+[23Dec2024 21:58:57.726] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/tower_stairs_mid_front_left
+[23Dec2024 21:58:57.728] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/keep_tower_front_left
+[23Dec2024 21:58:57.734] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:battle_bridge/battle_bridge_gate
+[23Dec2024 21:58:57.736] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:battle_bridge/battle_bridge_straight
+[23Dec2024 21:58:57.737] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:battle_bridge/battle_bridge_pillar
+[23Dec2024 21:58:57.738] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:battle_bridge/battle_bridge_split
+[23Dec2024 21:58:57.745] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_stairs_l
+[23Dec2024 21:58:57.748] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_stairs_r
+[23Dec2024 21:58:57.748] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/blaze_stairs
+[23Dec2024 21:58:57.749] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_start
+[23Dec2024 21:58:57.750] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_pillar
+[23Dec2024 21:58:57.751] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_end
+[23Dec2024 21:58:57.752] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_junction_3
+[23Dec2024 21:58:57.754] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/room/alchemy_md_side_0
+[23Dec2024 21:58:57.755] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/hall_3_prop
+[23Dec2024 21:58:57.758] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/room/better_portals
+[23Dec2024 21:58:57.761] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/room/armory_md_side_0
+[23Dec2024 21:58:57.763] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/room/jail_md_l_0
+[23Dec2024 21:58:57.764] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/hall_turn_left_prop_1
+[23Dec2024 21:58:57.765] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/hall_straight_prop
+[23Dec2024 21:58:57.767] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/hall_turn_left
+[23Dec2024 21:58:57.768] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/room/mess_md_l_0
+[23Dec2024 21:58:57.770] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/room/study_sm
+[23Dec2024 21:58:57.771] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/hall_3_decor
+[23Dec2024 21:58:57.772] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/room/quarters_md_l_0
+[23Dec2024 21:58:57.773] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/hall_turn_left_decor
+[23Dec2024 21:58:57.774] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/room/study_md_l_0
+[23Dec2024 21:58:57.775] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/hall_3
+[23Dec2024 21:58:57.777] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/hall_stairs
+[23Dec2024 21:58:57.778] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/room/study_md_r_0
+[23Dec2024 21:58:57.779] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/hall_straight
+[23Dec2024 21:58:57.780] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/hall_turn_left_prop_0
+[23Dec2024 21:58:57.781] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/room/worship_md_l_0
+[23Dec2024 21:58:57.782] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/room/puzzle_md_side_0
+[23Dec2024 21:58:57.783] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/hall_straight_decor
+[23Dec2024 21:58:57.784] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/room/storeroom_sm_1
+[23Dec2024 21:58:57.785] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/room/storeroom_sm_0
+[23Dec2024 21:58:57.786] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/room/quarters_sm
+[23Dec2024 21:58:57.787] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/room/mess_md_r_0
+[23Dec2024 21:58:57.788] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/room/officer_sm
+[23Dec2024 21:58:57.789] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/room/worship_md_r_0
+[23Dec2024 21:58:57.790] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/room/jail_md_r_0
+[23Dec2024 21:58:57.790] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/halls_entrance_frame
+[23Dec2024 21:58:57.792] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/room/nether_reactor_md_l_0
+[23Dec2024 21:58:57.794] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/room/nether_reactor_md_r_0
+[23Dec2024 21:58:57.795] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/room/a_very_ethical_room
+[23Dec2024 21:58:57.796] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/room/obsidan_md_side_0
+[23Dec2024 21:58:57.797] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/halls_entrance_tunnel
+[23Dec2024 21:58:57.799] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/room/quarters_md_r_0
+[23Dec2024 21:58:57.802] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_chest_empty
+[23Dec2024 21:58:57.805] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_junction_2
+[23Dec2024 21:58:57.807] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_chest
+[23Dec2024 21:58:57.808] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_junction_4
+[23Dec2024 21:58:57.809] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_pillar_wall
+[23Dec2024 21:58:57.809] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_start_wall
+[23Dec2024 21:58:57.809] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_end_wall
+[23Dec2024 21:58:57.810] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_start_ruined_1
+[23Dec2024 21:58:57.810] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_start_ruined_4
+[23Dec2024 21:58:57.811] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_pillar_ruined_2
+[23Dec2024 21:58:57.811] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_pillar_ruined_3
+[23Dec2024 21:58:57.812] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_pillar_ruined_4
+[23Dec2024 21:58:57.812] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_pillar_ruined_1
+[23Dec2024 21:58:57.813] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/blaze_stairs_ruined_0
+[23Dec2024 21:58:57.814] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_end_ruined_0
+[23Dec2024 21:58:57.814] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_start_long_ruined_2
+[23Dec2024 21:58:57.815] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_start_long_ruined_3
+[23Dec2024 21:58:57.815] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_start_ruined_2
+[23Dec2024 21:58:57.816] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_start_long_ruined_4
+[23Dec2024 21:58:57.817] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/blaze_stairs_ruined_1
+[23Dec2024 21:58:57.817] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_pillar_ruined_0
+[23Dec2024 21:58:57.818] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_start_long_ruined_0
+[23Dec2024 21:58:57.818] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_start_ruined_3
+[23Dec2024 21:58:57.819] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_start_ruined_0
+[23Dec2024 21:58:57.819] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_start_long_ruined_1
+[23Dec2024 21:58:57.822] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/prop/hall_prop_glowstone_3wide_3
+[23Dec2024 21:58:57.825] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/hall_deadend_prop
+[23Dec2024 21:58:57.826] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/hall_deadend
+[23Dec2024 21:58:57.827] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/hall_deadend_decor
+[23Dec2024 21:58:57.828] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/hall_terminator
+[23Dec2024 21:58:57.829] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/prop/hall_prop_armory_4wide_0
+[23Dec2024 21:58:57.832] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/prop/hall_prop_hearth_5wide_0
+[23Dec2024 21:58:57.842] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/prop/hall_prop_broken_statue_1
+[23Dec2024 21:58:57.845] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/prop/hall_prop_broken_statue_2
+[23Dec2024 21:58:57.864] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/prop/hall_prop_glowstone_4wide_0
+[23Dec2024 21:58:57.865] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/prop/hall_prop_shelf_5wide_0
+[23Dec2024 21:58:57.875] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/prop/hall_prop_armory_5wide_0
+[23Dec2024 21:58:57.880] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/prop/hall_prop_fireplace_3wide_1
+[23Dec2024 21:58:57.890] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/prop/hall_prop_fireplace_3wide_2
+[23Dec2024 21:58:57.895] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/prop/hall_prop_wart_3wide
+[23Dec2024 21:58:57.904] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_pillar_beacon_unlit
+[23Dec2024 21:58:57.906] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_pillar_shelter
+[23Dec2024 21:58:57.907] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:blaze/blaze_0
+[23Dec2024 21:58:57.908] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:blaze/blaze_broken_0_l
+[23Dec2024 21:58:57.910] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:blaze/blaze_broken_0_r
+[23Dec2024 21:58:57.911] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:blaze/blaze_broken_1_l
+[23Dec2024 21:58:57.912] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:blaze/blaze_broken_1_r
+[23Dec2024 21:58:57.913] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:blaze/blaze_broken_2_l
+[23Dec2024 21:58:57.915] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:blaze/blaze_broken_2_r
+[23Dec2024 21:58:57.916] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:blaze/blaze_broken_3_l
+[23Dec2024 21:58:57.917] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:blaze/blaze_broken_3_r
+[23Dec2024 21:58:57.918] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:blaze/blaze_broken_4_l
+[23Dec2024 21:58:57.919] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:blaze/blaze_broken_4_r
+[23Dec2024 21:58:57.925] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/prop/hall_prop_fireplace_crumbled_3wide_0
+[23Dec2024 21:58:57.935] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/prop/hall_prop_glowstone_3wide_0
+[23Dec2024 21:58:57.937] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/prop/hall_prop_hearth_5wide_1
+[23Dec2024 21:58:57.944] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/prop/obsidian_deposit_1
+[23Dec2024 21:58:57.955] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/prop/hall_prop_wart_5wide
+[23Dec2024 21:58:57.968] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/prop/hall_prop_glowstone_4wide_1
+[23Dec2024 21:58:57.991] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/prop/hall_prop_broken_statue_0
+[23Dec2024 21:58:58.049] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/prop/hall_prop_glowstone_3wide_1
+[23Dec2024 21:58:58.056] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/prop/hall_prop_fireplace_4wide_0
+[23Dec2024 21:58:58.178] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_junction_2_covered
+[23Dec2024 21:58:59.051] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-1, 47], pos: MutableBlockPos{x=-11, y=48, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[23Dec2024 21:58:59.062] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-1, 47], pos: MutableBlockPos{x=-14, y=49, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[23Dec2024 21:58:59.068] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-1, 47], pos: MutableBlockPos{x=-13, y=48, z=753}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[23Dec2024 21:58:59.074] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-1, 47], pos: MutableBlockPos{x=-7, y=45, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[23Dec2024 21:58:59.077] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-1, 47], pos: MutableBlockPos{x=-9, y=46, z=752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[23Dec2024 21:59:08.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRIOMAX was slain by Forgotten
+[23Dec2024 21:59:17.812] [Server thread/DEBUG] [twilightforest/]: Player BRIOMAX (2a6eaa93-079a-3dca-be78-732c2db22348) respawned and received items held in storage
+[23Dec2024 21:59:25.107] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:dead_tree_1
+[23Dec2024 21:59:25.109] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cactus_2
+[23Dec2024 21:59:25.110] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:dead_tree_2
+[23Dec2024 21:59:25.111] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:palm_4
+[23Dec2024 21:59:25.112] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:palm_3
+[23Dec2024 21:59:25.113] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:palm_1
+[23Dec2024 21:59:25.114] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cactus_1
+[23Dec2024 21:59:25.115] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:palm_2
+[23Dec2024 21:59:25.116] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fossil_2
+[23Dec2024 21:59:25.117] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bone_2
+[23Dec2024 21:59:25.117] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fossil_1
+[23Dec2024 21:59:25.118] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bone_1
+[23Dec2024 21:59:25.125] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_dungeon_2
+[23Dec2024 21:59:25.127] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_dungeon_3
+[23Dec2024 21:59:25.129] [Worker-Main-3/DEBUG] [mixin/]: Mixing StructurePlacementLogging from structureessentials.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[23Dec2024 21:59:25.131] [Worker-Main-3/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[23Dec2024 21:59:25.141] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:obsidian_spike_1
+[23Dec2024 21:59:25.147] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:obsidian_tree_2
+[23Dec2024 21:59:25.151] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:obsidian_spike_3
+[23Dec2024 21:59:25.152] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:obsidian_spike_2
+[23Dec2024 21:59:25.153] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:obsidian_pillar_1
+[23Dec2024 21:59:25.156] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:obsidian_pillar_5
+[23Dec2024 21:59:25.158] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:obsidian_pillar_2
+[23Dec2024 21:59:25.169] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:obsidian_pillar_4
+[23Dec2024 21:59:25.178] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:obsidian_pillar_3
+[23Dec2024 21:59:25.187] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:obsidian_tree_1
+[23Dec2024 21:59:25.198] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_6
+[23Dec2024 21:59:25.200] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_spawn_altar_3
+[23Dec2024 21:59:25.801] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:flotsam_1
+[23Dec2024 21:59:25.802] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:flotsam_4
+[23Dec2024 21:59:25.803] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:flotsam_3
+[23Dec2024 21:59:25.803] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:flotsam_2
+[23Dec2024 21:59:25.804] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:flotsam_5
+[23Dec2024 21:59:25.981] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_wall_ruin_1
+[23Dec2024 22:00:27.210] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_dungeon_1
+[23Dec2024 22:00:27.211] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_dungeon_1
