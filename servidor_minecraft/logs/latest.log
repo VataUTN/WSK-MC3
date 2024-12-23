@@ -4170,3 +4170,9 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [23Dec2024 20:23:00.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Joacoo_17> 8
 [23Dec2024 20:23:10.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Domitax> a la mierda
 [23Dec2024 20:23:13.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Domitax> es un abanda
+[23Dec2024 20:32:33.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[23Dec2024 20:32:33.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: layers<--[HERE]
+[23Dec2024 20:32:37.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[23Dec2024 20:32:37.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: players<--[HERE]
+[23Dec2024 20:32:51.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 2 of a max of 20 players online: Domitax, Joacoo_17
+[23Dec2024 20:34:35.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: * Server brandon unmute

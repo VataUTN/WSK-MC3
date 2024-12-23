@@ -1719,6 +1719,12 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_barrel": {
+    "criteria": {
+      "has_slabs": "2024-12-23 20:30:18 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/af/biomemakeover/ancient_oak_table": {
     "criteria": {
       "has_planks": "2024-12-21 02:18:34 +0000"
@@ -2440,6 +2446,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/jungle_bench": {
+    "criteria": {
+      "has_slab": "2024-12-23 20:30:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2024-12-21 22:14:24 +0000"
@@ -2749,6 +2761,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-21 02:15:40 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/jungle_shutter": {
+    "criteria": {
+      "has_slab": "2024-12-23 20:30:18 +0000"
     },
     "done": true
   },
@@ -4050,6 +4068,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-23 20:30:18 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_tools/ventium_shears": {
     "criteria": {
       "has_item": "2024-12-21 04:35:36 +0000"
@@ -5213,6 +5237,12 @@
   "galosphere:recipes/galosphere/combustion_table": {
     "criteria": {
       "has_silver_ingot": "2024-12-21 04:05:18 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/jungle_table_slab": {
+    "criteria": {
+      "has_jungle": "2024-12-23 20:30:18 +0000"
     },
     "done": true
   },
@@ -6470,6 +6500,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/wood/jungle_banister": {
+    "criteria": {
+      "has_item": "2024-12-23 20:30:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
     "criteria": {
       "has_orange_tulip": "2024-12-21 05:39:21 +0000"
@@ -7056,6 +7092,12 @@
   "another_furniture:recipes/white_stool": {
     "criteria": {
       "has_wool": "2024-12-21 04:34:29 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/jungle_planter_box": {
+    "criteria": {
+      "has_slab": "2024-12-23 20:30:18 +0000"
     },
     "done": true
   },
@@ -8681,6 +8723,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2024-12-23 17:26:52 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_blocks/trough": {
+    "criteria": {
+      "has_item": "2024-12-23 20:30:18 +0000"
     },
     "done": true
   },
