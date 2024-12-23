@@ -116,6 +116,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-12-23 01:44:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2024-12-21 02:26:54 +0000"
@@ -458,15 +464,15 @@
     },
     "done": true
   },
-  "stoneworks:recipes/stoneworks.main/nether_brick_shingle_slab_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2024-12-23 00:50:25 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/stoneworks.main/mossy_netherrack_brick_slab_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2024-12-23 00:17:29 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/nether_brick_shingle_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-23 00:50:25 +0000"
     },
     "done": true
   },
@@ -2211,6 +2217,7 @@
       "byg:dacite_ridges": "2024-12-21 03:55:23 +0000",
       "byg:aspen_forest": "2024-12-21 04:13:56 +0000",
       "byg:forgotten_forest": "2024-12-21 04:15:27 +0000",
+      "byg:crimson_gardens": "2024-12-23 01:44:46 +0000",
       "byg:amaranth_fields": "2024-12-21 04:16:19 +0000",
       "byg:temperate_rainforest": "2024-12-21 02:57:35 +0000"
     },

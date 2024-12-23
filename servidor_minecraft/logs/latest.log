@@ -1546,3 +1546,17 @@
 [23Dec2024 01:30:42.624] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-19, 5], pos: MutableBlockPos{x=-296, y=45, z=81}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
 [23Dec2024 01:30:42.624] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-19, 5], pos: MutableBlockPos{x=-296, y=46, z=82}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
 [23Dec2024 01:34:36.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joacoo_17 tried to swim in lava to escape Piglin
+[23Dec2024 01:39:47.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joacoo_17 was slain by Dropbear
+[23Dec2024 01:42:32.995] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@28a9b3d4
+[23Dec2024 01:42:33.010] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Twuelvi[/127.76.167.49:50199] logged in with entity id 95727 at (5.305343953985087, 55.0, -47.93998055046382)
+[23Dec2024 01:42:33.011] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Twuelvi
+[23Dec2024 01:42:33.011] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Twuelvi
+[23Dec2024 01:42:33.011] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Twuelvi
+[23Dec2024 01:42:33.012] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Twuelvi
+[23Dec2024 01:42:33.013] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Twuelvi
+[23Dec2024 01:42:33.015] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Twuelvi
+[23Dec2024 01:42:33.015] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Twuelvi
+[23Dec2024 01:42:33.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Twuelvi joined the game
+[23Dec2024 01:42:33.063] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f0e9e050-51e8-3f94-b642-25238c260572
+[23Dec2024 01:42:33.076] [Server thread/INFO] [Jade/]: Syncing config to Twuelvi (f0e9e050-51e8-3f94-b642-25238c260572)
+[23Dec2024 01:43:26.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Twuelvi> que le dice un creeper a otro creeper?
