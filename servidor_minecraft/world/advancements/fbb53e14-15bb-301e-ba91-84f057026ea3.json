@@ -248,6 +248,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2024-12-23 00:05:28 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/mossy_cobbled_basalt_slab_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2024-12-22 22:12:11 +0000"
@@ -5475,6 +5481,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/oak_beam": {
+    "criteria": {
+      "has_stripped_log": "2024-12-23 00:04:19 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/oak_slab_from_oak_planks_sawing": {
     "criteria": {
       "has_oak_planks": "2024-12-21 23:17:00 +0000"
@@ -5919,6 +5931,12 @@
   "decorative_blocks:recipes/decorative_blocks.general/soul_brazier": {
     "criteria": {
       "has_bar": "2024-12-21 23:44:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-23 00:04:19 +0000"
     },
     "done": true
   },
@@ -6516,6 +6534,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/leather_boots_repairing": {
+    "criteria": {
+      "has_leather_boots": "2024-12-23 00:09:28 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/compacted_dripstone": {
     "criteria": {
       "has_pointed_dripstone": "2024-12-22 23:52:05 +0000"
@@ -6885,6 +6909,12 @@
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2024-12-21 23:23:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2024-12-23 00:05:28 +0000"
     },
     "done": true
   },
@@ -7822,6 +7852,12 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2024-12-22 00:06:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2024-12-23 00:05:28 +0000"
     },
     "done": true
   },

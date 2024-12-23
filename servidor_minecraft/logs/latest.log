@@ -329,3 +329,48 @@
 [23Dec2024 00:04:05.927] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-30, 21], pos: MutableBlockPos{x=-479, y=82, z=349}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
 [23Dec2024 00:04:08.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joacoo_17 drowned
 [23Dec2024 00:04:13.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Domitax> zzzzz
+[23Dec2024 00:04:22.008] [Server thread/ERROR] [xaero.pac.OpenPartiesAndClaims/]: Block/entity resource drop owner capture isn't working properly. Likely a compatibility issue. Turning it off...
+[23Dec2024 00:04:25.403] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-344, y=101, z=467} BlockPos{x=-344, y=101, z=468}
+[23Dec2024 00:04:37.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: * Vata74 fué ensartado por un tridente
+[23Dec2024 00:04:40.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> :(
+[23Dec2024 00:05:04.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax has made the advancement [Rocks Off!]
+[23Dec2024 00:05:50.983] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2504ms or 50 ticks behind
+[23Dec2024 00:06:03.806] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vata74 lost connection: Disconnected
+[23Dec2024 00:06:03.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 left the game
+[23Dec2024 00:06:03.807] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for aa13d00e-5bda-37e1-a49d-1216688ffe68
+[23Dec2024 00:06:22.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Twuelvi has made the advancement [Ice Bucket Challenge]
+[23Dec2024 00:07:50.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax was blown up by Nefario99
+[23Dec2024 00:08:56.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax was shot by Skeleton
+[23Dec2024 00:09:26.162] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@e587965
+[23Dec2024 00:09:26.181] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Vata74[/127.104.211.112:33023] logged in with entity id 42774 at (-350.35966555708984, 79.0, 475.30000001192093)
+[23Dec2024 00:09:26.182] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Vata74
+[23Dec2024 00:09:26.183] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Vata74
+[23Dec2024 00:09:26.183] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Vata74
+[23Dec2024 00:09:26.183] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Vata74
+[23Dec2024 00:09:26.184] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Vata74
+[23Dec2024 00:09:26.186] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Vata74
+[23Dec2024 00:09:26.186] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Vata74
+[23Dec2024 00:09:26.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 joined the game
+[23Dec2024 00:09:26.250] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for aa13d00e-5bda-37e1-a49d-1216688ffe68
+[23Dec2024 00:09:26.254] [Server thread/INFO] [Jade/]: Syncing config to Vata74 (aa13d00e-5bda-37e1-a49d-1216688ffe68)
+[23Dec2024 00:10:00.520] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=7, z=-17}
+[23Dec2024 00:10:00.520] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=6, z=-16}
+[23Dec2024 00:10:00.521] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=256, y=7, z=-18}
+[23Dec2024 00:10:23.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax was shot by Skeleton
+[23Dec2024 00:10:37.309] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-359, y=69, z=470} BlockPos{x=-364, y=71, z=460}
+[23Dec2024 00:11:24.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> lucio
+[23Dec2024 00:11:31.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nefario99> lucio
+[23Dec2024 00:11:37.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Domitax> lusio
+[23Dec2024 00:11:49.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Twuelvi> wa japen
+[23Dec2024 00:11:57.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> seguis haciendo la granja
+[23Dec2024 00:12:04.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Twuelvi> si
+[23Dec2024 00:12:10.733] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=749, y=-21, z=3108} but found not block entity block Block{minecraft:cave_air} at location
+[23Dec2024 00:12:10.733] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=749, y=-21, z=3108}
+[23Dec2024 00:12:13.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> tengo algo que te va a servir
+[23Dec2024 00:12:59.167] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Domitax lost connection: Disconnected
+[23Dec2024 00:12:59.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax left the game
+[23Dec2024 00:12:59.168] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7effd5be-38be-38d2-9d2c-a8327f0f217a
+[23Dec2024 00:13:00.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Twuelvi> que cosa
+[23Dec2024 00:13:14.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Joacoo_17> maravillosa
+[23Dec2024 00:13:37.086] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=7, z=-24}
+[23Dec2024 00:13:37.087] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=259, y=6, z=-25}

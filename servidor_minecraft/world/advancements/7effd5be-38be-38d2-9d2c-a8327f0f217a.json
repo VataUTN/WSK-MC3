@@ -212,6 +212,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2024-12-23 00:04:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 03:49:41 +0000"
@@ -881,6 +887,12 @@
   "nethersdelight:recipes/nethersdelight/diamond_machete": {
     "criteria": {
       "has_diamond": "2024-12-22 20:42:05 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/stone_brick": {
+    "criteria": {
+      "has_copper_block": "2024-12-23 00:05:04 +0000"
     },
     "done": true
   },
@@ -3677,6 +3689,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/rocky_shell": {
+    "criteria": {
+      "soul_heart": "2024-12-23 00:05:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 03:49:41 +0000"
@@ -4267,7 +4285,8 @@
       "minecraft:husk": "2024-12-22 01:58:08 +0000",
       "minecraft:silverfish": "2024-12-22 03:29:18 +0000",
       "minecraft:zombie": "2024-12-21 04:14:22 +0000",
-      "minecraft:drowned": "2024-12-22 04:51:28 +0000"
+      "minecraft:drowned": "2024-12-22 04:51:28 +0000",
+      "minecraft:zombie_villager": "2024-12-23 00:11:32 +0000"
     },
     "done": false
   },
@@ -4700,6 +4719,12 @@
   "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-22 03:40:28 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/oak_beam": {
+    "criteria": {
+      "has_stripped_log": "2024-12-23 00:04:27 +0000"
     },
     "done": true
   },
@@ -5149,6 +5174,12 @@
   "everycomp:recipes/everycomp/tf/quark/hollow_blossom_log_vertical": {
     "criteria": {
       "has_planks": "2024-12-22 20:41:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-23 00:04:27 +0000"
     },
     "done": true
   },
@@ -6004,6 +6035,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2024-12-23 00:04:53 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tables/dark_oak_table": {
     "criteria": {
       "has_bamboo": "2024-12-21 03:35:46 +0000"
@@ -6806,6 +6843,12 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2024-12-22 04:38:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2024-12-23 00:04:53 +0000"
     },
     "done": true
   },

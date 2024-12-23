@@ -176,6 +176,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-23 00:05:11 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/diorite_pavers_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-21 03:39:10 +0000"
@@ -632,6 +638,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-23 00:05:11 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/af/biomemakeover/ancient_oak_shutter": {
     "criteria": {
       "has_planks": "2024-12-21 02:18:34 +0000"
@@ -773,6 +785,12 @@
   "environmental:recipes/building_blocks/willow_bookshelf": {
     "criteria": {
       "has_book": "2024-12-21 04:38:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-23 00:05:11 +0000"
     },
     "done": true
   },
@@ -1929,6 +1947,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/redstone/oak_trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-23 00:07:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2024-12-21 04:34:29 +0000"
@@ -1981,6 +2005,12 @@
   "stoneworks:recipes/stoneworks.main/mossy_cobbled_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-21 03:39:10 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/redstone/cherry_trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-23 00:07:34 +0000"
     },
     "done": true
   },
@@ -2089,6 +2119,18 @@
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2024-12-21 22:14:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-23 00:05:11 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/redstone/willow_trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-23 00:07:34 +0000"
     },
     "done": true
   },
@@ -2860,6 +2902,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-23 00:05:11 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/faf/biomemakeover/ancient_oak_beehive": {
     "criteria": {
       "has_planks": "2024-12-21 02:18:34 +0000"
@@ -2923,6 +2971,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2024-12-21 22:14:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-23 00:05:11 +0000"
     },
     "done": true
   },
@@ -3257,6 +3311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-23 00:05:11 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/golden_gloves": {
     "criteria": {
       "has_gold": "2024-12-21 05:39:24 +0000"
@@ -3473,6 +3533,12 @@
   "farmersdelight:recipes/farmersdelight/flint_knife": {
     "criteria": {
       "has_stick": "2024-12-21 02:14:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-23 00:05:11 +0000"
     },
     "done": true
   },
@@ -3728,6 +3794,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/redstone/spruce_trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-23 00:07:34 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/stick_from_twig": {
     "criteria": {
       "has_item": "2024-12-21 02:51:03 +0000"
@@ -3746,6 +3818,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-23 00:05:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2024-12-21 02:14:14 +0000"
@@ -3755,6 +3833,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-12-21 04:04:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-23 00:05:11 +0000"
     },
     "done": true
   },
@@ -4257,6 +4341,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-23 00:07:34 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/vegetable_noodles": {
     "criteria": {
       "has_any_ingredient": "2024-12-22 02:43:12 +0000"
@@ -4600,6 +4690,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/redstone/mangrove_trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-23 00:07:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-21 04:55:51 +0000"
@@ -4813,6 +4909,12 @@
   "everycomp:recipes/everycomp/af/byg/skyris_shutter": {
     "criteria": {
       "has_planks": "2024-12-22 02:48:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-23 00:05:11 +0000"
     },
     "done": true
   },
@@ -5200,6 +5302,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-23 00:05:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-21 02:26:34 +0000"
@@ -5350,6 +5458,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/redstone/crimson_trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-23 00:07:34 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/dry_bamboo_door": {
     "criteria": {
       "has_dry_bundle": "2024-12-21 02:11:40 +0000"
@@ -5459,6 +5573,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/redstone/birch_trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-23 00:07:34 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/stone_sword_repairing": {
     "criteria": {
       "has_stone_sword": "2024-12-21 02:32:21 +0000"
@@ -5492,6 +5612,18 @@
   "handcrafted:recipes/misc/diorite_corner_trim": {
     "criteria": {
       "has_corner_trim": "2024-12-21 03:39:11 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/jungle_trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-23 00:07:34 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/acacia_trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-23 00:07:34 +0000"
     },
     "done": true
   },
@@ -5612,6 +5744,12 @@
   "ecologics:recipes/ecologics/coconut_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-21 05:05:55 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/warped_trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-23 00:07:34 +0000"
     },
     "done": true
   },
@@ -6012,6 +6150,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-23 00:05:11 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/cobbled_netherrack_slab_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2024-12-21 23:07:18 +0000"
@@ -6406,6 +6550,12 @@
   "everycomp:recipes/everycomp/tf/byg/hollow_skyris_log_vertical": {
     "criteria": {
       "has_planks": "2024-12-22 02:48:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-23 00:05:11 +0000"
     },
     "done": true
   },
@@ -7076,6 +7226,12 @@
     },
     "done": true
   },
+  "environmental:recipes/redstone/wisteria_trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-23 00:07:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2024-12-21 03:39:10 +0000"
@@ -7085,6 +7241,12 @@
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2024-12-21 02:11:40 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/dark_oak_trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-23 00:07:34 +0000"
     },
     "done": true
   },
@@ -7667,6 +7829,12 @@
   "another_furniture:recipes/light_gray_lamp": {
     "criteria": {
       "has_wool": "2024-12-21 04:47:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-23 00:05:11 +0000"
     },
     "done": true
   },
