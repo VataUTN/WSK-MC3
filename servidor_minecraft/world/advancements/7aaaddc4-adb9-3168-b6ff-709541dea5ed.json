@@ -254,6 +254,24 @@
     },
     "done": true
   },
+  "woodworks:recipes/redstone/jungle_door_from_jungle_logs_sawing": {
+    "criteria": {
+      "has_jungle_logs": "2024-12-23 17:20:59 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:immersive_weathering/bark_off": {
+    "criteria": {
+      "wax_off": "2024-12-23 17:21:11 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/jungle_stairs_from_jungle_logs_sawing": {
+    "criteria": {
+      "has_jungle_logs": "2024-12-23 17:20:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2024-12-21 02:13:38 +0000"
@@ -263,6 +281,12 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2024-12-21 02:17:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2024-12-23 17:26:52 +0000"
     },
     "done": true
   },
@@ -1161,6 +1185,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/decorations/jungle_sign_from_jungle_logs_sawing": {
+    "criteria": {
+      "has_jungle_logs": "2024-12-23 17:20:59 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_loom": {
     "criteria": {
       "has_string": "2024-12-21 05:39:24 +0000"
@@ -1176,6 +1206,12 @@
   "stoneworks:recipes/stoneworks.main/cracked_andesite_tiles_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-21 03:50:19 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/jungle_pressure_plate_from_jungle_logs_sawing": {
+    "criteria": {
+      "has_jungle_logs": "2024-12-23 17:20:59 +0000"
     },
     "done": true
   },
@@ -1248,6 +1284,12 @@
   "woodworks:recipes/decorations/sawmill": {
     "criteria": {
       "has_planks": "2024-12-21 02:14:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2024-12-23 17:20:59 +0000"
     },
     "done": true
   },
@@ -1380,6 +1422,12 @@
   "alexsmobs:alexsmobs/banana": {
     "criteria": {
       "banana": "2024-12-21 02:54:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2024-12-23 17:20:59 +0000"
     },
     "done": true
   },
@@ -2061,6 +2109,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2024-12-23 17:21:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2024-12-21 03:57:42 +0000"
@@ -2584,6 +2638,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/redstone/jungle_fence_gate_from_jungle_logs_sawing": {
+    "criteria": {
+      "has_jungle_logs": "2024-12-23 17:20:59 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/nether_brick_plates_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-23 01:28:13 +0000"
@@ -2617,6 +2677,12 @@
   "stoneworks:recipes/stoneworks.main/mossy_netherrack_bricks_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2024-12-21 23:07:18 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/jungle_planks_from_jungle_logs_sawing": {
+    "criteria": {
+      "has_jungle_logs": "2024-12-23 17:20:59 +0000"
     },
     "done": true
   },
@@ -3425,6 +3491,12 @@
     },
     "done": true
   },
+  "immersive_weathering:recipes/jungle_bark": {
+    "criteria": {
+      "has_copper_block": "2024-12-23 17:21:12 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/storage/acorn_storage_block": {
     "criteria": {
       "has_acorn": "2024-12-22 01:13:47 +0000"
@@ -3548,6 +3620,12 @@
   "byg:husbandry/berrily_alive": {
     "criteria": {
       "blue_berry": "2024-12-21 04:31:38 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/jungle_palisade": {
+    "criteria": {
+      "has_log": "2024-12-23 17:20:59 +0000"
     },
     "done": true
   },
@@ -3933,6 +4011,12 @@
   "clayworks:recipes/decorations/green_terracotta_brick_wall_from_green_terracotta_stonecutting": {
     "criteria": {
       "has_green_terracotta": "2024-12-21 05:39:13 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/jungle_trapdoor_from_jungle_logs_sawing": {
+    "criteria": {
+      "has_jungle_logs": "2024-12-23 17:20:59 +0000"
     },
     "done": true
   },
@@ -4330,6 +4414,12 @@
   "minecraft:recipes/building_blocks/cloudcap_planks_to_skyroot_bookshelf": {
     "criteria": {
       "has_book": "2024-12-21 04:38:36 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/jungle_slab_from_jungle_logs_sawing": {
+    "criteria": {
+      "has_jungle_logs": "2024-12-23 17:20:59 +0000"
     },
     "done": true
   },
@@ -4997,6 +5087,12 @@
   "shieldexp:recipes/iron_shield": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 04:04:23 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/jungle_beam": {
+    "criteria": {
+      "has_stripped_log": "2024-12-23 17:21:15 +0000"
     },
     "done": true
   },
@@ -6230,6 +6326,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-23 17:21:24 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/bamboo_slab": {
     "criteria": {
       "has_bundle": "2024-12-21 02:11:40 +0000"
@@ -6420,6 +6522,12 @@
   "clayworks:recipes/building_blocks/green_terracotta_brick_vertical_slab_from_green_terracotta_stonecutting": {
     "criteria": {
       "has_green_terracotta": "2024-12-21 05:39:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2024-12-23 17:21:24 +0000"
     },
     "done": true
   },
@@ -7152,6 +7260,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/decorations/jungle_fence_from_jungle_logs_sawing": {
+    "criteria": {
+      "has_jungle_logs": "2024-12-23 17:20:59 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/db/biomemakeover/ancient_oak_beam": {
     "criteria": {
       "has_planks": "2024-12-21 02:18:34 +0000"
@@ -7338,9 +7452,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2024-12-23 17:26:52 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tables/dark_oak_table": {
     "criteria": {
       "has_bamboo": "2024-12-21 02:14:01 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/jungle_ladder_from_jungle_logs_sawing": {
+    "criteria": {
+      "has_jungle_logs": "2024-12-23 17:20:59 +0000"
     },
     "done": true
   },
@@ -7874,6 +8000,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/jungle_boards_from_jungle_logs_sawing": {
+    "criteria": {
+      "has_jungle_logs": "2024-12-23 17:20:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2024-12-21 05:39:24 +0000"
@@ -8063,6 +8195,12 @@
   "everycomp:recipes/everycomp/af/quark/blossom_table": {
     "criteria": {
       "has_planks": "2024-12-23 02:05:59 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/jungle_button_from_jungle_logs_sawing": {
+    "criteria": {
+      "has_jungle_logs": "2024-12-23 17:20:59 +0000"
     },
     "done": true
   },
@@ -8390,6 +8528,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2024-12-23 17:26:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2024-12-21 23:06:26 +0000"
@@ -8573,6 +8717,12 @@
   "woodworks:recipes/decorations/warped_ladder_from_warped_stems_sawing": {
     "criteria": {
       "has_warped_stems": "2024-12-23 00:18:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_jungle_wood": {
+    "criteria": {
+      "has_log": "2024-12-23 17:21:15 +0000"
     },
     "done": true
   },

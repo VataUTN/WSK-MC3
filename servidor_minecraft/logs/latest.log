@@ -4035,3 +4035,17 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [23Dec2024 16:41:47.940] [Server thread/INFO] [de.cas_ual_ty.deuf.DEUF/]: Changing UUID of entity alexsmobs:raccoon that already existed from afa28872-2322-4484-8f60-d1cbdf348ceb to 3a635280-da26-46b1-a53a-6675d516786d
 [23Dec2024 16:49:37.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joacoo_17 fell from a high place
 [23Dec2024 17:20:19.397] [Server thread/INFO] [de.cas_ual_ty.deuf.DEUF/]: Changing UUID of entity alexsmobs:crow that already existed from da2a9623-73f6-4cbd-b83a-2f1e5deea869 to 47d071a1-6944-4764-93c3-deb924ca8726
+[23Dec2024 17:21:11.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joacoo_17 has made the advancement [Bark Off]
+[23Dec2024 17:30:21.265] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1cbc707a
+[23Dec2024 17:30:21.311] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Domitax[/127.232.93.209:33467] logged in with entity id 18674 at (721.1433963482731, 63.0, -181.4838285364981)
+[23Dec2024 17:30:21.313] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Domitax
+[23Dec2024 17:30:21.313] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Domitax
+[23Dec2024 17:30:21.314] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Domitax
+[23Dec2024 17:30:21.314] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Domitax
+[23Dec2024 17:30:21.318] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Domitax
+[23Dec2024 17:30:21.323] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Domitax
+[23Dec2024 17:30:21.324] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Domitax
+[23Dec2024 17:30:21.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax joined the game
+[23Dec2024 17:30:21.447] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7effd5be-38be-38d2-9d2c-a8327f0f217a
+[23Dec2024 17:30:21.475] [Server thread/INFO] [Jade/]: Syncing config to Domitax (7effd5be-38be-38d2-9d2c-a8327f0f217a)
+[23Dec2024 17:30:22.639] [Server thread/INFO] [de.cas_ual_ty.deuf.DEUF/]: Changing UUID of entity alexsmobs:crow that already existed from 33cb9755-2dd3-4fb2-a6b4-10186fcd0e16 to 7da7c785-a141-43e2-89e5-357b1250000d
