@@ -2244,3 +2244,278 @@ java.lang.NullPointerException: Cannot invoke "com.lothrazar.storagenetwork.api.
 	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:658) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[23Dec2024 02:39:45.199] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joacoo_17 lost connection: Disconnected
+[23Dec2024 02:39:45.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joacoo_17 left the game
+[23Dec2024 02:39:45.200] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7aaaddc4-adb9-3168-b6ff-709541dea5ed
+[23Dec2024 02:39:57.413] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=39, y=-50, z=-58}
+[23Dec2024 02:39:57.414] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=43, y=-50, z=-59}
+[23Dec2024 02:39:57.414] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=44, y=-50, z=-56}
+[23Dec2024 02:39:57.414] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=45, y=-50, z=-61}
+[23Dec2024 02:43:40.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Twuelvi> vata
+[23Dec2024 02:43:44.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Twuelvi> podes dormir?
+[23Dec2024 02:44:00.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> no
+[23Dec2024 02:44:03.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> me desconecto
+[23Dec2024 02:44:09.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Twuelvi> no puedo tampoco
+[23Dec2024 02:44:11.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Twuelvi> xd
+[23Dec2024 02:44:12.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> f
+[23Dec2024 02:44:50.311] [Server thread/ERROR] [com.lothrazar.storagenetwork.StorageNetworkMod/]: insertStack container issue
+java.lang.NullPointerException: Cannot invoke "com.lothrazar.storagenetwork.api.DimPos.offset(net.minecraft.core.Direction)" because the return value of "com.lothrazar.storagenetwork.api.IConnectable.getPos()" is null
+	at com.lothrazar.storagenetwork.capability.CapabilityConnectableLink.insertStack(CapabilityConnectableLink.java:107) ~[SimpleStorageNetwork-1.19.2-1.7.0.jar%23502!/:1.19.2-1.7.0]
+	at com.lothrazar.storagenetwork.block.main.NetworkModule.insertStack(NetworkModule.java:259) ~[SimpleStorageNetwork-1.19.2-1.7.0.jar%23502!/:1.19.2-1.7.0]
+	at com.lothrazar.storagenetwork.block.main.TileMain.insertStack(TileMain.java:60) ~[SimpleStorageNetwork-1.19.2-1.7.0.jar%23502!/:1.19.2-1.7.0]
+	at com.lothrazar.storagenetwork.gui.ContainerNetwork.m_7648_(ContainerNetwork.java:152) ~[SimpleStorageNetwork-1.19.2-1.7.0.jar%23502!/:1.19.2-1.7.0]
+	at net.minecraft.world.inventory.AbstractContainerMenu.m_150430_(AbstractContainerMenu.java:393) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.world.inventory.AbstractContainerMenu.m_150399_(AbstractContainerMenu.java:293) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_5914_(ServerGamePacketListenerImpl.java:1636) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.m_5797_(ServerboundContainerClickPacket.java:56) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.m_5797_(ServerboundContainerClickPacket.java:12) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:22) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:763) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:746) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:740) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:140) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:726) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:658) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[23Dec2024 02:44:50.313] [Server thread/ERROR] [com.lothrazar.storagenetwork.StorageNetworkMod/]: insertStack container issue
+java.lang.NullPointerException: Cannot invoke "com.lothrazar.storagenetwork.api.DimPos.offset(net.minecraft.core.Direction)" because the return value of "com.lothrazar.storagenetwork.api.IConnectable.getPos()" is null
+	at com.lothrazar.storagenetwork.capability.CapabilityConnectableLink.insertStack(CapabilityConnectableLink.java:107) ~[SimpleStorageNetwork-1.19.2-1.7.0.jar%23502!/:1.19.2-1.7.0]
+	at com.lothrazar.storagenetwork.block.main.NetworkModule.insertStack(NetworkModule.java:259) ~[SimpleStorageNetwork-1.19.2-1.7.0.jar%23502!/:1.19.2-1.7.0]
+	at com.lothrazar.storagenetwork.block.main.TileMain.insertStack(TileMain.java:60) ~[SimpleStorageNetwork-1.19.2-1.7.0.jar%23502!/:1.19.2-1.7.0]
+	at com.lothrazar.storagenetwork.gui.ContainerNetwork.m_7648_(ContainerNetwork.java:152) ~[SimpleStorageNetwork-1.19.2-1.7.0.jar%23502!/:1.19.2-1.7.0]
+	at net.minecraft.world.inventory.AbstractContainerMenu.m_150430_(AbstractContainerMenu.java:393) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.world.inventory.AbstractContainerMenu.m_150399_(AbstractContainerMenu.java:293) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_5914_(ServerGamePacketListenerImpl.java:1636) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.m_5797_(ServerboundContainerClickPacket.java:56) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.m_5797_(ServerboundContainerClickPacket.java:12) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:22) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:763) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:746) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:740) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:140) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:726) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:658) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[23Dec2024 02:44:51.820] [Server thread/ERROR] [com.lothrazar.storagenetwork.StorageNetworkMod/]: insertStack container issue
+java.lang.NullPointerException: Cannot invoke "com.lothrazar.storagenetwork.api.DimPos.offset(net.minecraft.core.Direction)" because the return value of "com.lothrazar.storagenetwork.api.IConnectable.getPos()" is null
+	at com.lothrazar.storagenetwork.capability.CapabilityConnectableLink.insertStack(CapabilityConnectableLink.java:107) ~[SimpleStorageNetwork-1.19.2-1.7.0.jar%23502!/:1.19.2-1.7.0]
+	at com.lothrazar.storagenetwork.block.main.NetworkModule.insertStack(NetworkModule.java:259) ~[SimpleStorageNetwork-1.19.2-1.7.0.jar%23502!/:1.19.2-1.7.0]
+	at com.lothrazar.storagenetwork.block.main.TileMain.insertStack(TileMain.java:60) ~[SimpleStorageNetwork-1.19.2-1.7.0.jar%23502!/:1.19.2-1.7.0]
+	at com.lothrazar.storagenetwork.network.InsertMessage.lambda$handle$0(InsertMessage.java:39) ~[SimpleStorageNetwork-1.19.2-1.7.0.jar%23502!/:1.19.2-1.7.0]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:68) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:763) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:746) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:740) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:140) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:726) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:658) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[23Dec2024 02:44:51.821] [Server thread/ERROR] [com.lothrazar.storagenetwork.StorageNetworkMod/]: insertStack container issue
+java.lang.NullPointerException: Cannot invoke "com.lothrazar.storagenetwork.api.DimPos.offset(net.minecraft.core.Direction)" because the return value of "com.lothrazar.storagenetwork.api.IConnectable.getPos()" is null
+	at com.lothrazar.storagenetwork.capability.CapabilityConnectableLink.insertStack(CapabilityConnectableLink.java:107) ~[SimpleStorageNetwork-1.19.2-1.7.0.jar%23502!/:1.19.2-1.7.0]
+	at com.lothrazar.storagenetwork.block.main.NetworkModule.insertStack(NetworkModule.java:259) ~[SimpleStorageNetwork-1.19.2-1.7.0.jar%23502!/:1.19.2-1.7.0]
+	at com.lothrazar.storagenetwork.block.main.TileMain.insertStack(TileMain.java:60) ~[SimpleStorageNetwork-1.19.2-1.7.0.jar%23502!/:1.19.2-1.7.0]
+	at com.lothrazar.storagenetwork.network.InsertMessage.lambda$handle$0(InsertMessage.java:39) ~[SimpleStorageNetwork-1.19.2-1.7.0.jar%23502!/:1.19.2-1.7.0]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:68) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:763) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:746) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:740) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:140) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:726) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:658) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[23Dec2024 02:44:57.404] [Server thread/ERROR] [com.lothrazar.storagenetwork.StorageNetworkMod/]: insertStack container issue
+java.lang.NullPointerException: Cannot invoke "com.lothrazar.storagenetwork.api.DimPos.offset(net.minecraft.core.Direction)" because the return value of "com.lothrazar.storagenetwork.api.IConnectable.getPos()" is null
+	at com.lothrazar.storagenetwork.capability.CapabilityConnectableLink.insertStack(CapabilityConnectableLink.java:107) ~[SimpleStorageNetwork-1.19.2-1.7.0.jar%23502!/:1.19.2-1.7.0]
+	at com.lothrazar.storagenetwork.block.main.NetworkModule.insertStack(NetworkModule.java:259) ~[SimpleStorageNetwork-1.19.2-1.7.0.jar%23502!/:1.19.2-1.7.0]
+	at com.lothrazar.storagenetwork.block.main.TileMain.insertStack(TileMain.java:60) ~[SimpleStorageNetwork-1.19.2-1.7.0.jar%23502!/:1.19.2-1.7.0]
+	at com.lothrazar.storagenetwork.gui.ContainerNetwork.m_7648_(ContainerNetwork.java:152) ~[SimpleStorageNetwork-1.19.2-1.7.0.jar%23502!/:1.19.2-1.7.0]
+	at net.minecraft.world.inventory.AbstractContainerMenu.m_150430_(AbstractContainerMenu.java:393) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.world.inventory.AbstractContainerMenu.m_150399_(AbstractContainerMenu.java:293) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_5914_(ServerGamePacketListenerImpl.java:1636) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.m_5797_(ServerboundContainerClickPacket.java:56) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.m_5797_(ServerboundContainerClickPacket.java:12) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:22) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:763) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:746) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:740) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:140) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:726) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:658) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[23Dec2024 02:44:57.405] [Server thread/ERROR] [com.lothrazar.storagenetwork.StorageNetworkMod/]: insertStack container issue
+java.lang.NullPointerException: Cannot invoke "com.lothrazar.storagenetwork.api.DimPos.offset(net.minecraft.core.Direction)" because the return value of "com.lothrazar.storagenetwork.api.IConnectable.getPos()" is null
+	at com.lothrazar.storagenetwork.capability.CapabilityConnectableLink.insertStack(CapabilityConnectableLink.java:107) ~[SimpleStorageNetwork-1.19.2-1.7.0.jar%23502!/:1.19.2-1.7.0]
+	at com.lothrazar.storagenetwork.block.main.NetworkModule.insertStack(NetworkModule.java:259) ~[SimpleStorageNetwork-1.19.2-1.7.0.jar%23502!/:1.19.2-1.7.0]
+	at com.lothrazar.storagenetwork.block.main.TileMain.insertStack(TileMain.java:60) ~[SimpleStorageNetwork-1.19.2-1.7.0.jar%23502!/:1.19.2-1.7.0]
+	at com.lothrazar.storagenetwork.gui.ContainerNetwork.m_7648_(ContainerNetwork.java:152) ~[SimpleStorageNetwork-1.19.2-1.7.0.jar%23502!/:1.19.2-1.7.0]
+	at net.minecraft.world.inventory.AbstractContainerMenu.m_150430_(AbstractContainerMenu.java:393) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.world.inventory.AbstractContainerMenu.m_150399_(AbstractContainerMenu.java:293) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_5914_(ServerGamePacketListenerImpl.java:1636) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.m_5797_(ServerboundContainerClickPacket.java:56) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.m_5797_(ServerboundContainerClickPacket.java:12) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:22) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:763) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:746) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:740) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:140) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:726) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:658) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[23Dec2024 02:45:20.716] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 23287ms or 465 ticks behind
+[23Dec2024 02:45:20.743] [Server thread/ERROR] [com.lothrazar.storagenetwork.StorageNetworkMod/]: insertStack container issue
+java.lang.NullPointerException: Cannot invoke "com.lothrazar.storagenetwork.api.DimPos.offset(net.minecraft.core.Direction)" because the return value of "com.lothrazar.storagenetwork.api.IConnectable.getPos()" is null
+	at com.lothrazar.storagenetwork.capability.CapabilityConnectableLink.insertStack(CapabilityConnectableLink.java:107) ~[SimpleStorageNetwork-1.19.2-1.7.0.jar%23502!/:1.19.2-1.7.0]
+	at com.lothrazar.storagenetwork.block.main.NetworkModule.insertStack(NetworkModule.java:259) ~[SimpleStorageNetwork-1.19.2-1.7.0.jar%23502!/:1.19.2-1.7.0]
+	at com.lothrazar.storagenetwork.block.main.TileMain.insertStack(TileMain.java:60) ~[SimpleStorageNetwork-1.19.2-1.7.0.jar%23502!/:1.19.2-1.7.0]
+	at com.lothrazar.storagenetwork.gui.ContainerNetwork.m_7648_(ContainerNetwork.java:152) ~[SimpleStorageNetwork-1.19.2-1.7.0.jar%23502!/:1.19.2-1.7.0]
+	at net.minecraft.world.inventory.AbstractContainerMenu.m_150430_(AbstractContainerMenu.java:393) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.world.inventory.AbstractContainerMenu.m_150399_(AbstractContainerMenu.java:293) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_5914_(ServerGamePacketListenerImpl.java:1636) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.m_5797_(ServerboundContainerClickPacket.java:56) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.m_5797_(ServerboundContainerClickPacket.java:12) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:22) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:763) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:746) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:740) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:116) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:725) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:658) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[23Dec2024 02:45:20.745] [Server thread/ERROR] [com.lothrazar.storagenetwork.StorageNetworkMod/]: insertStack container issue
+java.lang.NullPointerException: Cannot invoke "com.lothrazar.storagenetwork.api.DimPos.offset(net.minecraft.core.Direction)" because the return value of "com.lothrazar.storagenetwork.api.IConnectable.getPos()" is null
+	at com.lothrazar.storagenetwork.capability.CapabilityConnectableLink.insertStack(CapabilityConnectableLink.java:107) ~[SimpleStorageNetwork-1.19.2-1.7.0.jar%23502!/:1.19.2-1.7.0]
+	at com.lothrazar.storagenetwork.block.main.NetworkModule.insertStack(NetworkModule.java:259) ~[SimpleStorageNetwork-1.19.2-1.7.0.jar%23502!/:1.19.2-1.7.0]
+	at com.lothrazar.storagenetwork.block.main.TileMain.insertStack(TileMain.java:60) ~[SimpleStorageNetwork-1.19.2-1.7.0.jar%23502!/:1.19.2-1.7.0]
+	at com.lothrazar.storagenetwork.gui.ContainerNetwork.m_7648_(ContainerNetwork.java:152) ~[SimpleStorageNetwork-1.19.2-1.7.0.jar%23502!/:1.19.2-1.7.0]
+	at net.minecraft.world.inventory.AbstractContainerMenu.m_150430_(AbstractContainerMenu.java:393) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.world.inventory.AbstractContainerMenu.m_150399_(AbstractContainerMenu.java:293) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_5914_(ServerGamePacketListenerImpl.java:1636) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.m_5797_(ServerboundContainerClickPacket.java:56) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.m_5797_(ServerboundContainerClickPacket.java:12) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:22) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:763) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:746) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:740) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:116) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:725) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:658) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[23Dec2024 02:45:20.747] [Server thread/ERROR] [com.lothrazar.storagenetwork.StorageNetworkMod/]: insertStack container issue
+java.lang.NullPointerException: Cannot invoke "com.lothrazar.storagenetwork.api.DimPos.offset(net.minecraft.core.Direction)" because the return value of "com.lothrazar.storagenetwork.api.IConnectable.getPos()" is null
+	at com.lothrazar.storagenetwork.capability.CapabilityConnectableLink.insertStack(CapabilityConnectableLink.java:107) ~[SimpleStorageNetwork-1.19.2-1.7.0.jar%23502!/:1.19.2-1.7.0]
+	at com.lothrazar.storagenetwork.block.main.NetworkModule.insertStack(NetworkModule.java:259) ~[SimpleStorageNetwork-1.19.2-1.7.0.jar%23502!/:1.19.2-1.7.0]
+	at com.lothrazar.storagenetwork.block.main.TileMain.insertStack(TileMain.java:60) ~[SimpleStorageNetwork-1.19.2-1.7.0.jar%23502!/:1.19.2-1.7.0]
+	at com.lothrazar.storagenetwork.network.InsertMessage.lambda$handle$0(InsertMessage.java:39) ~[SimpleStorageNetwork-1.19.2-1.7.0.jar%23502!/:1.19.2-1.7.0]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:68) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:763) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:746) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:740) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:116) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:725) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:658) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[23Dec2024 02:45:20.748] [Server thread/ERROR] [com.lothrazar.storagenetwork.StorageNetworkMod/]: insertStack container issue
+java.lang.NullPointerException: Cannot invoke "com.lothrazar.storagenetwork.api.DimPos.offset(net.minecraft.core.Direction)" because the return value of "com.lothrazar.storagenetwork.api.IConnectable.getPos()" is null
+	at com.lothrazar.storagenetwork.capability.CapabilityConnectableLink.insertStack(CapabilityConnectableLink.java:107) ~[SimpleStorageNetwork-1.19.2-1.7.0.jar%23502!/:1.19.2-1.7.0]
+	at com.lothrazar.storagenetwork.block.main.NetworkModule.insertStack(NetworkModule.java:259) ~[SimpleStorageNetwork-1.19.2-1.7.0.jar%23502!/:1.19.2-1.7.0]
+	at com.lothrazar.storagenetwork.block.main.TileMain.insertStack(TileMain.java:60) ~[SimpleStorageNetwork-1.19.2-1.7.0.jar%23502!/:1.19.2-1.7.0]
+	at com.lothrazar.storagenetwork.network.InsertMessage.lambda$handle$0(InsertMessage.java:39) ~[SimpleStorageNetwork-1.19.2-1.7.0.jar%23502!/:1.19.2-1.7.0]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:68) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:763) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:746) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:740) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:116) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:725) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:658) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23564!/:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[23Dec2024 02:45:20.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> f
+[23Dec2024 02:47:25.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Twuelvi was stung to death
+[23Dec2024 02:48:40.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Twuelvi has made the advancement [This Must be a Sign!]
+[23Dec2024 02:55:22.059] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@49dfbfff
+[23Dec2024 02:55:22.074] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Domitax[/127.232.93.209:45841] logged in with entity id 118332 at (-172.92466275997526, -2.0, 6330.311032384448)
+[23Dec2024 02:55:22.076] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Domitax
+[23Dec2024 02:55:22.076] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Domitax
+[23Dec2024 02:55:22.076] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Domitax
+[23Dec2024 02:55:22.076] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Domitax
+[23Dec2024 02:55:22.078] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Domitax
+[23Dec2024 02:55:22.080] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Domitax
+[23Dec2024 02:55:22.080] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Domitax
+[23Dec2024 02:55:22.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax joined the game
+[23Dec2024 02:55:22.102] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7effd5be-38be-38d2-9d2c-a8327f0f217a
+[23Dec2024 02:55:22.111] [Server thread/INFO] [Jade/]: Syncing config to Domitax (7effd5be-38be-38d2-9d2c-a8327f0f217a)
+[23Dec2024 02:56:22.160] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2680ms or 53 ticks behind
+[23Dec2024 02:57:38.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> LUSIO
+[23Dec2024 02:57:45.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 has made the advancement [Limit Breaker]
+[23Dec2024 02:57:49.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Domitax> puedo ayudar a hacer la granja?
+[23Dec2024 02:58:05.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Twuelvi> ya la termine
+[23Dec2024 02:58:08.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Domitax> que
+[23Dec2024 02:58:19.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> lucio veni a la granja
+[23Dec2024 02:58:58.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax fell from a high place
+[23Dec2024 02:59:07.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> brandon ontas
+[23Dec2024 02:59:17.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> te ayudo
+[23Dec2024 02:59:17.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Twuelvi> bancame estoy en un mometo complejo
