@@ -3410,6 +3410,7 @@
       "byg:aspen_forest": "2024-12-22 04:01:04 +0000",
       "byg:twilight_meadow": "2024-12-21 05:07:59 +0000",
       "byg:skyris_vale": "2024-12-21 23:39:35 +0000",
+      "byg:crimson_gardens": "2024-12-23 02:10:14 +0000",
       "byg:canadian_shield": "2024-12-21 05:06:17 +0000",
       "byg:cardinal_tundra": "2024-12-21 05:02:45 +0000",
       "byg:amaranth_fields": "2024-12-21 22:32:42 +0000",
@@ -5996,15 +5997,15 @@
     },
     "done": true
   },
-  "stoneworks:recipes/stoneworks.main/dark_prismarine_shingle_stairs_from_dark_prismarine_stonecutting": {
-    "criteria": {
-      "has_dark_prismarine": "2024-12-23 00:29:17 +0000"
-    },
-    "done": true
-  },
   "twigs:recipes/basalt_blocks/smooth_basalt_bricks": {
     "criteria": {
       "has_item": "2024-12-23 00:14:03 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/dark_prismarine_shingle_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2024-12-23 00:29:17 +0000"
     },
     "done": true
   },

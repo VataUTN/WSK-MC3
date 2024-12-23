@@ -2283,6 +2283,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-23 02:12:24 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/galosphere/silver_nugget": {
     "criteria": {
       "has_silver_ingot": "2024-12-21 04:07:10 +0000"
@@ -4064,6 +4070,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_boots_repairing": {
+    "criteria": {
+      "has_golden_boots": "2024-12-23 02:14:12 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/birch_table": {
     "criteria": {
       "has_planks": "2024-12-21 04:10:27 +0000"
@@ -4325,6 +4337,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2024-12-21 03:02:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-23 02:12:24 +0000"
     },
     "done": true
   },

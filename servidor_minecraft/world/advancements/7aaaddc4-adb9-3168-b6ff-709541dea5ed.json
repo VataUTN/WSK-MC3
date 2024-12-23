@@ -158,6 +158,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/bp/quark/blossom_backpack_shelf": {
+    "criteria": {
+      "has_planks": "2024-12-23 02:05:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2024-12-21 02:22:48 +0000"
@@ -956,6 +962,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/embur_fence": {
+    "criteria": {
+      "has_planks": "2024-12-23 02:12:34 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_blocks/moonstone_from_shard": {
     "criteria": {
       "has_item": "2024-12-21 04:35:55 +0000"
@@ -1104,6 +1116,12 @@
   "stoneworks:recipes/stoneworks.main/granite_brick_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-21 21:40:40 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/embur_bookshelf": {
+    "criteria": {
+      "has_planks": "2024-12-23 02:12:34 +0000"
     },
     "done": true
   },
@@ -1326,6 +1344,12 @@
   "alexsmobs:alexsmobs/banana": {
     "criteria": {
       "banana": "2024-12-21 02:54:13 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/af/quark/blossom_chair": {
+    "criteria": {
+      "has_planks": "2024-12-23 02:05:59 +0000"
     },
     "done": true
   },
@@ -1587,6 +1611,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/embur_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-23 02:12:34 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/af/biomemakeover/ancient_oak_table": {
     "criteria": {
       "has_planks": "2024-12-21 02:18:34 +0000"
@@ -1833,6 +1863,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/af/quark/blossom_shutter": {
+    "criteria": {
+      "has_planks": "2024-12-23 02:05:59 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/oak_shelf": {
     "criteria": {
       "has_planks": "2024-12-21 02:18:54 +0000"
@@ -1886,6 +1922,18 @@
       "minecraft:nether_wastes": "2024-12-23 00:53:17 +0000"
     },
     "done": false
+  },
+  "byg:recipes/byg.byg/embur_door": {
+    "criteria": {
+      "has_planks": "2024-12-23 02:12:34 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/tw/quark/blossom_table": {
+    "criteria": {
+      "has_planks": "2024-12-23 02:05:59 +0000"
+    },
+    "done": true
   },
   "handcrafted:recipes/misc/golden_medium_pot": {
     "criteria": {
@@ -2512,6 +2560,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/embur_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-23 02:12:34 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/db/biomemakeover/ancient_oak_support": {
     "criteria": {
       "has_planks": "2024-12-21 02:18:34 +0000"
@@ -2908,6 +2962,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/af/quark/blossom_shelf": {
+    "criteria": {
+      "has_planks": "2024-12-23 02:05:59 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/black_sheet": {
     "criteria": {
       "has_sheet": "2024-12-21 04:47:42 +0000"
@@ -3154,6 +3214,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/faf/quark/blossom_beehive": {
+    "criteria": {
+      "has_planks": "2024-12-23 02:05:59 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/crimson_chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-21 02:19:35 +0000"
@@ -3371,6 +3437,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/af/quark/blossom_planter_box": {
+    "criteria": {
+      "has_planks": "2024-12-23 02:05:59 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/mangrove_bookshelf": {
     "criteria": {
       "has_book": "2024-12-21 04:38:36 +0000"
@@ -3488,6 +3560,12 @@
   "byg:recipes/byg.byg/skyris_sign": {
     "criteria": {
       "has_planks": "2024-12-22 02:48:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/db/quark/blossom_seat": {
+    "criteria": {
+      "has_planks": "2024-12-23 02:05:59 +0000"
     },
     "done": true
   },
@@ -4410,6 +4488,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/fd/quark/blossom_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-23 02:05:59 +0000"
+    },
+    "done": true
+  },
   "environmental:recipes/decorations/willow_ladder": {
     "criteria": {
       "has_stick": "2024-12-21 02:14:14 +0000"
@@ -5042,9 +5126,21 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/tf/quark/blossom_banister": {
+    "criteria": {
+      "has_planks": "2024-12-23 02:05:59 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/db/byg/skyris_palisade": {
     "criteria": {
       "has_planks": "2024-12-22 02:48:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/db/quark/blossom_palisade": {
+    "criteria": {
+      "has_planks": "2024-12-23 02:05:59 +0000"
     },
     "done": true
   },
@@ -5159,6 +5255,12 @@
   "handcrafted:recipes/misc/golden_wide_pot": {
     "criteria": {
       "has_gold_block": "2024-12-21 23:06:49 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/embur_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-23 02:12:34 +0000"
     },
     "done": true
   },
@@ -5402,6 +5504,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/embur_slab": {
+    "criteria": {
+      "has_planks": "2024-12-23 02:12:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2024-12-21 02:14:14 +0000"
@@ -5555,6 +5663,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2024-12-21 04:38:34 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/db/quark/blossom_support": {
+    "criteria": {
+      "has_planks": "2024-12-23 02:05:59 +0000"
     },
     "done": true
   },
@@ -5832,6 +5946,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/af/quark/blossom_drawer": {
+    "criteria": {
+      "has_planks": "2024-12-23 02:05:59 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/acacia_seat": {
     "criteria": {
       "has_plank": "2024-12-21 23:16:59 +0000"
@@ -5907,6 +6027,12 @@
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2024-12-21 02:14:01 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/embur_button": {
+    "criteria": {
+      "has_planks": "2024-12-23 02:12:34 +0000"
     },
     "done": true
   },
@@ -6027,6 +6153,12 @@
   "woodworks:recipes/redstone/warped_trapped_chest": {
     "criteria": {
       "has_tripwire_hook": "2024-12-23 00:07:34 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/tf/quark/hollow_blossom_log_vertical": {
+    "criteria": {
+      "has_planks": "2024-12-23 02:05:59 +0000"
     },
     "done": true
   },
@@ -6190,6 +6322,12 @@
   "woodworks:recipes/building_blocks/birch_boards": {
     "criteria": {
       "has_birch_planks": "2024-12-21 02:26:34 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/af/quark/blossom_bench": {
+    "criteria": {
+      "has_planks": "2024-12-23 02:05:59 +0000"
     },
     "done": true
   },
@@ -7035,6 +7173,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/db/quark/blossom_beam": {
+    "criteria": {
+      "has_planks": "2024-12-23 02:05:59 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tables/dark_oak_table": {
     "criteria": {
       "has_bamboo": "2024-12-21 02:14:01 +0000"
@@ -7110,6 +7254,18 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2024-12-21 21:40:40 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/embur_crafting_table": {
+    "criteria": {
+      "has_planks": "2024-12-23 02:12:34 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/embur_wood": {
+    "criteria": {
+      "has_log": "2024-12-23 02:12:27 +0000"
     },
     "done": true
   },
@@ -7450,6 +7606,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/embur_planks": {
+    "criteria": {
+      "has_logs": "2024-12-23 02:12:27 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/redstone/acacia_button_from_acacia_planks_sawing": {
     "criteria": {
       "has_acacia_planks": "2024-12-21 23:16:59 +0000"
@@ -7582,6 +7744,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/embur_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-23 02:12:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2024-12-21 03:39:10 +0000"
@@ -7699,6 +7867,12 @@
   "stoneworks:recipes/stoneworks.main/mossy_tuff_brick_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-12-21 04:44:36 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/af/quark/blossom_table": {
+    "criteria": {
+      "has_planks": "2024-12-23 02:05:59 +0000"
     },
     "done": true
   },
@@ -8107,6 +8281,12 @@
   "farmersdelight:recipes/farmersdelight/golden_knife": {
     "criteria": {
       "has_gold_ingot": "2024-12-21 05:39:24 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/embur_sign": {
+    "criteria": {
+      "has_planks": "2024-12-23 02:12:34 +0000"
     },
     "done": true
   },
