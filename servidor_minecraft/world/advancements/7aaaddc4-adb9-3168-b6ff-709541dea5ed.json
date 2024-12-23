@@ -146,6 +146,12 @@
     },
     "done": true
   },
+  "vinery:loam": {
+    "criteria": {
+      "has_clay_ball": "2024-12-23 15:29:27 +0000"
+    },
+    "done": true
+  },
   "vinery:basket": {
     "criteria": {
       "has_wheat": "2024-12-22 02:44:11 +0000"
@@ -1398,6 +1404,12 @@
   "everycomp:recipes/everycomp/af/byg/skyris_shelf": {
     "criteria": {
       "has_planks": "2024-12-22 02:48:30 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/stone_shovel_repairing": {
+    "criteria": {
+      "has_stone_shovel": "2024-12-23 15:34:23 +0000"
     },
     "done": true
   },
@@ -4688,6 +4700,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2024-12-23 15:29:27 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/crimson_ladder": {
     "criteria": {
       "has_stick": "2024-12-21 02:14:13 +0000"
@@ -5544,6 +5562,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2024-12-22 02:36:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-12-23 15:29:27 +0000"
     },
     "done": true
   },
@@ -8044,6 +8068,12 @@
   "galosphere:recipes/galosphere/lumiere_stairs": {
     "criteria": {
       "has_lumiere_block": "2024-12-22 01:51:08 +0000"
+    },
+    "done": true
+  },
+  "clayworks:recipes/misc/brick_from_baking": {
+    "criteria": {
+      "has_clay_ball": "2024-12-23 15:29:27 +0000"
     },
     "done": true
   },
