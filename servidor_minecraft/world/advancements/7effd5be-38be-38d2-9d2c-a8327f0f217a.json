@@ -2429,15 +2429,15 @@
     },
     "done": true
   },
-  "everycomp:recipes/everycomp/tw/byg/palm_table": {
-    "criteria": {
-      "has_planks": "2024-12-23 19:08:36 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/stoneworks.main/polished_calcite_slab_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-12-23 19:00:53 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/tw/byg/palm_table": {
+    "criteria": {
+      "has_planks": "2024-12-23 19:08:36 +0000"
     },
     "done": true
   },
@@ -3714,15 +3714,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brown_carpet_from_white_carpet": {
-    "criteria": {
-      "has_white_carpet": "2024-12-23 21:12:37 +0000"
-    },
-    "done": true
-  },
   "galosphere:recipes/galosphere/amethyst_bricks_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2024-12-23 19:00:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-23 21:12:37 +0000"
     },
     "done": true
   },
@@ -6902,15 +6902,15 @@
     },
     "done": true
   },
-  "twigs:recipes/amethyst_blocks/polished_amethyst": {
-    "criteria": {
-      "has_item": "2024-12-23 19:00:57 +0000"
-    },
-    "done": true
-  },
   "twigs:recipes/basalt_blocks/smooth_basalt_bricks": {
     "criteria": {
       "has_item": "2024-12-23 19:00:53 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/amethyst_blocks/polished_amethyst": {
+    "criteria": {
+      "has_item": "2024-12-23 19:00:57 +0000"
     },
     "done": true
   },

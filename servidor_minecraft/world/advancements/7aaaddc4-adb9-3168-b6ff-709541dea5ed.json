@@ -2340,6 +2340,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_light_gray_dye": "2024-12-23 21:19:57 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_bricks/cobblestone_brick_stairs_stonecutting": {
     "criteria": {
       "has_item": "2024-12-23 20:55:52 +0000"
@@ -5202,6 +5208,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2024-12-23 21:18:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-21 03:40:30 +0000"
@@ -6933,6 +6945,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_candle": {
+    "criteria": {
+      "has_light_gray_dye": "2024-12-23 21:19:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2024-12-23 00:05:11 +0000"
@@ -7568,6 +7586,12 @@
   "everycomp:recipes/everycomp/af/byg/skyris_shutter": {
     "criteria": {
       "has_planks": "2024-12-22 02:48:30 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/wooden_shovel_repairing": {
+    "criteria": {
+      "has_wooden_shovel": "2024-12-23 21:21:12 +0000"
     },
     "done": true
   },
@@ -9515,6 +9539,12 @@
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-21 04:55:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-12-23 21:24:26 +0000"
     },
     "done": true
   },
