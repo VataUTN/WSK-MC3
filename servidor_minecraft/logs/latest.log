@@ -4128,3 +4128,8 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [23Dec2024 18:28:17.054] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Twuelvi lost connection: Disconnected
 [23Dec2024 18:28:17.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Twuelvi left the game
 [23Dec2024 18:28:17.055] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f0e9e050-51e8-3f94-b642-25238c260572
+[23Dec2024 18:54:33.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Domitax> compro esmeraldas
+[23Dec2024 18:54:44.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Joacoo_17> no
+[23Dec2024 18:54:57.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Domitax> tu culo cuanto vale
+[23Dec2024 18:55:00.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Joacoo_17> 0
+[23Dec2024 18:56:11.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax has made the advancement [What a Deal!]
