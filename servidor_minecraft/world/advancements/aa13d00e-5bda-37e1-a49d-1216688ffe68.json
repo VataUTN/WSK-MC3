@@ -1110,6 +1110,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "interact": "2024-12-23 23:08:01 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_bricks/cobblestone_brick_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_item": "2024-12-21 02:28:45 +0000"
@@ -2218,6 +2224,12 @@
   "handcrafted:recipes/misc/terracotta_wide_pot": {
     "criteria": {
       "has_terracotta": "2024-12-23 03:04:24 +0000"
+    },
+    "done": true
+  },
+  "incubation:recipes/food/scrambled_eggs": {
+    "criteria": {
+      "has_eggs": "2024-12-23 23:06:11 +0000"
     },
     "done": true
   },
@@ -5159,6 +5171,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-23 23:04:30 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/deeperdarker/echo_boat": {
     "criteria": {
       "in_water": "2024-12-21 02:28:05 +0000"
@@ -5555,6 +5573,12 @@
     },
     "done": true
   },
+  "incubation:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "has_eggs": "2024-12-23 23:06:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-22 03:41:19 +0000"
@@ -5883,6 +5907,12 @@
   "clayworks:recipes/building_blocks/deepslate_from_baking": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-22 04:07:32 +0000"
+    },
+    "done": true
+  },
+  "incubation:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "has_eggs": "2024-12-23 23:06:11 +0000"
     },
     "done": true
   },
@@ -8982,6 +9012,12 @@
   "minecraft:recipes/building_blocks/brown_terracotta": {
     "criteria": {
       "has_terracotta": "2024-12-23 03:04:25 +0000"
+    },
+    "done": true
+  },
+  "incubation:recipes/food/fried_egg": {
+    "criteria": {
+      "has_eggs": "2024-12-23 23:06:11 +0000"
     },
     "done": true
   },

@@ -17578,3 +17578,14 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [23Dec2024 23:02:22.640] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BRIOMAX lost connection: Disconnected
 [23Dec2024 23:02:22.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRIOMAX left the game
 [23Dec2024 23:02:22.641] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 2a6eaa93-079a-3dca-be78-732c2db22348
+[23Dec2024 23:03:58.563] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WanderingWinemakerEntity['Dee'/45644, l='ServerLevel[world]', x=442.72, y=68.00, z=-293.72] died: Dee was slain by Vata74
+[23Dec2024 23:04:30.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 has made the advancement [Best Friends Forever]
+[23Dec2024 23:05:13.374] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[23Dec2024 23:07:02.292] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 23:07:02.321] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 23:08:01.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 has made the advancement [It's an Emu!!!]
+[23Dec2024 23:08:33.274] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[23Dec2024 23:11:53.124] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[23Dec2024 23:11:53.124] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[23Dec2024 23:12:02.285] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 23:12:02.316] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
