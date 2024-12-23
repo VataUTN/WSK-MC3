@@ -1070,6 +1070,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-23 20:49:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2024-12-21 02:15:17 +0000"
@@ -1223,6 +1229,12 @@
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2024-12-22 00:44:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-23 20:49:26 +0000"
     },
     "done": true
   },
@@ -1406,15 +1418,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_banner": {
-    "criteria": {
-      "has_red_wool": "2024-12-23 05:34:29 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/stoneworks.main/stone_shingles_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-23 05:27:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2024-12-23 05:34:29 +0000"
     },
     "done": true
   },
@@ -3112,6 +3124,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-23 20:49:26 +0000"
+    },
+    "done": true
+  },
   "aether:phoenix_armor": {
     "criteria": {
       "phoenix_gloves": "2024-12-22 20:41:44 +0000"
@@ -3235,6 +3253,12 @@
   "woodworks:recipes/building_blocks/oak_stairs_from_oak_planks_sawing": {
     "criteria": {
       "has_oak_planks": "2024-12-21 02:15:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-23 20:49:26 +0000"
     },
     "done": true
   },
@@ -8235,6 +8259,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "potato": "2024-12-23 20:49:47 +0000",
       "wheat": "2024-12-21 03:26:17 +0000",
       "carrot": "2024-12-22 20:29:53 +0000"
     },

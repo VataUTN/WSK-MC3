@@ -4177,3 +4177,20 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [23Dec2024 20:32:51.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 2 of a max of 20 players online: Domitax, Joacoo_17
 [23Dec2024 20:34:35.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: * Server brandon unmute
 [23Dec2024 20:35:58.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: * Server joaco ds
+[23Dec2024 20:46:56.165] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@50f62e40
+[23Dec2024 20:46:56.193] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Vata74[/127.104.211.112:57027] logged in with entity id 86649 at (245.69999998807907, 63.0, -264.187748022977)
+[23Dec2024 20:46:56.194] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Vata74
+[23Dec2024 20:46:56.195] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Vata74
+[23Dec2024 20:46:56.195] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Vata74
+[23Dec2024 20:46:56.195] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Vata74
+[23Dec2024 20:46:56.198] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Vata74
+[23Dec2024 20:46:56.202] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Vata74
+[23Dec2024 20:46:56.202] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Vata74
+[23Dec2024 20:46:56.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 joined the game
+[23Dec2024 20:46:56.412] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for aa13d00e-5bda-37e1-a49d-1216688ffe68
+[23Dec2024 20:46:56.440] [Server thread/INFO] [Jade/]: Syncing config to Vata74 (aa13d00e-5bda-37e1-a49d-1216688ffe68)
+[23Dec2024 20:47:45.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax has reached the goal [Smooth Criminal]
+[23Dec2024 20:47:51.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> na
+[23Dec2024 20:48:01.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> y no hablas
+[23Dec2024 20:50:59.912] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vata74 moved wrongly!
+[23Dec2024 20:51:09.461] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vata74 moved wrongly!

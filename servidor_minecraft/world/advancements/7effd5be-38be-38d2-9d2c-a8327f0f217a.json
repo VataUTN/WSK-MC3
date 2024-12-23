@@ -2849,6 +2849,12 @@
     },
     "done": true
   },
+  "environmental:adventure/upgrade_thief_hood": {
+    "criteria": {
+      "upgrade": "2024-12-23 20:47:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-22 02:22:44 +0000"
