@@ -932,6 +932,12 @@
     },
     "done": true
   },
+  "twigs:recipes/tables/jungle_table": {
+    "criteria": {
+      "has_jungle": "2024-12-23 17:37:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
     "criteria": {
       "has_white_dye": "2024-12-23 16:21:07 +0000"
@@ -1671,6 +1677,12 @@
     },
     "done": true
   },
+  "vinery:jungle_wine_rack_big": {
+    "criteria": {
+      "has_jungle_planks": "2024-12-23 17:37:09 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/mossy_cobbled_netherrack_wall_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2024-12-21 23:07:18 +0000"
@@ -1710,6 +1722,12 @@
   "everycomp:recipes/everycomp/af/biomemakeover/ancient_oak_table": {
     "criteria": {
       "has_planks": "2024-12-21 02:18:34 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/jungle_fence_from_jungle_planks_sawing": {
+    "criteria": {
+      "has_jungle_planks": "2024-12-23 17:37:09 +0000"
     },
     "done": true
   },
@@ -2242,6 +2260,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/redstone/jungle_button_from_jungle_planks_sawing": {
+    "criteria": {
+      "has_jungle_planks": "2024-12-23 17:37:09 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/spruce_ladder": {
     "criteria": {
       "has_stick": "2024-12-21 02:14:14 +0000"
@@ -2515,6 +2539,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2024-12-21 02:14:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-23 17:37:09 +0000"
     },
     "done": true
   },
@@ -2950,6 +2980,12 @@
     },
     "done": true
   },
+  "vinery:jungle_wine_rack_small": {
+    "criteria": {
+      "has_jungle_planks": "2024-12-23 17:37:09 +0000"
+    },
+    "done": true
+  },
   "clayworks:recipes/decorations/kiln": {
     "criteria": {
       "has_cobblestone": "2024-12-21 02:28:14 +0000"
@@ -2971,6 +3007,12 @@
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2024-12-21 05:39:24 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/jungle_seat": {
+    "criteria": {
+      "has_plank": "2024-12-23 17:37:09 +0000"
     },
     "done": true
   },
@@ -3623,6 +3665,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2024-12-23 17:37:09 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/jungle_palisade": {
     "criteria": {
       "has_log": "2024-12-23 17:20:59 +0000"
@@ -3764,6 +3812,12 @@
   "galosphere:recipes/galosphere/lumiere_slab": {
     "criteria": {
       "has_lumiere_block": "2024-12-22 01:51:08 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/jungle_slab_from_jungle_planks_sawing": {
+    "criteria": {
+      "has_jungle_planks": "2024-12-23 17:37:09 +0000"
     },
     "done": true
   },
@@ -4125,6 +4179,12 @@
   "woodworks:recipes/redstone/birch_trapdoor_from_birch_logs_sawing": {
     "criteria": {
       "has_birch_logs": "2024-12-21 02:26:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2024-12-23 17:37:09 +0000"
     },
     "done": true
   },
@@ -5223,6 +5283,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2024-12-23 17:37:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2024-12-21 05:39:24 +0000"
@@ -5514,6 +5580,12 @@
   "stoneworks:recipes/stoneworks.main/tuff_paver_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-12-21 04:44:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-23 17:37:09 +0000"
     },
     "done": true
   },
@@ -5820,6 +5892,12 @@
   "woodworks:recipes/building_blocks/oak_slab_from_oak_planks_sawing": {
     "criteria": {
       "has_oak_planks": "2024-12-21 02:18:54 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/jungle_table": {
+    "criteria": {
+      "has_planks": "2024-12-23 17:37:09 +0000"
     },
     "done": true
   },
@@ -6537,6 +6615,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/jungle_boards": {
+    "criteria": {
+      "has_jungle_planks": "2024-12-23 17:37:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2024-12-21 03:50:19 +0000"
@@ -7026,6 +7110,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2024-12-23 17:37:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2024-12-21 02:28:14 +0000"
@@ -7302,6 +7392,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/jungle_chair": {
+    "criteria": {
+      "has_planks": "2024-12-23 17:37:09 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/leather_gloves": {
     "criteria": {
       "has_leather": "2024-12-21 04:25:32 +0000"
@@ -7437,6 +7533,12 @@
   "minecraft:recipes/decorations/green_glazed_terracotta": {
     "criteria": {
       "has_green_terracotta": "2024-12-21 05:39:13 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/jungle_stairs_from_jungle_planks_sawing": {
+    "criteria": {
+      "has_jungle_planks": "2024-12-23 17:37:09 +0000"
     },
     "done": true
   },
@@ -7808,6 +7910,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/jungle_shelf": {
+    "criteria": {
+      "has_planks": "2024-12-23 17:37:09 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/furniture_hammer": {
     "criteria": {
       "has_stick": "2024-12-21 02:14:14 +0000"
@@ -7985,6 +8093,12 @@
   "stoneworks:recipes/stoneworks.main/chiseled_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-21 03:39:10 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/jungle_ladder_from_jungle_planks_sawing": {
+    "criteria": {
+      "has_jungle_planks": "2024-12-23 17:37:09 +0000"
     },
     "done": true
   },
@@ -8312,6 +8426,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2024-12-23 17:37:09 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/cobbled_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-21 21:40:40 +0000"
@@ -8612,6 +8732,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-23 17:37:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 04:04:23 +0000"
@@ -8702,6 +8828,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-23 17:37:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2024-12-21 05:39:24 +0000"
@@ -8747,6 +8879,12 @@
   "stoneworks:recipes/stoneworks.main/nether_brick_plate_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-23 01:28:13 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/jungle_boards_from_jungle_planks_sawing": {
+    "criteria": {
+      "has_jungle_planks": "2024-12-23 17:37:09 +0000"
     },
     "done": true
   },
@@ -8831,6 +8969,12 @@
   "aether:recipes/tools/wooden_axe_repairing": {
     "criteria": {
       "has_wooden_axe": "2024-12-21 02:14:22 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/jungle_support": {
+    "criteria": {
+      "has_plank": "2024-12-23 17:37:09 +0000"
     },
     "done": true
   },

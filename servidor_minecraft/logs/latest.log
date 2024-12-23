@@ -4049,3 +4049,24 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [23Dec2024 17:30:21.447] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7effd5be-38be-38d2-9d2c-a8327f0f217a
 [23Dec2024 17:30:21.475] [Server thread/INFO] [Jade/]: Syncing config to Domitax (7effd5be-38be-38d2-9d2c-a8327f0f217a)
 [23Dec2024 17:30:22.639] [Server thread/INFO] [de.cas_ual_ty.deuf.DEUF/]: Changing UUID of entity alexsmobs:crow that already existed from 33cb9755-2dd3-4fb2-a6b4-10186fcd0e16 to 7da7c785-a141-43e2-89e5-357b1250000d
+[23Dec2024 17:30:54.848] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Domitax lost connection: Disconnected
+[23Dec2024 17:30:54.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax left the game
+[23Dec2024 17:30:54.850] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7effd5be-38be-38d2-9d2c-a8327f0f217a
+[23Dec2024 17:34:37.763] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@65dd3714
+[23Dec2024 17:34:37.787] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Domitax[/127.232.93.209:35163] logged in with entity id 19906 at (721.1433963482731, 63.0, -181.4838285364981)
+[23Dec2024 17:34:37.789] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Domitax
+[23Dec2024 17:34:37.790] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Domitax
+[23Dec2024 17:34:37.790] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Domitax
+[23Dec2024 17:34:37.790] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Domitax
+[23Dec2024 17:34:37.793] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Domitax
+[23Dec2024 17:34:37.797] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Domitax
+[23Dec2024 17:34:37.797] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Domitax
+[23Dec2024 17:34:37.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax joined the game
+[23Dec2024 17:34:37.868] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7effd5be-38be-38d2-9d2c-a8327f0f217a
+[23Dec2024 17:34:37.880] [Server thread/INFO] [Jade/]: Syncing config to Domitax (7effd5be-38be-38d2-9d2c-a8327f0f217a)
+[23Dec2024 17:35:00.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Domitax> pa robarte besos yo soy la mas chorra
+[23Dec2024 17:35:08.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Joacoo_17> terrible trola
+[23Dec2024 17:39:19.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Domitax> tu vieja
+[23Dec2024 17:39:21.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Domitax> puto
+[23Dec2024 17:39:24.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Domitax> safio
+[23Dec2024 17:40:04.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Joacoo_17> safio
