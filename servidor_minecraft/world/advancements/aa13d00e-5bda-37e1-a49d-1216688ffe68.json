@@ -296,6 +296,12 @@
     },
     "done": true
   },
+  "immersive_weathering:recipes/snow_block": {
+    "criteria": {
+      "has_copper_block": "2024-12-23 03:48:58 +0000"
+    },
+    "done": true
+  },
   "clayworks:recipes/building_blocks/gray_terracotta_bricks_from_gray_dye": {
     "criteria": {
       "has_terracotta": "2024-12-23 03:04:24 +0000"
@@ -1697,6 +1703,12 @@
   "aether:recipes/tools/iron_axe_repairing": {
     "criteria": {
       "has_iron_axe": "2024-12-22 03:38:01 +0000"
+    },
+    "done": true
+  },
+  "windswept:recipes/building_blocks/snow_block_from_snow_bricks_stonecutting": {
+    "criteria": {
+      "has_snow_block": "2024-12-23 03:48:58 +0000"
     },
     "done": true
   },
@@ -3189,6 +3201,12 @@
       "has_snowball": "2024-12-22 00:59:27 +0000"
     },
     "done": true
+  },
+  "repurposed_structures:monuments": {
+    "criteria": {
+      "in_monument_icy": "2024-12-23 03:48:01 +0000"
+    },
+    "done": false
   },
   "stoneworks:recipes/stoneworks.main/andesite_paver_wall_from_andesite_stonecutting": {
     "criteria": {
@@ -5123,6 +5141,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/snow_bricks": {
+    "criteria": {
+      "has_snow_block": "2024-12-23 03:48:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2024-12-21 05:22:22 +0000"
@@ -5464,6 +5488,12 @@
   "clayworks:recipes/building_blocks/orange_terracotta_bricks_from_orange_dye": {
     "criteria": {
       "has_terracotta": "2024-12-23 03:04:24 +0000"
+    },
+    "done": true
+  },
+  "windswept:recipes/building_blocks/snow_bricks": {
+    "criteria": {
+      "has_snow_block": "2024-12-23 03:48:58 +0000"
     },
     "done": true
   },

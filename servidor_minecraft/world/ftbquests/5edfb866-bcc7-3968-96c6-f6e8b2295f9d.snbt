@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "5edfb866bcc7396896c6f6e8b2295f9d"
+	name: "BaljeetGorreado"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

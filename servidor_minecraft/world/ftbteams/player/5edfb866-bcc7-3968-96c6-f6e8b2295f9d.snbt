@@ -1,0 +1,17 @@
+{
+	id: "5edfb866-bcc7-3968-96c6-f6e8b2295f9d"
+	type: "player"
+	player_name: "BaljeetGorreado"
+	ranks: {
+		5edfb866-bcc7-3968-96c6-f6e8b2295f9d: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "BaljeetGorreado"
+		"ftbteams:description": ""
+		"ftbteams:color": "#6359FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
