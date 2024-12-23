@@ -4153,3 +4153,7 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [23Dec2024 06:11:11.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRIOMAX has made the advancement [KEEP ROLLIN' ROLLIN' ROLLIN']
 [23Dec2024 06:11:12.066] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/24080, l='ServerLevel[world]', x=540.50, y=19.00, z=-225.50]
 [23Dec2024 06:11:57.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRIOMAX has made the advancement [Rocks Off!]
+[23Dec2024 06:14:20.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRIOMAX has made the advancement [Take Aim]
+[23Dec2024 06:20:39.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Twuelvi was doomed to fall by Phantom
+[23Dec2024 06:22:35.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joacoo_17 has made the advancement [Not Today, Thank You]
+[23Dec2024 06:22:44.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joacoo_17 was impaled by Drowned

@@ -17647,3 +17647,17 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [23Dec2024 06:11:11.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRIOMAX has made the advancement [KEEP ROLLIN' ROLLIN' ROLLIN']
 [23Dec2024 06:11:12.066] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/24080, l='ServerLevel[world]', x=540.50, y=19.00, z=-225.50]
 [23Dec2024 06:11:57.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRIOMAX has made the advancement [Rocks Off!]
+[23Dec2024 06:14:15.455] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[23Dec2024 06:14:15.455] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[23Dec2024 06:14:20.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRIOMAX has made the advancement [Take Aim]
+[23Dec2024 06:14:30.746] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 06:14:30.774] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 06:17:35.655] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[23Dec2024 06:19:30.750] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 06:19:30.783] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 06:20:39.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Twuelvi was doomed to fall by Phantom
+[23Dec2024 06:20:41.685] [Server thread/DEBUG] [twilightforest/]: Player Twuelvi (f0e9e050-51e8-3f94-b642-25238c260572) respawned and received items held in storage
+[23Dec2024 06:20:55.605] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[23Dec2024 06:22:35.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joacoo_17 has made the advancement [Not Today, Thank You]
+[23Dec2024 06:22:44.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joacoo_17 was impaled by Drowned
+[23Dec2024 06:22:45.852] [Server thread/DEBUG] [twilightforest/]: Player Joacoo_17 (7aaaddc4-adb9-3168-b6ff-709541dea5ed) respawned and received items held in storage
