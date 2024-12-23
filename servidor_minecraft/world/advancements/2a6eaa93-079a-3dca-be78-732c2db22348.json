@@ -1320,6 +1320,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2024-12-23 22:20:49 +0000"
+    },
+    "done": true
+  },
   "magnumtorch:recipes/decorations/diamond_magnum_torch": {
     "criteria": {
       "has_diamond": "2024-12-23 03:55:12 +0000"
@@ -1920,6 +1926,12 @@
   "handcrafted:recipes/misc/diorite_corner_trim": {
     "criteria": {
       "has_corner_trim": "2024-12-23 04:58:44 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_axe_repairing": {
+    "criteria": {
+      "has_iron_axe": "2024-12-23 22:22:18 +0000"
     },
     "done": true
   },
@@ -4509,6 +4521,12 @@
   "stoneworks:recipes/stoneworks.main/cracked_tuff_bricks_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-12-23 04:24:01 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_shovel_repairing": {
+    "criteria": {
+      "has_iron_shovel": "2024-12-23 22:26:10 +0000"
     },
     "done": true
   },

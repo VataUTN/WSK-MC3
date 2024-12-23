@@ -443,6 +443,12 @@
     },
     "done": true
   },
+  "upgradednetherite:recipes/essences/fire_essence": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-23 22:23:50 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/redstone/birch_fence_gate_from_birch_logs_sawing": {
     "criteria": {
       "has_birch_logs": "2024-12-21 04:43:10 +0000"
@@ -2176,6 +2182,12 @@
   "farmersdelight:recipes/farmersdelight/flint_knife": {
     "criteria": {
       "has_stick": "2024-12-21 03:35:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-23 22:23:50 +0000"
     },
     "done": true
   },
@@ -7566,6 +7578,12 @@
     },
     "done": true
   },
+  "netherchested:recipes/decorations/nether_chest": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-23 22:23:50 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/cobbled_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-22 02:21:50 +0000"
@@ -7629,6 +7647,12 @@
   "stoneworks:recipes/stoneworks.main/tuff_paver_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-12-22 20:51:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-23 22:23:50 +0000"
     },
     "done": true
   },
@@ -9167,6 +9191,12 @@
     },
     "done": true
   },
+  "netherdepthsupgrade:recipes/netherdepthsupgrade/lava_fishing_rod": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-23 22:23:50 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/black_cushion": {
     "criteria": {
       "has_cushion": "2024-12-22 04:16:30 +0000"
@@ -9248,6 +9278,12 @@
   "woodworks:recipes/redstone/birch_door_from_birch_logs_sawing": {
     "criteria": {
       "has_birch_logs": "2024-12-21 04:43:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-23 22:23:50 +0000"
     },
     "done": true
   },
