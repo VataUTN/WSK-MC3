@@ -3696,6 +3696,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-12-23 01:15:58 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/paper_lanterns/dandelion_paper_lantern": {
     "criteria": {
       "has_item": "2024-12-21 22:46:06 +0000"
