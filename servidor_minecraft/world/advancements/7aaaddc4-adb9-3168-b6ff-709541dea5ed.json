@@ -1821,6 +1821,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/nether_salad": {
+    "criteria": {
+      "has_bowl": "2024-12-23 18:49:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2024-12-21 02:28:14 +0000"
@@ -3256,6 +3262,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2024-12-23 18:49:01 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/faf/biomemakeover/ancient_oak_beehive": {
     "criteria": {
       "has_planks": "2024-12-21 02:18:34 +0000"
@@ -3463,6 +3475,12 @@
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-23 01:28:13 +0000"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2024-12-23 18:49:01 +0000"
     },
     "done": true
   },

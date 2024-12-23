@@ -1954,6 +1954,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2024-12-23 18:46:51 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_blocks/ventium_block": {
     "criteria": {
       "has_item": "2024-12-22 20:09:41 +0000"
