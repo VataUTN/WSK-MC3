@@ -15290,3 +15290,41 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [23Dec2024 16:04:34.099] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Dec2024 16:04:34.141] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [23Dec2024 16:06:07.979] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[23Dec2024 16:09:27.929] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[23Dec2024 16:09:27.929] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[23Dec2024 16:09:34.093] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 16:09:34.130] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 16:12:48.229] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[23Dec2024 16:12:59.809] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:large_oak_tree
+[23Dec2024 16:13:38.605] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:well_1
+[23Dec2024 16:14:05.995] [Server thread/INFO] [de.cas_ual_ty.deuf.DEUF/]: Changing UUID of entity alexsmobs:crow that already existed from 0740b85b-cc4e-4201-8cce-926c6a03b00d to ed73e369-d2c5-433e-a578-e7a7dee95954
+[23Dec2024 16:14:05.996] [Server thread/INFO] [de.cas_ual_ty.deuf.DEUF/]: Changing UUID of entity alexsmobs:crow that already existed from 2f7377bf-5ddf-4d03-b2e8-4c77179ea656 to 40ec18bd-fb4c-4b84-ae26-5f3e12094ccf
+[23Dec2024 16:14:34.080] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 16:14:34.113] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 16:14:41.509] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/shells/small_shell_9x5
+[23Dec2024 16:14:41.511] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_2
+[23Dec2024 16:14:58.575] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:large_logs
+[23Dec2024 16:16:08.029] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[23Dec2024 16:16:19.817] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:log_bundle
+[23Dec2024 16:16:19.824] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/quest_tower
+[23Dec2024 16:16:19.829] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/rooms/enchanting
+[23Dec2024 16:18:08.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Joacoo_17: como vas
+[23Dec2024 16:18:13.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Joacoo_17> de chill
+[23Dec2024 16:18:28.209] [Server thread/INFO] [de.cas_ual_ty.deuf.DEUF/]: Changing UUID of entity alexsmobs:crow that already existed from 63bfed99-f1a4-478a-a9dc-15218b1860d3 to 1629fb93-de3f-4c6e-9a58-3f4ad2385fe0
+[23Dec2024 16:18:28.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: * Server si se apaga o algo avisame por el grupo
+[23Dec2024 16:18:31.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: * Server anasi
+[23Dec2024 16:18:32.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Joacoo_17> dale
+[23Dec2024 16:18:43.598] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_circle_3
+[23Dec2024 16:18:51.805] [Server thread/DEBUG] [mixin/]: Mixing net.minecraft.world.level.levelgen.blending.BlendingDataMixin from redirector.mixins.json into net.minecraft.world.level.levelgen.blending.BlendingData
+[23Dec2024 16:18:57.999] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:forgotten_well
+[23Dec2024 16:19:05.751] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/shells/small_shell_7x5
+[23Dec2024 16:19:05.752] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_7
+[23Dec2024 16:19:05.752] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_1
+[23Dec2024 16:19:27.979] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[23Dec2024 16:19:27.979] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[23Dec2024 16:19:34.116] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 16:19:34.161] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 16:22:48.279] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[23Dec2024 16:24:34.091] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 16:24:34.126] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 16:26:08.079] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...

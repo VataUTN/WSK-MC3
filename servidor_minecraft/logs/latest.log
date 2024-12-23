@@ -4024,3 +4024,11 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [23Dec2024 15:34:55.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Joacoo_17> mal ahi
 [23Dec2024 15:41:01.045] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=564, y=55, z=-424} BlockPos{x=564, y=56, z=-424}
 [23Dec2024 15:56:47.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joacoo_17 has made the advancement [A Seedy Place]
+[23Dec2024 16:14:05.995] [Server thread/INFO] [de.cas_ual_ty.deuf.DEUF/]: Changing UUID of entity alexsmobs:crow that already existed from 0740b85b-cc4e-4201-8cce-926c6a03b00d to ed73e369-d2c5-433e-a578-e7a7dee95954
+[23Dec2024 16:14:05.996] [Server thread/INFO] [de.cas_ual_ty.deuf.DEUF/]: Changing UUID of entity alexsmobs:crow that already existed from 2f7377bf-5ddf-4d03-b2e8-4c77179ea656 to 40ec18bd-fb4c-4b84-ae26-5f3e12094ccf
+[23Dec2024 16:18:08.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Joacoo_17: como vas
+[23Dec2024 16:18:13.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Joacoo_17> de chill
+[23Dec2024 16:18:28.209] [Server thread/INFO] [de.cas_ual_ty.deuf.DEUF/]: Changing UUID of entity alexsmobs:crow that already existed from 63bfed99-f1a4-478a-a9dc-15218b1860d3 to 1629fb93-de3f-4c6e-9a58-3f4ad2385fe0
+[23Dec2024 16:18:28.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: * Server si se apaga o algo avisame por el grupo
+[23Dec2024 16:18:31.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: * Server anasi
+[23Dec2024 16:18:32.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Joacoo_17> dale
