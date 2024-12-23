@@ -1560,3 +1560,21 @@
 [23Dec2024 01:42:33.063] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f0e9e050-51e8-3f94-b642-25238c260572
 [23Dec2024 01:42:33.076] [Server thread/INFO] [Jade/]: Syncing config to Twuelvi (f0e9e050-51e8-3f94-b642-25238c260572)
 [23Dec2024 01:43:26.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Twuelvi> que le dice un creeper a otro creeper?
+[23Dec2024 01:50:24.390] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Twuelvi lost connection: Disconnected
+[23Dec2024 01:50:24.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Twuelvi left the game
+[23Dec2024 01:50:24.390] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f0e9e050-51e8-3f94-b642-25238c260572
+[23Dec2024 01:54:42.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joacoo_17 was burnt to a crisp whilst fighting Blaze
+[23Dec2024 01:55:02.392] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5ea7363b
+[23Dec2024 01:55:02.406] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Twuelvi[/127.76.167.49:35069] logged in with entity id 98508 at (39.354421428955284, -51.99298442651875, -40.69999998807907)
+[23Dec2024 01:55:02.407] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Twuelvi
+[23Dec2024 01:55:02.407] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Twuelvi
+[23Dec2024 01:55:02.408] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Twuelvi
+[23Dec2024 01:55:02.408] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Twuelvi
+[23Dec2024 01:55:02.411] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Twuelvi
+[23Dec2024 01:55:02.413] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Twuelvi
+[23Dec2024 01:55:02.413] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Twuelvi
+[23Dec2024 01:55:02.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Twuelvi joined the game
+[23Dec2024 01:55:02.471] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f0e9e050-51e8-3f94-b642-25238c260572
+[23Dec2024 01:55:02.477] [Server thread/INFO] [Jade/]: Syncing config to Twuelvi (f0e9e050-51e8-3f94-b642-25238c260572)
+[23Dec2024 01:55:07.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Joacoo_17> me quiero matar
+[23Dec2024 01:56:11.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joacoo_17 burned to death
