@@ -7452,6 +7452,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2024-12-23 16:30:01 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/dark_oak_ladder": {
     "criteria": {
       "has_stick": "2024-12-21 02:14:14 +0000"
