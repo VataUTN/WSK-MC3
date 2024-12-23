@@ -17894,3 +17894,124 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [23Dec2024 04:55:34.042] [Server thread/DEBUG] [twilightforest/]: Player Vata74 (aa13d00e-5bda-37e1-a49d-1216688ffe68) respawned and received items held in storage
 [23Dec2024 04:55:41.121] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:boat_1
 [23Dec2024 04:56:34.325] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:boat_2
+[23Dec2024 04:56:48.098] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_ruin2
+[23Dec2024 04:56:48.208] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterwitchhuts:oak/witch_hut_lg
+[23Dec2024 04:56:48.209] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterwitchhuts:cat
+[23Dec2024 04:56:48.211] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterwitchhuts:witch
+[23Dec2024 04:56:48.350] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[23Dec2024 04:56:48.350] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[23Dec2024 04:56:48.565] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:tomb_1
+[23Dec2024 04:56:50.755] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/jungle_3
+[23Dec2024 04:56:50.757] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/jungle_2
+[23Dec2024 04:56:50.758] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/jungle_1
+[23Dec2024 04:56:53.935] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[23Dec2024 04:56:59.342] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 04:56:59.376] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 04:57:44.392] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[23Dec2024 04:58:07.880] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[23Dec2024 04:58:29.512] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:flotsam_1
+[23Dec2024 04:58:41.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 was shot by Pillager
+[23Dec2024 04:58:44.144] [Server thread/DEBUG] [twilightforest/]: Player Vata74 (aa13d00e-5bda-37e1-a49d-1216688ffe68) respawned and received items held in storage
+[23Dec2024 04:58:44.934] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/ocean_1
+[23Dec2024 04:58:44.936] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/ocean_2
+[23Dec2024 04:58:49.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRIOMAX> SAFIO
+[23Dec2024 04:58:51.823] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/icy_1
+[23Dec2024 04:58:51.824] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/icy_2
+[23Dec2024 04:58:53.789] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/icy_3
+[23Dec2024 04:59:10.975] [Server thread/INFO] [de.cas_ual_ty.deuf.DEUF/]: Changing UUID of entity minecraft:witch that already existed from 4eeff91e-43a3-4687-9cf1-04208092e17f to c83b7a04-fc76-44ee-ade5-c3f72503c829
+[23Dec2024 04:59:26.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vata74 moved wrongly!
+[23Dec2024 04:59:33.723] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/ocean_3
+[23Dec2024 05:00:06.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax was slain by Deepling
+[23Dec2024 05:00:08.215] [Server thread/DEBUG] [twilightforest/]: Player Domitax (7effd5be-38be-38d2-9d2c-a8327f0f217a) respawned and received items held in storage
+[23Dec2024 05:00:08.540] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[23Dec2024 05:00:09.589] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=7, z=-17}
+[23Dec2024 05:00:09.590] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=6, z=-16}
+[23Dec2024 05:00:09.591] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=256, y=7, z=-18}
+[23Dec2024 05:00:38.811] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/rooms/large_hall
+[23Dec2024 05:00:38.814] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/rooms/dungeon
+[23Dec2024 05:00:38.815] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/walkways/broken
+[23Dec2024 05:00:38.815] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/intersections/three_way
+[23Dec2024 05:00:38.817] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/quest_tower
+[23Dec2024 05:00:38.818] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/dead_ends/chest
+[23Dec2024 05:00:38.818] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/walkways/normal
+[23Dec2024 05:00:38.819] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/shafts/dead_end
+[23Dec2024 05:00:38.820] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/rooms/enchanting
+[23Dec2024 05:00:38.821] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/rooms/library
+[23Dec2024 05:00:38.821] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/intersections/four_way
+[23Dec2024 05:00:38.821] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/dead_ends/normal
+[23Dec2024 05:00:38.822] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/walkways/iron_bars
+[23Dec2024 05:00:38.822] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/walkways/stairs_bars
+[23Dec2024 05:00:38.823] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/rooms/cells
+[23Dec2024 05:01:59.323] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 05:01:59.350] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 05:02:57.126] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/shafts/small
+[23Dec2024 05:03:03.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax was slain by Deepling Brute
+[23Dec2024 05:03:04.886] [Server thread/DEBUG] [twilightforest/]: Player Domitax (7effd5be-38be-38d2-9d2c-a8327f0f217a) respawned and received items held in storage
+[23Dec2024 05:03:13.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRIOMAX> SAFIO
+[23Dec2024 05:03:28.425] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[23Dec2024 05:03:46.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRIOMAX was slain by Undead Miner
+[23Dec2024 05:03:54.492] [Server thread/DEBUG] [twilightforest/]: Player BRIOMAX (2a6eaa93-079a-3dca-be78-732c2db22348) respawned and received items held in storage
+[23Dec2024 05:04:01.252] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_crystal
+[23Dec2024 05:04:53.302] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of atmospheric:arid_shrine/arid_shrine_top
+[23Dec2024 05:05:15.804] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_plus:tower/top/full
+[23Dec2024 05:05:27.315] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/campfire_prop/campfire_prop_4
+[23Dec2024 05:05:27.316] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/campfire_prop/campfire_prop_2
+[23Dec2024 05:05:27.317] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/campfire_prop/campfire_prop_0
+[23Dec2024 05:05:27.317] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/3x3/3x3_4
+[23Dec2024 05:05:27.318] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/bridges/bridge_wood
+[23Dec2024 05:05:27.318] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/3x3/3x3_10
+[23Dec2024 05:05:27.320] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/stair2/stair2_5
+[23Dec2024 05:05:27.321] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/2x3/2x3_empty
+[23Dec2024 05:05:27.321] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/2x3/2x3_8
+[23Dec2024 05:05:27.322] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/2x3/2x3_5
+[23Dec2024 05:05:27.322] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/arches/arch_11
+[23Dec2024 05:06:32.896] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/zombie_start
+[23Dec2024 05:06:32.898] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/big_stairs/big_stairs_0
+[23Dec2024 05:06:32.898] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/big_stairs/big_stairs_crumbled_0
+[23Dec2024 05:06:32.898] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/big_stairs/big_stairs_crumbled_1
+[23Dec2024 05:06:32.899] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/big_stairs/big_stairs_crumbled_2
+[23Dec2024 05:06:32.900] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/room/floor1_room_2
+[23Dec2024 05:06:32.901] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby/cubby_double_0
+[23Dec2024 05:06:32.901] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby/cubby_single_0
+[23Dec2024 05:06:32.902] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/room/floor1_room_1
+[23Dec2024 05:06:32.904] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/room/floor1_specialroom_0
+[23Dec2024 05:06:32.906] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/room/floor1_room_0
+[23Dec2024 05:06:32.906] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/room/floor1_room_stairs
+[23Dec2024 05:06:32.907] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/terminator/floor1_hall_terminator_0
+[23Dec2024 05:06:32.907] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_empty
+[23Dec2024 05:06:32.907] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_3
+[23Dec2024 05:06:32.907] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_0
+[23Dec2024 05:06:32.908] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_2
+[23Dec2024 05:06:32.908] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_7
+[23Dec2024 05:06:32.908] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_6
+[23Dec2024 05:06:32.908] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_4
+[23Dec2024 05:06:32.909] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/terminator/floor1_hall_terminator_2
+[23Dec2024 05:06:32.909] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/terminator/floor1_hall_terminator_1
+[23Dec2024 05:06:32.909] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/terminator/floor1_hall_terminator_3
+[23Dec2024 05:06:32.909] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor1/terminator/floor1_hall_terminator_4
+[23Dec2024 05:06:32.910] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/room/floor2_room_2
+[23Dec2024 05:06:32.911] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_5
+[23Dec2024 05:06:32.911] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_spawner_2
+[23Dec2024 05:06:32.912] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_8
+[23Dec2024 05:06:32.912] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_spawner_1
+[23Dec2024 05:06:32.913] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/room/floor2_room_0
+[23Dec2024 05:06:32.914] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby/cubby_sm_single_0
+[23Dec2024 05:06:32.914] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/cubby_prop/cubby_prop_spawner_0
+[23Dec2024 05:06:32.915] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/room/floor2_room_1
+[23Dec2024 05:06:32.917] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/room/floor2_room_3
+[23Dec2024 05:06:32.917] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/terminator/floor2_hall_terminator_3
+[23Dec2024 05:06:32.918] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/terminator/floor2_hall_terminator_2
+[23Dec2024 05:06:32.918] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/terminator/floor2_hall_terminator_1
+[23Dec2024 05:06:32.919] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_chest_open_1
+[23Dec2024 05:06:32.920] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_chest_open_0
+[23Dec2024 05:06:32.920] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_chest_closed
+[23Dec2024 05:06:32.920] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_spawner_closed
+[23Dec2024 05:06:32.920] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_skull_closed
+[23Dec2024 05:06:32.921] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_spawner_open_0
+[23Dec2024 05:06:32.921] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_spawner_open_1
+[23Dec2024 05:06:32.921] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_empty_open_1
+[23Dec2024 05:06:32.921] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_flower_open_0
+[23Dec2024 05:06:48.375] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[23Dec2024 05:06:48.375] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[23Dec2024 05:06:59.347] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 05:06:59.377] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

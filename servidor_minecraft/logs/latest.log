@@ -4163,3 +4163,17 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [23Dec2024 04:52:03.898] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 5 bison_fur because there is no smelting recipe
 [23Dec2024 04:52:11.556] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 3 bison_fur because there is no smelting recipe
 [23Dec2024 04:55:32.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 was slain by Vindicator
+[23Dec2024 04:56:53.935] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[23Dec2024 04:57:44.392] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[23Dec2024 04:58:07.880] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
+[23Dec2024 04:58:41.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 was shot by Pillager
+[23Dec2024 04:58:49.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRIOMAX> SAFIO
+[23Dec2024 04:59:10.975] [Server thread/INFO] [de.cas_ual_ty.deuf.DEUF/]: Changing UUID of entity minecraft:witch that already existed from 4eeff91e-43a3-4687-9cf1-04208092e17f to c83b7a04-fc76-44ee-ade5-c3f72503c829
+[23Dec2024 04:59:26.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vata74 moved wrongly!
+[23Dec2024 05:00:06.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax was slain by Deepling
+[23Dec2024 05:00:09.589] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=7, z=-17}
+[23Dec2024 05:00:09.590] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=6, z=-16}
+[23Dec2024 05:00:09.591] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=256, y=7, z=-18}
+[23Dec2024 05:03:03.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax was slain by Deepling Brute
+[23Dec2024 05:03:13.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRIOMAX> SAFIO
+[23Dec2024 05:03:46.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRIOMAX was slain by Undead Miner

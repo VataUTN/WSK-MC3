@@ -339,6 +339,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-12-23 04:59:01 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/light_gray_sheet": {
     "criteria": {
       "has_sheet": "2024-12-22 04:31:26 +0000"
@@ -408,6 +414,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 04:34:45 +0000"
+    },
+    "done": true
+  },
+  "windswept:recipes/decorations/brown_mushroom_basket": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-23 04:57:09 +0000"
     },
     "done": true
   },
@@ -977,6 +989,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2024-12-23 04:59:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2024-12-23 03:57:15 +0000"
@@ -1157,6 +1175,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-23 04:59:01 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/dry_bamboo_slab": {
     "criteria": {
       "has_dry_bundle": "2024-12-22 04:03:25 +0000"
@@ -1247,9 +1271,21 @@
     },
     "done": true
   },
+  "incubation:recipes/decorations/chicken_egg_crate": {
+    "criteria": {
+      "has_egg": "2024-12-23 04:59:01 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_smithing_table": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 04:34:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/fried_egg": {
+    "criteria": {
+      "fried_egg": "2024-12-23 04:59:01 +0000"
     },
     "done": true
   },
@@ -1712,6 +1748,12 @@
   "twigs:recipes/tables/oak_table": {
     "criteria": {
       "has_bamboo": "2024-12-23 03:57:15 +0000"
+    },
+    "done": true
+  },
+  "incubation:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "has_eggs": "2024-12-23 04:59:01 +0000"
     },
     "done": true
   },
@@ -2184,6 +2226,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/food/cake_compat": {
+    "criteria": {
+      "has_item": "2024-12-23 04:59:01 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/mangrove_ladder": {
     "criteria": {
       "has_stick": "2024-12-22 04:09:31 +0000"
@@ -2386,6 +2434,12 @@
     },
     "done": true
   },
+  "incubation:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "has_eggs": "2024-12-23 04:59:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2024-12-22 04:10:25 +0000"
@@ -2467,6 +2521,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2024-12-23 04:19:51 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/food/skyroot_milk_bucket_cake": {
+    "criteria": {
+      "has_egg": "2024-12-23 04:59:01 +0000"
     },
     "done": true
   },
@@ -2596,6 +2656,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2024-12-23 04:59:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2024-12-22 04:10:25 +0000"
@@ -2689,6 +2755,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2024-12-22 04:06:15 +0000"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/essences/ender_essence": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-23 04:52:48 +0000"
     },
     "done": true
   },
@@ -3191,6 +3263,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-23 04:57:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2024-12-22 04:10:25 +0000"
@@ -3212,6 +3290,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/bone_broth": {
     "criteria": {
       "has_bone": "2024-12-22 04:34:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-23 04:57:09 +0000"
     },
     "done": true
   },
@@ -3260,6 +3344,12 @@
   "stoneworks:recipes/stoneworks.main/calcite_brick_slab_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-12-22 04:44:16 +0000"
+    },
+    "done": true
+  },
+  "incubation:recipes/food/fried_egg": {
+    "criteria": {
+      "has_eggs": "2024-12-23 04:59:01 +0000"
     },
     "done": true
   },

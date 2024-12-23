@@ -3988,6 +3988,12 @@
     },
     "done": true
   },
+  "repurposed_structures:outposts": {
+    "criteria": {
+      "in_outpost_oak": "2024-12-23 04:55:24 +0000"
+    },
+    "done": false
+  },
   "aether:recipes/combat/diamond_chestplate_repairing": {
     "criteria": {
       "has_diamond_chestplate": "2024-12-22 22:03:04 +0000"
@@ -4992,6 +4998,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/galosphere/silver_ingot_from_nuggets": {
+    "criteria": {
+      "has_silver_nugget": "2024-12-23 05:00:37 +0000"
+    },
+    "done": true
+  },
   "clayworks:recipes/building_blocks/red_terracotta_bricks_from_red_terracotta_stonecutting": {
     "criteria": {
       "has_red_terracotta": "2024-12-23 03:11:13 +0000"
@@ -5410,8 +5422,10 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2024-12-23 00:49:15 +0000",
+      "minecraft:pillager": "2024-12-23 04:57:00 +0000",
       "minecraft:skeleton": "2024-12-21 22:16:11 +0000",
       "windswept:chilled": "2024-12-22 00:52:34 +0000",
+      "minecraft:vindicator": "2024-12-23 04:55:31 +0000",
       "minecraft:magma_cube": "2024-12-22 22:35:15 +0000",
       "minecraft:spider": "2024-12-21 05:23:11 +0000",
       "minecraft:creeper": "2024-12-21 22:32:45 +0000",
