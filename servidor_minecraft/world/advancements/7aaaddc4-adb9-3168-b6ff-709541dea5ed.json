@@ -1461,6 +1461,12 @@
     },
     "done": true
   },
+  "twigs:recipes/cobblestone_bricks/cobblestone_brick_slab": {
+    "criteria": {
+      "has_item": "2024-12-23 20:55:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2024-12-21 22:13:04 +0000"
@@ -1716,6 +1722,12 @@
   "byg:recipes/byg.byg/embur_stairs": {
     "criteria": {
       "has_planks": "2024-12-23 02:12:34 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_brick_slab_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-23 20:55:52 +0000"
     },
     "done": true
   },
@@ -3250,6 +3262,12 @@
     },
     "done": true
   },
+  "twigs:recipes/cobblestone_bricks/cobblestone_brick_wall": {
+    "criteria": {
+      "has_item": "2024-12-23 20:55:52 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/oak_stairs_from_oak_planks_sawing": {
     "criteria": {
       "has_oak_planks": "2024-12-21 02:18:54 +0000"
@@ -3325,6 +3343,12 @@
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_recipe": "2024-12-21 02:11:40 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_brick_stairs": {
+    "criteria": {
+      "has_item": "2024-12-23 20:55:52 +0000"
     },
     "done": true
   },
@@ -4296,6 +4320,12 @@
     },
     "done": true
   },
+  "twigs:recipes/cobblestone_bricks/cobblestone_brick_stairs_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-23 20:55:52 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/lost_tentacle": {
     "criteria": {
       "capsid": "2024-12-23 00:20:15 +0000"
@@ -4912,6 +4942,12 @@
   "woodworks:recipes/redstone/trapped_chest": {
     "criteria": {
       "has_tripwire_hook": "2024-12-23 00:07:34 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cracked_cobblestone_bricks": {
+    "criteria": {
+      "has_item": "2024-12-23 20:55:52 +0000"
     },
     "done": true
   },
@@ -7551,6 +7587,12 @@
   "minecraft:recipes/redstone/acacia_door": {
     "criteria": {
       "has_planks": "2024-12-21 23:16:59 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_brick_wall_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-23 20:55:52 +0000"
     },
     "done": true
   },
