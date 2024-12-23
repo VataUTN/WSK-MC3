@@ -3094,6 +3094,12 @@
     },
     "done": true
   },
+  "vinery:grass_slab": {
+    "criteria": {
+      "has_grass_block": "2024-12-23 04:23:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_terracotta": {
     "criteria": {
       "has_terracotta": "2024-12-23 03:32:53 +0000"
@@ -5052,6 +5058,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2024-12-23 04:24:31 +0000"
+    },
+    "done": true
+  },
   "bygonenether:root": {
     "criteria": {
       "entered_nether": "2024-12-22 22:25:43 +0000"
@@ -5932,6 +5944,7 @@
   },
   "immersive_weathering:immersive_weathering/dirts": {
     "criteria": {
+      "grass": "2024-12-23 04:23:05 +0000",
       "dirt": "2024-12-21 03:59:52 +0000"
     },
     "done": false

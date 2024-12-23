@@ -4096,3 +4096,12 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [23Dec2024 04:20:50.248] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=670, y=121, z=-339} BlockPos{x=673, y=120, z=-337}
 [23Dec2024 04:20:50.848] [Server thread/INFO] [de.cas_ual_ty.deuf.DEUF/]: Changing UUID of entity alexsmobs:crow that already existed from dbc8d683-7224-4e0a-9361-b273f068f052 to ecb9a540-7c03-49f4-be4f-80ef047d9f8d
 [23Dec2024 04:25:13.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> xaero-waypoint:granjarda:g:26:-49:-46:1:false:0:Internal-overworld-waypoints
+[23Dec2024 04:26:01.092] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[23Dec2024 04:29:20.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax was slain by Zombie
+[23Dec2024 04:29:27.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Twuelvi was blown up by Creeper
+[23Dec2024 04:30:27.186] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Twuelvi lost connection: Disconnected
+[23Dec2024 04:30:27.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Twuelvi left the game
+[23Dec2024 04:30:27.189] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f0e9e050-51e8-3f94-b642-25238c260572
+[23Dec2024 04:33:47.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <maggie_> zzzzzzzzzz
+[23Dec2024 04:34:03.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRIOMAX has made the advancement [Acquire Hardware]
+[23Dec2024 04:34:45.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: maggie_ has made the advancement [Acquire Hardware]

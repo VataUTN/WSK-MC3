@@ -16633,3 +16633,33 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [23Dec2024 04:25:13.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> xaero-waypoint:granjarda:g:26:-49:-46:1:false:0:Internal-overworld-waypoints
 [23Dec2024 04:25:21.066] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of byg:features/trees/white_mangrove_tree5_base
 [23Dec2024 04:25:21.067] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of byg:features/trees/white_mangrove_tree2_base
+[23Dec2024 04:25:51.295] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/swamp_2
+[23Dec2024 04:25:51.300] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/swamp_3
+[23Dec2024 04:26:01.092] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[23Dec2024 04:26:24.396] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_1
+[23Dec2024 04:26:24.402] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_3
+[23Dec2024 04:26:24.408] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_4
+[23Dec2024 04:26:26.868] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/swamp_1
+[23Dec2024 04:26:48.175] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[23Dec2024 04:26:48.175] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[23Dec2024 04:26:57.371] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 04:26:57.447] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 04:27:08.658] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/shells/small_shell_9x9
+[23Dec2024 04:27:08.659] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_5
+[23Dec2024 04:27:08.659] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/loot_piles/loot_pile_4
+[23Dec2024 04:28:48.945] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:floating_island_1
+[23Dec2024 04:29:20.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax was slain by Zombie
+[23Dec2024 04:29:21.438] [Server thread/DEBUG] [twilightforest/]: Player Domitax (7effd5be-38be-38d2-9d2c-a8327f0f217a) respawned and received items held in storage
+[23Dec2024 04:29:27.388] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityBasedExplosionDamageCalculatorMixin from canary.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
+[23Dec2024 04:29:27.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Twuelvi was blown up by Creeper
+[23Dec2024 04:30:08.425] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[23Dec2024 04:30:27.186] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Twuelvi lost connection: Disconnected
+[23Dec2024 04:30:27.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Twuelvi left the game
+[23Dec2024 04:30:27.189] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f0e9e050-51e8-3f94-b642-25238c260572
+[23Dec2024 04:31:57.276] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 04:31:57.308] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 04:33:28.275] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[23Dec2024 04:33:47.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <maggie_> zzzzzzzzzz
+[23Dec2024 04:34:03.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRIOMAX has made the advancement [Acquire Hardware]
+[23Dec2024 04:34:45.061] [Server thread/DEBUG] [mixin/]: Mixing RecipebookMixin from recipeessentials.mixins.json into net.minecraft.recipebook.ServerPlaceRecipe
+[23Dec2024 04:34:45.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: maggie_ has made the advancement [Acquire Hardware]

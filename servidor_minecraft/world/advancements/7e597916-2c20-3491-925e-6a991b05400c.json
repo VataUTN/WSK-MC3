@@ -243,6 +243,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-12-23 04:24:47 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/redstone/oak_button_from_oak_planks_sawing": {
     "criteria": {
       "has_oak_planks": "2024-12-23 03:57:15 +0000"
@@ -755,6 +761,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2024-12-23 04:25:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-22 04:09:20 +0000"
@@ -1211,6 +1223,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/food/mushroom_stew_from_coconut_husk": {
+    "criteria": {
+      "has_mushroom_stew": "2024-12-23 04:24:28 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/dark_oak_boards_from_dark_oak_planks_sawing": {
     "criteria": {
       "has_dark_oak_planks": "2024-12-22 04:09:20 +0000"
@@ -1393,6 +1411,12 @@
   "another_furniture:recipes/white_sofa": {
     "criteria": {
       "has_wool": "2024-12-23 04:19:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/nether_salad": {
+    "criteria": {
+      "has_bowl": "2024-12-23 04:24:34 +0000"
     },
     "done": true
   },
@@ -1598,6 +1622,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2024-12-23 04:19:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-12-23 04:24:47 +0000"
     },
     "done": true
   },
@@ -1889,6 +1919,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_mushroom_stew": "2024-12-23 04:24:28 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/food/cooking/jelly_bottle": {
     "criteria": {
       "has_sweet_fruit": "2024-12-23 03:30:38 +0000"
@@ -1941,6 +1977,7 @@
     "criteria": {
       "melon_slice": "2024-12-23 03:53:33 +0000",
       "cooked_porkchop": "2024-12-22 04:41:49 +0000",
+      "mushroom_stew": "2024-12-23 04:24:34 +0000",
       "cooked_mutton": "2024-12-22 04:29:31 +0000",
       "apple": "2024-12-23 03:52:05 +0000",
       "windswept:wild_berries": "2024-12-23 03:45:28 +0000",
@@ -2286,6 +2323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_mushroom_stew": "2024-12-23 04:24:28 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/galosphere/allurite_bricks_from_allurite_block_stonecutting": {
     "criteria": {
       "has_allurite_block": "2024-12-22 04:43:07 +0000"
@@ -2340,6 +2383,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/dripstone_corner_trim": {
+    "criteria": {
+      "has_corner_trim": "2024-12-23 04:29:15 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/oak_fence_from_oak_logs_sawing": {
     "criteria": {
       "has_oak_logs": "2024-12-22 04:51:08 +0000"
@@ -2379,6 +2428,12 @@
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2024-12-22 04:09:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2024-12-23 04:24:34 +0000"
     },
     "done": true
   },
@@ -2439,6 +2494,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2024-12-22 04:06:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2024-12-23 04:24:34 +0000"
     },
     "done": true
   },
@@ -2536,6 +2597,12 @@
   "backpacked:recipes/backpacked/crimson_backpack_shelf": {
     "criteria": {
       "has_stick": "2024-12-22 04:09:31 +0000"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2024-12-23 04:24:34 +0000"
     },
     "done": true
   },
@@ -2994,6 +3061,18 @@
   "handcrafted:recipes/misc/andesite_corner_trim": {
     "criteria": {
       "has_corner_trim": "2024-12-22 04:27:17 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dripstone_pillar_trim": {
+    "criteria": {
+      "has_pillar_trim": "2024-12-23 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "incubation:recipes/food/scrambled_eggs": {
+    "criteria": {
+      "has_bowl": "2024-12-23 04:24:34 +0000"
     },
     "done": true
   },
