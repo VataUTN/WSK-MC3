@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "twigs:recipes/silt/purple_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2024-12-23 00:53:15 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/mossy_cobbled_netherrack_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2024-12-23 00:17:29 +0000"
@@ -248,6 +254,12 @@
     },
     "done": true
   },
+  "twigs:recipes/silt/black_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2024-12-23 00:53:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-21 22:55:15 +0000"
@@ -350,6 +362,12 @@
     },
     "done": true
   },
+  "twigs:recipes/silt/pink_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2024-12-23 00:53:15 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/bamboo_bundle": {
     "criteria": {
       "has_bamboo": "2024-12-21 02:23:44 +0000"
@@ -422,6 +440,12 @@
     },
     "done": true
   },
+  "twigs:recipes/silt/light_gray_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2024-12-23 00:53:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-12-21 03:59:11 +0000"
@@ -431,6 +455,12 @@
   "aether:recipes/combat/golden_ring": {
     "criteria": {
       "has_gold_ingot": "2024-12-21 04:48:35 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/nether_brick_shingle_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-23 00:50:25 +0000"
     },
     "done": true
   },
@@ -560,6 +590,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-23 00:50:25 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/azalea_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-21 04:10:40 +0000"
@@ -575,6 +611,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-21 22:55:15 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/nether_brick_pavers_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-23 00:50:25 +0000"
     },
     "done": true
   },
@@ -731,6 +773,12 @@
   "stoneworks:recipes/stoneworks.main/mossy_cobbled_netherrack_stairs_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2024-12-23 00:17:29 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/nethersdelight/nether_brick_smoker": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-23 00:50:25 +0000"
     },
     "done": true
   },
@@ -1112,6 +1160,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/nether_brick_plate_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-23 00:50:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 03:03:25 +0000"
@@ -1298,6 +1352,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/nether_brick_pillar_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-23 00:50:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2024-12-21 23:20:19 +0000"
@@ -1343,6 +1403,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2024-12-23 00:06:22 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/blue_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2024-12-23 00:53:15 +0000"
     },
     "done": true
   },
@@ -1460,6 +1526,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/nether_brick_plates_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-23 00:50:25 +0000"
+    },
+    "done": true
+  },
   "vinery:birch_wine_rack_big": {
     "criteria": {
       "has_birch_planks": "2024-12-21 04:10:27 +0000"
@@ -1568,6 +1640,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/nether_brick_paver_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-23 00:50:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2024-12-21 02:36:22 +0000"
@@ -1583,6 +1661,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 03:03:25 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/orange_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2024-12-23 00:53:15 +0000"
     },
     "done": true
   },
@@ -1724,6 +1808,12 @@
     },
     "done": true
   },
+  "twigs:recipes/silt/magenta_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2024-12-23 00:53:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2024-12-21 04:49:18 +0000"
@@ -1757,6 +1847,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/dog_food": {
     "criteria": {
       "has_any_ingredient": "2024-12-21 02:56:50 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/brown_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2024-12-23 00:53:15 +0000"
     },
     "done": true
   },
@@ -1880,6 +1976,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-23 00:50:25 +0000"
+    },
+    "done": true
+  },
   "byg:recipes/byg.byg/skyris_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-21 04:10:40 +0000"
@@ -1892,6 +1994,12 @@
     },
     "done": true
   },
+  "twigs:recipes/silt/lime_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2024-12-23 00:53:15 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/fishing_rod_repairing": {
     "criteria": {
       "has_fishing_rod": "2024-12-21 23:08:52 +0000"
@@ -1901,6 +2009,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2024-12-21 23:20:19 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/yellow_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2024-12-23 00:53:15 +0000"
     },
     "done": true
   },
@@ -2120,6 +2234,12 @@
     },
     "done": true
   },
+  "twigs:recipes/silt/light_blue_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2024-12-23 00:53:15 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dripstone_pillar_trim": {
     "criteria": {
       "has_pillar_trim": "2024-12-21 22:29:02 +0000"
@@ -2189,6 +2309,12 @@
   "woodworks:recipes/redstone/dark_oak_fence_gate_from_dark_oak_logs_sawing": {
     "criteria": {
       "has_dark_oak_logs": "2024-12-21 03:07:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-23 00:50:25 +0000"
     },
     "done": true
   },
@@ -2325,6 +2451,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-23 00:50:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-21 23:01:24 +0000"
@@ -2394,6 +2526,18 @@
   "ecologics:recipes/ecologics/flowering_azalea_boat": {
     "criteria": {
       "in_water": "2024-12-21 03:02:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/nether_brick_shingle_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-23 00:50:25 +0000"
+    },
+    "done": true
+  },
+  "clayworks:recipes/building_blocks/cracked_nether_bricks_from_baking": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-23 00:50:25 +0000"
     },
     "done": true
   },
@@ -2541,6 +2685,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/nether_brick_plate_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-23 00:50:25 +0000"
+    },
+    "done": true
+  },
   "byg:recipes/byg.byg/white_mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-21 04:10:40 +0000"
@@ -2632,6 +2782,12 @@
     },
     "done": true
   },
+  "twigs:recipes/silt/cyan_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2024-12-23 00:53:15 +0000"
+    },
+    "done": true
+  },
   "aether_redux:recipes/transportation/blightwillow_boat": {
     "criteria": {
       "in_water": "2024-12-21 03:02:12 +0000"
@@ -2674,6 +2830,18 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/nether_brick_paver_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-23 00:50:25 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_helmet_repairing": {
+    "criteria": {
+      "has_chainmail_helmet": "2024-12-23 00:50:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_rose_bush": "2024-12-21 22:47:44 +0000"
@@ -2689,6 +2857,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2024-12-21 04:48:35 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/nether_brick_shingles_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-23 00:50:25 +0000"
     },
     "done": true
   },
@@ -2857,6 +3031,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2024-12-23 00:51:27 +0000",
       "minecraft:skeleton": "2024-12-21 04:38:14 +0000",
       "minecraft:spider": "2024-12-21 04:18:43 +0000",
       "minecraft:creeper": "2024-12-21 21:36:58 +0000",
@@ -2924,6 +3099,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 03:03:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-23 00:50:25 +0000"
     },
     "done": true
   },
@@ -3044,6 +3225,12 @@
   "vinery:dirt_slab": {
     "criteria": {
       "has_dirt": "2024-12-21 02:30:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-23 00:50:25 +0000"
     },
     "done": true
   },
@@ -3200,6 +3387,18 @@
   "aether:recipes/building_blocks/ice_from_bucket_freezing": {
     "criteria": {
       "has_water_bucket": "2024-12-21 03:38:57 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/green_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2024-12-23 00:53:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-23 00:50:25 +0000"
     },
     "done": true
   },
@@ -3400,6 +3599,12 @@
     },
     "done": true
   },
+  "twigs:recipes/silt/white_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2024-12-23 00:53:15 +0000"
+    },
+    "done": true
+  },
   "environmental:recipes/transportation/wisteria_boat": {
     "criteria": {
       "in_water": "2024-12-21 03:02:12 +0000"
@@ -3416,6 +3621,12 @@
   "twilightdelight:recipes/frozen/obsidian": {
     "criteria": {
       "has_magma_block": "2024-12-23 00:37:04 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/packed_silt": {
+    "criteria": {
+      "has_item": "2024-12-23 00:53:15 +0000"
     },
     "done": true
   },
@@ -3569,6 +3780,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-23 00:50:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-21 23:24:36 +0000"
@@ -3596,6 +3813,12 @@
   "galosphere:recipes/galosphere/spectre_flare": {
     "criteria": {
       "has_silver_ingot": "2024-12-21 04:07:10 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/red_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2024-12-23 00:53:15 +0000"
     },
     "done": true
   },
@@ -3819,6 +4042,12 @@
   "another_furniture:recipes/birch_table": {
     "criteria": {
       "has_planks": "2024-12-21 04:10:27 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/nether_bricks": {
+    "criteria": {
+      "has_copper_block": "2024-12-23 00:50:25 +0000"
     },
     "done": true
   },
@@ -4237,6 +4466,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/nether_brick_shingle_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-23 00:50:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2024-12-21 04:48:35 +0000"
@@ -4381,6 +4616,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/nether_brick_paver_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-23 00:50:25 +0000"
+    },
+    "done": true
+  },
   "environmental:recipes/decorations/willow_chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-21 02:56:11 +0000"
@@ -4486,6 +4727,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-12-21 03:59:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-23 00:50:25 +0000"
     },
     "done": true
   },
@@ -4603,6 +4850,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/nether_brick_plate_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-23 00:50:25 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/iron_shovel_repairing": {
     "criteria": {
       "has_iron_shovel": "2024-12-21 22:42:30 +0000"
@@ -4630,6 +4883,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2024-12-21 05:10:16 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/gray_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2024-12-23 00:53:15 +0000"
     },
     "done": true
   },

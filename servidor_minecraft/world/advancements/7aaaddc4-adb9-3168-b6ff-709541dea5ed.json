@@ -1839,6 +1839,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-12-23 00:53:17 +0000"
+    },
+    "done": false
+  },
   "handcrafted:recipes/misc/golden_medium_pot": {
     "criteria": {
       "has_gold_block": "2024-12-21 23:06:49 +0000"
@@ -2059,6 +2065,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-22 02:06:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-23 00:53:16 +0000"
     },
     "done": true
   },
@@ -2869,6 +2881,12 @@
   "handcrafted:recipes/misc/diorite_pillar_trim": {
     "criteria": {
       "has_pillar_trim": "2024-12-21 03:39:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-23 00:53:16 +0000"
     },
     "done": true
   },
@@ -5090,6 +5108,12 @@
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2024-12-23 00:35:32 +0000"
+    },
+    "done": true
+  },
+  "bygonenether:root": {
+    "criteria": {
+      "entered_nether": "2024-12-23 00:53:16 +0000"
     },
     "done": true
   },
@@ -7941,6 +7965,12 @@
   "another_furniture:recipes/light_gray_lamp": {
     "criteria": {
       "has_wool": "2024-12-21 04:47:01 +0000"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:main/root": {
+    "criteria": {
+      "entered_nether": "2024-12-23 00:53:16 +0000"
     },
     "done": true
   },
