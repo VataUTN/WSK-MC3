@@ -7252,6 +7252,12 @@
     },
     "done": true
   },
+  "twilightdelight:recipes/frozen/cutting/ice_sword": {
+    "criteria": {
+      "has_diamond_sword": "2024-12-23 22:35:25 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/black_sofa": {
     "criteria": {
       "has_wool": "2024-12-22 04:16:30 +0000"
@@ -7412,6 +7418,12 @@
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2024-12-21 03:34:28 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_sword_repairing": {
+    "criteria": {
+      "has_diamond_sword": "2024-12-23 22:35:25 +0000"
     },
     "done": true
   },

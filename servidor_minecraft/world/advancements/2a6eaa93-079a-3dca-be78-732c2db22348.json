@@ -1404,6 +1404,12 @@
     },
     "done": true
   },
+  "friendsandfoes:adventure/it_bites": {
+    "criteria": {
+      "killed_mauler": "2024-12-23 22:40:37 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/tuff_shingles_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-12-23 04:24:01 +0000"
@@ -1840,6 +1846,7 @@
     "criteria": {
       "minecraft:birch_forest": "2024-12-23 03:45:42 +0000",
       "minecraft:dark_forest": "2024-12-23 03:40:52 +0000",
+      "minecraft:mangrove_swamp": "2024-12-23 22:34:27 +0000",
       "minecraft:sparse_jungle": "2024-12-23 03:56:28 +0000",
       "minecraft:river": "2024-12-23 03:45:13 +0000",
       "minecraft:dripstone_caves": "2024-12-23 04:26:53 +0000",
@@ -3051,6 +3058,12 @@
   "stoneworks:recipes/stoneworks.main/tuff_shingle_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-12-23 04:24:01 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2024-12-23 22:29:31 +0000"
     },
     "done": true
   },
