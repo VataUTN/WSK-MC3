@@ -4166,3 +4166,7 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [23Dec2024 19:45:28.024] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7aaaddc4-adb9-3168-b6ff-709541dea5ed
 [23Dec2024 19:45:28.043] [Server thread/INFO] [Jade/]: Syncing config to Joacoo_17 (7aaaddc4-adb9-3168-b6ff-709541dea5ed)
 [23Dec2024 20:08:01.732] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
+[23Dec2024 20:22:56.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Domitax> cuanta xp tenes
+[23Dec2024 20:23:00.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Joacoo_17> 8
+[23Dec2024 20:23:10.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Domitax> a la mierda
+[23Dec2024 20:23:13.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Domitax> es un abanda
