@@ -183,9 +183,27 @@
     },
     "done": true
   },
+  "vinery:basket": {
+    "criteria": {
+      "has_wheat": "2024-12-23 04:45:56 +0000"
+    },
+    "done": true
+  },
+  "vinery:straw_hat": {
+    "criteria": {
+      "has_wheat": "2024-12-23 04:45:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2024-12-22 04:09:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/pie_crust": {
+    "criteria": {
+      "has_wheat": "2024-12-23 04:45:56 +0000"
     },
     "done": true
   },
@@ -481,6 +499,12 @@
   "woodworks:recipes/decorations/crimson_ladder": {
     "criteria": {
       "has_stick": "2024-12-22 04:09:31 +0000"
+    },
+    "done": true
+  },
+  "incubation:recipes/decorations/hay_nest": {
+    "criteria": {
+      "has_wheat": "2024-12-23 04:45:56 +0000"
     },
     "done": true
   },
@@ -785,6 +809,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/redstone/birch_fence_gate_from_birch_logs_sawing": {
+    "criteria": {
+      "has_birch_logs": "2024-12-23 04:45:39 +0000"
+    },
+    "done": true
+  },
   "shieldexp:recipes/wooden_shield": {
     "criteria": {
       "has_stick": "2024-12-22 04:09:31 +0000"
@@ -827,9 +857,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2024-12-23 04:45:39 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/mossy_calcite_brick_stairs_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-12-22 04:44:16 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/birch_boards_from_birch_logs_sawing": {
+    "criteria": {
+      "has_birch_logs": "2024-12-23 04:45:39 +0000"
     },
     "done": true
   },
@@ -1175,6 +1217,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/birch_planks_from_birch_logs_sawing": {
+    "criteria": {
+      "has_birch_logs": "2024-12-23 04:45:39 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/galosphere/warped_anchor": {
     "criteria": {
       "has_allurite_block": "2024-12-22 04:43:07 +0000"
@@ -1295,6 +1343,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/decorations/birch_fence_from_birch_logs_sawing": {
+    "criteria": {
+      "has_birch_logs": "2024-12-23 04:45:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 04:34:45 +0000"
@@ -1304,6 +1358,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2024-12-22 04:34:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2024-12-23 04:45:39 +0000"
     },
     "done": true
   },
@@ -1562,6 +1622,12 @@
   "woodworks:recipes/redstone/oak_fence_gate_from_oak_logs_sawing": {
     "criteria": {
       "has_oak_logs": "2024-12-22 04:51:08 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/birch_ladder_from_birch_logs_sawing": {
+    "criteria": {
+      "has_birch_logs": "2024-12-23 04:45:39 +0000"
     },
     "done": true
   },
@@ -1908,6 +1974,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2024-12-23 04:45:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2024-12-23 04:19:51 +0000"
@@ -1917,6 +1989,12 @@
   "twigs:recipes/cobblestone_bricks/cobblestone_brick_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_item": "2024-12-22 04:10:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-12-23 04:47:24 +0000"
     },
     "done": true
   },
@@ -1968,6 +2046,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-12-23 04:46:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-22 04:27:17 +0000"
@@ -2001,6 +2085,12 @@
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2024-12-22 04:09:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-23 04:45:56 +0000"
     },
     "done": true
   },
@@ -2106,6 +2196,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-23 04:46:52 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/andesite_tile_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-22 04:27:17 +0000"
@@ -2127,6 +2223,12 @@
   "woodworks:recipes/decorations/warped_chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-22 04:13:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2024-12-23 04:47:24 +0000"
     },
     "done": true
   },
@@ -2202,6 +2304,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/birch_stairs_from_birch_logs_sawing": {
+    "criteria": {
+      "has_birch_logs": "2024-12-23 04:45:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "melon_slice": "2024-12-23 03:53:33 +0000",
@@ -2236,15 +2344,33 @@
     },
     "done": true
   },
+  "woodworks:recipes/redstone/birch_button_from_birch_logs_sawing": {
+    "criteria": {
+      "has_birch_logs": "2024-12-23 04:45:39 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/mossy_cobbled_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-22 04:27:17 +0000"
     },
     "done": true
   },
+  "ecologics:recipes/food/beetroot_soup_from_coconut_husk": {
+    "criteria": {
+      "has_beetroot": "2024-12-23 04:47:24 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/cobbled_calcite_slab_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-12-22 04:44:16 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/birch_sign_from_birch_logs_sawing": {
+    "criteria": {
+      "has_birch_logs": "2024-12-23 04:45:39 +0000"
     },
     "done": true
   },
@@ -2386,6 +2512,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-12-23 04:45:56 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/redstone/dark_oak_pressure_plate_from_dark_oak_logs_sawing": {
     "criteria": {
       "has_dark_oak_logs": "2024-12-22 04:09:02 +0000"
@@ -2470,6 +2602,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2024-12-23 04:46:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2024-12-22 04:10:25 +0000"
@@ -2479,6 +2617,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 04:34:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-12-23 04:47:24 +0000"
     },
     "done": true
   },
@@ -2614,6 +2758,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/birch_palisade": {
+    "criteria": {
+      "has_log": "2024-12-23 04:45:39 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/dark_oak_ladder_from_dark_oak_logs_sawing": {
     "criteria": {
       "has_dark_oak_logs": "2024-12-22 04:09:02 +0000"
@@ -2701,6 +2851,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/dog_food": {
     "criteria": {
       "has_any_ingredient": "2024-12-22 04:28:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2024-12-23 04:45:56 +0000"
     },
     "done": true
   },
@@ -2993,6 +3149,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-23 04:47:24 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/birch_drawer": {
     "criteria": {
       "has_planks": "2024-12-22 04:09:31 +0000"
@@ -3233,6 +3395,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/redstone/birch_door_from_birch_logs_sawing": {
+    "criteria": {
+      "has_birch_logs": "2024-12-23 04:45:39 +0000"
+    },
+    "done": true
+  },
   "backpacked:recipes/backpacked/spruce_backpack_shelf": {
     "criteria": {
       "has_stick": "2024-12-22 04:09:31 +0000"
@@ -3379,6 +3547,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/birch_slab_from_birch_logs_sawing": {
+    "criteria": {
+      "has_birch_logs": "2024-12-23 04:45:39 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/andesite_corner_trim": {
     "criteria": {
       "has_corner_trim": "2024-12-22 04:27:17 +0000"
@@ -3439,6 +3613,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/redstone/birch_pressure_plate_from_birch_logs_sawing": {
+    "criteria": {
+      "has_birch_logs": "2024-12-23 04:45:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2024-12-22 04:43:10 +0000"
@@ -3490,6 +3670,12 @@
   "another_furniture:recipes/oak_table": {
     "criteria": {
       "has_planks": "2024-12-23 03:57:15 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/birch_trapdoor_from_birch_logs_sawing": {
+    "criteria": {
+      "has_birch_logs": "2024-12-23 04:45:39 +0000"
     },
     "done": true
   },
@@ -3616,6 +3802,12 @@
   "repurposed_structures:root": {
     "criteria": {
       "always": "2024-12-22 04:03:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-23 04:46:52 +0000"
     },
     "done": true
   },

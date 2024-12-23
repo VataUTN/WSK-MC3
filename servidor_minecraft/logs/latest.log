@@ -4135,3 +4135,31 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [23Dec2024 04:41:00.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: maggie_ has made the advancement [We do a little trolling...]
 [23Dec2024 04:41:03.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRIOMAX has made the advancement [We do a little trolling...]
 [23Dec2024 04:41:19.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRIOMAX has reached the goal [Flowers of the Savanna]
+[23Dec2024 04:47:26.159] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=555, y=67, z=-242} BlockPos{x=556, y=63, z=-275}
+[23Dec2024 04:47:26.170] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=555, y=67, z=-242} BlockPos{x=556, y=63, z=-275}
+[23Dec2024 04:47:42.656] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[23Dec2024 04:48:04.503] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=642, y=106, z=-340} BlockPos{x=643, y=107, z=-340}
+[23Dec2024 04:48:04.556] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=642, y=107, z=-341} BlockPos{x=643, y=107, z=-340}
+[23Dec2024 04:48:08.706] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[23Dec2024 04:48:40.855] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Domitax lost connection: Disconnected
+[23Dec2024 04:48:40.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax left the game
+[23Dec2024 04:48:40.856] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7effd5be-38be-38d2-9d2c-a8327f0f217a
+[23Dec2024 04:48:51.210] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@226c2974
+[23Dec2024 04:48:51.226] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Domitax[/127.232.93.209:53729] logged in with entity id 18867 at (30.414524351147417, -53.0, -38.30000001192093)
+[23Dec2024 04:48:51.228] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Domitax
+[23Dec2024 04:48:51.228] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Domitax
+[23Dec2024 04:48:51.229] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Domitax
+[23Dec2024 04:48:51.229] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Domitax
+[23Dec2024 04:48:51.231] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Domitax
+[23Dec2024 04:48:51.233] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Domitax
+[23Dec2024 04:48:51.233] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Domitax
+[23Dec2024 04:48:51.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax joined the game
+[23Dec2024 04:48:51.298] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7effd5be-38be-38d2-9d2c-a8327f0f217a
+[23Dec2024 04:48:51.305] [Server thread/INFO] [Jade/]: Syncing config to Domitax (7effd5be-38be-38d2-9d2c-a8327f0f217a)
+[23Dec2024 04:48:53.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> z
+[23Dec2024 04:49:03.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <maggie_> zzzz
+[23Dec2024 04:51:27.302] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 3 bison_fur because there is no smelting recipe
+[23Dec2024 04:51:37.453] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 5 bison_fur because there is no smelting recipe
+[23Dec2024 04:52:03.898] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 5 bison_fur because there is no smelting recipe
+[23Dec2024 04:52:11.556] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 3 bison_fur because there is no smelting recipe
+[23Dec2024 04:55:32.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 was slain by Vindicator
