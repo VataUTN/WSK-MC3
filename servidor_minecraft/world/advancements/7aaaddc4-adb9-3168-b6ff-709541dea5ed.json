@@ -3695,6 +3695,12 @@
     },
     "done": true
   },
+  "twigs:recipes/bone_meal_from_seashells": {
+    "criteria": {
+      "has_item": "2024-12-23 15:41:51 +0000"
+    },
+    "done": true
+  },
   "windswept:recipes/redstone/holly_trapped_chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-21 02:19:35 +0000"

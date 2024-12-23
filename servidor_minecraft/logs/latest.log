@@ -4022,3 +4022,4 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [23Dec2024 15:27:21.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: * Server yo entraria pero estoy trabajando lamentablemente
 [23Dec2024 15:33:55.647] [Server thread/INFO] [de.cas_ual_ty.deuf.DEUF/]: Changing UUID of entity minecraft:bat that already existed from 2f8ae9aa-375d-456f-b3dd-9a9f7eddaa18 to a6b6bcce-02d4-49a7-851d-6663748ef212
 [23Dec2024 15:34:55.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Joacoo_17> mal ahi
+[23Dec2024 15:41:01.045] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=564, y=55, z=-424} BlockPos{x=564, y=56, z=-424}
