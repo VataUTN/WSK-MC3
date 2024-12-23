@@ -788,6 +788,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-23 21:12:37 +0000"
+    },
+    "done": true
+  },
   "windswept:recipes/misc/rose_flower_banner_pattern": {
     "criteria": {
       "has_roses": "2024-12-22 04:16:27 +0000"
@@ -929,6 +935,12 @@
   "environmental:recipes/building_blocks/willow_bookshelf": {
     "criteria": {
       "has_book": "2024-12-23 03:55:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-23 21:12:37 +0000"
     },
     "done": true
   },
@@ -2315,6 +2327,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-23 21:12:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2024-12-21 04:34:07 +0000"
@@ -3173,6 +3191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-23 21:12:37 +0000"
+    },
+    "done": true
+  },
   "vinery:wine_rack_2": {
     "criteria": {
       "has_spruce_planks": "2024-12-22 02:30:21 +0000"
@@ -3248,6 +3272,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2024-12-22 20:42:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-23 21:12:37 +0000"
     },
     "done": true
   },
@@ -3684,6 +3714,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-23 21:12:37 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/galosphere/amethyst_bricks_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2024-12-23 19:00:57 +0000"
@@ -3905,6 +3941,12 @@
   "farmersdelight:recipes/farmersdelight/flint_knife": {
     "criteria": {
       "has_stick": "2024-12-21 03:35:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-23 21:12:37 +0000"
     },
     "done": true
   },
@@ -4280,6 +4322,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-23 21:12:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2024-12-21 03:35:51 +0000"
@@ -4289,6 +4337,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-12-21 03:49:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-23 21:12:37 +0000"
     },
     "done": true
   },
@@ -5554,6 +5608,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-23 21:12:37 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/birch_shelf": {
     "criteria": {
       "has_planks": "2024-12-21 04:43:14 +0000"
@@ -5995,6 +6055,12 @@
   "everycomp:recipes/everycomp/af/byg/palm_bench": {
     "criteria": {
       "has_planks": "2024-12-23 19:08:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-23 21:12:37 +0000"
     },
     "done": true
   },
@@ -6920,6 +6986,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-23 21:12:37 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/andesite_tile_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-21 05:29:31 +0000"
@@ -7397,6 +7469,12 @@
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-21 05:05:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-23 21:12:37 +0000"
     },
     "done": true
   },
@@ -8802,6 +8880,12 @@
   "netherdepthsupgrade:main/root": {
     "criteria": {
       "entered_nether": "2024-12-22 22:25:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-23 21:12:37 +0000"
     },
     "done": true
   },
