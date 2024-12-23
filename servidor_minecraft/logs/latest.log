@@ -4189,3 +4189,4 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [23Dec2024 23:03:58.563] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WanderingWinemakerEntity['Dee'/45644, l='ServerLevel[world]', x=442.72, y=68.00, z=-293.72] died: Dee was slain by Vata74
 [23Dec2024 23:04:30.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 has made the advancement [Best Friends Forever]
 [23Dec2024 23:08:01.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 has made the advancement [It's an Emu!!!]
+[23Dec2024 23:21:58.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax has made the advancement [Flexible Schedule]
