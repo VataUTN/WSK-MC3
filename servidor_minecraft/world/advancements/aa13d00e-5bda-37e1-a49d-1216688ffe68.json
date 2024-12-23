@@ -2037,6 +2037,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_blocks/ventium_block": {
+    "criteria": {
+      "has_item": "2024-12-23 03:55:43 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/andesite_shingle_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-22 03:44:23 +0000"
@@ -3527,6 +3533,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_misc/ventium_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2024-12-23 03:55:43 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/mushroom_rice": {
     "criteria": {
       "has_any_ingredient": "2024-12-21 02:18:01 +0000"
@@ -3978,6 +3990,12 @@
   "aether:recipes/combat/diamond_chestplate_repairing": {
     "criteria": {
       "has_diamond_chestplate": "2024-12-22 22:03:04 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/ventium_shears": {
+    "criteria": {
+      "has_item": "2024-12-23 03:55:43 +0000"
     },
     "done": true
   },
@@ -5087,6 +5105,12 @@
     },
     "done": true
   },
+  "blue_skies:everbright/get_ventium": {
+    "criteria": {
+      "obtain_material": "2024-12-23 03:55:43 +0000"
+    },
+    "done": true
+  },
   "vinery:spruce_wine_rack_big": {
     "criteria": {
       "has_spruce_planks": "2024-12-22 03:22:22 +0000"
@@ -5827,6 +5851,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/ventium_bucket": {
+    "criteria": {
+      "has_item": "2024-12-23 03:55:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2024-12-22 01:10:30 +0000"
@@ -6211,9 +6241,11 @@
       "minecraft:mushroom_fields": "2024-12-22 22:43:39 +0000",
       "minecraft:taiga": "2024-12-22 01:25:08 +0000",
       "minecraft:deep_ocean": "2024-12-21 05:16:02 +0000",
+      "environmental:marsh": "2024-12-23 03:55:12 +0000",
       "minecraft:frozen_river": "2024-12-21 05:02:19 +0000",
       "minecraft:sunflower_plains": "2024-12-21 22:40:49 +0000",
       "minecraft:birch_forest": "2024-12-21 02:28:35 +0000",
+      "minecraft:windswept_hills": "2024-12-23 03:57:00 +0000",
       "minecraft:beach": "2024-12-21 22:32:38 +0000",
       "minecraft:dark_forest": "2024-12-21 01:48:14 +0000",
       "minecraft:sparse_jungle": "2024-12-23 03:10:37 +0000",
@@ -6235,9 +6267,11 @@
       "minecraft:deep_frozen_ocean": "2024-12-21 05:12:01 +0000",
       "minecraft:ocean": "2024-12-21 05:16:25 +0000",
       "minecraft:snowy_beach": "2024-12-21 22:48:28 +0000",
+      "minecraft:flower_forest": "2024-12-23 03:59:36 +0000",
       "minecraft:frozen_peaks": "2024-12-22 05:44:31 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-21 02:42:00 +0000",
       "minecraft:meadow": "2024-12-21 04:42:16 +0000",
+      "minecraft:savanna": "2024-12-23 04:00:20 +0000",
       "minecraft:plains": "2024-12-21 04:43:09 +0000"
     },
     "done": false
@@ -7851,6 +7885,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/decorations/anvil_compat": {
+    "criteria": {
+      "has_item": "2024-12-23 03:55:43 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "wheat": "2024-12-21 03:26:17 +0000",
@@ -8161,6 +8201,12 @@
   "handcrafted:recipes/misc/phantom_trophy": {
     "criteria": {
       "has_phantom_membrane": "2024-12-21 04:45:56 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_blocks/tool_box": {
+    "criteria": {
+      "has_item": "2024-12-23 03:55:43 +0000"
     },
     "done": true
   },

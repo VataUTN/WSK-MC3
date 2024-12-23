@@ -266,6 +266,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/chainmail_chestplate_repairing": {
+    "criteria": {
+      "has_chainmail_chestplate": "2024-12-23 03:53:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 03:49:41 +0000"
@@ -314,6 +320,12 @@
     },
     "done": true
   },
+  "environmental:recipes/building_blocks/cherry_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-23 03:55:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2024-12-22 22:53:05 +0000"
@@ -359,6 +371,18 @@
   "stoneworks:recipes/stoneworks.main/cracked_granite_bricks_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-22 02:21:49 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/acacia_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-23 03:55:40 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-23 03:55:41 +0000"
     },
     "done": true
   },
@@ -800,6 +824,12 @@
     },
     "done": true
   },
+  "environmental:recipes/building_blocks/willow_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-23 03:55:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-21 03:35:46 +0000"
@@ -1179,6 +1209,12 @@
     },
     "done": true
   },
+  "aether:recipes/redstone/skyroot_lectern": {
+    "criteria": {
+      "has_book": "2024-12-23 03:55:40 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/leather_chestplate_repairing": {
     "criteria": {
       "has_leather_chestplate": "2024-12-22 23:32:53 +0000"
@@ -1332,6 +1368,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 03:49:41 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everbright_blocks/bluebright_bookshelf": {
+    "criteria": {
+      "has_item": "2024-12-23 03:55:40 +0000"
     },
     "done": true
   },
@@ -1512,6 +1554,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-21 04:34:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-12-23 03:55:40 +0000"
     },
     "done": true
   },
@@ -2062,6 +2110,12 @@
     },
     "done": true
   },
+  "delightful:recipes/food/marshmallow_stick": {
+    "criteria": {
+      "has_sugar": "2024-12-23 03:57:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2024-12-21 04:34:07 +0000"
@@ -2143,6 +2197,12 @@
   "farmersdelight:recipes/farmersdelight/steak_and_potatoes": {
     "criteria": {
       "has_baked_potato": "2024-12-22 20:10:25 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/building_blocks/wisteria_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-23 03:55:40 +0000"
     },
     "done": true
   },
@@ -2374,6 +2434,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blightwillow_planks_to_skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-23 03:55:40 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/dark_oak_sign_from_dark_oak_logs_sawing": {
     "criteria": {
       "has_dark_oak_logs": "2024-12-21 03:35:41 +0000"
@@ -2587,6 +2653,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 03:49:41 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/oak_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-23 03:55:40 +0000"
     },
     "done": true
   },
@@ -3136,9 +3208,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glacia_planks_to_skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-23 03:55:40 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/af/quark/blossom_planter_box": {
     "criteria": {
       "has_planks": "2024-12-22 20:41:44 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/mangrove_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-23 03:55:40 +0000"
     },
     "done": true
   },
@@ -3340,6 +3424,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/fieldsprout_planks_to_skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-23 03:55:40 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/polished_tuff_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-12-22 20:51:24 +0000"
@@ -3397,6 +3487,12 @@
   "clayworks:recipes/decorations/gray_terracotta_wall": {
     "criteria": {
       "has_gray_terracotta": "2024-12-21 05:48:20 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/crimson_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-23 03:55:40 +0000"
     },
     "done": true
   },
@@ -3827,6 +3923,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/spruce_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-23 03:55:40 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/iron_ring": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 03:49:41 +0000"
@@ -3914,6 +4016,12 @@
   "bambooeverything:recipes/dry_bamboo_stairs": {
     "criteria": {
       "has_dry_bundle": "2024-12-21 03:33:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cloudcap_planks_to_skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-23 03:55:40 +0000"
     },
     "done": true
   },
@@ -4205,6 +4313,12 @@
     },
     "done": true
   },
+  "windswept:recipes/decorations/brown_mushroom_basket": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-23 04:18:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-22 02:22:45 +0000"
@@ -4308,6 +4422,12 @@
     },
     "done": true
   },
+  "vinery:fermentation_barrel": {
+    "criteria": {
+      "has_barrel": "2024-12-23 03:55:41 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/crimson_ladder": {
     "criteria": {
       "has_stick": "2024-12-21 03:35:51 +0000"
@@ -4329,6 +4449,12 @@
   "stoneworks:recipes/stoneworks.main/mossy_diorite_brick_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-22 20:34:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-12-23 03:55:40 +0000"
     },
     "done": true
   },
@@ -4434,6 +4560,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crystal_planks_to_skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-23 03:55:40 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/mossy_granite_brick_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-22 02:21:50 +0000"
@@ -4527,6 +4659,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-21 05:29:31 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everbright_blocks/frostbright_bookshelf": {
+    "criteria": {
+      "has_item": "2024-12-23 03:55:40 +0000"
     },
     "done": true
   },
@@ -5004,6 +5142,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/stackable_book": {
+    "criteria": {
+      "has_book": "2024-12-23 03:55:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2024-12-22 21:24:17 +0000"
@@ -5055,6 +5199,12 @@
   "clayworks:recipes/building_blocks/green_terracotta_slab": {
     "criteria": {
       "has_green_terracotta": "2024-12-21 05:50:49 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/dark_oak_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-23 03:55:41 +0000"
     },
     "done": true
   },
@@ -5190,6 +5340,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-12-23 03:55:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-21 04:43:14 +0000"
@@ -5235,6 +5391,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2024-12-21 04:15:15 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_blocks/cherry_bookshelf": {
+    "criteria": {
+      "has_item": "2024-12-23 03:55:40 +0000"
     },
     "done": true
   },
@@ -5396,8 +5558,10 @@
       "minecraft:deep_ocean": "2024-12-21 05:22:45 +0000",
       "minecraft:frozen_river": "2024-12-21 05:11:11 +0000",
       "minecraft:birch_forest": "2024-12-21 03:55:38 +0000",
+      "minecraft:bamboo_jungle": "2024-12-23 04:19:40 +0000",
       "minecraft:beach": "2024-12-22 04:18:19 +0000",
       "minecraft:dark_forest": "2024-12-21 03:33:38 +0000",
+      "minecraft:sparse_jungle": "2024-12-23 04:20:00 +0000",
       "minecraft:river": "2024-12-21 03:54:38 +0000",
       "minecraft:lukewarm_ocean": "2024-12-22 01:32:20 +0000",
       "minecraft:stony_shore": "2024-12-21 05:17:11 +0000",
@@ -5495,6 +5659,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/jungle_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-23 03:55:40 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/brown_stool": {
     "criteria": {
       "has_wool": "2024-12-21 04:54:30 +0000"
@@ -5552,6 +5722,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-21 03:38:47 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_cartography_table": {
+    "criteria": {
+      "has_paper": "2024-12-23 03:55:40 +0000"
     },
     "done": true
   },
@@ -5688,6 +5864,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/maple_bookshelf": {
+    "criteria": {
+      "has_item": "2024-12-23 03:55:40 +0000"
+    },
+    "done": true
+  },
   "windswept:recipes/transportation/chestnut_boat": {
     "criteria": {
       "in_water": "2024-12-21 03:34:28 +0000"
@@ -5820,6 +6002,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-12-23 03:55:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2024-12-21 04:30:06 +0000"
@@ -5877,6 +6065,12 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2024-12-22 01:35:55 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/paper_lanterns/paper_lantern": {
+    "criteria": {
+      "has_item": "2024-12-23 03:55:40 +0000"
     },
     "done": true
   },
@@ -5964,6 +6158,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_bookshelf": {
+    "criteria": {
+      "has_item": "2024-12-23 03:55:40 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/andesite_tile_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-21 05:29:31 +0000"
@@ -6015,6 +6215,12 @@
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2024-12-21 05:47:50 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everbright_blocks/starlit_bookshelf": {
+    "criteria": {
+      "has_item": "2024-12-23 03:55:41 +0000"
     },
     "done": true
   },
@@ -6114,6 +6320,7 @@
       "apple": "2024-12-21 03:42:24 +0000",
       "golden_carrot": "2024-12-22 22:11:03 +0000",
       "bread": "2024-12-21 04:31:11 +0000",
+      "golden_apple": "2024-12-23 03:56:33 +0000",
       "rotten_flesh": "2024-12-21 04:40:41 +0000",
       "carrot": "2024-12-22 21:06:01 +0000"
     },
@@ -6263,6 +6470,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_mushroom_house": {
+    "criteria": {
+      "location0": "2024-12-23 04:18:24 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/dry_bamboo_bundle_uncrafting": {
     "criteria": {
       "has_dry_bundle": "2024-12-21 03:33:37 +0000"
@@ -6296,6 +6509,12 @@
   "stoneworks:recipes/stoneworks.main/polished_tuff_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-12-22 20:51:24 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/dusk_bookshelf": {
+    "criteria": {
+      "has_item": "2024-12-23 03:55:40 +0000"
     },
     "done": true
   },
@@ -6446,6 +6665,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-22 02:22:45 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/birch_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-23 03:55:40 +0000"
     },
     "done": true
   },
@@ -6632,6 +6857,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2024-12-22 02:30:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/springshroom_planks_to_skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-23 03:55:40 +0000"
     },
     "done": true
   },
@@ -7491,6 +7722,18 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-12-21 03:34:28 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/warped_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-23 03:55:40 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/book_of_lore": {
+    "criteria": {
+      "has_book": "2024-12-23 03:55:40 +0000"
     },
     "done": true
   },
