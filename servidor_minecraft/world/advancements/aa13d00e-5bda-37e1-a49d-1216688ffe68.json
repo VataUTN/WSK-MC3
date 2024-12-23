@@ -1,4 +1,10 @@
 {
+  "clayworks:recipes/decorations/red_terracotta_wall_from_red_terracotta_stonecutting": {
+    "criteria": {
+      "has_red_terracotta": "2024-12-23 03:11:13 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/deepslate_paver_stairs_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2024-12-23 02:47:49 +0000"
@@ -50,6 +56,12 @@
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 22:06:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2024-12-23 03:10:42 +0000"
     },
     "done": true
   },
@@ -518,9 +530,21 @@
     },
     "done": true
   },
+  "clayworks:recipes/building_blocks/red_terracotta_slab_from_red_terracotta_stonecutting": {
+    "criteria": {
+      "has_red_terracotta": "2024-12-23 03:11:13 +0000"
+    },
+    "done": true
+  },
   "takesapillage:root": {
     "criteria": {
       "always": "2024-12-21 01:48:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2024-12-23 03:10:42 +0000"
     },
     "done": true
   },
@@ -1328,6 +1352,12 @@
     },
     "done": true
   },
+  "twigs:recipes/bricks/chiseled_bricks": {
+    "criteria": {
+      "has_item": "2024-12-23 03:10:42 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_white": {
     "criteria": {
       "has_white_wool": "2024-12-21 04:43:34 +0000"
@@ -1550,6 +1580,12 @@
     },
     "done": true
   },
+  "twigs:recipes/bricks/mixed_bricks": {
+    "criteria": {
+      "has_item": "2024-12-23 03:10:42 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/mossy_dark_prismarine_bricks_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2024-12-23 00:29:17 +0000"
@@ -1700,6 +1736,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/bricks_corner_trim": {
+    "criteria": {
+      "has_corner_trim": "2024-12-23 03:10:42 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/cobbled_tuff_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-12-22 07:09:32 +0000"
@@ -1808,6 +1850,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2024-12-23 03:10:42 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/oak_shelf": {
     "criteria": {
       "has_planks": "2024-12-21 02:15:17 +0000"
@@ -1856,6 +1904,12 @@
       "minecraft:warped_forest": "2024-12-23 00:03:54 +0000"
     },
     "done": false
+  },
+  "clayworks:recipes/building_blocks/red_terracotta_brick_slab_from_red_terracotta_stonecutting": {
+    "criteria": {
+      "has_red_terracotta": "2024-12-23 03:11:13 +0000"
+    },
+    "done": true
   },
   "upgradednetherite:recipes/essences/gold_essence": {
     "criteria": {
@@ -2068,6 +2122,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-23 03:11:13 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/mossy_cobbled_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-22 03:44:23 +0000"
@@ -2167,6 +2227,12 @@
   "magnumtorch:recipes/decorations/emerald_magnum_torch": {
     "criteria": {
       "has_emerald": "2024-12-22 01:10:02 +0000"
+    },
+    "done": true
+  },
+  "clayworks:recipes/building_blocks/red_terracotta_vertical_slab": {
+    "criteria": {
+      "has_red_terracotta": "2024-12-23 03:11:13 +0000"
     },
     "done": true
   },
@@ -2872,6 +2938,12 @@
     },
     "done": true
   },
+  "clayworks:recipes/building_blocks/chiseled_bricks_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-12-23 03:10:42 +0000"
+    },
+    "done": true
+  },
   "aether:phoenix_armor": {
     "criteria": {
       "phoenix_gloves": "2024-12-22 20:41:44 +0000"
@@ -2923,6 +2995,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-21 05:22:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2024-12-23 03:11:13 +0000"
     },
     "done": true
   },
@@ -3166,6 +3244,12 @@
     },
     "done": true
   },
+  "clayworks:recipes/building_blocks/red_terracotta_bricks": {
+    "criteria": {
+      "has_red_terracotta": "2024-12-23 03:11:13 +0000"
+    },
+    "done": true
+  },
   "clayworks:recipes/building_blocks/chiseled_terracotta_bricks_from_terracotta_stonecutting": {
     "criteria": {
       "has_terracotta": "2024-12-23 03:04:24 +0000"
@@ -3320,6 +3404,12 @@
   "woodworks:recipes/decorations/warped_ladder_from_warped_planks_sawing": {
     "criteria": {
       "has_warped_planks": "2024-12-23 00:05:51 +0000"
+    },
+    "done": true
+  },
+  "clayworks:recipes/building_blocks/red_terracotta_slab": {
+    "criteria": {
+      "has_red_terracotta": "2024-12-23 03:11:13 +0000"
     },
     "done": true
   },
@@ -3518,6 +3608,12 @@
   "another_furniture:recipes/white_tall_stool": {
     "criteria": {
       "has_wool": "2024-12-21 04:43:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-12-23 03:10:42 +0000"
     },
     "done": true
   },
@@ -3903,6 +3999,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-23 03:12:34 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/redstone/birch_pressure_plate_from_birch_logs_sawing": {
     "criteria": {
       "has_birch_logs": "2024-12-21 02:32:02 +0000"
@@ -3996,6 +4098,12 @@
   "woodworks:recipes/redstone/dark_oak_fence_gate_from_dark_oak_logs_sawing": {
     "criteria": {
       "has_dark_oak_logs": "2024-12-21 03:24:13 +0000"
+    },
+    "done": true
+  },
+  "clayworks:recipes/decorations/red_terracotta_wall": {
+    "criteria": {
+      "has_red_terracotta": "2024-12-23 03:11:13 +0000"
     },
     "done": true
   },
@@ -4209,6 +4317,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-12-23 03:10:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-23 03:11:13 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/dry_bamboo_fence": {
     "criteria": {
       "has_dry_bundle": "2024-12-21 01:48:14 +0000",
@@ -4219,6 +4339,12 @@
   "aether:recipes/redstone/skyroot_piston": {
     "criteria": {
       "has_redstone": "2024-12-21 04:45:48 +0000"
+    },
+    "done": true
+  },
+  "clayworks:recipes/building_blocks/red_terracotta_vertical_slab_from_red_terracotta_stonecutting": {
+    "criteria": {
+      "has_red_terracotta": "2024-12-23 03:11:13 +0000"
     },
     "done": true
   },
@@ -4261,6 +4387,12 @@
   "naturescompass:natures_compass": {
     "criteria": {
       "has_compass": "2024-12-21 01:48:14 +0000"
+    },
+    "done": true
+  },
+  "clayworks:recipes/building_blocks/red_terracotta_brick_stairs_from_red_terracotta_stonecutting": {
+    "criteria": {
+      "has_red_terracotta": "2024-12-23 03:11:13 +0000"
     },
     "done": true
   },
@@ -4519,6 +4651,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-23 00:00:29 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bricks/mixed_bricks_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-23 03:10:42 +0000"
     },
     "done": true
   },
@@ -4802,6 +4940,12 @@
     "criteria": {
       "has_bamboo": "2024-12-21 01:48:14 +0000",
       "has_bundle": "2024-12-21 01:48:14 +0000"
+    },
+    "done": true
+  },
+  "clayworks:recipes/building_blocks/red_terracotta_bricks_from_red_terracotta_stonecutting": {
+    "criteria": {
+      "has_red_terracotta": "2024-12-23 03:11:13 +0000"
     },
     "done": true
   },
@@ -5210,6 +5354,7 @@
       "minecraft:magma_cube": "2024-12-22 22:35:15 +0000",
       "minecraft:spider": "2024-12-21 05:23:11 +0000",
       "minecraft:creeper": "2024-12-21 22:32:45 +0000",
+      "minecraft:phantom": "2024-12-23 03:11:32 +0000",
       "minecraft:zombified_piglin": "2024-12-22 23:56:50 +0000",
       "minecraft:witch": "2024-12-22 03:17:06 +0000",
       "minecraft:husk": "2024-12-22 03:16:56 +0000",
@@ -5313,6 +5458,12 @@
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-21 22:51:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-12-23 03:10:42 +0000"
     },
     "done": true
   },
@@ -5613,6 +5764,12 @@
   "stoneworks:recipes/stoneworks.main/andesite_pavers_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-22 03:44:23 +0000"
+    },
+    "done": true
+  },
+  "clayworks:recipes/building_blocks/chiseled_red_terracotta_bricks_from_red_terracotta_stonecutting": {
+    "criteria": {
+      "has_red_terracotta": "2024-12-23 03:11:13 +0000"
     },
     "done": true
   },
@@ -6017,6 +6174,7 @@
       "minecraft:birch_forest": "2024-12-21 02:28:35 +0000",
       "minecraft:beach": "2024-12-21 22:32:38 +0000",
       "minecraft:dark_forest": "2024-12-21 01:48:14 +0000",
+      "minecraft:sparse_jungle": "2024-12-23 03:10:37 +0000",
       "minecraft:river": "2024-12-21 02:27:37 +0000",
       "minecraft:snowy_plains": "2024-12-21 22:50:25 +0000",
       "minecraft:stony_shore": "2024-12-21 22:45:46 +0000",
@@ -6174,6 +6332,12 @@
     },
     "done": true
   },
+  "clayworks:recipes/decorations/red_glazed_terracotta_from_baking": {
+    "criteria": {
+      "has_red_terracotta": "2024-12-23 03:11:13 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/bamboo_slab": {
     "criteria": {
       "has_bundle": "2024-12-21 01:48:14 +0000"
@@ -6213,6 +6377,12 @@
   "minecraft:recipes/misc/sugar_from_honey_bottle": {
     "criteria": {
       "has_honey_bottle": "2024-12-22 23:30:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-23 03:11:13 +0000"
     },
     "done": true
   },
@@ -6280,6 +6450,12 @@
   "twilightdelight:recipes/frozen/obsidian": {
     "criteria": {
       "has_magma_block": "2024-12-23 00:36:31 +0000"
+    },
+    "done": true
+  },
+  "clayworks:recipes/building_blocks/red_terracotta_brick_vertical_slab_from_red_terracotta_stonecutting": {
+    "criteria": {
+      "has_red_terracotta": "2024-12-23 03:11:13 +0000"
     },
     "done": true
   },
@@ -6699,6 +6875,12 @@
     },
     "done": true
   },
+  "clayworks:recipes/building_blocks/red_terracotta_stairs": {
+    "criteria": {
+      "has_red_terracotta": "2024-12-23 03:11:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2024-12-23 02:55:41 +0000"
@@ -6813,9 +6995,21 @@
     },
     "done": true
   },
+  "twigs:recipes/bricks/chiseled_bricks_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-23 03:10:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_red_mushroom": "2024-12-21 02:18:01 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bricks/cracked_bricks": {
+    "criteria": {
+      "has_item": "2024-12-23 03:10:42 +0000"
     },
     "done": true
   },
@@ -7194,6 +7388,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2024-12-23 03:11:32 +0000"
+    },
+    "done": false
+  },
   "aether:recipes/combat/chainmail_leggings_repairing": {
     "criteria": {
       "has_chainmail_leggings": "2024-12-23 02:16:14 +0000"
@@ -7281,6 +7481,12 @@
   "another_furniture:recipes/birch_chair": {
     "criteria": {
       "has_planks": "2024-12-22 01:04:59 +0000"
+    },
+    "done": true
+  },
+  "clayworks:recipes/decorations/red_terracotta_brick_wall_from_red_terracotta_stonecutting": {
+    "criteria": {
+      "has_red_terracotta": "2024-12-23 03:11:13 +0000"
     },
     "done": true
   },
@@ -7533,6 +7739,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2024-12-21 02:28:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bricks_pillar_trim": {
+    "criteria": {
+      "has_pillar_trim": "2024-12-23 03:10:42 +0000"
     },
     "done": true
   },
@@ -7820,6 +8032,12 @@
     },
     "done": true
   },
+  "clayworks:recipes/building_blocks/red_terracotta_stairs_from_red_terracotta_stonecutting": {
+    "criteria": {
+      "has_red_terracotta": "2024-12-23 03:11:13 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/tuff_pillar_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-12-22 07:09:32 +0000"
@@ -7835,6 +8053,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-22 03:16:30 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/bricks": {
+    "criteria": {
+      "has_copper_block": "2024-12-23 03:10:42 +0000"
     },
     "done": true
   },
@@ -7901,6 +8125,12 @@
   "minecraft:recipes/building_blocks/brown_terracotta": {
     "criteria": {
       "has_terracotta": "2024-12-23 03:04:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-23 03:11:13 +0000"
     },
     "done": true
   },
@@ -8123,6 +8353,12 @@
   "stoneworks:recipes/stoneworks.main/polished_dark_prismarine_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2024-12-23 00:29:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2024-12-23 03:12:27 +0000"
     },
     "done": true
   },

@@ -800,6 +800,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-23 03:24:30 +0000"
+    },
+    "done": true
+  },
   "clayworks:recipes/building_blocks/gray_terracotta_brick_stairs_from_gray_terracotta_stonecutting": {
     "criteria": {
       "has_gray_terracotta": "2024-12-21 05:48:20 +0000"
@@ -1536,6 +1542,12 @@
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2024-12-22 22:53:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-23 03:24:30 +0000"
     },
     "done": true
   },
@@ -7017,6 +7029,12 @@
   "stoneworks:recipes/stoneworks.main/cracked_tuff_bricks_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-12-22 20:51:24 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_shovel_repairing": {
+    "criteria": {
+      "has_iron_shovel": "2024-12-23 03:15:26 +0000"
     },
     "done": true
   },
