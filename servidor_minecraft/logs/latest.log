@@ -4058,3 +4058,55 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [23Dec2024 03:31:12.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax has made the advancement [Guns and Roses]
 [23Dec2024 03:31:13.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: maggie_ has completed the challenge [Berrily Alive]
 [23Dec2024 03:31:15.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: maggie_ was blown up by Creeper
+[23Dec2024 03:34:00.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax was doomed to fall by Skeleton
+[23Dec2024 03:34:22.335] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Domitax lost connection: Disconnected
+[23Dec2024 03:34:22.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax left the game
+[23Dec2024 03:34:22.336] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7effd5be-38be-38d2-9d2c-a8327f0f217a
+[23Dec2024 03:36:36.301] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7c3b3002
+[23Dec2024 03:36:36.355] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Domitax[/127.232.93.209:35441] logged in with entity id 8307 at (-792.5367582384057, 130.0, 804.3202968440645)
+[23Dec2024 03:36:36.359] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Domitax
+[23Dec2024 03:36:36.359] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Domitax
+[23Dec2024 03:36:36.360] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Domitax
+[23Dec2024 03:36:36.360] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Domitax
+[23Dec2024 03:36:36.382] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Domitax
+[23Dec2024 03:36:36.393] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Domitax
+[23Dec2024 03:36:36.394] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Domitax
+[23Dec2024 03:36:36.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax joined the game
+[23Dec2024 03:36:36.482] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7effd5be-38be-38d2-9d2c-a8327f0f217a
+[23Dec2024 03:36:36.506] [Server thread/INFO] [Jade/]: Syncing config to Domitax (7effd5be-38be-38d2-9d2c-a8327f0f217a)
+[23Dec2024 03:36:54.839] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Domitax lost connection: Disconnected
+[23Dec2024 03:36:54.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax left the game
+[23Dec2024 03:36:54.841] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7effd5be-38be-38d2-9d2c-a8327f0f217a
+[23Dec2024 03:38:08.376] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=133, y=176, z=271} BlockPos{x=133, y=175, z=271}
+[23Dec2024 03:38:09.327] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=133, y=174, z=271} BlockPos{x=133, y=173, z=271}
+[23Dec2024 03:38:12.363] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=133, y=169, z=271} BlockPos{x=133, y=168, z=271}
+[23Dec2024 03:38:27.049] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3b17cdf1
+[23Dec2024 03:38:27.074] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Domitax[/127.232.93.209:45659] logged in with entity id 9368 at (-792.5367582384057, 130.0, 804.3202968440645)
+[23Dec2024 03:38:27.076] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Domitax
+[23Dec2024 03:38:27.076] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Domitax
+[23Dec2024 03:38:27.076] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Domitax
+[23Dec2024 03:38:27.076] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Domitax
+[23Dec2024 03:38:27.078] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Domitax
+[23Dec2024 03:38:27.081] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Domitax
+[23Dec2024 03:38:27.081] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Domitax
+[23Dec2024 03:38:27.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax joined the game
+[23Dec2024 03:38:27.110] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7effd5be-38be-38d2-9d2c-a8327f0f217a
+[23Dec2024 03:38:27.162] [Server thread/INFO] [Jade/]: Syncing config to Domitax (7effd5be-38be-38d2-9d2c-a8327f0f217a)
+[23Dec2024 03:39:24.581] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Twuelvi lost connection: Disconnected
+[23Dec2024 03:39:24.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Twuelvi left the game
+[23Dec2024 03:39:24.582] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f0e9e050-51e8-3f94-b642-25238c260572
+[23Dec2024 03:40:50.993] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3eab95d4
+[23Dec2024 03:40:51.008] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BRIOMAX[/127.8.145.222:52969] logged in with entity id 11407 at (-5.5, 121.0, -2.5)
+[23Dec2024 03:40:51.010] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to BRIOMAX
+[23Dec2024 03:40:51.010] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to BRIOMAX
+[23Dec2024 03:40:51.010] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to BRIOMAX
+[23Dec2024 03:40:51.010] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to BRIOMAX
+[23Dec2024 03:40:51.013] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to BRIOMAX
+[23Dec2024 03:40:51.015] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to BRIOMAX
+[23Dec2024 03:40:51.015] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to BRIOMAX
+[23Dec2024 03:40:51.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRIOMAX joined the game
+[23Dec2024 03:40:51.094] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 2a6eaa93-079a-3dca-be78-732c2db22348
+[23Dec2024 03:40:51.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRIOMAX has made the advancement [Frosted Friends]
+[23Dec2024 03:40:51.177] [Server thread/INFO] [Jade/]: Syncing config to BRIOMAX (2a6eaa93-079a-3dca-be78-732c2db22348)
+[23Dec2024 03:41:09.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <BRIOMAX> vamooos!!!
+[23Dec2024 03:42:25.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRIOMAX has made the advancement [Stone Age]

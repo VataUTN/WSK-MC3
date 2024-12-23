@@ -629,6 +629,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2024-12-23 03:30:10 +0000"
+    },
+    "done": false
+  },
   "another_furniture:recipes/spruce_drawer": {
     "criteria": {
       "has_planks": "2024-12-22 04:09:31 +0000"
@@ -692,6 +698,12 @@
   "woodworks:recipes/building_blocks/birch_boards_from_birch_planks_sawing": {
     "criteria": {
       "has_birch_planks": "2024-12-22 04:43:10 +0000"
+    },
+    "done": true
+  },
+  "windswept:recipes/food/wild_berry_bowl": {
+    "criteria": {
+      "has_wild_berries": "2024-12-23 03:37:05 +0000"
     },
     "done": true
   },
@@ -983,6 +995,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2024-12-23 03:30:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2024-12-22 04:34:08 +0000"
@@ -1091,6 +1109,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2024-12-23 03:30:10 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2024-12-23 03:26:56 +0000"
@@ -1135,13 +1159,17 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:frozen_river": "2024-12-23 03:36:52 +0000",
       "minecraft:birch_forest": "2024-12-22 04:23:08 +0000",
       "minecraft:dark_forest": "2024-12-22 04:03:26 +0000",
       "minecraft:river": "2024-12-22 04:22:58 +0000",
+      "minecraft:snowy_plains": "2024-12-23 03:36:22 +0000",
       "minecraft:stony_shore": "2024-12-23 03:25:45 +0000",
       "minecraft:dripstone_caves": "2024-12-22 04:04:59 +0000",
+      "minecraft:snowy_taiga": "2024-12-23 03:38:19 +0000",
       "minecraft:cold_ocean": "2024-12-23 03:25:51 +0000",
       "minecraft:forest": "2024-12-22 04:25:38 +0000",
+      "minecraft:ice_spikes": "2024-12-23 03:37:03 +0000",
       "minecraft:meadow": "2024-12-22 04:24:50 +0000",
       "minecraft:plains": "2024-12-22 04:27:14 +0000"
     },
@@ -1430,6 +1458,12 @@
     },
     "done": true
   },
+  "windswept:recipes/food/wild_berry_cookie": {
+    "criteria": {
+      "has_wild_berries": "2024-12-23 03:37:05 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/spruce_ladder": {
     "criteria": {
       "has_stick": "2024-12-22 04:09:31 +0000"
@@ -1526,6 +1560,12 @@
     },
     "done": true
   },
+  "windswept:recipes/decorations/wild_berry_basket": {
+    "criteria": {
+      "has_berries": "2024-12-23 03:37:05 +0000"
+    },
+    "done": true
+  },
   "backpacked:recipes/backpacked/warped_backpack_shelf": {
     "criteria": {
       "has_stick": "2024-12-22 04:09:31 +0000"
@@ -1565,6 +1605,12 @@
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2024-12-22 04:48:21 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/jelly_bottle": {
+    "criteria": {
+      "has_sweet_fruit": "2024-12-23 03:30:38 +0000"
     },
     "done": true
   },
@@ -1676,6 +1722,12 @@
   "twigs:recipes/compacted_dripstone": {
     "criteria": {
       "has_pointed_dripstone": "2024-12-22 04:12:20 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/sinigang_no_ginger_citrus": {
+    "criteria": {
+      "has_ginger": "2024-12-23 03:30:38 +0000"
     },
     "done": true
   },
@@ -2250,6 +2302,12 @@
     },
     "done": true
   },
+  "byg:husbandry/berrily_alive": {
+    "criteria": {
+      "blue_berry": "2024-12-23 03:31:13 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_blocks/food_prep_table": {
     "criteria": {
       "has_item": "2024-12-22 04:27:46 +0000"
@@ -2417,7 +2475,9 @@
       "byg:coconino_meadow": "2024-12-22 04:26:43 +0000",
       "byg:rose_fields": "2024-12-22 04:24:45 +0000",
       "byg:cika_woods": "2024-12-22 04:26:40 +0000",
+      "byg:zelkova_forest": "2024-12-23 03:29:45 +0000",
       "byg:aspen_forest": "2024-12-22 04:24:20 +0000",
+      "byg:cardinal_tundra": "2024-12-23 03:36:36 +0000",
       "byg:temperate_rainforest": "2024-12-22 04:08:16 +0000",
       "byg:maple_taiga": "2024-12-23 03:27:00 +0000"
     },
@@ -2558,6 +2618,12 @@
   "stoneworks:recipes/stoneworks.main/cobbled_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-22 04:27:17 +0000"
+    },
+    "done": true
+  },
+  "windswept:recipes/food/wild_berry_juice": {
+    "criteria": {
+      "has_wild_berries": "2024-12-23 03:37:05 +0000"
     },
     "done": true
   },
