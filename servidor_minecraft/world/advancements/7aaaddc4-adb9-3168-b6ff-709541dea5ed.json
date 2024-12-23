@@ -686,6 +686,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/stone_hoe_repairing": {
+    "criteria": {
+      "has_stone_hoe": "2024-12-23 15:54:44 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/af/biomemakeover/ancient_oak_shutter": {
     "criteria": {
       "has_planks": "2024-12-21 02:18:34 +0000"
@@ -6158,6 +6164,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-12-23 15:56:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2024-12-21 04:25:32 +0000"
@@ -7578,6 +7590,13 @@
       "has_item": "2024-12-21 04:35:36 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "potato": "2024-12-23 15:56:33 +0000",
+      "wheat": "2024-12-23 15:56:47 +0000"
+    },
+    "done": false
   },
   "stoneworks:recipes/stoneworks.main/tuff_shingle_stairs_from_tuff_stonecutting": {
     "criteria": {
