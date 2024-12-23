@@ -1844,13 +1844,18 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "environmental:marsh": "2024-12-23 22:51:31 +0000",
       "minecraft:birch_forest": "2024-12-23 03:45:42 +0000",
+      "minecraft:beach": "2024-12-23 22:48:09 +0000",
       "minecraft:dark_forest": "2024-12-23 03:40:52 +0000",
       "minecraft:mangrove_swamp": "2024-12-23 22:34:27 +0000",
       "minecraft:sparse_jungle": "2024-12-23 03:56:28 +0000",
       "minecraft:river": "2024-12-23 03:45:13 +0000",
+      "minecraft:lukewarm_ocean": "2024-12-23 22:49:05 +0000",
       "minecraft:dripstone_caves": "2024-12-23 04:26:53 +0000",
       "minecraft:forest": "2024-12-23 03:48:37 +0000",
+      "minecraft:ocean": "2024-12-23 22:44:09 +0000",
+      "minecraft:windswept_savanna": "2024-12-23 22:44:31 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-23 03:52:46 +0000",
       "minecraft:meadow": "2024-12-23 03:46:31 +0000",
       "minecraft:savanna": "2024-12-23 04:38:27 +0000",
@@ -4169,10 +4174,13 @@
   "byg:adventure/oh_the_biomes_youll_go": {
     "criteria": {
       "byg:allium_fields": "2024-12-23 03:46:40 +0000",
+      "byg:prairie": "2024-12-23 22:42:54 +0000",
       "byg:temperate_grove": "2024-12-23 03:49:31 +0000",
       "byg:rose_fields": "2024-12-23 03:46:16 +0000",
+      "byg:firecracker_shrubland": "2024-12-23 22:43:53 +0000",
       "byg:aspen_forest": "2024-12-23 03:45:39 +0000",
       "byg:amaranth_fields": "2024-12-23 04:05:59 +0000",
+      "byg:lush_stacks": "2024-12-23 22:44:05 +0000",
       "byg:temperate_rainforest": "2024-12-23 03:45:24 +0000"
     },
     "done": false

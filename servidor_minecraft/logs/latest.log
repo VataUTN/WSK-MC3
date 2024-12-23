@@ -4143,3 +4143,34 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [23Dec2024 22:36:49.466] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for aa13d00e-5bda-37e1-a49d-1216688ffe68
 [23Dec2024 22:36:49.474] [Server thread/INFO] [Jade/]: Syncing config to Vata74 (aa13d00e-5bda-37e1-a49d-1216688ffe68)
 [23Dec2024 22:40:37.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRIOMAX has made the advancement [It Bites]
+[23Dec2024 22:43:19.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: * Server es epoca de construccion
+[23Dec2024 22:43:37.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Domitax> chupame la pija server
+[23Dec2024 22:43:39.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: * Server casa que no veo persona que baneo
+[23Dec2024 22:43:45.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Domitax> chupame la pija server
+[23Dec2024 22:44:15.566] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=8, z=2}
+[23Dec2024 22:44:15.567] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=7, z=0}
+[23Dec2024 22:44:15.567] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=257, y=6, z=2}
+[23Dec2024 22:44:15.567] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=256, y=6, z=0}
+[23Dec2024 22:48:59.936] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6ce5b0e1
+[23Dec2024 22:48:59.962] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Twuelvi[/127.76.167.49:50033] logged in with entity id 33758 at (634.3913248763153, 102.0, -337.2416742017343)
+[23Dec2024 22:48:59.963] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Twuelvi
+[23Dec2024 22:48:59.964] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Twuelvi
+[23Dec2024 22:48:59.964] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Twuelvi
+[23Dec2024 22:48:59.964] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Twuelvi
+[23Dec2024 22:48:59.973] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Twuelvi
+[23Dec2024 22:48:59.977] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Twuelvi
+[23Dec2024 22:48:59.977] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Twuelvi
+[23Dec2024 22:49:00.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Twuelvi joined the game
+[23Dec2024 22:49:00.071] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f0e9e050-51e8-3f94-b642-25238c260572
+[23Dec2024 22:49:00.085] [Server thread/INFO] [Jade/]: Syncing config to Twuelvi (f0e9e050-51e8-3f94-b642-25238c260572)
+[23Dec2024 22:49:10.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> lucio
+[23Dec2024 22:49:13.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> y este palo enorme
+[23Dec2024 22:49:15.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> :)
+[23Dec2024 22:49:21.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRIOMAX was slain by Cachalot Whale
+[23Dec2024 22:49:27.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> safio
+[23Dec2024 22:49:41.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Twuelvi> vos confia
+[23Dec2024 22:49:48.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Twuelvi> ya vengo
+[23Dec2024 22:49:49.949] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Twuelvi lost connection: Disconnected
+[23Dec2024 22:49:49.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Twuelvi left the game
+[23Dec2024 22:49:49.950] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f0e9e050-51e8-3f94-b642-25238c260572
+[23Dec2024 22:49:51.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> me arruina las vistas

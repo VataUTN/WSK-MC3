@@ -3175,6 +3175,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/oak_beam": {
+    "criteria": {
+      "has_stripped_log": "2024-12-23 22:42:14 +0000"
+    },
+    "done": true
+  },
   "byg:recipes/byg.byg/rainbow_eucalyptus_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-21 05:05:55 +0000"
@@ -8197,6 +8203,12 @@
   "another_furniture:recipes/light_gray_curtain": {
     "criteria": {
       "has_wool": "2024-12-21 04:47:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-23 22:42:14 +0000"
     },
     "done": true
   },
