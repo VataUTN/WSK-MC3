@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/mossy_cobbled_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-12-22 23:57:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lilac": {
     "criteria": {
       "has_lilac": "2024-12-21 02:32:38 +0000"
@@ -41,6 +47,12 @@
       "enter_swamp": "2024-12-21 01:48:14 +0000",
       "enter_dark_forest": "2024-12-21 01:48:14 +0000",
       "enter_badlands": "2024-12-21 01:48:14 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/cobbled_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-12-22 23:57:29 +0000"
     },
     "done": true
   },
@@ -191,6 +203,12 @@
   "stoneworks:recipes/stoneworks.main/granite_plate_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-21 22:51:48 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/cobbled_netherrack_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-12-22 23:57:29 +0000"
     },
     "done": true
   },
@@ -572,6 +590,18 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/nether_brick_shingle_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-22 23:57:52 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/mossy_netherrack_brick_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-12-22 23:57:29 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/stone_hoe_repairing": {
     "criteria": {
       "has_stone_hoe": "2024-12-21 03:26:05 +0000"
@@ -710,6 +740,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-22 23:57:52 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/spruce_support": {
     "criteria": {
       "has_plank": "2024-12-22 03:22:22 +0000"
@@ -755,6 +791,12 @@
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2024-12-22 04:38:47 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/nether_brick_pavers_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-22 23:57:52 +0000"
     },
     "done": true
   },
@@ -962,6 +1004,18 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/mossy_cobbled_netherrack_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-12-22 23:57:29 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/nethersdelight/nether_brick_smoker": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-22 23:57:52 +0000"
+    },
+    "done": true
+  },
   "nethersdelight:recipes/nethersdelight/golden_machete": {
     "criteria": {
       "has_gold_ingot": "2024-12-21 22:06:44 +0000"
@@ -1106,6 +1160,12 @@
     },
     "done": true
   },
+  "clayworks:recipes/misc/nether_brick_from_baking": {
+    "criteria": {
+      "has_netherrack": "2024-12-22 23:57:29 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/food/mushroom_stew_from_coconut_husk": {
     "criteria": {
       "has_red_mushroom": "2024-12-21 02:18:01 +0000"
@@ -1205,6 +1265,12 @@
   "biomemakeover:biomemakeover/moth_scales": {
     "criteria": {
       "get_stew": "2024-12-21 01:57:06 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/mossy_cobbled_netherrack_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-12-22 23:57:29 +0000"
     },
     "done": true
   },
@@ -1412,6 +1478,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/polished_netherrack_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-12-22 23:57:29 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2024-12-21 01:48:13 +0000"
@@ -1448,6 +1520,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/nether_brick_plate_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-22 23:57:52 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/tuff_brick_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-12-22 07:09:32 +0000"
@@ -1471,6 +1549,12 @@
       "has_spruce_planks": "2024-12-22 03:22:22 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-12-22 23:57:20 +0000"
+    },
+    "done": false
   },
   "upgradednetherite:recipes/essences/gold_essence": {
     "criteria": {
@@ -1730,6 +1814,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/nether_brick_pillar_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-22 23:57:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2024-12-21 04:43:34 +0000"
@@ -1739,6 +1829,12 @@
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2024-12-22 20:31:22 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/mossy_netherrack_brick_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-12-22 23:57:29 +0000"
     },
     "done": true
   },
@@ -1811,6 +1907,18 @@
   "environmental:recipes/building_blocks/wisteria_bookshelf": {
     "criteria": {
       "has_book": "2024-12-21 04:52:30 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/polished_netherrack_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-12-22 23:57:29 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/netherrack_brick_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-12-22 23:57:29 +0000"
     },
     "done": true
   },
@@ -1916,6 +2024,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/nether_brick_plates_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-22 23:57:52 +0000"
+    },
+    "done": true
+  },
   "vinery:birch_wine_rack_big": {
     "criteria": {
       "has_birch_planks": "2024-12-22 01:04:59 +0000"
@@ -1931,6 +2045,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2024-12-21 04:43:34 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/mossy_netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-12-22 23:57:29 +0000"
     },
     "done": true
   },
@@ -2063,6 +2183,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2024-12-21 23:03:58 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/nether_brick_paver_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-22 23:57:52 +0000"
     },
     "done": true
   },
@@ -2414,6 +2540,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/netherrack_brick_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-12-22 23:57:29 +0000"
+    },
+    "done": true
+  },
   "nethersdelight:recipes/nethersdelight/blackstone_blast_furnace": {
     "criteria": {
       "has_iron": "2024-12-21 22:06:46 +0000"
@@ -2531,6 +2663,12 @@
   "shieldexp:recipes/diamond_shield": {
     "criteria": {
       "has_diamond": "2024-12-21 23:03:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-22 23:57:52 +0000"
     },
     "done": true
   },
@@ -2947,6 +3085,7 @@
       "byg:rose_fields": "2024-12-22 04:01:18 +0000",
       "byg:cika_woods": "2024-12-21 04:42:28 +0000",
       "byg:firecracker_shrubland": "2024-12-21 22:31:20 +0000",
+      "byg:magma_wastes": "2024-12-22 23:57:14 +0000",
       "byg:embur_bog": "2024-12-22 22:26:51 +0000",
       "byg:zelkova_forest": "2024-12-21 22:44:03 +0000",
       "byg:dacite_ridges": "2024-12-21 22:48:08 +0000",
@@ -3117,6 +3256,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-22 23:57:52 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/cobbled_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-22 03:44:23 +0000"
@@ -3216,6 +3361,18 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-22 03:41:19 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/cobbled_netherrack_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-12-22 23:57:29 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/mossy_cobbled_netherrack_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-12-22 23:57:29 +0000"
     },
     "done": true
   },
@@ -3322,6 +3479,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-22 23:57:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-22 01:18:08 +0000"
@@ -3349,6 +3512,12 @@
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2024-12-21 02:15:17 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-12-22 23:57:29 +0000"
     },
     "done": true
   },
@@ -3403,6 +3572,18 @@
   "ecologics:recipes/ecologics/flowering_azalea_boat": {
     "criteria": {
       "in_water": "2024-12-21 02:28:05 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/nether_brick_shingle_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-22 23:57:52 +0000"
+    },
+    "done": true
+  },
+  "clayworks:recipes/building_blocks/cracked_nether_bricks_from_baking": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-22 23:57:52 +0000"
     },
     "done": true
   },
@@ -3538,6 +3719,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/netherrack_brick_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-12-22 23:57:29 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/light_gray_sheet": {
     "criteria": {
       "has_sheet": "2024-12-22 04:27:11 +0000"
@@ -3595,6 +3782,12 @@
   "dungeons_plus:adventure/find_snowy_temple": {
     "criteria": {
       "in_structure": "2024-12-21 23:55:26 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/nether_brick_plate_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-22 23:57:52 +0000"
     },
     "done": true
   },
@@ -3737,6 +3930,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/nether_brick_paver_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-22 23:57:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_rose_bush": "2024-12-22 04:39:33 +0000"
@@ -3758,6 +3957,12 @@
   "vinery:spruce_wine_rack_big": {
     "criteria": {
       "has_spruce_planks": "2024-12-22 03:22:22 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/nether_brick_shingles_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-22 23:57:52 +0000"
     },
     "done": true
   },
@@ -4009,9 +4214,11 @@
       "minecraft:magma_cube": "2024-12-22 22:35:15 +0000",
       "minecraft:spider": "2024-12-21 05:23:11 +0000",
       "minecraft:creeper": "2024-12-21 22:32:45 +0000",
+      "minecraft:zombified_piglin": "2024-12-22 23:56:50 +0000",
       "minecraft:witch": "2024-12-22 03:17:06 +0000",
       "minecraft:husk": "2024-12-22 03:16:56 +0000",
       "minecraft:cave_spider": "2024-12-21 22:59:37 +0000",
+      "minecraft:piglin": "2024-12-22 23:56:59 +0000",
       "minecraft:silverfish": "2024-12-21 22:59:13 +0000",
       "minecraft:stray": "2024-12-21 22:54:24 +0000",
       "minecraft:enderman": "2024-12-22 01:12:55 +0000",
@@ -4125,6 +4332,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-22 23:57:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2024-12-21 02:15:17 +0000"
@@ -4215,6 +4428,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/polished_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-12-22 23:57:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-22 04:07:32 +0000"
@@ -4272,6 +4491,12 @@
   "vinery:dirt_slab": {
     "criteria": {
       "has_dirt": "2024-12-21 01:49:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-22 23:57:52 +0000"
     },
     "done": true
   },
@@ -4512,6 +4737,18 @@
   "aether:recipes/building_blocks/ice_from_bucket_freezing": {
     "criteria": {
       "has_water_bucket": "2024-12-22 22:48:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_brick_slab": "2024-12-22 23:57:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-22 23:57:52 +0000"
     },
     "done": true
   },
@@ -5106,6 +5343,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-22 23:57:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-21 05:22:16 +0000"
@@ -5163,6 +5406,12 @@
   "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_bookshelf": {
     "criteria": {
       "has_item": "2024-12-21 04:52:30 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/cobbled_netherrack_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-12-22 23:57:29 +0000"
     },
     "done": true
   },
@@ -5510,6 +5759,12 @@
     },
     "done": true
   },
+  "immersive_weathering:recipes/nether_bricks": {
+    "criteria": {
+      "has_copper_block": "2024-12-22 23:57:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2024-12-21 04:45:48 +0000"
@@ -5525,6 +5780,12 @@
   "woodworks:recipes/building_blocks/birch_slab_from_birch_planks_sawing": {
     "criteria": {
       "has_birch_planks": "2024-12-22 01:04:59 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/mossy_netherrack_brick_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-12-22 23:57:29 +0000"
     },
     "done": true
   },
@@ -5549,6 +5810,12 @@
   "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_stonebrick_slab_stonecutting_lunar_stonebrick": {
     "criteria": {
       "has_item": "2024-12-22 01:37:21 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/polished_netherrack_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-12-22 23:57:29 +0000"
     },
     "done": true
   },
@@ -5729,6 +5996,12 @@
   "clayworks:recipes/building_blocks/glass_from_baking": {
     "criteria": {
       "has_sand": "2024-12-22 01:18:08 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/cracked_netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-12-22 23:57:29 +0000"
     },
     "done": true
   },
@@ -5962,6 +6235,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-22 23:57:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-22 03:44:23 +0000"
@@ -5995,6 +6274,12 @@
   "farmersdelight:recipes/food/cooking/mushroom_stew": {
     "criteria": {
       "has_any_ingredient": "2024-12-21 02:18:01 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/nether_brick_shingle_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-22 23:57:52 +0000"
     },
     "done": true
   },
@@ -6160,6 +6445,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/nether_brick_paver_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-22 23:57:52 +0000"
+    },
+    "done": true
+  },
   "environmental:recipes/decorations/willow_chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-21 02:18:01 +0000"
@@ -6316,6 +6607,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-22 23:57:52 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/birch_slab_from_birch_logs_sawing": {
     "criteria": {
       "has_birch_logs": "2024-12-21 02:32:02 +0000"
@@ -6339,6 +6636,12 @@
       "has_planks": "2024-12-22 03:22:22 +0000"
     },
     "done": true
+  },
+  "repurposed_structures:ruins": {
+    "criteria": {
+      "in_ruins_nether": "2024-12-23 00:00:03 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
@@ -6499,6 +6802,12 @@
   "blue_skies:recipes/blue_skies_everbright_blocks/turquoise_stonebrick_wall_stonecutting_turquoise_stonebrick": {
     "criteria": {
       "has_item": "2024-12-22 01:37:15 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/nether_brick_plate_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-22 23:57:52 +0000"
     },
     "done": true
   },

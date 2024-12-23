@@ -608,6 +608,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-22 23:50:37 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/golden_ring": {
     "criteria": {
       "has_gold_ingot": "2024-12-22 21:42:39 +0000"
@@ -851,6 +857,12 @@
   "vinery:cherry_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-21 05:05:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2024-12-22 23:50:37 +0000"
     },
     "done": true
   },
@@ -2560,6 +2572,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/rocky_roller": {
+    "criteria": {
+      "killed_by": "2024-12-22 23:54:29 +0000"
+    },
+    "done": true
+  },
   "frosted_friends:frosted_friends": {
     "criteria": {
       "frosted_friends": "2024-12-21 03:33:37 +0000"
@@ -3987,6 +4005,12 @@
   "clayworks:recipes/building_blocks/stone_from_baking": {
     "criteria": {
       "has_cobblestone": "2024-12-21 03:38:47 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_helmet_repairing": {
+    "criteria": {
+      "has_chainmail_helmet": "2024-12-22 23:56:28 +0000"
     },
     "done": true
   },
@@ -6752,6 +6776,12 @@
   "stoneworks:recipes/stoneworks.main/granite_shingle_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-22 02:21:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-22 23:50:37 +0000"
     },
     "done": true
   },

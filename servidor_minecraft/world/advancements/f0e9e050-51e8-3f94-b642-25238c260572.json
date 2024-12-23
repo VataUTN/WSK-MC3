@@ -153,6 +153,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-12-22 23:52:06 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_item": "2024-12-21 03:40:03 +0000"
@@ -519,6 +525,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-22 23:52:01 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/murmur": {
     "criteria": {
       "killed_by": "2024-12-21 21:37:38 +0000"
@@ -586,6 +598,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-12-22 23:52:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-21 22:55:15 +0000"
@@ -613,6 +631,12 @@
   "aether:recipes/decorations/skyroot_bed": {
     "criteria": {
       "has_wool": "2024-12-21 23:20:19 +0000"
+    },
+    "done": true
+  },
+  "windswept:recipes/combat/snow_boots_from_silver": {
+    "criteria": {
+      "has_leather": "2024-12-22 23:52:06 +0000"
     },
     "done": true
   },
@@ -1054,6 +1078,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2024-12-22 23:52:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-21 23:01:24 +0000"
@@ -1117,6 +1147,12 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2024-12-21 02:32:06 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/aether_saddle": {
+    "criteria": {
+      "has_leather": "2024-12-22 23:52:06 +0000"
     },
     "done": true
   },
@@ -1971,6 +2007,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-12-22 23:52:06 +0000"
+    },
+    "done": true
+  },
   "environmental:recipes/transportation/wisteria_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-21 04:10:40 +0000"
@@ -2581,6 +2623,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "neapolitan:strawberry_scones": "2024-12-21 21:37:51 +0000",
+      "cooked_porkchop": "2024-12-22 23:53:58 +0000",
       "neapolitan:banana": "2024-12-21 23:28:08 +0000",
       "bread": "2024-12-21 21:38:52 +0000",
       "upgrade_aquatic:cooked_pike": "2024-12-21 05:13:15 +0000",
@@ -2768,6 +2811,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-12-22 23:52:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2024-12-21 22:55:15 +0000"
@@ -2915,6 +2964,12 @@
   "aether_redux:recipes/transportation/fieldsprout_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-21 04:10:40 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_gloves": {
+    "criteria": {
+      "has_leather": "2024-12-22 23:52:06 +0000"
     },
     "done": true
   },
@@ -3095,6 +3150,12 @@
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2024-12-21 02:23:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-12-22 23:52:06 +0000"
     },
     "done": true
   },
@@ -3489,6 +3550,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-22 23:52:01 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/dry_bamboo_ladder": {
     "criteria": {
       "has_dry_bamboo": "2024-12-21 02:23:44 +0000"
@@ -3636,6 +3703,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/bone_broth": {
     "criteria": {
       "has_bone": "2024-12-21 04:41:49 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_pickaxe_repairing": {
+    "criteria": {
+      "has_diamond_pickaxe": "2024-12-22 23:59:57 +0000"
     },
     "done": true
   },
@@ -3861,6 +3934,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-12-22 23:52:06 +0000"
+    },
+    "done": true
+  },
   "byg:recipes/byg.byg/pine_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-21 04:10:40 +0000"
@@ -3952,6 +4031,12 @@
   "galosphere:recipes/galosphere/chandelier": {
     "criteria": {
       "has_iron_nugget": "2024-12-21 03:03:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2024-12-22 23:52:01 +0000"
     },
     "done": true
   },
@@ -4141,6 +4226,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-22 23:55:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2024-12-21 04:48:35 +0000"
@@ -4174,6 +4265,12 @@
   "twigs:recipes/stick_from_twig": {
     "criteria": {
       "has_item": "2024-12-21 03:07:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2024-12-22 23:52:01 +0000"
     },
     "done": true
   },
