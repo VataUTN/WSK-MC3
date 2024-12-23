@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "twigs:recipes/silt/purple_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2024-12-23 00:36:44 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/mossy_cobbled_netherrack_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2024-12-22 23:57:29 +0000"
@@ -368,6 +374,12 @@
     },
     "done": true
   },
+  "twigs:recipes/silt/black_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2024-12-23 00:36:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-22 01:18:08 +0000"
@@ -512,6 +524,12 @@
     },
     "done": true
   },
+  "twigs:recipes/silt/pink_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2024-12-23 00:36:44 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/bamboo_bundle": {
     "criteria": {
       "has_bamboo": "2024-12-21 01:48:14 +0000"
@@ -599,6 +617,12 @@
   "stoneworks:recipes/stoneworks.main/mossy_cobbled_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-22 03:44:23 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/light_gray_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2024-12-23 00:36:44 +0000"
     },
     "done": true
   },
@@ -2044,6 +2068,12 @@
     },
     "done": true
   },
+  "twigs:recipes/silt/blue_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2024-12-23 00:36:44 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/food/cooking/jelly_bottle": {
     "criteria": {
       "has_sweet_fruit": "2024-12-21 02:27:46 +0000"
@@ -2410,6 +2440,12 @@
     },
     "done": true
   },
+  "twigs:recipes/silt/orange_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2024-12-23 00:36:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2024-12-21 02:15:12 +0000"
@@ -2620,6 +2656,12 @@
     },
     "done": true
   },
+  "twigs:recipes/silt/magenta_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2024-12-23 00:36:44 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/diorite_pillar_trim": {
     "criteria": {
       "has_pillar_trim": "2024-12-21 22:51:45 +0000"
@@ -2671,6 +2713,12 @@
   "stoneworks:recipes/stoneworks.main/tuff_bricks_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-12-22 07:09:32 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/brown_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2024-12-23 00:36:44 +0000"
     },
     "done": true
   },
@@ -2939,6 +2987,12 @@
     },
     "done": true
   },
+  "twigs:recipes/silt/lime_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2024-12-23 00:36:44 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/fishing_rod_repairing": {
     "criteria": {
       "has_fishing_rod": "2024-12-22 22:38:02 +0000"
@@ -2960,6 +3014,12 @@
   "vinery:grass_slab": {
     "criteria": {
       "has_grass_block": "2024-12-22 20:52:17 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/yellow_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2024-12-23 00:36:44 +0000"
     },
     "done": true
   },
@@ -3401,6 +3461,12 @@
   "stoneworks:recipes/stoneworks.main/cobbled_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-21 22:51:45 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/light_blue_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2024-12-23 00:36:44 +0000"
     },
     "done": true
   },
@@ -4264,6 +4330,12 @@
     },
     "done": true
   },
+  "twigs:recipes/silt/cyan_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2024-12-23 00:36:44 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/mossy_diorite_brick_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-21 22:51:45 +0000"
@@ -4792,6 +4864,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2024-12-23 00:36:47 +0000"
+    },
+    "done": true
+  },
   "upgradednetherite:recipes/essences/poison_essence": {
     "criteria": {
       "has_spider_eye": "2024-12-21 04:45:56 +0000"
@@ -4933,6 +5011,12 @@
   "aether:recipes/misc/aether_gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_gloves": "2024-12-22 03:50:48 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/food/apple_pie": {
+    "criteria": {
+      "has_apple": "2024-12-23 00:36:47 +0000"
     },
     "done": true
   },
@@ -5209,6 +5293,12 @@
   "aether:recipes/building_blocks/ice_from_bucket_freezing": {
     "criteria": {
       "has_water_bucket": "2024-12-22 22:48:58 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/green_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2024-12-23 00:36:44 +0000"
     },
     "done": true
   },
@@ -5542,6 +5632,12 @@
     },
     "done": true
   },
+  "twigs:recipes/silt/white_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2024-12-23 00:36:44 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/soul_brazier": {
     "criteria": {
       "has_bar": "2024-12-22 03:16:31 +0000"
@@ -5576,6 +5672,18 @@
     "criteria": {
       "has_stick": "2024-12-21 02:15:57 +0000",
       "has_the_recipe": "2024-12-21 02:15:57 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/frozen/obsidian": {
+    "criteria": {
+      "has_magma_block": "2024-12-23 00:36:31 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/packed_silt": {
+    "criteria": {
+      "has_item": "2024-12-23 00:36:44 +0000"
     },
     "done": true
   },
@@ -5950,6 +6058,12 @@
   "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_bookshelf": {
     "criteria": {
       "has_item": "2024-12-21 04:52:30 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/red_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2024-12-23 00:36:44 +0000"
     },
     "done": true
   },
@@ -7574,6 +7688,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2024-12-23 00:00:30 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/gray_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2024-12-23 00:36:44 +0000"
     },
     "done": true
   },

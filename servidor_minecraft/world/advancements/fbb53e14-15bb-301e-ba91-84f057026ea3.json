@@ -1100,6 +1100,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/redstone/warped_fence_gate_from_warped_stems_sawing": {
+    "criteria": {
+      "has_warped_stems": "2024-12-23 00:37:27 +0000"
+    },
+    "done": true
+  },
   "backpacked:recipes/backpacked/oak_backpack_shelf": {
     "criteria": {
       "has_stick": "2024-12-21 22:49:57 +0000"
@@ -1199,6 +1205,12 @@
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2024-12-22 00:44:53 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/warped_stairs_from_warped_stems_sawing": {
+    "criteria": {
+      "has_warped_stems": "2024-12-23 00:37:27 +0000"
     },
     "done": true
   },
@@ -1463,6 +1475,12 @@
   "stoneworks:recipes/stoneworks.main/andesite_pillar_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-22 21:42:24 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/food/mushroom_stew_from_coconut_husk": {
+    "criteria": {
+      "has_bowl": "2024-12-23 00:37:09 +0000"
     },
     "done": true
   },
@@ -2225,6 +2243,18 @@
   "stoneworks:recipes/stoneworks.main/prismarine_tile_stairs_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2024-12-22 23:33:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_warped_hyphae": {
+    "criteria": {
+      "has_log": "2024-12-23 00:37:27 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/warped_planks_from_warped_stems_sawing": {
+    "criteria": {
+      "has_warped_stems": "2024-12-23 00:37:27 +0000"
     },
     "done": true
   },
@@ -4400,6 +4430,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/decorations/warped_sign_from_warped_stems_sawing": {
+    "criteria": {
+      "has_warped_stems": "2024-12-23 00:37:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2024-12-21 22:57:18 +0000"
@@ -4608,6 +4644,12 @@
   "everycomp:recipes/everycomp/db/ecologics/coconut_seat": {
     "criteria": {
       "has_planks": "2024-12-22 20:38:04 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/warped_beam": {
+    "criteria": {
+      "has_stripped_log": "2024-12-23 00:37:27 +0000"
     },
     "done": true
   },
@@ -5109,6 +5151,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/warped_slab_from_warped_stems_sawing": {
+    "criteria": {
+      "has_warped_stems": "2024-12-23 00:37:27 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/mossy_cobbled_tuff_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-12-21 23:19:15 +0000"
@@ -5286,6 +5334,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2024-12-21 23:05:29 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/warped_door_from_warped_stems_sawing": {
+    "criteria": {
+      "has_warped_stems": "2024-12-23 00:37:27 +0000"
     },
     "done": true
   },
@@ -5718,6 +5772,12 @@
   "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-21 23:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2024-12-23 00:37:27 +0000"
     },
     "done": true
   },
@@ -6262,6 +6322,12 @@
   "stoneworks:recipes/stoneworks.main/prismarine_plate_stairs_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2024-12-22 23:33:45 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/warped_button_from_warped_stems_sawing": {
+    "criteria": {
+      "has_warped_stems": "2024-12-23 00:37:27 +0000"
     },
     "done": true
   },
@@ -7195,9 +7261,27 @@
     },
     "done": true
   },
+  "woodworks:recipes/redstone/warped_pressure_plate_from_warped_stems_sawing": {
+    "criteria": {
+      "has_warped_stems": "2024-12-23 00:37:27 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/warped_boards_from_warped_stems_sawing": {
+    "criteria": {
+      "has_warped_stems": "2024-12-23 00:37:27 +0000"
+    },
+    "done": true
+  },
   "environmental:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2024-12-21 22:52:05 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/warped_trapdoor_from_warped_stems_sawing": {
+    "criteria": {
+      "has_warped_stems": "2024-12-23 00:37:27 +0000"
     },
     "done": true
   },
@@ -7748,6 +7832,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/decorations/warped_fence_from_warped_stems_sawing": {
+    "criteria": {
+      "has_warped_stems": "2024-12-23 00:37:27 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/mossy_cobbled_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-22 23:50:18 +0000"
@@ -8135,6 +8225,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2024-12-21 23:38:56 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/warped_ladder_from_warped_stems_sawing": {
+    "criteria": {
+      "has_warped_stems": "2024-12-23 00:37:27 +0000"
     },
     "done": true
   },
