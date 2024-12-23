@@ -668,6 +668,12 @@
     },
     "done": true
   },
+  "upgradednetherite:recipes/essences/fire_essence": {
+    "criteria": {
+      "has_ghast_tear": "2024-12-23 00:10:56 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/redstone/birch_fence_gate_from_birch_logs_sawing": {
     "criteria": {
       "has_birch_logs": "2024-12-21 02:32:02 +0000"
@@ -1169,6 +1175,12 @@
   "another_furniture:recipes/light_gray_tall_stool": {
     "criteria": {
       "has_wool": "2024-12-22 04:27:11 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/basalt_blocks/smooth_basalt_bricks_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-23 00:14:03 +0000"
     },
     "done": true
   },
@@ -2818,6 +2830,12 @@
     },
     "done": true
   },
+  "twigs:recipes/basalt_blocks/smooth_basalt_brick_wall_from_smooth_basalt_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-23 00:14:03 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/fishing_rod_repairing": {
     "criteria": {
       "has_fishing_rod": "2024-12-22 22:38:02 +0000"
@@ -3438,6 +3456,12 @@
     },
     "done": true
   },
+  "upgradednetherite:recipes/essences/wither_essence": {
+    "criteria": {
+      "has_ghast_tear": "2024-12-23 00:10:56 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/diorite_shingles_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-21 22:51:45 +0000"
@@ -3904,6 +3928,12 @@
   "stoneworks:recipes/stoneworks.main/netherrack_brick_wall_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2024-12-22 23:57:29 +0000"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/essences/corrupt_essence": {
+    "criteria": {
+      "has_ghast_tear": "2024-12-23 00:10:56 +0000"
     },
     "done": true
   },
@@ -4529,6 +4559,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 22:06:46 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/basalt_blocks/smooth_basalt_brick_stairs_from_smooth_basalt_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-23 00:14:03 +0000"
     },
     "done": true
   },
@@ -5397,6 +5433,12 @@
     },
     "done": true
   },
+  "upgradednetherite:recipes/essences/water_essence": {
+    "criteria": {
+      "has_ghast_tear": "2024-12-23 00:10:56 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_everdawn_blocks/maple_bookshelf": {
     "criteria": {
       "has_item": "2024-12-21 04:52:30 +0000"
@@ -5597,6 +5639,12 @@
     },
     "done": true
   },
+  "twigs:recipes/basalt_blocks/smooth_basalt_bricks": {
+    "criteria": {
+      "has_item": "2024-12-23 00:14:03 +0000"
+    },
+    "done": true
+  },
   "clayworks:recipes/misc/charcoal_from_baking": {
     "criteria": {
       "has_log": "2024-12-21 02:15:12 +0000"
@@ -5720,6 +5768,12 @@
   "aether:valkyrie_loot": {
     "criteria": {
       "valkyrie_gloves": "2024-12-22 20:41:46 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/basalt_blocks/smooth_basalt_brick_slab_from_smooth_basalt_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-23 00:14:03 +0000"
     },
     "done": true
   },
@@ -5926,6 +5980,12 @@
   "stoneworks:recipes/stoneworks.main/diorite_tiles_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-21 22:51:45 +0000"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/essences/echo_essence": {
+    "criteria": {
+      "has_ghast_tear": "2024-12-23 00:10:56 +0000"
     },
     "done": true
   },
