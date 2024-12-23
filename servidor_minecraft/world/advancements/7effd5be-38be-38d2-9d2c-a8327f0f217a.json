@@ -98,6 +98,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/mossy_cobbled_calcite_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-23 19:00:53 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/dark_oak_slab_from_dark_oak_planks_sawing": {
     "criteria": {
       "has_dark_oak_planks": "2024-12-21 03:35:46 +0000"
@@ -107,6 +113,12 @@
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2024-12-21 04:34:07 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/polished_calcite_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-23 19:00:53 +0000"
     },
     "done": true
   },
@@ -155,6 +167,12 @@
   "stoneworks:recipes/stoneworks.main/diorite_paver_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-22 20:34:30 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/polished_calcite_bricks_from_calcite_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-23 19:00:53 +0000"
     },
     "done": true
   },
@@ -314,6 +332,18 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/calcite_paver_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-23 19:00:53 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/db/byg/palm_beam": {
+    "criteria": {
+      "has_planks": "2024-12-23 19:08:36 +0000"
+    },
+    "done": true
+  },
   "environmental:recipes/transportation/willow_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-21 05:05:51 +0000"
@@ -392,6 +422,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/calcite_tiles_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-23 19:00:53 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/white_curtain": {
     "criteria": {
       "has_wool": "2024-12-21 04:34:07 +0000"
@@ -407,6 +443,12 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-22 03:11:29 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/calcite_tile_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-23 19:00:53 +0000"
     },
     "done": true
   },
@@ -449,6 +491,12 @@
   "woodworks:recipes/building_blocks/dark_oak_slab_from_dark_oak_logs_sawing": {
     "criteria": {
       "has_dark_oak_logs": "2024-12-21 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/galosphere/smooth_amethyst": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-23 19:00:57 +0000"
     },
     "done": true
   },
@@ -608,6 +656,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/calcite_brick_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-23 19:00:53 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/twilightforest/iron_ladder": {
     "criteria": {
       "has_iron_bars": "2024-12-22 03:12:37 +0000"
@@ -623,6 +677,12 @@
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-22 02:22:45 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/polished_calcite_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-23 19:00:53 +0000"
     },
     "done": true
   },
@@ -710,9 +770,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/calcite_plate_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-23 19:00:53 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/golden_ring": {
     "criteria": {
       "has_gold_ingot": "2024-12-22 21:42:39 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/calcite_shingle_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-23 19:00:53 +0000"
     },
     "done": true
   },
@@ -803,6 +875,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-22 02:22:44 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/mossy_calcite_brick_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-23 19:00:53 +0000"
     },
     "done": true
   },
@@ -1071,6 +1149,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/calcite_plate_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-23 19:00:53 +0000"
+    },
+    "done": true
+  },
   "vinery:grapevine_stem": {
     "criteria": {
       "has_oak_log": "2024-12-21 03:45:34 +0000"
@@ -1110,6 +1194,12 @@
   "magnumtorch:recipes/decorations/diamond_magnum_torch": {
     "criteria": {
       "has_diamond": "2024-12-22 20:42:05 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/palm_wood": {
+    "criteria": {
+      "has_log": "2024-12-23 19:08:35 +0000"
     },
     "done": true
   },
@@ -1191,9 +1281,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/calcite_shingles_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-23 19:00:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye_from_smelting": {
     "criteria": {
       "has_sea_pickle": "2024-12-22 23:15:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/mossy_calcite_bricks_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-23 19:00:53 +0000"
     },
     "done": true
   },
@@ -1263,6 +1365,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/palm_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-23 19:08:36 +0000"
+    },
+    "done": true
+  },
   "sculked:sculked_root": {
     "criteria": {
       "sculked_root": "2024-12-22 04:33:07 +0000"
@@ -1290,6 +1398,12 @@
   "byg:recipes/byg.byg/cypress_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-21 05:05:51 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/cobbled_calcite_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-23 19:00:53 +0000"
     },
     "done": true
   },
@@ -1356,6 +1470,12 @@
   "everycomp:recipes/everycomp/tf/upgrade_aquatic/hollow_river_log_vertical": {
     "criteria": {
       "has_planks": "2024-12-23 05:52:13 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/basalt_blocks/smooth_basalt_bricks_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-23 19:00:53 +0000"
     },
     "done": true
   },
@@ -2243,6 +2363,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/tf/byg/hollow_palm_log_vertical": {
+    "criteria": {
+      "has_planks": "2024-12-23 19:08:36 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/food/cooking/jelly_bottle": {
     "criteria": {
       "has_sweet_fruit": "2024-12-21 03:37:50 +0000"
@@ -2285,6 +2411,18 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/tw/byg/palm_table": {
+    "criteria": {
+      "has_planks": "2024-12-23 19:08:36 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/polished_calcite_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-23 19:00:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2024-12-21 03:35:51 +0000"
@@ -2306,6 +2444,12 @@
   "woodworks:recipes/decorations/birch_sign_from_birch_logs_sawing": {
     "criteria": {
       "has_birch_logs": "2024-12-21 04:43:10 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/cobbled_calcite_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-23 19:00:53 +0000"
     },
     "done": true
   },
@@ -2441,6 +2585,12 @@
     },
     "done": true
   },
+  "twigs:recipes/amethyst_blocks/polished_amethyst_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-23 19:00:57 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/oak_ladder": {
     "criteria": {
       "has_stick": "2024-12-21 03:35:51 +0000"
@@ -2459,9 +2609,27 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/fd/byg/palm_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-23 19:08:36 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/mossy_andesite_brick_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-21 05:29:31 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/calcite_pillar_trim": {
+    "criteria": {
+      "has_pillar_trim": "2024-12-23 19:00:53 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/mossy_cobbled_calcite_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-23 19:00:53 +0000"
     },
     "done": true
   },
@@ -2501,6 +2669,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/palm_boat": {
+    "criteria": {
+      "has_planks": "2024-12-23 19:08:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-22 20:28:16 +0000"
@@ -2519,6 +2693,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/calcite_brick_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-23 19:00:53 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/dark_oak_sign_from_dark_oak_logs_sawing": {
     "criteria": {
       "has_dark_oak_logs": "2024-12-21 03:35:41 +0000"
@@ -2534,6 +2714,12 @@
   "stoneworks:recipes/stoneworks.main/mossy_tuff_brick_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-12-22 20:51:24 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/polished_calcite_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-23 19:00:53 +0000"
     },
     "done": true
   },
@@ -2570,6 +2756,12 @@
   "twigs:recipes/rhyolite/polished_rhyolite_stonecutting": {
     "criteria": {
       "has_item": "2024-12-22 20:54:54 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/calcite_shingle_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-23 19:00:53 +0000"
     },
     "done": true
   },
@@ -2756,6 +2948,18 @@
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2024-12-21 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/calcite_corner_trim": {
+    "criteria": {
+      "has_corner_trim": "2024-12-23 19:00:53 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/mossy_cobbled_calcite_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-23 19:00:53 +0000"
     },
     "done": true
   },
@@ -3059,6 +3263,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/db/byg/palm_support": {
+    "criteria": {
+      "has_planks": "2024-12-23 19:08:36 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/andesite_paver_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-21 05:29:31 +0000"
@@ -3074,6 +3284,12 @@
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2024-12-21 04:43:14 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/chiseled_calcite_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-23 19:00:53 +0000"
     },
     "done": true
   },
@@ -3137,6 +3353,12 @@
     },
     "done": true
   },
+  "twigs:recipes/calcite/polished_calcite": {
+    "criteria": {
+      "has_item": "2024-12-23 19:00:53 +0000"
+    },
+    "done": true
+  },
   "backpacked:recipes/backpacked/crimson_backpack_shelf": {
     "criteria": {
       "has_stick": "2024-12-21 03:35:51 +0000"
@@ -3152,6 +3374,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/fried_rice": {
     "criteria": {
       "has_any_ingredient": "2024-12-21 04:07:27 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/galosphere/amethyst_brick_stairs_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-23 19:00:57 +0000"
     },
     "done": true
   },
@@ -3186,6 +3414,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/mossy_calcite_brick_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-23 19:00:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-22 03:26:17 +0000"
@@ -3198,9 +3432,21 @@
     },
     "done": true
   },
+  "twigs:recipes/basalt_blocks/smooth_basalt_brick_wall_from_smooth_basalt_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-23 19:00:53 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/fishing_rod_repairing": {
     "criteria": {
       "has_fishing_rod": "2024-12-23 05:32:29 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/galosphere/smooth_amethyst_stairs_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-23 19:00:57 +0000"
     },
     "done": true
   },
@@ -3396,6 +3642,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/calcite_brick_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-23 19:00:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2024-12-22 20:34:30 +0000"
@@ -3417,6 +3669,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-22 20:28:16 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/galosphere/amethyst_bricks_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-23 19:00:57 +0000"
     },
     "done": true
   },
@@ -3588,6 +3846,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/palm_slab": {
+    "criteria": {
+      "has_planks": "2024-12-23 19:08:36 +0000"
+    },
+    "done": true
+  },
   "backpacked:recipes/backpacked/acacia_backpack_shelf": {
     "criteria": {
       "has_stick": "2024-12-21 03:35:51 +0000"
@@ -3659,6 +3923,12 @@
   "farmersdelight:recipes/farmersdelight/stuffed_potato": {
     "criteria": {
       "has_baked_potato": "2024-12-22 20:10:25 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/calcite_stairs": {
+    "criteria": {
+      "has_item": "2024-12-23 19:00:53 +0000"
     },
     "done": true
   },
@@ -3764,6 +4034,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/af/byg/palm_drawer": {
+    "criteria": {
+      "has_planks": "2024-12-23 19:08:36 +0000"
+    },
+    "done": true
+  },
   "clayworks:recipes/building_blocks/red_terracotta_bricks_from_red_dye": {
     "criteria": {
       "has_terracotta": "2024-12-23 03:32:53 +0000"
@@ -3785,6 +4061,12 @@
   "clayworks:recipes/building_blocks/green_terracotta_bricks_from_green_terracotta_stonecutting": {
     "criteria": {
       "has_green_terracotta": "2024-12-21 05:50:49 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/af/byg/palm_shutter": {
+    "criteria": {
+      "has_planks": "2024-12-23 19:08:36 +0000"
     },
     "done": true
   },
@@ -3926,6 +4208,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/palm_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-23 19:08:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-22 02:30:21 +0000"
@@ -3995,6 +4283,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-22 03:40:28 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/palm_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-23 19:08:36 +0000"
     },
     "done": true
   },
@@ -4071,6 +4365,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/galosphere/amethyst_stairs": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-23 19:00:57 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2024-12-21 04:16:37 +0000"
@@ -4104,6 +4404,12 @@
   "woodworks:recipes/building_blocks/spruce_bookshelf": {
     "criteria": {
       "has_book": "2024-12-23 03:55:40 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/cracked_calcite_tiles_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-23 19:00:53 +0000"
     },
     "done": true
   },
@@ -4143,6 +4449,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/palm_door": {
+    "criteria": {
+      "has_planks": "2024-12-23 19:08:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-22 02:22:44 +0000"
@@ -4158,6 +4470,12 @@
   "clayworks:recipes/building_blocks/gray_terracotta_vertical_slab": {
     "criteria": {
       "has_gray_terracotta": "2024-12-21 05:48:20 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/mossy_calcite_brick_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-23 19:00:53 +0000"
     },
     "done": true
   },
@@ -4182,6 +4500,12 @@
   "stoneworks:recipes/stoneworks.main/mossy_andesite_bricks_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-21 05:29:31 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/polished_calcite_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-23 19:00:53 +0000"
     },
     "done": true
   },
@@ -4275,6 +4599,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/calcite_shingle_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-23 19:00:53 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/spruce_ladder_from_spruce_planks_sawing": {
     "criteria": {
       "has_spruce_planks": "2024-12-22 02:30:21 +0000"
@@ -4302,6 +4632,12 @@
   "alexsmobs:alexsmobs/rocky_shell": {
     "criteria": {
       "soul_heart": "2024-12-23 00:05:04 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/galosphere/amethyst_stairs_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-23 19:00:57 +0000"
     },
     "done": true
   },
@@ -4380,6 +4716,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2024-12-21 05:54:47 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/calcite_pavers_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-23 19:00:53 +0000"
     },
     "done": true
   },
@@ -4569,6 +4911,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/palm_planks": {
+    "criteria": {
+      "has_logs": "2024-12-23 19:08:35 +0000"
+    },
+    "done": true
+  },
   "environmental:adventure/obtain_explorer_gear": {
     "criteria": {
       "thief_hood": "2024-12-22 20:45:34 +0000"
@@ -4633,6 +4981,12 @@
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2024-12-22 21:24:17 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/galosphere/amethyst_slab_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-23 19:00:57 +0000"
     },
     "done": true
   },
@@ -4931,6 +5285,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/af/byg/palm_table": {
+    "criteria": {
+      "has_planks": "2024-12-23 19:08:36 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/redstone/spruce_door_from_spruce_logs_sawing": {
     "criteria": {
       "has_spruce_logs": "2024-12-22 02:30:13 +0000"
@@ -4971,6 +5331,12 @@
       "minecraft:zombie_villager": "2024-12-23 00:11:32 +0000"
     },
     "done": false
+  },
+  "stoneworks:recipes/stoneworks.main/calcite_plate_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-23 19:00:53 +0000"
+    },
+    "done": true
   },
   "stoneworks:recipes/stoneworks.main/tuff_tiles_from_tuff_stonecutting": {
     "criteria": {
@@ -5056,6 +5422,12 @@
     },
     "done": true
   },
+  "twigs:recipes/calcite/calcite_stairs_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-23 19:00:53 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/birch_boards_from_birch_planks_sawing": {
     "criteria": {
       "has_birch_planks": "2024-12-21 04:43:14 +0000"
@@ -5104,9 +5476,21 @@
     },
     "done": true
   },
+  "twigs:recipes/basalt_blocks/smooth_basalt_brick_stairs_from_smooth_basalt_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-23 19:00:53 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/mossy_cobbled_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-22 02:21:49 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/calcite_slab_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-23 19:00:53 +0000"
     },
     "done": true
   },
@@ -5224,6 +5608,12 @@
     },
     "done": true
   },
+  "twigs:recipes/calcite/calcite_slab": {
+    "criteria": {
+      "has_item": "2024-12-23 19:00:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2024-12-22 21:42:39 +0000"
@@ -5287,6 +5677,12 @@
   "twigs:recipes/rhyolite/polished_rhyolite_bricks_from_rhyolite_stonecutting": {
     "criteria": {
       "has_item": "2024-12-22 20:54:54 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/mossy_cobbled_calcite_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-23 19:00:53 +0000"
     },
     "done": true
   },
@@ -5377,6 +5773,12 @@
   "incubation:recipes/decorations/chicken_egg_crate": {
     "criteria": {
       "has_egg": "2024-12-21 04:07:27 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/faf/byg/palm_beehive": {
+    "criteria": {
+      "has_planks": "2024-12-23 19:08:36 +0000"
     },
     "done": true
   },
@@ -5476,6 +5878,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/calcite_paver_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-23 19:00:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-22 03:40:28 +0000"
@@ -5497,6 +5905,12 @@
   "byg:recipes/byg.byg/rainbow_eucalyptus_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-21 05:05:51 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/amethyst_blocks/cut_amethyst_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-23 19:00:57 +0000"
     },
     "done": true
   },
@@ -5563,6 +5977,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2024-12-23 03:55:40 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/af/byg/palm_bench": {
+    "criteria": {
+      "has_planks": "2024-12-23 19:08:36 +0000"
     },
     "done": true
   },
@@ -5782,6 +6202,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/galosphere/amethyst_slab": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-23 19:00:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_black_dye": "2024-12-23 06:06:58 +0000"
@@ -5913,6 +6339,12 @@
   "vinery:oak_wine_rack_big": {
     "criteria": {
       "has_oak_planks": "2024-12-22 20:28:16 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/calcite_tile_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-23 19:00:53 +0000"
     },
     "done": true
   },
@@ -6181,12 +6613,24 @@
     },
     "done": true
   },
+  "twigs:recipes/calcite/calcite_wall_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-23 19:00:53 +0000"
+    },
+    "done": true
+  },
   "immersive_weathering:immersive_weathering/dirts": {
     "criteria": {
       "grass": "2024-12-23 04:23:05 +0000",
       "dirt": "2024-12-21 03:59:52 +0000"
     },
     "done": false
+  },
+  "stoneworks:recipes/stoneworks.main/calcite_plates_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-23 19:00:53 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
@@ -6197,6 +6641,12 @@
   "handcrafted:recipes/misc/terracotta_medium_pot": {
     "criteria": {
       "has_terracotta": "2024-12-23 03:32:53 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/palm_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-23 19:08:36 +0000"
     },
     "done": true
   },
@@ -6245,6 +6695,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-21 03:38:47 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/palm_sign": {
+    "criteria": {
+      "has_planks": "2024-12-23 19:08:36 +0000"
     },
     "done": true
   },
@@ -6362,6 +6818,30 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/cracked_calcite_bricks_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-23 19:00:53 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/amethyst_blocks/polished_amethyst": {
+    "criteria": {
+      "has_item": "2024-12-23 19:00:57 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/basalt_blocks/smooth_basalt_bricks": {
+    "criteria": {
+      "has_item": "2024-12-23 19:00:53 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/db/byg/palm_palisade": {
+    "criteria": {
+      "has_planks": "2024-12-23 19:08:36 +0000"
+    },
+    "done": true
+  },
   "clayworks:recipes/misc/charcoal_from_baking": {
     "criteria": {
       "has_log": "2024-12-21 03:35:41 +0000"
@@ -6464,6 +6944,12 @@
     },
     "done": true
   },
+  "twigs:recipes/basalt_blocks/smooth_basalt_brick_slab_from_smooth_basalt_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-23 19:00:53 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/rocky_dirt": {
     "criteria": {
       "has_item": "2024-12-22 03:47:22 +0000"
@@ -6491,6 +6977,12 @@
   "stoneworks:recipes/stoneworks.main/cobbled_tuff_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-12-22 20:51:24 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/tf/byg/palm_banister": {
+    "criteria": {
+      "has_planks": "2024-12-23 19:08:36 +0000"
     },
     "done": true
   },
@@ -6602,6 +7094,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/palm_crafting_table": {
+    "criteria": {
+      "has_planks": "2024-12-23 19:08:36 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/mossy_cobbled_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-21 05:29:31 +0000"
@@ -6617,6 +7115,18 @@
   "handcrafted:recipes/misc/terracotta_plate": {
     "criteria": {
       "has_terracotta": "2024-12-23 03:32:53 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/galosphere/amethyst_brick_slab_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-23 19:00:57 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/af/byg/palm_planter_box": {
+    "criteria": {
+      "has_planks": "2024-12-23 19:08:36 +0000"
     },
     "done": true
   },
@@ -6677,6 +7187,12 @@
   "aether:recipes/combat/bow_repairing": {
     "criteria": {
       "has_bow": "2024-12-21 05:54:47 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/af/byg/palm_shelf": {
+    "criteria": {
+      "has_planks": "2024-12-23 19:08:36 +0000"
     },
     "done": true
   },
@@ -6809,6 +7325,12 @@
   "aether:recipes/misc/aether_iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_gloves": "2024-12-22 01:56:23 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/galosphere/smooth_amethyst_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-23 19:00:57 +0000"
     },
     "done": true
   },
@@ -7118,6 +7640,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/cobbled_calcite_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-23 19:00:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2024-12-21 04:34:07 +0000"
@@ -7274,6 +7802,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/db/byg/palm_seat": {
+    "criteria": {
+      "has_planks": "2024-12-23 19:08:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_candle": {
     "criteria": {
       "has_black_dye": "2024-12-23 06:06:58 +0000"
@@ -7314,6 +7848,12 @@
   "woodworks:recipes/decorations/spruce_chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-21 03:37:49 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/calcite_pillar_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-23 19:00:53 +0000"
     },
     "done": true
   },
@@ -7455,6 +7995,18 @@
     },
     "done": true
   },
+  "galosphere:recipes/galosphere/smooth_amethyst_slab_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-23 19:00:57 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/af/byg/palm_chair": {
+    "criteria": {
+      "has_planks": "2024-12-23 19:08:36 +0000"
+    },
+    "done": true
+  },
   "vinery:vinemaker_boots": {
     "criteria": {
       "has_brown_wool": "2024-12-21 04:54:30 +0000"
@@ -7530,6 +8082,12 @@
   "aether:recipes/tools/diamond_shovel_repairing": {
     "criteria": {
       "has_diamond_shovel": "2024-12-23 05:58:26 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/calcite_bricks_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-23 19:00:53 +0000"
     },
     "done": true
   },
@@ -7626,6 +8184,12 @@
   "woodworks:recipes/decorations/oak_sign_from_oak_logs_sawing": {
     "criteria": {
       "has_oak_logs": "2024-12-21 03:45:34 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/calcite_tile_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-23 19:00:53 +0000"
     },
     "done": true
   },
@@ -7761,6 +8325,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/stoneworks.main/calcite_paver_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-23 19:00:53 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/mossy_cobbled_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-22 02:21:49 +0000"
@@ -7770,6 +8340,12 @@
   "aether:recipes/tools/iron_pickaxe_repairing": {
     "criteria": {
       "has_iron_pickaxe": "2024-12-21 05:31:46 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/galosphere/chiseled_amethyst_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-23 19:00:57 +0000"
     },
     "done": true
   },
@@ -7794,6 +8370,18 @@
   "woodworks:recipes/redstone/birch_door_from_birch_logs_sawing": {
     "criteria": {
       "has_birch_logs": "2024-12-21 04:43:10 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/palm_bookshelf": {
+    "criteria": {
+      "has_planks": "2024-12-23 19:08:36 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/calcite_wall": {
+    "criteria": {
+      "has_item": "2024-12-23 19:00:53 +0000"
     },
     "done": true
   },
@@ -7842,6 +8430,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2024-12-22 20:28:16 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/palm_fence": {
+    "criteria": {
+      "has_planks": "2024-12-23 19:08:36 +0000"
     },
     "done": true
   },
@@ -8004,6 +8598,12 @@
   "stoneworks:recipes/stoneworks.main/diorite_brick_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-22 20:34:30 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/stoneworks.main/cobbled_calcite_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2024-12-23 19:00:53 +0000"
     },
     "done": true
   },
@@ -8199,6 +8799,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/palm_button": {
+    "criteria": {
+      "has_planks": "2024-12-23 19:08:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2024-12-21 03:35:46 +0000"
@@ -8250,6 +8856,12 @@
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-21 04:34:32 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/bp/byg/palm_backpack_shelf": {
+    "criteria": {
+      "has_planks": "2024-12-23 19:08:36 +0000"
     },
     "done": true
   },
