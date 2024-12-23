@@ -4148,3 +4148,8 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [23Dec2024 19:25:36.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: * Server mueve la colita
 [23Dec2024 19:29:29.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: * Server juanse
 [23Dec2024 19:29:36.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Joacoo_17> q
+[23Dec2024 19:37:14.989] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joacoo_17 lost connection: Disconnected
+[23Dec2024 19:37:14.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joacoo_17 left the game
+[23Dec2024 19:37:14.991] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7aaaddc4-adb9-3168-b6ff-709541dea5ed
+[23Dec2024 19:42:03.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Domitax> juanse
+[23Dec2024 19:42:04.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Domitax> nooo
