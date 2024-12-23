@@ -2519,3 +2519,91 @@ java.lang.NullPointerException: Cannot invoke "com.lothrazar.storagenetwork.api.
 [23Dec2024 02:59:07.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> brandon ontas
 [23Dec2024 02:59:17.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> te ayudo
 [23Dec2024 02:59:17.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Twuelvi> bancame estoy en un mometo complejo
+[23Dec2024 02:59:29.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Domitax> tratando de ir a buscar mi cuerpo
+[23Dec2024 02:59:34.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> voy para alla
+[23Dec2024 02:59:39.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Domitax> y de sobrevivir a una caida de 100 bloques sin cubo de agua
+[23Dec2024 02:59:41.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> pasa wp
+[23Dec2024 03:00:02.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Domitax> yo puedo solo
+[23Dec2024 03:00:21.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> pero pasa wayp
+[23Dec2024 03:00:24.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax fell from a high place
+[23Dec2024 03:00:48.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax fell from a high place
+[23Dec2024 03:01:10.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax fell from a high place
+[23Dec2024 03:01:21.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax fell from a high place
+[23Dec2024 03:01:32.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax fell from a high place
+[23Dec2024 03:01:42.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax fell from a high place
+[23Dec2024 03:02:35.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Twuelvi> xaero-waypoint:ayuda:A:206:148:227:13:false:0:Internal-overworld-waypoints
+[23Dec2024 03:03:35.556] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vata74 moved wrongly!
+[23Dec2024 03:03:45.955] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=102, y=46, z=95} BlockPos{x=103, y=46, z=95}
+[23Dec2024 03:03:46.006] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=102, y=46, z=95} BlockPos{x=103, y=46, z=95}
+[23Dec2024 03:03:46.057] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=102, y=46, z=95} BlockPos{x=103, y=46, z=95}
+[23Dec2024 03:03:46.107] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=102, y=46, z=95} BlockPos{x=103, y=46, z=95}
+[23Dec2024 03:03:46.158] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=102, y=46, z=95} BlockPos{x=103, y=46, z=95}
+[23Dec2024 03:03:46.208] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=102, y=46, z=95} BlockPos{x=103, y=46, z=95}
+[23Dec2024 03:03:46.259] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=102, y=46, z=95} BlockPos{x=103, y=46, z=95}
+[23Dec2024 03:03:46.305] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=102, y=46, z=95} BlockPos{x=103, y=46, z=95}
+[23Dec2024 03:03:46.355] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=102, y=46, z=95} BlockPos{x=103, y=46, z=95}
+[23Dec2024 03:03:46.405] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=102, y=46, z=95} BlockPos{x=103, y=46, z=95}
+[23Dec2024 03:03:46.461] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=102, y=46, z=95} BlockPos{x=103, y=46, z=95}
+[23Dec2024 03:03:46.506] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=102, y=46, z=95} BlockPos{x=103, y=46, z=95}
+[23Dec2024 03:03:46.594] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=102, y=46, z=95} BlockPos{x=103, y=46, z=95}
+[23Dec2024 03:03:46.609] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=102, y=46, z=95} BlockPos{x=103, y=46, z=95}
+[23Dec2024 03:03:46.908] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=103, y=47, z=96} BlockPos{x=104, y=48, z=98}
+[23Dec2024 03:03:46.955] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=103, y=47, z=96} BlockPos{x=104, y=48, z=98}
+[23Dec2024 03:03:47.006] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=103, y=47, z=96} BlockPos{x=104, y=48, z=98}
+[23Dec2024 03:03:47.056] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=103, y=47, z=96} BlockPos{x=104, y=48, z=98}
+[23Dec2024 03:03:47.108] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=103, y=47, z=96} BlockPos{x=104, y=48, z=98}
+[23Dec2024 03:03:47.159] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=103, y=47, z=96} BlockPos{x=104, y=48, z=98}
+[23Dec2024 03:03:47.209] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=103, y=47, z=96} BlockPos{x=104, y=48, z=98}
+[23Dec2024 03:03:50.622] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=107, y=52, z=101} BlockPos{x=108, y=52, z=101}
+[23Dec2024 03:03:50.658] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=107, y=52, z=101} BlockPos{x=108, y=52, z=101}
+[23Dec2024 03:03:50.709] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=107, y=52, z=101} BlockPos{x=108, y=52, z=101}
+[23Dec2024 03:03:50.761] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=107, y=52, z=101} BlockPos{x=108, y=52, z=101}
+[23Dec2024 03:03:50.804] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=107, y=52, z=101} BlockPos{x=108, y=52, z=101}
+[23Dec2024 03:03:50.857] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=107, y=52, z=101} BlockPos{x=108, y=52, z=101}
+[23Dec2024 03:03:50.908] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=107, y=52, z=101} BlockPos{x=108, y=52, z=101}
+[23Dec2024 03:03:50.955] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=107, y=52, z=101} BlockPos{x=108, y=52, z=101}
+[23Dec2024 03:03:51.005] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=107, y=52, z=101} BlockPos{x=108, y=52, z=101}
+[23Dec2024 03:03:51.057] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=107, y=52, z=101} BlockPos{x=108, y=52, z=101}
+[23Dec2024 03:03:51.108] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=107, y=52, z=101} BlockPos{x=108, y=52, z=101}
+[23Dec2024 03:03:51.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax fell from a high place
+[23Dec2024 03:03:51.404] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=108, y=53, z=102} BlockPos{x=109, y=53, z=102}
+[23Dec2024 03:03:51.455] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=108, y=53, z=102} BlockPos{x=109, y=53, z=102}
+[23Dec2024 03:03:51.506] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=108, y=53, z=102} BlockPos{x=109, y=53, z=102}
+[23Dec2024 03:03:51.557] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=108, y=53, z=102} BlockPos{x=109, y=53, z=102}
+[23Dec2024 03:03:51.609] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=108, y=53, z=102} BlockPos{x=109, y=53, z=102}
+[23Dec2024 03:03:51.654] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=108, y=53, z=102} BlockPos{x=109, y=53, z=102}
+[23Dec2024 03:03:51.706] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=108, y=53, z=102} BlockPos{x=109, y=53, z=102}
+[23Dec2024 03:03:51.755] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=108, y=53, z=102} BlockPos{x=109, y=53, z=102}
+[23Dec2024 03:03:51.807] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=108, y=53, z=102} BlockPos{x=109, y=53, z=102}
+[23Dec2024 03:03:51.858] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=108, y=53, z=102} BlockPos{x=109, y=53, z=102}
+[23Dec2024 03:04:02.304] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=119, y=62, z=114} BlockPos{x=121, y=64, z=115}
+[23Dec2024 03:04:11.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax fell from a high place
+[23Dec2024 03:04:21.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 has made the advancement [Guns and Roses]
+[23Dec2024 03:04:25.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax fell from a high place
+[23Dec2024 03:04:38.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax fell from a high place
+[23Dec2024 03:04:55.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax fell from a high place
+[23Dec2024 03:05:14.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax fell from a high place
+[23Dec2024 03:05:45.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax fell from a high place
+[23Dec2024 03:06:25.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 was slain by Skeleton
+[23Dec2024 03:07:05.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax fell from a high place
+[23Dec2024 03:07:21.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Domitax> na bue
+[23Dec2024 03:07:24.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> voy
+[23Dec2024 03:07:37.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Domitax> al spawn vas a ir?
+[23Dec2024 03:07:44.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Domitax> tengo mi cuerpo a 7 mil metros
+[23Dec2024 03:07:49.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Domitax> se bugueo la cama de mierda
+[23Dec2024 03:07:51.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Domitax> deja
+[23Dec2024 03:08:07.044] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Domitax lost connection: Disconnected
+[23Dec2024 03:08:07.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax left the game
+[23Dec2024 03:08:07.045] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7effd5be-38be-38d2-9d2c-a8327f0f217a
+[23Dec2024 03:09:16.449] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3c8b2be5
+[23Dec2024 03:09:16.462] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Domitax[/127.232.93.209:41165] logged in with entity id 126032 at (-330.4242774590699, -28.0, 6161.252815862257)
+[23Dec2024 03:09:16.464] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Domitax
+[23Dec2024 03:09:16.464] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Domitax
+[23Dec2024 03:09:16.464] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Domitax
+[23Dec2024 03:09:16.464] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Domitax
+[23Dec2024 03:09:16.466] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Domitax
+[23Dec2024 03:09:16.467] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Domitax
+[23Dec2024 03:09:16.468] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Domitax
+[23Dec2024 03:09:16.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax joined the game
+[23Dec2024 03:09:16.487] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7effd5be-38be-38d2-9d2c-a8327f0f217a
+[23Dec2024 03:09:16.492] [Server thread/INFO] [Jade/]: Syncing config to Domitax (7effd5be-38be-38d2-9d2c-a8327f0f217a)
