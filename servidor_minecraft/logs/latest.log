@@ -4176,3 +4176,4 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [23Dec2024 20:32:37.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: players<--[HERE]
 [23Dec2024 20:32:51.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 2 of a max of 20 players online: Domitax, Joacoo_17
 [23Dec2024 20:34:35.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: * Server brandon unmute
+[23Dec2024 20:35:58.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: * Server joaco ds
