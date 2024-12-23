@@ -16211,3 +16211,17 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [23Dec2024 22:08:02.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRIOMAX was doomed to fall by Rocky Roller
 [23Dec2024 22:08:10.459] [Server thread/DEBUG] [twilightforest/]: Player BRIOMAX (2a6eaa93-079a-3dca-be78-732c2db22348) respawned and received items held in storage
 [23Dec2024 22:08:32.924] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[23Dec2024 22:11:52.874] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[23Dec2024 22:11:52.874] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[23Dec2024 22:12:02.314] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 22:12:02.346] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 22:15:13.124] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[23Dec2024 22:17:02.330] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 22:17:02.364] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 22:17:06.773] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=778, y=64, z=-199}) doesn't have enough leaves around top most log
+[23Dec2024 22:17:23.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax was slain by Incomplete Wither
+[23Dec2024 22:17:26.134] [Server thread/DEBUG] [twilightforest/]: Player Domitax (7effd5be-38be-38d2-9d2c-a8327f0f217a) respawned and received items held in storage
+[23Dec2024 22:18:32.234] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=38, y=-50, z=-59} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[23Dec2024 22:18:32.974] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[23Dec2024 22:21:05.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax was slain by Incomplete Wither
+[23Dec2024 22:21:09.259] [Server thread/DEBUG] [twilightforest/]: Player Domitax (7effd5be-38be-38d2-9d2c-a8327f0f217a) respawned and received items held in storage

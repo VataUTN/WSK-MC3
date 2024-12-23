@@ -4109,3 +4109,5 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [23Dec2024 22:08:01.239] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/11117, l='ServerLevel[world]', x=472.50, y=-19.00, z=-242.50]
 [23Dec2024 22:08:01.239] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/11118, l='ServerLevel[world]', x=472.50, y=-19.00, z=-241.50]
 [23Dec2024 22:08:02.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRIOMAX was doomed to fall by Rocky Roller
+[23Dec2024 22:17:23.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax was slain by Incomplete Wither
+[23Dec2024 22:21:05.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax was slain by Incomplete Wither

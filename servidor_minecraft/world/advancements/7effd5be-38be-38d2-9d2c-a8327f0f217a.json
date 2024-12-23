@@ -2702,6 +2702,12 @@
     },
     "done": true
   },
+  "nethersdelight:recipes/nethersdelight/soul_compost_from_hoglin_hide": {
+    "criteria": {
+      "has_soil": "2024-12-23 22:08:46 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/oak_ladder_from_oak_logs_sawing": {
     "criteria": {
       "has_oak_logs": "2024-12-21 03:45:34 +0000"
@@ -3247,6 +3253,12 @@
     },
     "done": true
   },
+  "nethersdelight:recipes/nethersdelight/soul_compost_from_warped_roots": {
+    "criteria": {
+      "has_soil": "2024-12-23 22:08:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-22 02:22:44 +0000"
@@ -3508,6 +3520,12 @@
   "everycomp:recipes/everycomp/af/quark/blossom_bench": {
     "criteria": {
       "has_planks": "2024-12-22 20:41:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-12-23 22:08:46 +0000"
     },
     "done": true
   },
@@ -8231,6 +8249,7 @@
   },
   "immersive_weathering:immersive_weathering/dirts": {
     "criteria": {
+      "soul soil": "2024-12-23 22:08:46 +0000",
       "grass": "2024-12-23 04:23:05 +0000",
       "dirt": "2024-12-21 03:59:52 +0000"
     },
