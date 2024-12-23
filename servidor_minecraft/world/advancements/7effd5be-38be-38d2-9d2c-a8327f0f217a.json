@@ -158,6 +158,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
+    "criteria": {
+      "has_black_dye": "2024-12-23 06:06:58 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/diorite_pavers_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-22 20:34:30 +0000"
@@ -2927,6 +2933,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_black_dye": "2024-12-23 06:06:58 +0000"
+    },
+    "done": true
+  },
   "vinery:wine_rack_2": {
     "criteria": {
       "has_spruce_planks": "2024-12-22 02:30:21 +0000"
@@ -5326,6 +5338,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-12-23 06:01:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2024-12-22 21:24:17 +0000"
@@ -5668,6 +5686,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/walnut_planks": {
+    "criteria": {
+      "has_logs": "2024-12-23 06:09:01 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2024-12-22 02:26:31 +0000"
@@ -5731,6 +5755,12 @@
   "woodworks:recipes/redstone/birch_button_from_birch_planks_sawing": {
     "criteria": {
       "has_birch_planks": "2024-12-21 04:43:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2024-12-23 06:06:58 +0000"
     },
     "done": true
   },
@@ -6133,6 +6163,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2024-12-23 06:06:58 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/terracotta_medium_pot": {
     "criteria": {
       "has_terracotta": "2024-12-23 03:32:53 +0000"
@@ -6142,6 +6178,12 @@
   "stoneworks:recipes/stoneworks.main/andesite_brick_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-21 05:29:31 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/paper_lanterns/dandelion_paper_lantern": {
+    "criteria": {
+      "has_item": "2024-12-23 06:01:05 +0000"
     },
     "done": true
   },
@@ -6877,6 +6919,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/walnut_wood": {
+    "criteria": {
+      "has_log": "2024-12-23 06:09:01 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/birch_chair": {
     "criteria": {
       "has_planks": "2024-12-21 04:43:14 +0000"
@@ -7186,6 +7234,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2024-12-22 21:49:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2024-12-23 06:06:58 +0000"
     },
     "done": true
   },
@@ -7541,6 +7595,12 @@
   "clayworks:recipes/building_blocks/yellow_terracotta_bricks_from_yellow_dye": {
     "criteria": {
       "has_terracotta": "2024-12-23 03:32:53 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/honey_glazed_walnut": {
+    "criteria": {
+      "has_walnut": "2024-12-23 06:09:02 +0000"
     },
     "done": true
   },

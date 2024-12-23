@@ -17622,3 +17622,28 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [23Dec2024 05:59:30.819] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [23Dec2024 06:00:55.505] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
 [23Dec2024 06:01:12.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Domitax> metete a dicscord cagon
+[23Dec2024 06:04:15.405] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[23Dec2024 06:04:15.405] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[23Dec2024 06:04:30.760] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 06:04:30.787] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 06:04:50.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Joacoo_17> hola
+[23Dec2024 06:05:01.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Twuelvi> date vuelta
+[23Dec2024 06:05:12.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Joacoo_17> ay
+[23Dec2024 06:05:14.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRIOMAX has made the advancement [Voluntary Exile]
+[23Dec2024 06:07:35.605] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[23Dec2024 06:08:11.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Domitax> xzzzzzz
+[23Dec2024 06:08:12.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Domitax> zzz
+[23Dec2024 06:09:30.758] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 06:09:30.797] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 06:09:36.241] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cobblestone_rock_2
+[23Dec2024 06:09:40.935] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_2
+[23Dec2024 06:10:32.039] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=843, y=72, z=-240}) doesn't have enough leaves around top most log
+[23Dec2024 06:10:33.535] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=843, y=70, z=-243}) doesn't have enough leaves around top most log
+[23Dec2024 06:10:55.555] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[23Dec2024 06:11:00.168] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/23976, l='ServerLevel[world]', x=540.50, y=19.00, z=-225.50]
+[23Dec2024 06:11:00.169] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/23977, l='ServerLevel[world]', x=539.50, y=20.00, z=-225.50]
+[23Dec2024 06:11:00.169] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/23978, l='ServerLevel[world]', x=538.50, y=22.00, z=-224.50]
+[23Dec2024 06:11:09.866] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/24060, l='ServerLevel[world]', x=535.50, y=24.00, z=-220.50]
+[23Dec2024 06:11:11.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRIOMAX has made the advancement [KEEP ROLLIN' ROLLIN' ROLLIN']
+[23Dec2024 06:11:12.066] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/24080, l='ServerLevel[world]', x=540.50, y=19.00, z=-225.50]
+[23Dec2024 06:11:57.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BRIOMAX has made the advancement [Rocks Off!]
