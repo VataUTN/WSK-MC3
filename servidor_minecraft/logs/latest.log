@@ -4150,3 +4150,17 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [24Dec2024 01:32:47.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 has made the advancement [When in Rome]
 [24Dec2024 01:32:54.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported IAN9IRV018 to Nefario99
 [24Dec2024 01:32:55.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAN9IRV018 has made the advancement [When in Rome]
+[24Dec2024 01:36:00.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 has made the advancement [Swiper, No Swiping!]
+[24Dec2024 01:38:59.279] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4c2d847d
+[24Dec2024 01:38:59.300] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Domitax[/127.232.93.209:58011] logged in with entity id 20563 at (1025.7550721636248, 66.0, -569.9694398587507)
+[24Dec2024 01:38:59.301] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Domitax
+[24Dec2024 01:38:59.302] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Domitax
+[24Dec2024 01:38:59.302] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Domitax
+[24Dec2024 01:38:59.302] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Domitax
+[24Dec2024 01:38:59.304] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Domitax
+[24Dec2024 01:38:59.305] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Domitax
+[24Dec2024 01:38:59.305] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Domitax
+[24Dec2024 01:38:59.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax joined the game
+[24Dec2024 01:38:59.342] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7effd5be-38be-38d2-9d2c-a8327f0f217a
+[24Dec2024 01:38:59.348] [Server thread/INFO] [Jade/]: Syncing config to Domitax (7effd5be-38be-38d2-9d2c-a8327f0f217a)
+[24Dec2024 01:41:04.235] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18434ms or 368 ticks behind

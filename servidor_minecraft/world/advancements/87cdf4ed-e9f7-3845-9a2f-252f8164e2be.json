@@ -177,6 +177,24 @@
     },
     "done": true
   },
+  "vinery:basket": {
+    "criteria": {
+      "has_wheat": "2024-12-24 01:35:55 +0000"
+    },
+    "done": true
+  },
+  "vinery:straw_hat": {
+    "criteria": {
+      "has_wheat": "2024-12-24 01:35:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/pie_crust": {
+    "criteria": {
+      "has_wheat": "2024-12-24 01:35:55 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/diamond_gloves": {
     "criteria": {
       "has_diamond": "2024-12-22 02:09:49 +0000"
@@ -237,6 +255,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-24 01:33:57 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/chiseled_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-22 02:12:47 +0000"
@@ -290,6 +314,12 @@
       "has_oak_planks": "2024-12-21 04:52:33 +0000"
     },
     "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2024-12-24 01:32:55 +0000"
+    },
+    "done": false
   },
   "aether_redux:recipes/transportation/cloudcap_boat": {
     "criteria": {
@@ -483,6 +513,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-24 01:33:57 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/bamboo_fence_gate": {
     "criteria": {
       "has_bamboo": "2024-12-21 04:43:26 +0000",
@@ -493,6 +529,12 @@
   "stoneworks:recipes/stoneworks.main/andesite_tile_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-22 02:11:01 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_tune_enchanting": {
+    "criteria": {
+      "has_disc": "2024-12-24 01:35:23 +0000"
     },
     "done": true
   },
@@ -523,6 +565,12 @@
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2024-12-21 05:03:12 +0000"
+    },
+    "done": true
+  },
+  "incubation:recipes/decorations/hay_nest": {
+    "criteria": {
+      "has_wheat": "2024-12-24 01:35:55 +0000"
     },
     "done": true
   },
@@ -661,6 +709,12 @@
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2024-12-22 02:09:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2024-12-24 01:33:18 +0000"
     },
     "done": true
   },
@@ -1087,6 +1141,12 @@
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2024-12-22 04:40:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-24 01:37:33 +0000"
     },
     "done": true
   },
@@ -2232,6 +2292,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2024-12-24 01:35:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2024-12-21 04:54:45 +0000"
@@ -2374,6 +2440,12 @@
   "twigs:recipes/paper_lanterns/paper_lantern": {
     "criteria": {
       "has_item": "2024-12-22 04:46:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-24 01:35:55 +0000"
     },
     "done": true
   },
@@ -2789,6 +2861,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-12-24 01:35:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 05:45:23 +0000"
@@ -3113,6 +3191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-24 01:37:33 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/db/quark/blossom_beam": {
     "criteria": {
       "has_planks": "2024-12-21 05:01:54 +0000"
@@ -3167,6 +3251,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2024-12-24 01:35:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2024-12-22 02:12:47 +0000"
@@ -3182,6 +3272,12 @@
   "vinery:shelf": {
     "criteria": {
       "has_spruce_planks": "2024-12-22 03:05:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-24 01:37:33 +0000"
     },
     "done": true
   },
@@ -3462,6 +3558,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-24 01:33:57 +0000"
+    },
+    "done": true
+  },
   "environmental:recipes/decorations/wisteria_chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-21 04:53:22 +0000"
@@ -3615,6 +3717,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2024-12-21 05:00:26 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2024-12-24 01:32:55 +0000"
     },
     "done": true
   },
@@ -3789,6 +3897,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-12-21 05:02:37 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_boots_repairing": {
+    "criteria": {
+      "has_iron_boots": "2024-12-24 01:33:30 +0000"
     },
     "done": true
   },
@@ -4107,6 +4221,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-12-21 04:44:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-24 01:33:57 +0000"
     },
     "done": true
   },

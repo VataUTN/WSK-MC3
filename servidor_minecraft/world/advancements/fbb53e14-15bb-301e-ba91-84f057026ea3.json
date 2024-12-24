@@ -3531,6 +3531,12 @@
     },
     "done": true
   },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2024-12-24 01:32:47 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/redstone/spruce_pressure_plate_from_spruce_logs_sawing": {
     "criteria": {
       "has_spruce_logs": "2024-12-22 00:46:16 +0000"
@@ -4625,6 +4631,12 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2024-12-24 01:32:47 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2024-12-21 23:00:50 +0000"
@@ -4829,6 +4841,18 @@
     },
     "done": true
   },
+  "environmental:adventure/obtain_explorer_gear": {
+    "criteria": {
+      "thief_hood": "2024-12-24 01:36:00 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/frozen/cutting/ice_sword": {
+    "criteria": {
+      "has_diamond_sword": "2024-12-24 01:37:24 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/vegetable_noodles": {
     "criteria": {
       "has_any_ingredient": "2024-12-22 22:32:50 +0000"
@@ -5022,6 +5046,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2024-12-24 01:33:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2024-12-21 23:06:00 +0000"
@@ -5121,6 +5151,12 @@
   "stoneworks:recipes/stoneworks.main/cobbled_prismarine_stairs_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2024-12-22 23:33:45 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_sword_repairing": {
+    "criteria": {
+      "has_diamond_sword": "2024-12-24 01:37:24 +0000"
     },
     "done": true
   },
@@ -8235,6 +8271,12 @@
   "twigs:recipes/calcite/calcite_wall": {
     "criteria": {
       "has_item": "2024-12-22 21:42:59 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_axe_repairing": {
+    "criteria": {
+      "has_diamond_axe": "2024-12-24 01:36:33 +0000"
     },
     "done": true
   },
