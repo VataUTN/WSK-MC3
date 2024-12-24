@@ -21430,3 +21430,16 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [24Dec2024 03:44:11.548] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Dec2024 03:44:11.578] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [24Dec2024 03:46:10.350] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[24Dec2024 03:49:11.644] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 03:49:11.674] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 03:49:30.300] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[24Dec2024 03:52:50.250] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[24Dec2024 03:52:50.250] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[24Dec2024 03:54:11.551] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 03:54:11.578] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 03:55:11.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Domitax> zzzzz
+[24Dec2024 03:55:14.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Domitax> zzzzz
+[24Dec2024 03:55:16.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Domitax> JUANSE DFORMI
+[24Dec2024 03:55:17.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Domitax> POR FAVOR
+[24Dec2024 03:55:31.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Domitax> gracias
+[24Dec2024 03:56:10.400] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!

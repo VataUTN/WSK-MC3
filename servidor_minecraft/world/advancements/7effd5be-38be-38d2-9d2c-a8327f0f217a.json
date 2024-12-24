@@ -1231,6 +1231,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-12-24 03:46:27 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/black_tall_stool": {
     "criteria": {
       "has_wool": "2024-12-22 04:16:30 +0000"
@@ -1415,6 +1421,12 @@
   "stoneworks:recipes/stoneworks.main/polished_netherrack_wall_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2024-12-23 22:03:37 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/food/beetroot_soup_from_coconut_husk": {
+    "criteria": {
+      "has_beetroot": "2024-12-24 03:46:27 +0000"
     },
     "done": true
   },
@@ -1637,6 +1649,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 03:49:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-12-24 03:46:27 +0000"
     },
     "done": true
   },
@@ -6131,6 +6149,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2024-12-21 05:10:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2024-12-24 03:46:27 +0000"
     },
     "done": true
   },
