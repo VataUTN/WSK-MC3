@@ -4024,3 +4024,73 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [24Dec2024 00:37:36.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 left the game
 [24Dec2024 00:37:36.166] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for aa13d00e-5bda-37e1-a49d-1216688ffe68
 [24Dec2024 00:44:22.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 was blown up by Creeper
+[24Dec2024 00:53:37.935] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=7, z=-24}
+[24Dec2024 00:53:37.937] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=259, y=6, z=-25}
+[24Dec2024 00:54:34.990] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@a211d46
+[24Dec2024 00:54:35.026] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Domitax[/127.232.93.209:46933] logged in with entity id 6652 at (260.0539582162478, 65.0, 144.13020604739873)
+[24Dec2024 00:54:35.030] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Domitax
+[24Dec2024 00:54:35.030] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Domitax
+[24Dec2024 00:54:35.031] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Domitax
+[24Dec2024 00:54:35.031] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Domitax
+[24Dec2024 00:54:35.035] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Domitax
+[24Dec2024 00:54:35.038] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Domitax
+[24Dec2024 00:54:35.039] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Domitax
+[24Dec2024 00:54:35.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax joined the game
+[24Dec2024 00:54:35.117] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7effd5be-38be-38d2-9d2c-a8327f0f217a
+[24Dec2024 00:54:35.137] [Server thread/INFO] [Jade/]: Syncing config to Domitax (7effd5be-38be-38d2-9d2c-a8327f0f217a)
+[24Dec2024 00:54:56.591] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=7, z=-24}
+[24Dec2024 00:54:56.593] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=259, y=6, z=-25}
+[24Dec2024 00:55:06.845] [Server thread/INFO] [de.cas_ual_ty.deuf.DEUF/]: Changing UUID of entity alexsmobs:hummingbird that already existed from e33a6107-8893-48f4-a459-31d4d4b0d8d7 to 9d14e8de-0efb-4f0f-b58b-74dbe3eb28c1
+[24Dec2024 00:55:12.097] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-920, y=35, z=4780}
+[24Dec2024 00:55:12.098] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-923, y=35, z=4778}
+[24Dec2024 00:56:31.000] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Domitax lost connection: Disconnected
+[24Dec2024 00:56:31.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax left the game
+[24Dec2024 00:56:31.006] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7effd5be-38be-38d2-9d2c-a8327f0f217a
+[24Dec2024 00:56:54.748] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@39b3575
+[24Dec2024 00:56:54.774] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Domitax[/127.232.93.209:48729] logged in with entity id 9926 at (387.86292723339676, 64.0, 106.66059718170598)
+[24Dec2024 00:56:54.788] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Domitax
+[24Dec2024 00:56:54.789] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Domitax
+[24Dec2024 00:56:54.789] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Domitax
+[24Dec2024 00:56:54.790] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Domitax
+[24Dec2024 00:56:54.794] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Domitax
+[24Dec2024 00:56:54.797] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Domitax
+[24Dec2024 00:56:54.798] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Domitax
+[24Dec2024 00:56:54.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax joined the game
+[24Dec2024 00:56:54.952] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7effd5be-38be-38d2-9d2c-a8327f0f217a
+[24Dec2024 00:56:54.990] [Server thread/INFO] [Jade/]: Syncing config to Domitax (7effd5be-38be-38d2-9d2c-a8327f0f217a)
+[24Dec2024 00:57:35.820] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1352, y=-37, z=5055} but found not block entity block Block{sculked:sculk_shaker}[waterlogged=false] at location
+[24Dec2024 00:57:35.820] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{sculked:sculk_shaker}[waterlogged=false] but failed at location BlockPos{x=-1352, y=-37, z=5055}
+[24Dec2024 00:57:55.097] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1372, y=-51, z=5071} but found not block entity block Block{sculked:sculk_shaker}[waterlogged=false] at location
+[24Dec2024 00:57:55.098] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{sculked:sculk_shaker}[waterlogged=false] but failed at location BlockPos{x=-1372, y=-51, z=5071}
+[24Dec2024 00:57:55.290] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1372, y=-52, z=5072} but found not block entity block Block{sculked:sculk_shaker}[waterlogged=false] at location
+[24Dec2024 00:57:55.291] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{sculked:sculk_shaker}[waterlogged=false] but failed at location BlockPos{x=-1372, y=-52, z=5072}
+[24Dec2024 00:58:09.835] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1395, y=-26, z=5087} but found not block entity block Block{sculked:sculk_emitter}[waterlogged=false] at location
+[24Dec2024 00:58:09.836] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{sculked:sculk_emitter}[waterlogged=false] but failed at location BlockPos{x=-1395, y=-26, z=5087}
+[24Dec2024 00:58:14.728] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1423, y=-47, z=5162} but found not block entity block Block{sculked:sculk_shaker}[waterlogged=false] at location
+[24Dec2024 00:58:14.729] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{sculked:sculk_shaker}[waterlogged=false] but failed at location BlockPos{x=-1423, y=-47, z=5162}
+[24Dec2024 00:58:14.729] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1424, y=-47, z=5162} but found not block entity block Block{sculked:sculk_shaker}[waterlogged=false] at location
+[24Dec2024 00:58:14.729] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{sculked:sculk_shaker}[waterlogged=false] but failed at location BlockPos{x=-1424, y=-47, z=5162}
+[24Dec2024 00:58:37.473] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1461, y=-37, z=5134} but found not block entity block Block{sculked:sculked_wart} at location
+[24Dec2024 00:58:37.474] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{sculked:sculked_wart} but failed at location BlockPos{x=-1461, y=-37, z=5134}
+[24Dec2024 00:58:43.143] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1497, y=-46, z=5124} but found not block entity block Block{sculked:sculk_shaker}[waterlogged=false] at location
+[24Dec2024 00:58:43.144] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{sculked:sculk_shaker}[waterlogged=false] but failed at location BlockPos{x=-1497, y=-46, z=5124}
+[24Dec2024 00:58:43.525] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1493, y=-45, z=5151} but found not block entity block Block{sculked:sculk_shaker}[waterlogged=false] at location
+[24Dec2024 00:58:43.525] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{sculked:sculk_shaker}[waterlogged=false] but failed at location BlockPos{x=-1493, y=-45, z=5151}
+[24Dec2024 00:58:54.020] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@25ea5f78
+[24Dec2024 00:58:54.042] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BaljeetGorreado[/127.92.189.6:55035] logged in with entity id 11559 at (560.904089623629, 66.0, -294.0359850722127)
+[24Dec2024 00:58:54.044] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to BaljeetGorreado
+[24Dec2024 00:58:54.048] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to BaljeetGorreado
+[24Dec2024 00:58:54.049] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to BaljeetGorreado
+[24Dec2024 00:58:54.049] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to BaljeetGorreado
+[24Dec2024 00:58:54.053] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to BaljeetGorreado
+[24Dec2024 00:58:54.056] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to BaljeetGorreado
+[24Dec2024 00:58:54.058] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to BaljeetGorreado
+[24Dec2024 00:58:54.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BaljeetGorreado joined the game
+[24Dec2024 00:58:54.170] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 5edfb866-bcc7-3968-96c6-f6e8b2295f9d
+[24Dec2024 00:58:54.222] [Server thread/INFO] [Jade/]: Syncing config to BaljeetGorreado (5edfb866-bcc7-3968-96c6-f6e8b2295f9d)
+[24Dec2024 00:59:06.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Domitax> xaero-waypoint:casa:C:665:64:-230:0:false:0:Internal-overworld-waypoints
+[24Dec2024 00:59:07.497] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1556, y=-49, z=5265} but found not block entity block Block{sculked:sculk_emitter}[waterlogged=false] at location
+[24Dec2024 00:59:07.498] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{sculked:sculk_emitter}[waterlogged=false] but failed at location BlockPos{x=-1556, y=-49, z=5265}
+[24Dec2024 00:59:59.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BaljeetGorreado has made the advancement [Acquire Hardware]
+[24Dec2024 01:00:14.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BaljeetGorreado has made the advancement [Isn't It Iron Pick]
+[24Dec2024 01:00:16.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BaljeetGorreado has made the advancement [Suit Up]
