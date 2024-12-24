@@ -764,6 +764,12 @@
     },
     "done": true
   },
+  "windswept:recipes/misc/rose_flower_banner_pattern": {
+    "criteria": {
+      "has_roses": "2024-12-24 00:41:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-22 05:36:03 +0000"
@@ -3662,6 +3668,7 @@
       "byg:coconino_meadow": "2024-12-22 00:38:06 +0000",
       "byg:temperate_grove": "2024-12-21 22:58:10 +0000",
       "byg:black_forest": "2024-12-22 01:05:14 +0000",
+      "byg:orchard": "2024-12-24 00:41:16 +0000",
       "byg:red_oak_forest": "2024-12-22 00:18:35 +0000",
       "byg:autumnal_forest": "2024-12-22 04:27:16 +0000",
       "byg:cika_woods": "2024-12-22 01:05:15 +0000",
@@ -3669,6 +3676,7 @@
       "byg:zelkova_forest": "2024-12-22 01:05:28 +0000",
       "byg:dacite_ridges": "2024-12-21 22:49:47 +0000",
       "byg:autumnal_valley": "2024-12-22 01:03:02 +0000",
+      "byg:aspen_forest": "2024-12-24 00:40:38 +0000",
       "byg:skyris_vale": "2024-12-22 23:45:45 +0000",
       "byg:cardinal_tundra": "2024-12-22 00:38:25 +0000",
       "byg:basalt_barrera": "2024-12-22 22:09:24 +0000",
@@ -4722,6 +4730,12 @@
   "aether:recipes/combat/chainmail_helmet_repairing": {
     "criteria": {
       "has_chainmail_helmet": "2024-12-22 23:54:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2024-12-24 00:41:48 +0000"
     },
     "done": true
   },
@@ -6651,6 +6665,7 @@
       "rotten_flesh": "2024-12-22 20:27:31 +0000",
       "cod": "2024-12-23 00:25:13 +0000",
       "buzzier_bees:honey_bread": "2024-12-21 22:57:29 +0000",
+      "cooked_cod": "2024-12-24 00:42:25 +0000",
       "carrot": "2024-12-22 22:33:21 +0000"
     },
     "done": false

@@ -15567,3 +15567,32 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [24Dec2024 00:41:26.707] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:gatekeeper/plains/path_2
 [24Dec2024 00:41:30.196] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_dungeon_2
 [24Dec2024 00:41:33.235] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ruined_aether_portal:ruined_aether_portal/ruined_aether_portal_10
+[24Dec2024 00:42:08.823] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:floating_island_1
+[24Dec2024 00:42:09.107] [Server thread/DEBUG] [mixin/]: Mixing net.minecraft.world.level.levelgen.blending.BlendingDataMixin from redirector.mixins.json into net.minecraft.world.level.levelgen.blending.BlendingData
+[24Dec2024 00:42:09.760] [Worker-Main-3/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[24Dec2024 00:42:09.771] [Worker-Main-3/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[24Dec2024 00:42:09.772] [Worker-Main-3/DEBUG] [mixin/]: Mixing BeardifierMixin_Mansion from biomemakeover-common.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[24Dec2024 00:42:11.154] [Worker-Main-2/DEBUG] [mixin/]: Mixing access.SurfaceRuleContextAccess from byg.mixins.json into net.minecraft.world.level.levelgen.SurfaceRules$Context
+[24Dec2024 00:42:11.155] [Worker-Main-2/DEBUG] [mixin/]: Mixing SurfaceRulesContextMixin from blueprint.mixins.json into net.minecraft.world.level.levelgen.SurfaceRules$Context
+[24Dec2024 00:42:11.158] [Worker-Main-2/DEBUG] [mixin/]: Renaming synthetic method lambda$updateModdedBiomeSlice$0(Lcom/teamabnormals/blueprint/common/world/modification/ModdedBiomeSource;III)Lnet/minecraft/resources/ResourceLocation; to md267fcc$lambda$updateModdedBiomeSlice$0$0 in blueprint.mixins.json:SurfaceRulesContextMixin
+[24Dec2024 00:42:12.231] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/ocean_2
+[24Dec2024 00:42:12.235] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/deep_1
+[24Dec2024 00:42:12.237] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/deep_3
+[24Dec2024 00:42:12.240] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/deep_2
+[24Dec2024 00:42:12.326] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/ocean_1
+[24Dec2024 00:42:12.368] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/ocean_3
+[24Dec2024 00:42:49.301] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[24Dec2024 00:42:49.301] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[24Dec2024 00:43:50.559] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 00:43:50.605] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 00:44:19.503] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityBasedExplosionDamageCalculatorMixin from canary.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
+[24Dec2024 00:44:19.517] [Server thread/DEBUG] [mixin/]: Mixing item.AccessorCooldownInstance from bookshelf.common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[24Dec2024 00:44:22.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 was blown up by Creeper
+[24Dec2024 00:44:24.324] [Server thread/DEBUG] [twilightforest/]: Player Nefario99 (fbb53e14-15bb-301e-ba91-84f057026ea3) respawned and received items held in storage
+[24Dec2024 00:46:09.500] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[24Dec2024 00:46:38.538] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:flotsam_3
+[24Dec2024 00:47:24.829] [Server thread/DEBUG] [mixin/]: Mixing net.minecraftforge.items.wrapper.PlayerArmorInvWrapperMixin from redirector-forge.mixins.json into net.minecraftforge.items.wrapper.PlayerArmorInvWrapper
+[24Dec2024 00:47:24.829] [Server thread/DEBUG] [mixin/]: redirector-forge.mixins.json:net.minecraftforge.items.wrapper.PlayerArmorInvWrapperMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[24Dec2024 00:48:50.510] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 00:48:50.553] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 00:49:29.450] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...

@@ -4023,3 +4023,4 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [24Dec2024 00:37:36.165] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vata74 lost connection: Disconnected
 [24Dec2024 00:37:36.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 left the game
 [24Dec2024 00:37:36.166] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for aa13d00e-5bda-37e1-a49d-1216688ffe68
+[24Dec2024 00:44:22.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 was blown up by Creeper
