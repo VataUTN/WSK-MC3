@@ -1,4 +1,10 @@
 {
+  "everycomp:recipes/everycomp/af/upgrade_aquatic/driftwood_planter_box": {
+    "criteria": {
+      "has_planks": "2024-12-24 03:01:14 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/walnut_boat": {
     "criteria": {
       "in_water": "2024-12-21 04:44:10 +0000"
@@ -29,6 +35,12 @@
       "enter_swamp": "2024-12-21 04:43:27 +0000",
       "enter_dark_forest": "2024-12-21 04:43:27 +0000",
       "enter_badlands": "2024-12-21 04:43:27 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/db/upgrade_aquatic/driftwood_palisade": {
+    "criteria": {
+      "has_planks": "2024-12-24 03:01:14 +0000"
     },
     "done": true
   },
@@ -137,6 +149,12 @@
   "deeperdarker:main/root": {
     "criteria": {
       "deep_dark": "2024-12-22 02:07:32 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/af/upgrade_aquatic/driftwood_table": {
+    "criteria": {
+      "has_planks": "2024-12-24 03:01:14 +0000"
     },
     "done": true
   },
@@ -497,6 +515,12 @@
   "stoneworks:recipes/stoneworks.main/mossy_granite_brick_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-22 02:12:47 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/af/upgrade_aquatic/driftwood_bench": {
+    "criteria": {
+      "has_planks": "2024-12-24 03:01:14 +0000"
     },
     "done": true
   },
@@ -977,6 +1001,12 @@
   "woodworks:recipes/redstone/oak_fence_gate_from_oak_logs_sawing": {
     "criteria": {
       "has_oak_logs": "2024-12-21 04:51:42 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/db/upgrade_aquatic/driftwood_beam": {
+    "criteria": {
+      "has_planks": "2024-12-24 03:01:14 +0000"
     },
     "done": true
   },
@@ -1592,6 +1622,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2024-12-24 02:57:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2024-12-21 04:51:42 +0000"
@@ -1847,6 +1883,12 @@
   "frosted_friends:frosted_friends": {
     "criteria": {
       "frosted_friends": "2024-12-21 04:43:26 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/db/upgrade_aquatic/driftwood_support": {
+    "criteria": {
+      "has_planks": "2024-12-24 03:01:14 +0000"
     },
     "done": true
   },
@@ -2126,6 +2168,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/tw/upgrade_aquatic/driftwood_table": {
+    "criteria": {
+      "has_planks": "2024-12-24 03:01:14 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/cobbled_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-22 02:11:01 +0000"
@@ -2261,6 +2309,12 @@
   "stoneworks:recipes/stoneworks.main/mossy_cobbled_diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-24 02:08:14 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/af/upgrade_aquatic/driftwood_shutter": {
+    "criteria": {
+      "has_planks": "2024-12-24 03:01:14 +0000"
     },
     "done": true
   },
@@ -2781,6 +2835,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/af/upgrade_aquatic/driftwood_chair": {
+    "criteria": {
+      "has_planks": "2024-12-24 03:01:14 +0000"
+    },
+    "done": true
+  },
   "twilightdelight:recipes/frozen/cutting/ice_sword": {
     "criteria": {
       "has_diamond_sword": "2024-12-24 01:51:04 +0000"
@@ -3070,6 +3130,7 @@
       "minecraft:pillager": "2024-12-22 02:48:20 +0000",
       "minecraft:skeleton": "2024-12-22 04:06:34 +0000",
       "savage_and_ravage:creepie": "2024-12-24 02:22:49 +0000",
+      "savage_and_ravage:executioner": "2024-12-24 02:54:11 +0000",
       "minecraft:vindicator": "2024-12-24 02:06:09 +0000",
       "minecraft:spider": "2024-12-21 05:25:04 +0000",
       "savage_and_ravage:trickster": "2024-12-24 02:36:54 +0000",
@@ -3293,6 +3354,12 @@
   "bambooeverything:recipes/bamboo_bundle_uncrafting": {
     "criteria": {
       "has_bundle": "2024-12-21 04:43:26 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/bp/upgrade_aquatic/driftwood_backpack_shelf": {
+    "criteria": {
+      "has_planks": "2024-12-24 03:01:14 +0000"
     },
     "done": true
   },
@@ -3917,6 +3984,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/af/upgrade_aquatic/driftwood_shelf": {
+    "criteria": {
+      "has_planks": "2024-12-24 03:01:14 +0000"
+    },
+    "done": true
+  },
   "clayworks:recipes/misc/charcoal_from_baking": {
     "criteria": {
       "has_log": "2024-12-21 04:51:42 +0000"
@@ -4267,6 +4340,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2024-12-21 04:44:10 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/tf/upgrade_aquatic/driftwood_banister": {
+    "criteria": {
+      "has_planks": "2024-12-24 03:01:14 +0000"
     },
     "done": true
   },
@@ -4673,6 +4752,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/tf/upgrade_aquatic/hollow_driftwood_log_vertical": {
+    "criteria": {
+      "has_planks": "2024-12-24 03:01:14 +0000"
+    },
+    "done": true
+  },
   "byg:recipes/byg.byg/willow_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-22 04:11:18 +0000"
@@ -4871,6 +4956,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/db/upgrade_aquatic/driftwood_seat": {
+    "criteria": {
+      "has_planks": "2024-12-24 03:01:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-12-24 02:48:24 +0000"
@@ -5000,6 +5091,12 @@
   "woodworks:recipes/decorations/mangrove_chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-21 04:53:22 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/af/upgrade_aquatic/driftwood_drawer": {
+    "criteria": {
+      "has_planks": "2024-12-24 03:01:14 +0000"
     },
     "done": true
   },

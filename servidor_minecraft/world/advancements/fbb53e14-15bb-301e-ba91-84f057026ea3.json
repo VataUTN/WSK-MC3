@@ -1028,6 +1028,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_helmet_repairing": {
+    "criteria": {
+      "has_diamond_helmet": "2024-12-24 03:01:05 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/fried_egg_from_smoking": {
     "criteria": {
       "fried_egg": "2024-12-21 22:54:57 +0000"
@@ -4089,6 +4095,12 @@
   "blue_skies:recipes/blue_skies_tools/ventium_shears": {
     "criteria": {
       "has_item": "2024-12-22 00:36:08 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_chestplate_repairing": {
+    "criteria": {
+      "has_diamond_chestplate": "2024-12-24 03:01:04 +0000"
     },
     "done": true
   },
@@ -7171,6 +7183,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "baked_potato": "2024-12-21 23:00:15 +0000",
+      "neapolitan:strawberry_scones": "2024-12-24 02:55:20 +0000",
       "melon_slice": "2024-12-22 20:08:14 +0000",
       "cooked_porkchop": "2024-12-22 00:39:33 +0000",
       "cooked_beef": "2024-12-21 23:26:55 +0000",
