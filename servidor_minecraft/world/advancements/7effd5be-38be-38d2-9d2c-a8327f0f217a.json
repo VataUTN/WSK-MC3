@@ -1592,6 +1592,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2024-12-24 07:12:16 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/redstone/dark_oak_pressure_plate_from_dark_oak_logs_sawing": {
     "criteria": {
       "has_dark_oak_logs": "2024-12-21 03:35:41 +0000"
@@ -4319,6 +4325,12 @@
     },
     "done": true
   },
+  "clayworks:recipes/building_blocks/glass_from_baking": {
+    "criteria": {
+      "has_sand": "2024-12-24 07:12:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-21 05:05:51 +0000"
@@ -4971,6 +4983,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-22 03:12:24 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/sand": {
+    "criteria": {
+      "has_copper_block": "2024-12-24 07:12:16 +0000"
     },
     "done": true
   },
@@ -5820,6 +5838,12 @@
   "woodworks:recipes/decorations/dark_oak_fence_from_dark_oak_logs_sawing": {
     "criteria": {
       "has_dark_oak_logs": "2024-12-21 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/silt_from_sand": {
+    "criteria": {
+      "has_item": "2024-12-24 07:12:16 +0000"
     },
     "done": true
   },
@@ -7958,6 +7982,12 @@
   "immersive_weathering:recipes/prismarine_brick": {
     "criteria": {
       "has_copper_block": "2024-12-22 23:33:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-24 07:12:16 +0000"
     },
     "done": true
   },

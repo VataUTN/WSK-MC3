@@ -476,6 +476,12 @@
     },
     "done": true
   },
+  "upgradednetherite:recipes/essences/fire_essence": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-24 07:08:23 +0000"
+    },
+    "done": true
+  },
   "shieldexp:recipes/wooden_shield": {
     "criteria": {
       "has_stick": "2024-12-21 04:51:12 +0000"
@@ -593,6 +599,12 @@
   "supplementaries:adventure/way_sign": {
     "criteria": {
       "bastion": "2024-12-24 05:48:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-24 07:08:48 +0000"
     },
     "done": true
   },
@@ -1304,9 +1316,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/golden_medium_pot": {
+    "criteria": {
+      "has_gold_block": "2024-12-24 07:08:48 +0000"
+    },
+    "done": true
+  },
   "upgradednetherite:recipes/essences/gold_essence": {
     "criteria": {
       "has_gold_ingot": "2024-12-24 02:06:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-24 07:08:48 +0000"
     },
     "done": true
   },
@@ -1783,6 +1807,12 @@
       "neapolitan:chimpanzee": "2024-12-24 03:26:52 +0000"
     },
     "done": false
+  },
+  "handcrafted:recipes/misc/golden_thick_pot": {
+    "criteria": {
+      "has_gold_block": "2024-12-24 07:08:48 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
@@ -2617,6 +2647,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-24 07:08:23 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/acacia_blossom": {
     "criteria": {
       "acacia_blossom": "2024-12-22 02:05:52 +0000"
@@ -2734,6 +2770,12 @@
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-22 02:11:01 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thin_pot": {
+    "criteria": {
+      "has_gold_block": "2024-12-24 07:08:48 +0000"
     },
     "done": true
   },
@@ -3682,6 +3724,12 @@
     },
     "done": true
   },
+  "netherchested:recipes/decorations/nether_chest": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-24 07:08:23 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/cobbled_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-22 02:12:47 +0000"
@@ -3691,6 +3739,12 @@
   "aether:recipes/tools/wooden_shovel_repairing": {
     "criteria": {
       "has_wooden_shovel": "2024-12-21 04:52:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_wide_pot": {
+    "criteria": {
+      "has_gold_block": "2024-12-24 07:08:48 +0000"
     },
     "done": true
   },
@@ -3727,6 +3781,12 @@
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-24 03:37:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-24 07:08:23 +0000"
     },
     "done": true
   },
@@ -4003,6 +4063,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-24 02:08:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-24 07:08:48 +0000"
     },
     "done": true
   },
@@ -4466,6 +4532,12 @@
   "byg:recipes/byg.byg/jacaranda_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-22 04:11:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-24 07:08:48 +0000"
     },
     "done": true
   },
@@ -5169,7 +5241,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "wheat": "2024-12-24 04:10:48 +0000"
+      "wheat": "2024-12-24 04:10:48 +0000",
+      "carrot": "2024-12-24 07:11:38 +0000"
     },
     "done": false
   },
@@ -5425,6 +5498,12 @@
     },
     "done": true
   },
+  "netherdepthsupgrade:recipes/netherdepthsupgrade/lava_fishing_rod": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-24 07:08:23 +0000"
+    },
+    "done": true
+  },
   "byg:recipes/byg.byg/willow_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-22 04:11:18 +0000"
@@ -5512,6 +5591,12 @@
   "environmental:recipes/decorations/willow_chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-21 04:53:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-24 07:08:23 +0000"
     },
     "done": true
   },
