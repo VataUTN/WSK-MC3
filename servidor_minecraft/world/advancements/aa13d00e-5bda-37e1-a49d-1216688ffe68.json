@@ -203,6 +203,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/dark_oak_planter_box": {
+    "criteria": {
+      "has_slab": "2024-12-24 15:36:12 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/misc/aether_tune_enchanting": {
     "criteria": {
       "has_disc": "2024-12-21 23:32:40 +0000"
@@ -404,6 +410,12 @@
   "immersive_weathering:recipes/blackstone_bricks": {
     "criteria": {
       "has_copper_block": "2024-12-23 00:00:29 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/spruce_beam": {
+    "criteria": {
+      "has_stripped_log": "2024-12-24 15:44:39 +0000"
     },
     "done": true
   },
@@ -914,6 +926,12 @@
   "woodworks:recipes/building_blocks/warped_boards": {
     "criteria": {
       "has_warped_planks": "2024-12-23 00:05:51 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_barrel": {
+    "criteria": {
+      "has_slabs": "2024-12-24 15:36:12 +0000"
     },
     "done": true
   },
@@ -2356,6 +2374,12 @@
   "blue_skies:get_moonstone_shard": {
     "criteria": {
       "obtain_moonstone_shard": "2024-12-22 00:45:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-24 15:36:12 +0000"
     },
     "done": true
   },
@@ -4857,6 +4881,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_blocks/trough": {
+    "criteria": {
+      "has_item": "2024-12-24 15:36:12 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/food/cooking/ender_nectar": {
     "criteria": {
       "has_ender_eye": "2024-12-23 03:05:20 +0000"
@@ -4980,6 +5010,12 @@
   "aether:recipes/tools/iron_shovel_repairing": {
     "criteria": {
       "has_iron_shovel": "2024-12-22 03:26:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-24 15:44:39 +0000"
     },
     "done": true
   },
@@ -5706,6 +5742,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/dark_oak_bench": {
+    "criteria": {
+      "has_slab": "2024-12-24 15:36:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-21 22:51:45 +0000"
@@ -6337,6 +6379,12 @@
     },
     "done": true
   },
+  "twigs:recipes/tables/dark_oak_table_slab": {
+    "criteria": {
+      "has_bamboo": "2024-12-24 15:36:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-23 05:27:14 +0000"
@@ -6544,6 +6592,12 @@
   "twigs:recipes/tuff/polished_tuff": {
     "criteria": {
       "has_item": "2024-12-22 07:09:32 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/dark_oak_shutter": {
+    "criteria": {
+      "has_slab": "2024-12-24 15:36:12 +0000"
     },
     "done": true
   },
@@ -7781,6 +7835,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2024-12-21 02:28:45 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/wood/dark_oak_banister": {
+    "criteria": {
+      "has_item": "2024-12-24 15:36:12 +0000"
     },
     "done": true
   },
@@ -9525,6 +9585,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2024-12-22 03:22:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2024-12-24 15:43:52 +0000"
     },
     "done": true
   },

@@ -15421,3 +15421,207 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [24Dec2024 15:32:04.567] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Dec2024 15:32:04.598] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [24Dec2024 15:33:14.971] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[24Dec2024 15:36:34.971] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[24Dec2024 15:36:34.972] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[24Dec2024 15:37:04.512] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 15:37:04.546] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 15:38:08.593] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[24Dec2024 15:38:08.597] [Server thread/DEBUG] [mixin/]: Mixing ModifyPiglinAi from bygonenether.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[24Dec2024 15:38:08.598] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$bygonenether_angerNearbyPiglins$1(Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/entity/monster/piglin/PiglinBrute;)V to md59e29f$lambda$bygonenether_angerNearbyPiglins$1$0 in bygonenether.mixins.json:ModifyPiglinAi
+[24Dec2024 15:38:08.598] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$bygonenether_angerNearbyPiglins$0(ZLnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/entity/monster/piglin/PiglinBrute;)Z to md59e29f$lambda$bygonenether_angerNearbyPiglins$0$1 in bygonenether.mixins.json:ModifyPiglinAi
+[24Dec2024 15:39:14.784] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13uxlioi2w5uk]: started parsing
+[24Dec2024 15:39:14.784] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13uxlioi2w5uk]: Consuming argument ``
+[24Dec2024 15:39:14.980] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uo94ltscj2qn]: started parsing
+[24Dec2024 15:39:14.980] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uo94ltscj2qn]: Consuming argument `l`
+[24Dec2024 15:39:15.144] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1032o4rh5k2ot]: started parsing
+[24Dec2024 15:39:15.144] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1032o4rh5k2ot]: Consuming argument `lo`
+[24Dec2024 15:39:15.231] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1abuzvs3mi8jv]: started parsing
+[24Dec2024 15:39:15.231] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1abuzvs3mi8jv]: Consuming argument `loa`
+[24Dec2024 15:39:15.353] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lc79ys0wjcaq]: started parsing
+[24Dec2024 15:39:15.353] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lc79ys0wjcaq]: Consuming argument `load`
+[24Dec2024 15:39:15.353] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lc79ys0wjcaq]: Finished looking at arguments. Finalizing command.
+[24Dec2024 15:39:15.531] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ixh9mu7saazj]: started parsing
+[24Dec2024 15:39:15.531] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ixh9mu7saazj]: Consuming argument `load`
+[24Dec2024 15:39:15.531] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ixh9mu7saazj]: Consuming argument ``
+[24Dec2024 15:39:15.531] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ixh9mu7saazj]: Finished looking at arguments. Finalizing command.
+[24Dec2024 15:39:15.847] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sdj42genkn1p]: started parsing
+[24Dec2024 15:39:15.847] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sdj42genkn1p]: Consuming argument `load`
+[24Dec2024 15:39:15.847] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sdj42genkn1p]: Consuming argument `u`
+[24Dec2024 15:39:15.847] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sdj42genkn1p]: Finished looking at arguments. Finalizing command.
+[24Dec2024 15:39:15.930] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0byrrnlhavfe9]: started parsing
+[24Dec2024 15:39:15.930] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0byrrnlhavfe9]: Consuming argument `load`
+[24Dec2024 15:39:15.931] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0byrrnlhavfe9]: Consuming argument `un`
+[24Dec2024 15:39:15.931] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0byrrnlhavfe9]: Finished looking at arguments. Finalizing command.
+[24Dec2024 15:39:16.033] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lbdrmd6006g8]: started parsing
+[24Dec2024 15:39:16.033] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lbdrmd6006g8]: Consuming argument `load`
+[24Dec2024 15:39:16.033] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lbdrmd6006g8]: Consuming argument `und`
+[24Dec2024 15:39:16.033] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lbdrmd6006g8]: Finished looking at arguments. Finalizing command.
+[24Dec2024 15:39:16.116] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1aphdth6y9d2l]: started parsing
+[24Dec2024 15:39:16.116] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1aphdth6y9d2l]: Consuming argument `load`
+[24Dec2024 15:39:16.116] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1aphdth6y9d2l]: Consuming argument `unde`
+[24Dec2024 15:39:16.116] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1aphdth6y9d2l]: Finished looking at arguments. Finalizing command.
+[24Dec2024 15:39:16.335] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10wttrmriv4xk]: started parsing
+[24Dec2024 15:39:16.335] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10wttrmriv4xk]: Consuming argument `load`
+[24Dec2024 15:39:16.335] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10wttrmriv4xk]: Consuming argument `under`
+[24Dec2024 15:39:16.335] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10wttrmriv4xk]: Finished looking at arguments. Finalizing command.
+[24Dec2024 15:39:16.531] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0blz15kwuu9va]: started parsing
+[24Dec2024 15:39:16.531] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0blz15kwuu9va]: Consuming argument `load`
+[24Dec2024 15:39:16.531] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0blz15kwuu9va]: Consuming argument `under1`
+[24Dec2024 15:39:16.531] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0blz15kwuu9va]: Finished looking at arguments. Finalizing command.
+[24Dec2024 15:39:17.208] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1iv8qwb47u2nu]: started parsing
+[24Dec2024 15:39:17.208] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1iv8qwb47u2nu]: Consuming argument `load`
+[24Dec2024 15:39:17.208] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1iv8qwb47u2nu]: Consuming argument `under1.`
+[24Dec2024 15:39:17.208] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1iv8qwb47u2nu]: Finished looking at arguments. Finalizing command.
+[24Dec2024 15:39:17.304] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1txdrw4e25btf]: started parsing
+[24Dec2024 15:39:17.304] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1txdrw4e25btf]: Consuming argument `load`
+[24Dec2024 15:39:17.304] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1txdrw4e25btf]: Consuming argument `under1.s`
+[24Dec2024 15:39:17.304] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1txdrw4e25btf]: Finished looking at arguments. Finalizing command.
+[24Dec2024 15:39:17.438] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xjfq83p4shf1]: started parsing
+[24Dec2024 15:39:17.438] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xjfq83p4shf1]: Consuming argument `load`
+[24Dec2024 15:39:17.438] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xjfq83p4shf1]: Consuming argument `under1.sc`
+[24Dec2024 15:39:17.438] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xjfq83p4shf1]: Finished looking at arguments. Finalizing command.
+[24Dec2024 15:39:17.539] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1x7uw1gxdgooi]: started parsing
+[24Dec2024 15:39:17.539] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1x7uw1gxdgooi]: Consuming argument `load`
+[24Dec2024 15:39:17.539] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1x7uw1gxdgooi]: Consuming argument `under1.sch`
+[24Dec2024 15:39:17.539] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1x7uw1gxdgooi]: Finished looking at arguments. Finalizing command.
+[24Dec2024 15:39:17.612] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16oihea7lbv7y]: started parsing
+[24Dec2024 15:39:17.612] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16oihea7lbv7y]: Consuming argument `load`
+[24Dec2024 15:39:17.612] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16oihea7lbv7y]: Consuming argument `under1.sche`
+[24Dec2024 15:39:17.612] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16oihea7lbv7y]: Finished looking at arguments. Finalizing command.
+[24Dec2024 15:39:17.730] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pjc3hb7cict3]: started parsing
+[24Dec2024 15:39:17.730] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pjc3hb7cict3]: Consuming argument `load`
+[24Dec2024 15:39:17.730] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pjc3hb7cict3]: Consuming argument `under1.schem`
+[24Dec2024 15:39:17.730] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pjc3hb7cict3]: Finished looking at arguments. Finalizing command.
+[24Dec2024 15:39:17.978] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1m5dlilqy07id]: started parsing
+[24Dec2024 15:39:17.978] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1m5dlilqy07id]: Consuming argument `load`
+[24Dec2024 15:39:17.978] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1m5dlilqy07id]: Consuming argument `under1.schem`
+[24Dec2024 15:39:17.978] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1m5dlilqy07id]: Finished looking at arguments. Finalizing command.
+[24Dec2024 15:39:18.080] [WorldEdit Task Executor - 1/INFO] [com.sk89q.worldedit.command.SchematicCommands/]: Vata74 loaded /workspaces/WSK-MC3/servidor_minecraft/config/worldedit/schematics/under1.schem
+[24Dec2024 15:39:20.364] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1djxxo8s5s06r]: started parsing
+[24Dec2024 15:39:20.364] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1djxxo8s5s06r]: Consuming argument ``
+[24Dec2024 15:39:20.364] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1djxxo8s5s06r]: parseRegularArgument: no arguments to attempt matching
+[24Dec2024 15:39:20.612] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0q1cgh8d2nsr5]: started parsing
+[24Dec2024 15:39:20.612] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0q1cgh8d2nsr5]: Consuming argument `-`
+[24Dec2024 15:39:20.612] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0q1cgh8d2nsr5]: parseRegularArgument: no arguments to attempt matching
+[24Dec2024 15:39:20.728] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xyd4dl564kyt]: started parsing
+[24Dec2024 15:39:20.728] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xyd4dl564kyt]: Consuming argument `-e`
+[24Dec2024 15:39:20.728] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xyd4dl564kyt]: Finished looking at arguments. Finalizing command.
+[24Dec2024 15:39:21.048] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [187ih7q464rfq]: started parsing
+[24Dec2024 15:39:21.048] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [187ih7q464rfq]: Consuming argument `-e`
+[24Dec2024 15:39:21.048] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [187ih7q464rfq]: Finished looking at arguments. Finalizing command.
+[24Dec2024 15:39:21.478] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=389, y=-43, z=-254}
+[24Dec2024 15:39:21.479] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=393, y=-43, z=-254}
+[24Dec2024 15:39:21.479] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=387, y=-43, z=-244}
+[24Dec2024 15:39:21.480] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=387, y=-43, z=-248}
+[24Dec2024 15:39:21.480] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=387, y=-43, z=-252}
+[24Dec2024 15:39:21.481] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=387, y=-41, z=-222}
+[24Dec2024 15:39:21.482] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=387, y=-41, z=-226}
+[24Dec2024 15:39:21.482] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=393, y=-41, z=-216}
+[24Dec2024 15:39:21.483] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=389, y=-41, z=-216}
+[24Dec2024 15:39:21.483] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=387, y=-41, z=-218}
+[24Dec2024 15:39:21.484] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=397, y=-43, z=-254}
+[24Dec2024 15:39:21.485] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=399, y=-43, z=-252}
+[24Dec2024 15:39:21.486] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=399, y=-43, z=-248}
+[24Dec2024 15:39:21.486] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=399, y=-43, z=-244}
+[24Dec2024 15:39:21.487] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=399, y=-41, z=-226}
+[24Dec2024 15:39:21.487] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=399, y=-41, z=-222}
+[24Dec2024 15:39:21.488] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=399, y=-41, z=-218}
+[24Dec2024 15:39:21.489] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=397, y=-41, z=-216}
+[24Dec2024 15:39:23.270] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2198ms or 43 ticks behind
+[24Dec2024 15:39:30.893] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jq7d4yzlskja]: started parsing
+[24Dec2024 15:39:30.893] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jq7d4yzlskja]: Finished looking at arguments. Finalizing command.
+[24Dec2024 15:39:38.260] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1f40tmiuj7ry2]: started parsing
+[24Dec2024 15:39:38.261] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1f40tmiuj7ry2]: Consuming argument ``
+[24Dec2024 15:39:38.968] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ypxl1popcafz]: started parsing
+[24Dec2024 15:39:38.968] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ypxl1popcafz]: Consuming argument `9`
+[24Dec2024 15:39:38.968] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ypxl1popcafz]: Finished looking at arguments. Finalizing command.
+[24Dec2024 15:39:39.081] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09lo15nn19uqk]: started parsing
+[24Dec2024 15:39:39.081] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09lo15nn19uqk]: Consuming argument `90`
+[24Dec2024 15:39:39.081] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09lo15nn19uqk]: Finished looking at arguments. Finalizing command.
+[24Dec2024 15:39:41.378] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13yj095volfnp]: started parsing
+[24Dec2024 15:39:41.378] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13yj095volfnp]: Consuming argument `9`
+[24Dec2024 15:39:41.378] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13yj095volfnp]: Finished looking at arguments. Finalizing command.
+[24Dec2024 15:39:41.529] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12g0lb1v6q8sc]: started parsing
+[24Dec2024 15:39:41.529] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12g0lb1v6q8sc]: Consuming argument ``
+[24Dec2024 15:39:42.132] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fmjx1bqa8eyd]: started parsing
+[24Dec2024 15:39:42.132] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fmjx1bqa8eyd]: Consuming argument `.`
+[24Dec2024 15:39:42.468] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0udh7ugp1rjeg]: started parsing
+[24Dec2024 15:39:42.468] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0udh7ugp1rjeg]: Consuming argument ``
+[24Dec2024 15:39:42.658] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18fb5kzhekfqb]: started parsing
+[24Dec2024 15:39:42.658] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18fb5kzhekfqb]: Consuming argument `-`
+[24Dec2024 15:39:42.906] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mnsf3hnj143u]: started parsing
+[24Dec2024 15:39:42.906] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mnsf3hnj143u]: Consuming argument `-90`
+[24Dec2024 15:39:42.906] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mnsf3hnj143u]: Finished looking at arguments. Finalizing command.
+[24Dec2024 15:39:43.703] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1j2q2xorho293]: started parsing
+[24Dec2024 15:39:43.703] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1j2q2xorho293]: Consuming argument `-90`
+[24Dec2024 15:39:43.703] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1j2q2xorho293]: Finished looking at arguments. Finalizing command.
+[24Dec2024 15:39:43.704] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kuwtbzmaf90z]: started parsing
+[24Dec2024 15:39:43.704] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kuwtbzmaf90z]: Consuming argument `-90`
+[24Dec2024 15:39:43.704] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kuwtbzmaf90z]: Finished looking at arguments. Finalizing command.
+[24Dec2024 15:39:44.253] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0482humobrfh4]: started parsing
+[24Dec2024 15:39:44.253] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0482humobrfh4]: Consuming argument `-e`
+[24Dec2024 15:39:44.253] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0482humobrfh4]: Finished looking at arguments. Finalizing command.
+[24Dec2024 15:39:44.254] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [046hnmbsuddhj]: started parsing
+[24Dec2024 15:39:44.254] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [046hnmbsuddhj]: Consuming argument `-e`
+[24Dec2024 15:39:44.254] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [046hnmbsuddhj]: Finished looking at arguments. Finalizing command.
+[24Dec2024 15:39:44.885] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [093vr7dbq8fmr]: started parsing
+[24Dec2024 15:39:44.885] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [093vr7dbq8fmr]: Consuming argument `-e`
+[24Dec2024 15:39:44.886] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [093vr7dbq8fmr]: Finished looking at arguments. Finalizing command.
+[24Dec2024 15:39:45.037] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=317, y=-43, z=-212}
+[24Dec2024 15:39:45.038] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=317, y=-43, z=-216}
+[24Dec2024 15:39:45.039] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=327, y=-43, z=-210}
+[24Dec2024 15:39:45.039] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=323, y=-43, z=-210}
+[24Dec2024 15:39:45.040] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=319, y=-43, z=-210}
+[24Dec2024 15:39:45.040] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=349, y=-41, z=-210}
+[24Dec2024 15:39:45.040] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=345, y=-41, z=-210}
+[24Dec2024 15:39:45.041] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=355, y=-41, z=-216}
+[24Dec2024 15:39:45.041] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=355, y=-41, z=-212}
+[24Dec2024 15:39:45.041] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=353, y=-41, z=-210}
+[24Dec2024 15:39:45.042] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=317, y=-43, z=-220}
+[24Dec2024 15:39:45.042] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=319, y=-43, z=-222}
+[24Dec2024 15:39:45.043] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=323, y=-43, z=-222}
+[24Dec2024 15:39:45.043] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=327, y=-43, z=-222}
+[24Dec2024 15:39:45.043] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=345, y=-41, z=-222}
+[24Dec2024 15:39:45.044] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=349, y=-41, z=-222}
+[24Dec2024 15:39:45.044] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=353, y=-41, z=-222}
+[24Dec2024 15:39:45.045] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=355, y=-41, z=-220}
+[24Dec2024 15:39:55.121] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[24Dec2024 15:42:06.616] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 15:42:06.655] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 15:43:15.021] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[24Dec2024 15:45:11.529] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vata74 lost connection: Disconnected
+[24Dec2024 15:45:11.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 left the game
+[24Dec2024 15:45:11.531] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for aa13d00e-5bda-37e1-a49d-1216688ffe68
+[24Dec2024 15:45:19.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[24Dec2024 15:45:19.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[24Dec2024 15:45:19.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[24Dec2024 15:45:19.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[24Dec2024 15:45:19.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[24Dec2024 15:45:20.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/l2library:maze
+[24Dec2024 15:45:20.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[24Dec2024 15:45:20.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[24Dec2024 15:45:20.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[24Dec2024 15:45:20.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[24Dec2024 15:45:20.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[24Dec2024 15:45:20.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[24Dec2024 15:45:20.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[24Dec2024 15:45:20.248] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 15:45:20.276] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 15:45:20.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[24Dec2024 15:45:20.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (maze): All chunks are saved
+[24Dec2024 15:45:20.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[24Dec2024 15:45:20.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[24Dec2024 15:45:20.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[24Dec2024 15:45:20.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[24Dec2024 15:45:20.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[24Dec2024 15:45:20.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[24Dec2024 15:45:20.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[24Dec2024 15:45:20.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[24Dec2024 15:45:20.428] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[24Dec2024 15:45:20.428] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[24Dec2024 15:45:20.428] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[24Dec2024 15:45:20.428] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopping IO worker...
+[24Dec2024 15:45:20.429] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopped IO worker!
+[24Dec2024 15:45:20.429] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[24Dec2024 15:45:20.433] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[24Dec2024 15:45:20.433] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
