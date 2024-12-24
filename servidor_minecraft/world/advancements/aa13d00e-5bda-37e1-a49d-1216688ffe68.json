@@ -179,6 +179,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/white_sheet_single": {
+    "criteria": {
+      "has_sheet": "2024-12-24 16:20:11 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/warped_boards_from_warped_planks_sawing": {
     "criteria": {
       "has_warped_planks": "2024-12-23 00:05:51 +0000"
@@ -455,6 +461,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/acacia_table": {
+    "criteria": {
+      "has_table": "2024-12-24 16:20:27 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/deepslate_pavers_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2024-12-23 02:47:49 +0000"
@@ -494,6 +506,12 @@
   "clayworks:recipes/building_blocks/light_blue_terracotta_bricks_from_light_blue_dye": {
     "criteria": {
       "has_terracotta": "2024-12-23 03:04:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_cup": {
+    "criteria": {
+      "has_board": "2024-12-24 16:20:27 +0000"
     },
     "done": true
   },
@@ -773,6 +791,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/red_cushion_single": {
+    "criteria": {
+      "has_cushion": "2024-12-24 16:26:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2024-12-21 22:06:44 +0000"
@@ -902,6 +926,12 @@
   "biomemakeover:biomemakeover/moth_scales": {
     "criteria": {
       "get_stew": "2024-12-21 01:57:06 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/light_blue_cushion_single": {
+    "criteria": {
+      "has_cushion": "2024-12-24 16:26:44 +0000"
     },
     "done": true
   },
@@ -1266,6 +1296,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/white_crockery_combo": {
+    "criteria": {
+      "has_terracotta\u003d_plate": "2024-12-24 16:22:21 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/granite_brick_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-21 22:51:48 +0000"
@@ -1275,6 +1311,12 @@
   "stoneworks:recipes/stoneworks.main/deepslate_shingle_wall_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2024-12-23 02:47:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/black_sheet_single": {
+    "criteria": {
+      "has_sheet": "2024-12-24 16:20:11 +0000"
     },
     "done": true
   },
@@ -1353,6 +1395,12 @@
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2024-12-22 20:31:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cyan_cushion_single": {
+    "criteria": {
+      "has_cushion": "2024-12-24 16:26:44 +0000"
     },
     "done": true
   },
@@ -1722,9 +1770,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/black_cushion_single": {
+    "criteria": {
+      "has_cushion": "2024-12-24 16:26:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2024-12-21 04:45:48 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/pink_cushion_single": {
+    "criteria": {
+      "has_cushion": "2024-12-24 16:26:44 +0000"
     },
     "done": true
   },
@@ -1773,6 +1833,12 @@
   "minecraft:recipes/decorations/red_glazed_terracotta": {
     "criteria": {
       "has_red_terracotta": "2024-12-23 03:11:13 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_shelf": {
+    "criteria": {
+      "has_shelf": "2024-12-24 16:20:27 +0000"
     },
     "done": true
   },
@@ -1878,6 +1944,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/acacia_drawer": {
+    "criteria": {
+      "has_drawer": "2024-12-24 16:20:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2024-12-22 00:59:27 +0000"
@@ -1917,6 +1989,12 @@
   "handcrafted:recipes/misc/creeper_trophy": {
     "criteria": {
       "has_trophy": "2024-12-23 05:27:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/hammer": {
+    "criteria": {
+      "has_board": "2024-12-24 16:20:27 +0000"
     },
     "done": true
   },
@@ -2062,6 +2140,12 @@
   "handcrafted:recipes/misc/yellow_bowl": {
     "criteria": {
       "has_terracotta": "2024-12-23 03:04:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/magenta_cushion_single": {
+    "criteria": {
+      "has_cushion": "2024-12-24 16:26:44 +0000"
     },
     "done": true
   },
@@ -2302,6 +2386,12 @@
   "decorative_blocks:recipes/decorative_blocks.general/oak_seat": {
     "criteria": {
       "has_plank": "2024-12-21 02:15:17 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/red_sheet_single": {
+    "criteria": {
+      "has_sheet": "2024-12-24 16:20:11 +0000"
     },
     "done": true
   },
@@ -2798,6 +2888,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/cyan_sheet_single": {
+    "criteria": {
+      "has_sheet": "2024-12-24 16:20:11 +0000"
+    },
+    "done": true
+  },
   "clayworks:recipes/building_blocks/cracked_stone_bricks_from_baking": {
     "criteria": {
       "has_stone_bricks": "2024-12-22 03:25:27 +0000"
@@ -2975,6 +3071,18 @@
   "galosphere:recipes/galosphere/silver_ingot_from_nuggets": {
     "criteria": {
       "has_silver_nugget": "2024-12-23 05:00:37 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/yellow_sheet_single": {
+    "criteria": {
+      "has_sheet": "2024-12-24 16:20:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_cupboard": {
+    "criteria": {
+      "has_cupboard": "2024-12-24 16:20:27 +0000"
     },
     "done": true
   },
@@ -3158,9 +3266,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/acacia_side_table": {
+    "criteria": {
+      "has_side_table": "2024-12-24 16:20:27 +0000"
+    },
+    "done": true
+  },
   "conjurer_illager:kill_conjurer": {
     "criteria": {
       "kill_conjurer": "2024-12-23 00:22:10 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_chair": {
+    "criteria": {
+      "has_chair": "2024-12-24 16:20:27 +0000"
     },
     "done": true
   },
@@ -3587,6 +3707,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/pink_sheet_single": {
+    "criteria": {
+      "has_sheet": "2024-12-24 16:20:11 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/redstone/dark_oak_button_from_dark_oak_planks_sawing": {
     "criteria": {
       "has_dark_oak_planks": "2024-12-21 03:25:03 +0000"
@@ -3749,6 +3875,18 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/lime_cushion_single": {
+    "criteria": {
+      "has_cushion": "2024-12-24 16:26:44 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_desk": {
+    "criteria": {
+      "has_desk": "2024-12-24 16:20:27 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/coconut_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-24 05:52:06 +0000"
@@ -3881,6 +4019,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/purple_cushion_single": {
+    "criteria": {
+      "has_cushion": "2024-12-24 16:26:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_terracotta": {
     "criteria": {
       "has_terracotta": "2024-12-23 03:04:24 +0000"
@@ -3938,6 +4082,12 @@
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2024-12-21 22:26:25 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/fox_trophy": {
+    "criteria": {
+      "has_trophy": "2024-12-24 16:20:27 +0000"
     },
     "done": true
   },
@@ -4046,6 +4196,12 @@
   "farmersdelight:recipes/farmersdelight/safety_net": {
     "criteria": {
       "has_rope": "2024-12-22 00:59:52 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blue_cushion_single": {
+    "criteria": {
+      "has_cushion": "2024-12-24 16:26:44 +0000"
     },
     "done": true
   },
@@ -4277,6 +4433,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/terracotta_crockery_combo": {
+    "criteria": {
+      "has_terracotta\u003d_plate": "2024-12-24 16:22:21 +0000"
+    },
+    "done": true
+  },
   "aether_redux:recipes/transportation/fieldsprout_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-24 05:52:06 +0000"
@@ -4331,6 +4493,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/light_gray_cushion_single": {
+    "criteria": {
+      "has_cushion": "2024-12-24 16:26:44 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_bricks/cobblestone_brick_wall_stonecutting": {
     "criteria": {
       "has_item": "2024-12-23 05:33:29 +0000"
@@ -4349,9 +4517,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/acacia_nightstand": {
+    "criteria": {
+      "has_nightstand": "2024-12-24 16:20:27 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/birch_palisade": {
     "criteria": {
       "has_log": "2024-12-21 02:32:02 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/salmon_trophy": {
+    "criteria": {
+      "has_trophy": "2024-12-24 16:20:27 +0000"
     },
     "done": true
   },
@@ -4448,6 +4628,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine_slab": {
     "criteria": {
       "has_dark_prismarine": "2024-12-23 00:29:17 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/light_blue_sheet_single": {
+    "criteria": {
+      "has_sheet": "2024-12-24 16:20:11 +0000"
     },
     "done": true
   },
@@ -4653,6 +4839,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/silverfish_trophy": {
+    "criteria": {
+      "has_trophy": "2024-12-24 16:20:27 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/tuff_pillar_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-12-22 07:09:32 +0000"
@@ -4680,6 +4872,12 @@
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2024-12-21 01:48:13 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/tropical_fish_trophy": {
+    "criteria": {
+      "has_trophy": "2024-12-24 16:20:27 +0000"
     },
     "done": true
   },
@@ -4749,6 +4947,18 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/acacia_fancy_bed": {
+    "criteria": {
+      "has_fancy_bed": "2024-12-24 16:20:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/yellow_cushion_single": {
+    "criteria": {
+      "has_cushion": "2024-12-24 16:26:44 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/noodle_soup": {
     "criteria": {
       "has_any_ingredient": "2024-12-22 04:38:47 +0000"
@@ -4794,6 +5004,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2024-12-21 04:45:48 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/gray_sheet_single": {
+    "criteria": {
+      "has_sheet": "2024-12-24 16:20:11 +0000"
     },
     "done": true
   },
@@ -5007,6 +5223,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/acacia_dining_bench": {
+    "criteria": {
+      "has_dining_bench": "2024-12-24 16:20:27 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/iron_shovel_repairing": {
     "criteria": {
       "has_iron_shovel": "2024-12-22 03:26:13 +0000"
@@ -5025,9 +5247,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spider_trophy": {
+    "criteria": {
+      "has_trophy": "2024-12-24 16:20:27 +0000"
+    },
+    "done": true
+  },
   "netherdepthsupgrade:main/root": {
     "criteria": {
       "entered_nether": "2024-12-22 22:26:50 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_counter": {
+    "criteria": {
+      "has_counter": "2024-12-24 16:20:27 +0000"
     },
     "done": true
   },
@@ -5139,6 +5373,12 @@
       "enter_swamp": "2024-12-21 01:48:14 +0000",
       "enter_dark_forest": "2024-12-21 01:48:14 +0000",
       "enter_badlands": "2024-12-21 01:48:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bear_trophy": {
+    "criteria": {
+      "has_trophy": "2024-12-24 16:20:27 +0000"
     },
     "done": true
   },
@@ -5259,6 +5499,12 @@
   "stoneworks:recipes/stoneworks.main/chiseled_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-21 22:51:48 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_corner_trim": {
+    "criteria": {
+      "has_corner_trim": "2024-12-24 16:20:27 +0000"
     },
     "done": true
   },
@@ -5391,6 +5637,12 @@
   "another_furniture:recipes/white_curtain": {
     "criteria": {
       "has_wool": "2024-12-21 04:43:34 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_cushion_single": {
+    "criteria": {
+      "has_cushion": "2024-12-24 16:26:44 +0000"
     },
     "done": true
   },
@@ -5628,6 +5880,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/pufferfish_trophy": {
+    "criteria": {
+      "has_trophy": "2024-12-24 16:20:27 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/terracotta_thick_pot": {
     "criteria": {
       "has_terracotta": "2024-12-23 03:04:24 +0000"
@@ -5769,6 +6027,12 @@
   "stoneworks:recipes/stoneworks.main/dark_prismarine_tile_stairs_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2024-12-23 00:29:17 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blue_sheet_single": {
+    "criteria": {
+      "has_sheet": "2024-12-24 16:20:11 +0000"
     },
     "done": true
   },
@@ -6204,6 +6468,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/lime_sheet_single": {
+    "criteria": {
+      "has_sheet": "2024-12-24 16:20:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_bricks": "2024-12-23 03:10:42 +0000"
@@ -6288,6 +6558,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/gray_cushion_single": {
+    "criteria": {
+      "has_cushion": "2024-12-24 16:26:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2024-12-23 00:00:30 +0000"
@@ -6297,6 +6573,12 @@
   "vinery:cherry_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-21 02:15:57 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/light_gray_sheet_single": {
+    "criteria": {
+      "has_sheet": "2024-12-24 16:20:11 +0000"
     },
     "done": true
   },
@@ -7460,6 +7742,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/goat_trophy": {
+    "criteria": {
+      "has_trophy": "2024-12-24 16:20:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2024-12-21 22:51:48 +0000"
@@ -7631,6 +7919,12 @@
   "blue_skies:recipes/blue_skies_dungeon/glowing_nature_stonebrick_from_glowstone": {
     "criteria": {
       "has_item": "2024-12-22 03:36:54 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blue_crockery_combo": {
+    "criteria": {
+      "has_terracotta\u003d_plate": "2024-12-24 16:22:21 +0000"
     },
     "done": true
   },
@@ -7904,6 +8198,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/purple_sheet_single": {
+    "criteria": {
+      "has_sheet": "2024-12-24 16:20:11 +0000"
+    },
+    "done": true
+  },
   "environmental:adventure/obtain_explorer_gear": {
     "criteria": {
       "thief_hood": "2024-12-21 22:06:51 +0000"
@@ -7998,6 +8298,12 @@
   "stoneworks:recipes/stoneworks.main/diorite_pillar_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-21 22:51:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/yellow_crockery_combo": {
+    "criteria": {
+      "has_terracotta\u003d_plate": "2024-12-24 16:22:21 +0000"
     },
     "done": true
   },
@@ -8266,6 +8572,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/green_sheet_single": {
+    "criteria": {
+      "has_sheet": "2024-12-24 16:20:11 +0000"
+    },
+    "done": true
+  },
   "clayworks:recipes/building_blocks/white_terracotta_bricks_from_white_dye": {
     "criteria": {
       "has_terracotta": "2024-12-23 03:04:24 +0000"
@@ -8428,6 +8740,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/acacia_couch": {
+    "criteria": {
+      "has_couch": "2024-12-24 16:20:27 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/warped_ladder": {
     "criteria": {
       "has_stick": "2024-12-21 02:15:57 +0000"
@@ -8479,6 +8797,12 @@
   "clayworks:recipes/building_blocks/terracotta_brick_slab_from_terracotta_stonecutting": {
     "criteria": {
       "has_terracotta": "2024-12-23 03:04:25 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/brown_cushion_single": {
+    "criteria": {
+      "has_cushion": "2024-12-24 16:26:44 +0000"
     },
     "done": true
   },
@@ -8855,6 +9179,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/green_cushion_single": {
+    "criteria": {
+      "has_cushion": "2024-12-24 16:26:44 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/granite_pavers_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-21 22:51:48 +0000"
@@ -9200,6 +9530,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/wood_bowl": {
+    "criteria": {
+      "has_board": "2024-12-24 16:20:27 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_everbright_blocks/starlit_bookshelf": {
     "criteria": {
       "has_item": "2024-12-21 04:52:30 +0000"
@@ -9534,6 +9870,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/orange_sheet_single": {
+    "criteria": {
+      "has_sheet": "2024-12-24 16:20:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2024-12-22 03:36:54 +0000"
@@ -9624,6 +9966,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/wood_crockery_combo": {
+    "criteria": {
+      "has_terracotta\u003d_plate": "2024-12-24 16:22:21 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/polished_dark_prismarine_wall_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2024-12-23 00:29:17 +0000"
@@ -9672,6 +10020,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/orange_cushion_single": {
+    "criteria": {
+      "has_cushion": "2024-12-24 16:26:44 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/melon_slice": {
     "criteria": {
       "has_mini_melon": "2024-12-21 04:54:51 +0000"
@@ -9693,6 +10047,12 @@
   "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_item": "2024-12-22 03:16:30 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/skeleton_horse_trophy": {
+    "criteria": {
+      "has_trophy": "2024-12-24 16:20:27 +0000"
     },
     "done": true
   },
@@ -9876,6 +10236,18 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/wood_plate": {
+    "criteria": {
+      "has_board": "2024-12-24 16:20:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_pillar_trim": {
+    "criteria": {
+      "has_pillar_trim": "2024-12-24 16:20:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2024-12-21 22:51:45 +0000"
@@ -9885,6 +10257,12 @@
   "minecraft:recipes/building_blocks/green_terracotta": {
     "criteria": {
       "has_terracotta": "2024-12-23 03:04:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blaze_trophy": {
+    "criteria": {
+      "has_trophy": "2024-12-24 16:20:27 +0000"
     },
     "done": true
   },
@@ -10044,6 +10422,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/brown_sheet_single": {
+    "criteria": {
+      "has_sheet": "2024-12-24 16:20:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_candle": {
     "criteria": {
       "has_light_blue_dye": "2024-12-22 00:59:54 +0000"
@@ -10140,6 +10524,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/wither_skeleton_trophy": {
+    "criteria": {
+      "has_trophy": "2024-12-24 16:20:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-12-24 05:22:55 +0000"
@@ -10194,6 +10584,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/magenta_sheet_single": {
+    "criteria": {
+      "has_sheet": "2024-12-24 16:20:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_wall": {
     "criteria": {
       "has_polished_blackstone": "2024-12-23 00:00:30 +0000"
@@ -10215,6 +10611,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-12-21 02:28:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_bench": {
+    "criteria": {
+      "has_bench": "2024-12-24 16:20:27 +0000"
     },
     "done": true
   },
@@ -10299,6 +10701,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2024-12-23 00:00:30 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wolf_trophy": {
+    "criteria": {
+      "has_trophy": "2024-12-24 16:20:27 +0000"
     },
     "done": true
   },
