@@ -638,6 +638,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-24 07:01:20 +0000"
+    },
+    "done": true
+  },
   "vinery:cherry_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-22 04:11:18 +0000"
@@ -2318,6 +2324,12 @@
     },
     "done": true
   },
+  "vinery:grass_slab": {
+    "criteria": {
+      "has_grass_block": "2024-12-24 07:04:19 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/storage/acorn_storage_block": {
     "criteria": {
       "has_acorn": "2024-12-22 02:05:52 +0000"
@@ -3547,6 +3559,7 @@
       "minecraft:vindicator": "2024-12-24 02:06:09 +0000",
       "minecraft:spider": "2024-12-21 05:25:04 +0000",
       "savage_and_ravage:trickster": "2024-12-24 02:36:54 +0000",
+      "minecraft:creeper": "2024-12-24 06:54:40 +0000",
       "minecraft:witch": "2024-12-22 03:21:49 +0000",
       "minecraft:stray": "2024-12-21 05:18:33 +0000",
       "minecraft:zombie": "2024-12-21 05:05:07 +0000",
@@ -4360,6 +4373,7 @@
   },
   "immersive_weathering:immersive_weathering/dirts": {
     "criteria": {
+      "grass": "2024-12-24 07:04:19 +0000",
       "dirt": "2024-12-21 05:25:50 +0000"
     },
     "done": false

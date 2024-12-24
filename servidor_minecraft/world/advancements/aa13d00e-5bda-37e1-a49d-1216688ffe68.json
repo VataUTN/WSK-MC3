@@ -4469,6 +4469,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2024-12-24 07:04:24 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/salmonberry_pips": {
     "criteria": {
       "has_salmonberries": "2024-12-21 02:27:46 +0000"
@@ -9172,6 +9178,7 @@
       "cooked_beef": "2024-12-22 21:38:10 +0000",
       "mutton": "2024-12-22 19:43:56 +0000",
       "cooked_chicken": "2024-12-22 20:24:48 +0000",
+      "mushroom_stew": "2024-12-24 07:04:24 +0000",
       "cooked_mutton": "2024-12-22 20:25:28 +0000",
       "golden_carrot": "2024-12-22 21:12:24 +0000",
       "neapolitan:banana": "2024-12-21 03:22:54 +0000",
