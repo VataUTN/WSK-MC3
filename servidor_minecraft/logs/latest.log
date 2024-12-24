@@ -4195,3 +4195,24 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [24Dec2024 01:50:00.367] [Worker-Main-50/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=7, z=-24}
 [24Dec2024 01:50:00.368] [Worker-Main-50/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=259, y=6, z=-25}
 [24Dec2024 01:51:28.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAN9IRV018 was slain by Skeleton
+[24Dec2024 01:55:26.238] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1390, y=3, z=-2288}
+[24Dec2024 01:55:26.239] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1392, y=3, z=-2286}
+[24Dec2024 02:01:42.681] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5e43d192
+[24Dec2024 02:01:42.696] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Joacoo_17[/127.12.163.108:51521] logged in with entity id 34288 at (555.4131232382748, 64.0, -388.7352182667267)
+[24Dec2024 02:01:42.698] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Joacoo_17
+[24Dec2024 02:01:42.698] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Joacoo_17
+[24Dec2024 02:01:42.698] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Joacoo_17
+[24Dec2024 02:01:42.698] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Joacoo_17
+[24Dec2024 02:01:42.700] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Joacoo_17
+[24Dec2024 02:01:42.702] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Joacoo_17
+[24Dec2024 02:01:42.702] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Joacoo_17
+[24Dec2024 02:01:42.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joacoo_17 joined the game
+[24Dec2024 02:01:42.788] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7aaaddc4-adb9-3168-b6ff-709541dea5ed
+[24Dec2024 02:01:42.801] [Server thread/INFO] [Jade/]: Syncing config to Joacoo_17 (7aaaddc4-adb9-3168-b6ff-709541dea5ed)
+[24Dec2024 02:03:15.595] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[24Dec2024 02:03:15.597] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[24Dec2024 02:03:15.600] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[24Dec2024 02:03:15.602] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[24Dec2024 02:03:15.603] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[24Dec2024 02:03:15.603] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[24Dec2024 02:03:16.632] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2682ms or 53 ticks behind

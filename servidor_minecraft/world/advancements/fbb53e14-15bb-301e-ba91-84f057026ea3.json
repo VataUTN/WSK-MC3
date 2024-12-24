@@ -6520,6 +6520,12 @@
     },
     "done": true
   },
+  "twilightdelight:recipes/frozen/obsidian": {
+    "criteria": {
+      "has_magma_block": "2024-12-24 02:03:34 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "flint_knife": "2024-12-22 22:42:45 +0000"

@@ -2112,6 +2112,12 @@
     },
     "done": true
   },
+  "vinery:coarse_dirt_slab": {
+    "criteria": {
+      "has_coarse_dirt": "2024-12-24 01:54:46 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/granite_tile_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-22 02:12:47 +0000"
