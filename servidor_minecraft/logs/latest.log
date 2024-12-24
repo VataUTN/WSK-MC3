@@ -4166,3 +4166,24 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [24Dec2024 06:45:52.183] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
 [24Dec2024 06:46:12.123] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
 [24Dec2024 06:48:21.839] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[24Dec2024 06:51:30.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> joaco
+[24Dec2024 06:51:37.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> cuanto tiempo llevas jugando
+[24Dec2024 06:51:43.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Joacoo_17> demasiado
+[24Dec2024 06:51:48.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Domitax> te vamos abanear hijo d puta
+[24Dec2024 06:51:50.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vata74> aproximadamente
+[24Dec2024 06:51:51.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Joacoo_17> ahi l ocalculo
+[24Dec2024 06:51:51.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Domitax> encima en ds no estpas
+[24Dec2024 06:51:53.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Domitax> antirol
+[24Dec2024 06:52:34.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IAN9IRV018> DUKI?
+[24Dec2024 06:52:39.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Joacoo_17> unas 14 hs hoy maso
+[24Dec2024 06:52:53.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Domitax> juakim
+[24Dec2024 06:53:27.975] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [6, 19], pos: MutableBlockPos{x=96, y=34, z=318}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[24Dec2024 06:53:27.976] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [6, 19], pos: MutableBlockPos{x=97, y=102, z=315}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[24Dec2024 06:53:27.977] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [6, 19], pos: MutableBlockPos{x=97, y=102, z=316}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[24Dec2024 06:53:27.977] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [6, 19], pos: MutableBlockPos{x=96, y=102, z=316}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[24Dec2024 06:53:27.978] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [6, 19], pos: MutableBlockPos{x=98, y=102, z=313}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[24Dec2024 06:53:32.295] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [7, 19], pos: MutableBlockPos{x=113, y=34, z=306}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
+[24Dec2024 06:53:33.046] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [8, 18], pos: MutableBlockPos{x=131, y=98, z=295}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[24Dec2024 06:53:33.046] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [8, 18], pos: MutableBlockPos{x=131, y=100, z=290}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[24Dec2024 06:53:33.047] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [8, 18], pos: MutableBlockPos{x=131, y=99, z=291}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[24Dec2024 06:54:00.594] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Domitax moved wrongly!

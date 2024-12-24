@@ -3329,6 +3329,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-24 06:45:11 +0000"
+    },
+    "done": true
+  },
   "environmental:recipes/decorations/cherry_ladder": {
     "criteria": {
       "has_stick": "2024-12-21 02:15:57 +0000"
@@ -6429,6 +6435,12 @@
   "incubation:recipes/food/fried_egg_from_campfire_cooking": {
     "criteria": {
       "has_eggs": "2024-12-23 23:06:11 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/glow_jelly_bottle": {
+    "criteria": {
+      "has_glow_berries": "2024-12-24 06:45:11 +0000"
     },
     "done": true
   },

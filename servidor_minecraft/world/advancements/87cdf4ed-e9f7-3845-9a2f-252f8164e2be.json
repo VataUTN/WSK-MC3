@@ -1628,6 +1628,12 @@
     },
     "done": true
   },
+  "delightful:recipes/food/cooking/glow_jelly_bottle": {
+    "criteria": {
+      "has_glow_berries": "2024-12-24 06:45:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-22 03:21:03 +0000"
@@ -3687,6 +3693,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-24 06:45:06 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/andesite_plate_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-22 02:11:01 +0000"
@@ -4667,6 +4679,7 @@
       "mushroom_stew": "2024-12-24 04:06:36 +0000",
       "cooked_mutton": "2024-12-21 04:59:57 +0000",
       "bread": "2024-12-24 02:49:10 +0000",
+      "glow_berries": "2024-12-24 06:46:39 +0000",
       "cooked_cod": "2024-12-22 02:36:43 +0000"
     },
     "done": false
