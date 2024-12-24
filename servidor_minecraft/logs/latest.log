@@ -4157,3 +4157,12 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [24Dec2024 06:37:57.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAN9IRV018 was slain by The Leviathan
 [24Dec2024 06:38:07.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAN9IRV018 was slain by The Leviathan
 [24Dec2024 06:38:07.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 was slain by The Leviathan
+[24Dec2024 06:38:21.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 was exterminated by The Leviathan's laser
+[24Dec2024 06:38:32.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAN9IRV018 was slain by The Leviathan
+[24Dec2024 06:38:34.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 faded away from this dimension
+[24Dec2024 06:38:47.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax has completed the challenge [A Multidimensional Predator]
+[24Dec2024 06:39:01.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax was blown up by The Leviathan
+[24Dec2024 06:43:28.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 faded away from this dimension
+[24Dec2024 06:45:52.183] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
+[24Dec2024 06:46:12.123] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
+[24Dec2024 06:48:21.839] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
