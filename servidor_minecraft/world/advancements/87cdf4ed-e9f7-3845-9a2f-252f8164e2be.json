@@ -362,6 +362,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-24 02:48:24 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/golden_ring": {
     "criteria": {
       "has_gold_ingot": "2024-12-24 02:06:38 +0000"
@@ -551,6 +557,12 @@
   "vinery:cherry_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-22 04:11:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2024-12-24 02:48:24 +0000"
     },
     "done": true
   },
@@ -995,6 +1007,12 @@
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2024-12-21 05:33:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-24 02:48:41 +0000"
     },
     "done": true
   },
@@ -3164,6 +3182,12 @@
     },
     "done": true
   },
+  "upgradednetherite:recipes/essences/poison_essence": {
+    "criteria": {
+      "has_spider_eye": "2024-12-24 02:48:41 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/cobbled_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-22 02:12:47 +0000"
@@ -4043,6 +4067,7 @@
       "cooked_porkchop": "2024-12-22 04:01:45 +0000",
       "cooked_beef": "2024-12-21 05:10:29 +0000",
       "cooked_mutton": "2024-12-21 04:59:57 +0000",
+      "bread": "2024-12-24 02:49:10 +0000",
       "cooked_cod": "2024-12-22 02:36:43 +0000"
     },
     "done": false
@@ -4843,6 +4868,12 @@
   "stoneworks:recipes/stoneworks.main/granite_shingle_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-22 02:12:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-24 02:48:24 +0000"
     },
     "done": true
   },

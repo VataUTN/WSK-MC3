@@ -968,6 +968,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2024-12-24 02:51:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-21 22:49:53 +0000"
@@ -2447,6 +2453,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-24 02:50:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_warped_hyphae": {
     "criteria": {
       "has_log": "2024-12-23 00:37:27 +0000"
@@ -2480,6 +2492,12 @@
   "dungeons_arise:find_abandoned_temple": {
     "criteria": {
       "location0": "2024-12-22 22:07:18 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_boots_repairing": {
+    "criteria": {
+      "has_diamond_boots": "2024-12-24 02:51:28 +0000"
     },
     "done": true
   },
@@ -7163,6 +7181,7 @@
       "bread": "2024-12-22 07:49:54 +0000",
       "rotten_flesh": "2024-12-22 20:27:31 +0000",
       "cod": "2024-12-23 00:25:13 +0000",
+      "porkchop": "2024-12-24 02:51:00 +0000",
       "buzzier_bees:honey_bread": "2024-12-21 22:57:29 +0000",
       "cooked_cod": "2024-12-24 00:42:25 +0000",
       "carrot": "2024-12-22 22:33:21 +0000"
@@ -9009,6 +9028,12 @@
   "everycomp:recipes/everycomp/tw/ecologics/coconut_table": {
     "criteria": {
       "has_planks": "2024-12-22 20:38:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-24 02:50:35 +0000"
     },
     "done": true
   },
