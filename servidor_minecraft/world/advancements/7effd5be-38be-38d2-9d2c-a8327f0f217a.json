@@ -2143,6 +2143,12 @@
     },
     "done": true
   },
+  "immersive_weathering:recipes/iron_nugget": {
+    "criteria": {
+      "has_copper_block": "2024-12-24 02:12:44 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/cobbled_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-21 05:29:31 +0000"
@@ -2798,6 +2804,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/galosphere/silver_ingot_from_nuggets": {
+    "criteria": {
+      "has_silver_nugget": "2024-12-24 02:05:12 +0000"
+    },
+    "done": true
+  },
   "incubation:recipes/decorations/hay_nest": {
     "criteria": {
       "has_wheat": "2024-12-21 04:30:28 +0000"
@@ -2983,6 +2995,7 @@
       "minecraft:blaze": "2024-12-22 22:27:33 +0000",
       "minecraft:pillager": "2024-12-22 22:33:02 +0000",
       "minecraft:skeleton": "2024-12-21 03:58:35 +0000",
+      "minecraft:vindicator": "2024-12-24 02:05:12 +0000",
       "minecraft:magma_cube": "2024-12-22 22:28:22 +0000",
       "minecraft:spider": "2024-12-21 04:15:22 +0000",
       "minecraft:creeper": "2024-12-22 02:20:49 +0000",
@@ -6918,6 +6931,12 @@
     },
     "done": true
   },
+  "repurposed_structures:outposts": {
+    "criteria": {
+      "in_outpost_snowy": "2024-12-24 02:04:46 +0000"
+    },
+    "done": false
+  },
   "dungeons_plus:adventure/find_tower": {
     "criteria": {
       "in_structure": "2024-12-21 05:53:53 +0000"
@@ -9601,6 +9620,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/service_bell": {
+    "criteria": {
+      "has_nugget": "2024-12-24 02:12:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2024-12-22 03:26:13 +0000"
@@ -9646,6 +9671,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2024-12-23 00:04:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:12:44 +0000"
     },
     "done": true
   },

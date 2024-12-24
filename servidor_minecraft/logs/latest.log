@@ -4216,3 +4216,28 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [24Dec2024 02:03:15.603] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
 [24Dec2024 02:03:15.603] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
 [24Dec2024 02:03:16.632] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2682ms or 53 ticks behind
+[24Dec2024 02:05:22.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax was slain by Vindicator
+[24Dec2024 02:05:42.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax was slain by Vindicator
+[24Dec2024 02:06:22.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax was shot by Stray
+[24Dec2024 02:08:13.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax was slain by Vindicator
+[24Dec2024 02:08:14.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joacoo_17 drowned
+[24Dec2024 02:09:28.924] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joacoo_17 lost connection: You logged in from another location
+[24Dec2024 02:09:28.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joacoo_17 left the game
+[24Dec2024 02:09:28.925] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7aaaddc4-adb9-3168-b6ff-709541dea5ed
+[24Dec2024 02:09:28.981] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3a616768
+[24Dec2024 02:09:29.011] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[24Dec2024 02:09:29.017] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Joacoo_17[/127.12.163.108:42173] logged in with entity id 40850 at (572.9521247825504, 62.19180333213612, -403.42800029980293)
+[24Dec2024 02:09:29.019] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Joacoo_17
+[24Dec2024 02:09:29.019] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Joacoo_17
+[24Dec2024 02:09:29.020] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Joacoo_17
+[24Dec2024 02:09:29.020] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Joacoo_17
+[24Dec2024 02:09:29.022] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Joacoo_17
+[24Dec2024 02:09:29.024] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Joacoo_17
+[24Dec2024 02:09:29.024] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Joacoo_17
+[24Dec2024 02:09:29.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joacoo_17 joined the game
+[24Dec2024 02:09:29.049] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7aaaddc4-adb9-3168-b6ff-709541dea5ed
+[24Dec2024 02:09:29.083] [Server thread/INFO] [Jade/]: Syncing config to Joacoo_17 (7aaaddc4-adb9-3168-b6ff-709541dea5ed)
+[24Dec2024 02:13:25.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax was shot by Skeleton
+[24Dec2024 02:15:00.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[24Dec2024 02:15:00.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...p Domitax  -2023 69 -1915<--[HERE]
+[24Dec2024 02:15:05.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Domitax to -2022.500000, 69.000000, -1914.500000
