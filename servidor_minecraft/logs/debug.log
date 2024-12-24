@@ -16893,3 +16893,19 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [24Dec2024 01:00:14.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BaljeetGorreado has made the advancement [Isn't It Iron Pick]
 [24Dec2024 01:00:16.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BaljeetGorreado has made the advancement [Suit Up]
 [24Dec2024 01:01:37.685] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=675, y=64, z=-237}) doesn't have enough leaves around top most log
+[24Dec2024 01:02:49.400] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[24Dec2024 01:02:49.400] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[24Dec2024 01:03:50.578] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 01:03:50.612] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 01:05:53.711] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1416, y=-28, z=5038} but found not block entity block Block{sculked:sculk_shaker}[waterlogged=false] at location
+[24Dec2024 01:05:53.711] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{sculked:sculk_shaker}[waterlogged=false] but failed at location BlockPos{x=-1416, y=-28, z=5038}
+[24Dec2024 01:06:05.065] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nefario99 lost connection: Disconnected
+[24Dec2024 01:06:05.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 left the game
+[24Dec2024 01:06:05.066] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for fbb53e14-15bb-301e-ba91-84f057026ea3
+[24Dec2024 01:06:09.600] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[24Dec2024 01:08:50.471] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 01:08:50.501] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 01:09:29.550] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[24Dec2024 01:11:49.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BaljeetGorreado has made the advancement [Gone Bananas!]
+[24Dec2024 01:12:49.450] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[24Dec2024 01:12:49.450] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!

@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_glazed_terracotta": {
+    "criteria": {
+      "has_gray_terracotta": "2024-12-24 01:00:21 +0000"
+    },
+    "done": true
+  },
   "biomemakeover:biomemakeover/root": {
     "criteria": {
       "enter_mushroom_fields": "2024-12-21 22:45:53 +0000",
@@ -161,6 +167,12 @@
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2024-12-22 20:29:48 +0000"
+    },
+    "done": true
+  },
+  "clayworks:recipes/decorations/brown_terracotta_brick_wall_from_brown_terracotta_stonecutting": {
+    "criteria": {
+      "has_brown_terracotta": "2024-12-24 01:00:16 +0000"
     },
     "done": true
   },
@@ -305,6 +317,12 @@
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 23:01:41 +0000"
+    },
+    "done": true
+  },
+  "clayworks:recipes/building_blocks/gray_terracotta_stairs_from_gray_terracotta_stonecutting": {
+    "criteria": {
+      "has_gray_terracotta": "2024-12-24 01:00:21 +0000"
     },
     "done": true
   },
@@ -464,6 +482,12 @@
     },
     "done": true
   },
+  "clayworks:recipes/decorations/gray_glazed_terracotta_from_baking": {
+    "criteria": {
+      "has_gray_terracotta": "2024-12-24 01:00:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2024-12-21 23:40:11 +0000"
@@ -554,6 +578,12 @@
     },
     "done": true
   },
+  "clayworks:recipes/building_blocks/brown_terracotta_vertical_slab_from_brown_terracotta_stonecutting": {
+    "criteria": {
+      "has_brown_terracotta": "2024-12-24 01:00:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2024-12-21 23:39:59 +0000"
@@ -575,6 +605,12 @@
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2024-12-22 20:11:23 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_from_moss": {
+    "criteria": {
+      "has_item": "2024-12-24 01:01:56 +0000"
     },
     "done": true
   },
@@ -800,6 +836,12 @@
     },
     "done": true
   },
+  "immersive_weathering:recipes/moss_clump": {
+    "criteria": {
+      "has_copper_block": "2024-12-24 01:01:56 +0000"
+    },
+    "done": true
+  },
   "shieldexp:recipes/wooden_shield": {
     "criteria": {
       "has_stick": "2024-12-21 22:49:57 +0000"
@@ -815,6 +857,12 @@
   "twigs:recipes/rhyolite/rhyolite_slab_stonecutting": {
     "criteria": {
       "has_item": "2024-12-21 23:28:43 +0000"
+    },
+    "done": true
+  },
+  "clayworks:recipes/decorations/gray_terracotta_brick_wall_from_gray_terracotta_stonecutting": {
+    "criteria": {
+      "has_gray_terracotta": "2024-12-24 01:00:21 +0000"
     },
     "done": true
   },
@@ -971,6 +1019,18 @@
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-22 21:31:46 +0000"
+    },
+    "done": true
+  },
+  "clayworks:recipes/decorations/brown_terracotta_wall": {
+    "criteria": {
+      "has_brown_terracotta": "2024-12-24 01:00:16 +0000"
+    },
+    "done": true
+  },
+  "clayworks:recipes/building_blocks/gray_terracotta_brick_stairs_from_gray_terracotta_stonecutting": {
+    "criteria": {
+      "has_gray_terracotta": "2024-12-24 01:00:21 +0000"
     },
     "done": true
   },
@@ -1220,6 +1280,12 @@
     },
     "done": true
   },
+  "clayworks:recipes/building_blocks/brown_terracotta_slab_from_brown_terracotta_stonecutting": {
+    "criteria": {
+      "has_brown_terracotta": "2024-12-24 01:00:16 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2024-12-21 22:54:57 +0000"
@@ -1247,6 +1313,12 @@
   "woodworks:recipes/decorations/birch_ladder": {
     "criteria": {
       "has_stick": "2024-12-21 22:49:57 +0000"
+    },
+    "done": true
+  },
+  "clayworks:recipes/decorations/green_terracotta_wall": {
+    "criteria": {
+      "has_green_terracotta": "2024-12-24 01:00:13 +0000"
     },
     "done": true
   },
@@ -1283,6 +1355,12 @@
   "stoneworks:recipes/stoneworks.main/tuff_shingles_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-12-21 23:19:15 +0000"
+    },
+    "done": true
+  },
+  "clayworks:recipes/building_blocks/chiseled_green_terracotta_bricks_from_green_terracotta_stonecutting": {
+    "criteria": {
+      "has_green_terracotta": "2024-12-24 01:00:13 +0000"
     },
     "done": true
   },
@@ -1325,6 +1403,12 @@
   "nethersdelight:recipes/nethersdelight/golden_machete": {
     "criteria": {
       "has_gold_ingot": "2024-12-21 23:38:56 +0000"
+    },
+    "done": true
+  },
+  "clayworks:recipes/building_blocks/green_terracotta_bricks": {
+    "criteria": {
+      "has_green_terracotta": "2024-12-24 01:00:13 +0000"
     },
     "done": true
   },
@@ -1526,6 +1610,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/pot": {
+    "criteria": {
+      "has_terracotta": "2024-12-24 01:00:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2024-12-21 23:17:00 +0000"
@@ -1550,9 +1640,21 @@
     },
     "done": true
   },
+  "clayworks:recipes/building_blocks/gray_terracotta_stairs": {
+    "criteria": {
+      "has_gray_terracotta": "2024-12-24 01:00:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-22 23:50:17 +0000"
+    },
+    "done": true
+  },
+  "clayworks:recipes/building_blocks/brown_terracotta_vertical_slab": {
+    "criteria": {
+      "has_brown_terracotta": "2024-12-24 01:00:16 +0000"
     },
     "done": true
   },
@@ -1619,6 +1721,12 @@
   "aether_redux:recipes/transportation/cloudcap_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-22 05:36:02 +0000"
+    },
+    "done": true
+  },
+  "clayworks:recipes/building_blocks/gray_terracotta_bricks": {
+    "criteria": {
+      "has_gray_terracotta": "2024-12-24 01:00:21 +0000"
     },
     "done": true
   },
@@ -2080,9 +2188,16 @@
   },
   "repurposed_structures:pyramids": {
     "criteria": {
-      "in_pyramid_ocean": "2024-12-22 07:51:51 +0000"
+      "in_pyramid_ocean": "2024-12-22 07:51:51 +0000",
+      "in_pyramid_flower_forest": "2024-12-24 00:59:40 +0000"
     },
     "done": false
+  },
+  "clayworks:recipes/building_blocks/gray_terracotta_vertical_slab_from_gray_terracotta_stonecutting": {
+    "criteria": {
+      "has_gray_terracotta": "2024-12-24 01:00:21 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
@@ -2171,6 +2286,12 @@
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 23:01:41 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/surface_moss": {
+    "criteria": {
+      "has_moss_block": "2024-12-24 01:01:56 +0000"
     },
     "done": true
   },
@@ -2402,6 +2523,12 @@
     },
     "done": true
   },
+  "clayworks:recipes/building_blocks/gray_terracotta_slab_from_gray_terracotta_stonecutting": {
+    "criteria": {
+      "has_gray_terracotta": "2024-12-24 01:00:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2024-12-22 23:50:44 +0000"
@@ -2582,6 +2709,12 @@
     },
     "done": true
   },
+  "clayworks:recipes/building_blocks/green_terracotta_slab_from_green_terracotta_stonecutting": {
+    "criteria": {
+      "has_green_terracotta": "2024-12-24 01:00:13 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/db/biomemakeover/ancient_oak_palisade": {
     "criteria": {
       "has_planks": "2024-12-21 22:53:39 +0000"
@@ -2672,6 +2805,12 @@
     },
     "done": true
   },
+  "clayworks:recipes/building_blocks/green_terracotta_vertical_slab": {
+    "criteria": {
+      "has_green_terracotta": "2024-12-24 01:00:13 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/rhyolite/polished_rhyolite_stonecutting": {
     "criteria": {
       "has_item": "2024-12-21 23:28:43 +0000"
@@ -2681,6 +2820,12 @@
   "stoneworks:recipes/stoneworks.main/calcite_shingle_stairs_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-12-22 21:42:59 +0000"
+    },
+    "done": true
+  },
+  "clayworks:recipes/building_blocks/brown_terracotta_stairs_from_brown_terracotta_stonecutting": {
+    "criteria": {
+      "has_brown_terracotta": "2024-12-24 01:00:16 +0000"
     },
     "done": true
   },
@@ -2942,6 +3087,12 @@
     },
     "done": true
   },
+  "clayworks:recipes/building_blocks/green_terracotta_vertical_slab_from_green_terracotta_stonecutting": {
+    "criteria": {
+      "has_green_terracotta": "2024-12-24 01:00:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2024-12-22 22:25:42 +0000"
@@ -3062,6 +3213,12 @@
     },
     "done": true
   },
+  "clayworks:recipes/building_blocks/brown_terracotta_bricks": {
+    "criteria": {
+      "has_brown_terracotta": "2024-12-24 01:00:16 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/rocky_roller": {
     "criteria": {
       "killed_by": "2024-12-22 23:54:44 +0000"
@@ -3131,6 +3288,12 @@
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2024-12-22 00:06:17 +0000"
+    },
+    "done": true
+  },
+  "clayworks:recipes/decorations/green_glazed_terracotta_from_baking": {
+    "criteria": {
+      "has_green_terracotta": "2024-12-24 01:00:13 +0000"
     },
     "done": true
   },
@@ -3311,6 +3474,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2024-12-22 20:11:23 +0000"
+    },
+    "done": true
+  },
+  "clayworks:recipes/building_blocks/gray_terracotta_slab": {
+    "criteria": {
+      "has_gray_terracotta": "2024-12-24 01:00:21 +0000"
     },
     "done": true
   },
@@ -3717,6 +3886,12 @@
     },
     "done": true
   },
+  "clayworks:recipes/decorations/gray_terracotta_wall": {
+    "criteria": {
+      "has_gray_terracotta": "2024-12-24 01:00:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2024-12-22 21:42:24 +0000"
@@ -3801,6 +3976,12 @@
     },
     "done": true
   },
+  "clayworks:recipes/decorations/green_terracotta_brick_wall_from_green_terracotta_stonecutting": {
+    "criteria": {
+      "has_green_terracotta": "2024-12-24 01:00:13 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/af/ecologics/coconut_planter_box": {
     "criteria": {
       "has_planks": "2024-12-22 20:38:04 +0000"
@@ -3840,6 +4021,12 @@
   "woodworks:recipes/redstone/birch_pressure_plate_from_birch_logs_sawing": {
     "criteria": {
       "has_birch_logs": "2024-12-21 23:09:38 +0000"
+    },
+    "done": true
+  },
+  "clayworks:recipes/building_blocks/green_terracotta_bricks_from_green_terracotta_stonecutting": {
+    "criteria": {
+      "has_green_terracotta": "2024-12-24 01:00:13 +0000"
     },
     "done": true
   },
@@ -4120,6 +4307,12 @@
     },
     "done": true
   },
+  "clayworks:recipes/building_blocks/green_terracotta_stairs_from_green_terracotta_stonecutting": {
+    "criteria": {
+      "has_green_terracotta": "2024-12-24 01:00:13 +0000"
+    },
+    "done": true
+  },
   "repurposed_structures:igloos": {
     "criteria": {
       "in_igloo_grassy": "2024-12-22 04:23:22 +0000"
@@ -4135,6 +4328,12 @@
   "stoneworks:recipes/stoneworks.main/diorite_brick_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-22 23:50:44 +0000"
+    },
+    "done": true
+  },
+  "clayworks:recipes/building_blocks/gray_terracotta_brick_slab_from_gray_terracotta_stonecutting": {
+    "criteria": {
+      "has_gray_terracotta": "2024-12-24 01:00:21 +0000"
     },
     "done": true
   },
@@ -4189,6 +4388,12 @@
   "stoneworks:recipes/stoneworks.main/mossy_calcite_brick_slab_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2024-12-22 21:42:59 +0000"
+    },
+    "done": true
+  },
+  "clayworks:recipes/building_blocks/gray_terracotta_vertical_slab": {
+    "criteria": {
+      "has_gray_terracotta": "2024-12-24 01:00:21 +0000"
     },
     "done": true
   },
@@ -4498,6 +4703,12 @@
     },
     "done": true
   },
+  "clayworks:recipes/building_blocks/gray_terracotta_bricks_from_gray_terracotta_stonecutting": {
+    "criteria": {
+      "has_gray_terracotta": "2024-12-24 01:00:21 +0000"
+    },
+    "done": true
+  },
   "environmental:recipes/decorations/willow_ladder": {
     "criteria": {
       "has_stick": "2024-12-21 22:49:57 +0000"
@@ -4712,6 +4923,12 @@
   "stoneworks:recipes/stoneworks.main/tuff_paver_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-12-21 23:19:15 +0000"
+    },
+    "done": true
+  },
+  "clayworks:recipes/building_blocks/chiseled_gray_terracotta_bricks_from_gray_terracotta_stonecutting": {
+    "criteria": {
+      "has_gray_terracotta": "2024-12-24 01:00:21 +0000"
     },
     "done": true
   },
@@ -5063,6 +5280,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_glazed_terracotta": {
+    "criteria": {
+      "has_brown_terracotta": "2024-12-24 01:00:16 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/tuff_tiles_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-12-21 23:19:15 +0000"
@@ -5102,6 +5325,12 @@
   "stoneworks:recipes/stoneworks.main/prismarine_pillar_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2024-12-22 23:33:45 +0000"
+    },
+    "done": true
+  },
+  "clayworks:recipes/building_blocks/gray_terracotta_brick_vertical_slab_from_gray_terracotta_stonecutting": {
+    "criteria": {
+      "has_gray_terracotta": "2024-12-24 01:00:21 +0000"
     },
     "done": true
   },
@@ -5345,6 +5574,12 @@
     },
     "done": true
   },
+  "clayworks:recipes/building_blocks/brown_terracotta_brick_stairs_from_brown_terracotta_stonecutting": {
+    "criteria": {
+      "has_brown_terracotta": "2024-12-24 01:00:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2024-12-21 23:05:29 +0000"
@@ -5417,6 +5652,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2024-12-24 01:01:56 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/dark_oak_seat": {
     "criteria": {
       "has_plank": "2024-12-21 22:49:53 +0000"
@@ -5468,6 +5709,12 @@
   "stoneworks:recipes/stoneworks.main/basalt_tile_stairs_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2024-12-22 22:12:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-12-24 01:04:51 +0000"
     },
     "done": true
   },
@@ -5552,6 +5799,12 @@
   "stoneworks:recipes/stoneworks.main/basalt_shingle_slab_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2024-12-22 22:12:11 +0000"
+    },
+    "done": true
+  },
+  "clayworks:recipes/building_blocks/green_terracotta_slab": {
+    "criteria": {
+      "has_green_terracotta": "2024-12-24 01:00:13 +0000"
     },
     "done": true
   },
@@ -5693,6 +5946,12 @@
     },
     "done": true
   },
+  "clayworks:recipes/building_blocks/chiseled_brown_terracotta_bricks_from_brown_terracotta_stonecutting": {
+    "criteria": {
+      "has_brown_terracotta": "2024-12-24 01:00:16 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/prismarine_bricks_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2024-12-22 23:33:45 +0000"
@@ -5738,6 +5997,12 @@
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-21 23:17:58 +0000"
+    },
+    "done": true
+  },
+  "clayworks:recipes/building_blocks/brown_terracotta_brick_vertical_slab_from_brown_terracotta_stonecutting": {
+    "criteria": {
+      "has_brown_terracotta": "2024-12-24 01:00:16 +0000"
     },
     "done": true
   },
@@ -5960,6 +6225,12 @@
     },
     "done": true
   },
+  "clayworks:recipes/building_blocks/green_terracotta_brick_slab_from_green_terracotta_stonecutting": {
+    "criteria": {
+      "has_green_terracotta": "2024-12-24 01:00:13 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/stone_axe_repairing": {
     "criteria": {
       "has_stone_axe": "2024-12-21 22:51:03 +0000"
@@ -5993,6 +6264,12 @@
   "twigs:recipes/tuff/tuff_wall_stonecutting": {
     "criteria": {
       "has_item": "2024-12-21 23:19:15 +0000"
+    },
+    "done": true
+  },
+  "clayworks:recipes/building_blocks/brown_terracotta_slab": {
+    "criteria": {
+      "has_brown_terracotta": "2024-12-24 01:00:16 +0000"
     },
     "done": true
   },
@@ -6159,6 +6436,12 @@
     },
     "done": true
   },
+  "clayworks:recipes/decorations/green_terracotta_wall_from_green_terracotta_stonecutting": {
+    "criteria": {
+      "has_green_terracotta": "2024-12-24 01:00:13 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/cobbled_basalt_wall_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2024-12-22 22:12:11 +0000"
@@ -6216,6 +6499,12 @@
   "windswept:recipes/transportation/chestnut_boat": {
     "criteria": {
       "in_water": "2024-12-21 22:52:05 +0000"
+    },
+    "done": true
+  },
+  "clayworks:recipes/building_blocks/green_terracotta_brick_vertical_slab_from_green_terracotta_stonecutting": {
+    "criteria": {
+      "has_green_terracotta": "2024-12-24 01:00:13 +0000"
     },
     "done": true
   },
@@ -7078,6 +7367,12 @@
     },
     "done": true
   },
+  "clayworks:recipes/decorations/brown_terracotta_wall_from_brown_terracotta_stonecutting": {
+    "criteria": {
+      "has_brown_terracotta": "2024-12-24 01:00:16 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/dark_oak_ladder_from_dark_oak_logs_sawing": {
     "criteria": {
       "has_dark_oak_logs": "2024-12-21 22:46:31 +0000"
@@ -7093,6 +7388,12 @@
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2024-12-22 20:29:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_glazed_terracotta": {
+    "criteria": {
+      "has_green_terracotta": "2024-12-24 01:00:13 +0000"
     },
     "done": true
   },
@@ -7261,6 +7562,12 @@
   "handcrafted:recipes/misc/oven": {
     "criteria": {
       "has_smoker": "2024-12-22 05:33:00 +0000"
+    },
+    "done": true
+  },
+  "clayworks:recipes/decorations/gray_terracotta_wall_from_gray_terracotta_stonecutting": {
+    "criteria": {
+      "has_gray_terracotta": "2024-12-24 01:00:21 +0000"
     },
     "done": true
   },
@@ -7565,6 +7872,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-24 01:01:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-22 21:42:24 +0000"
@@ -7598,6 +7911,12 @@
   "stoneworks:recipes/stoneworks.main/mossy_basalt_bricks_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2024-12-22 22:12:11 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bricks/mossy_bricks_from_moss_block": {
+    "criteria": {
+      "has_item": "2024-12-24 01:01:56 +0000"
     },
     "done": true
   },
@@ -7775,6 +8094,12 @@
     },
     "done": true
   },
+  "clayworks:recipes/building_blocks/green_terracotta_brick_stairs_from_green_terracotta_stonecutting": {
+    "criteria": {
+      "has_green_terracotta": "2024-12-24 01:00:13 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/chandelier": {
     "criteria": {
       "has_torch": "2024-12-21 23:11:55 +0000"
@@ -7790,6 +8115,12 @@
   "twilightdelight:recipes/frozen/cutting/ice_bow": {
     "criteria": {
       "has_bow": "2024-12-21 23:00:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-24 01:01:56 +0000"
     },
     "done": true
   },
@@ -7853,6 +8184,12 @@
     },
     "done": true
   },
+  "immersive_weathering:recipes/moss_block": {
+    "criteria": {
+      "has_copper_block": "2024-12-24 01:01:56 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/mossy_cobbled_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-22 23:50:18 +0000"
@@ -7862,6 +8199,12 @@
   "aether:recipes/tools/iron_pickaxe_repairing": {
     "criteria": {
       "has_iron_pickaxe": "2024-12-21 23:21:58 +0000"
+    },
+    "done": true
+  },
+  "clayworks:recipes/decorations/brown_glazed_terracotta_from_baking": {
+    "criteria": {
+      "has_brown_terracotta": "2024-12-24 01:00:16 +0000"
     },
     "done": true
   },
@@ -8039,6 +8382,12 @@
     },
     "done": true
   },
+  "clayworks:recipes/building_blocks/brown_terracotta_brick_slab_from_brown_terracotta_stonecutting": {
+    "criteria": {
+      "has_brown_terracotta": "2024-12-24 01:00:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-12-22 00:22:10 +0000"
@@ -8078,6 +8427,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2024-12-23 00:05:28 +0000"
+    },
+    "done": true
+  },
+  "clayworks:recipes/building_blocks/green_terracotta_stairs": {
+    "criteria": {
+      "has_green_terracotta": "2024-12-24 01:00:13 +0000"
     },
     "done": true
   },
@@ -8174,6 +8529,12 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 23:01:41 +0000"
+    },
+    "done": true
+  },
+  "clayworks:recipes/building_blocks/brown_terracotta_stairs": {
+    "criteria": {
+      "has_brown_terracotta": "2024-12-24 01:00:16 +0000"
     },
     "done": true
   },
@@ -8336,6 +8697,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2024-12-21 23:23:09 +0000"
+    },
+    "done": true
+  },
+  "clayworks:recipes/building_blocks/brown_terracotta_bricks_from_brown_terracotta_stonecutting": {
+    "criteria": {
+      "has_brown_terracotta": "2024-12-24 01:00:16 +0000"
     },
     "done": true
   },
