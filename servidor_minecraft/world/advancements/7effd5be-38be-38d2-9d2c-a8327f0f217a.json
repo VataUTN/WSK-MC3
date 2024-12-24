@@ -1134,6 +1134,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-12-24 06:22:25 +0000"
+    },
+    "done": true
+  },
   "clayworks:recipes/building_blocks/glazed_terracotta": {
     "criteria": {
       "has_terracotta": "2024-12-23 03:32:53 +0000"
@@ -2231,6 +2237,12 @@
   "galosphere:recipes/galosphere/allurite_lamp": {
     "criteria": {
       "has_glowstone": "2024-12-23 22:03:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-24 06:22:25 +0000"
     },
     "done": true
   },
@@ -5564,6 +5576,18 @@
     },
     "done": true
   },
+  "sculked:thrill_shrieker": {
+    "criteria": {
+      "thrill_shrieker": "2024-12-24 06:22:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-12-24 06:22:25 +0000"
+    },
+    "done": true
+  },
   "vinery:grapevine_stem": {
     "criteria": {
       "has_oak_log": "2024-12-21 03:45:34 +0000"
@@ -6678,6 +6702,12 @@
   "farmersdelight:recipes/farmersdelight/birch_cabinet": {
     "criteria": {
       "has_birch_trapdoor": "2024-12-24 03:39:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2024-12-24 06:22:25 +0000"
     },
     "done": true
   },
@@ -8147,6 +8177,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-12-24 06:22:25 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/cobbled_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-22 02:21:50 +0000"
@@ -9191,6 +9227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-12-24 06:22:25 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/af/byg/palm_planter_box": {
     "criteria": {
       "has_planks": "2024-12-23 19:08:36 +0000"
@@ -9224,6 +9266,12 @@
   "woodworks:recipes/decorations/spruce_ladder_from_spruce_logs_sawing": {
     "criteria": {
       "has_spruce_logs": "2024-12-22 02:30:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-24 06:22:25 +0000"
     },
     "done": true
   },

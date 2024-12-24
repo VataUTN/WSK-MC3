@@ -2954,6 +2954,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-24 06:10:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2024-12-21 04:52:30 +0000"
@@ -5351,6 +5357,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-24 06:10:37 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/galosphere/silver_ingot_from_smelting_raw_silver": {
     "criteria": {
       "has_raw_silver": "2024-12-22 21:09:17 +0000"
@@ -5636,6 +5648,12 @@
   "stoneworks:recipes/stoneworks.main/dark_prismarine_bricks_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2024-12-23 00:29:17 +0000"
+    },
+    "done": true
+  },
+  "sculked:thrill_shrieker": {
+    "criteria": {
+      "thrill_shrieker": "2024-12-24 06:22:38 +0000"
     },
     "done": true
   },
@@ -8301,6 +8319,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-24 06:10:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2024-12-21 02:15:57 +0000"
@@ -8490,6 +8514,12 @@
   "minecraft:recipes/decorations/warped_fence": {
     "criteria": {
       "has_planks": "2024-12-23 00:05:51 +0000"
+    },
+    "done": true
+  },
+  "magnumtorch:recipes/decorations/amethyst_magnum_torch": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-24 06:10:37 +0000"
     },
     "done": true
   },
