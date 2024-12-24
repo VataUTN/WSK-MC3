@@ -4044,3 +4044,52 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [24Dec2024 17:45:25.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 joined the game
 [24Dec2024 17:45:25.239] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for aa13d00e-5bda-37e1-a49d-1216688ffe68
 [24Dec2024 17:45:25.243] [Server thread/INFO] [Jade/]: Syncing config to Vata74 (aa13d00e-5bda-37e1-a49d-1216688ffe68)
+[24Dec2024 17:47:32.588] [Server thread/INFO] [de.cas_ual_ty.deuf.DEUF/]: Changing UUID of entity alexsmobs:catfish that already existed from 25939f47-171a-4f1b-9908-0a447959fc45 to 368701bb-a718-46b3-b982-811140325f08
+[24Dec2024 17:47:57.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Vata74: hola
+[24Dec2024 17:47:59.186] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vata74 lost connection: Disconnected
+[24Dec2024 17:47:59.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 left the game
+[24Dec2024 17:47:59.187] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for aa13d00e-5bda-37e1-a49d-1216688ffe68
+[24Dec2024 17:48:12.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: * Server este es un test
+[24Dec2024 17:49:45.595] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4ac96b22
+[24Dec2024 17:49:45.612] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Vata74[/127.104.211.112:37953] logged in with entity id 855 at (367.49339778964736, 63.0, -232.00578107984754)
+[24Dec2024 17:49:45.613] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Vata74
+[24Dec2024 17:49:45.613] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Vata74
+[24Dec2024 17:49:45.614] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Vata74
+[24Dec2024 17:49:45.614] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Vata74
+[24Dec2024 17:49:45.625] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Vata74
+[24Dec2024 17:49:45.628] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Vata74
+[24Dec2024 17:49:45.628] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Vata74
+[24Dec2024 17:49:45.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 joined the game
+[24Dec2024 17:49:45.754] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for aa13d00e-5bda-37e1-a49d-1216688ffe68
+[24Dec2024 17:49:45.759] [Server thread/INFO] [Jade/]: Syncing config to Vata74 (aa13d00e-5bda-37e1-a49d-1216688ffe68)
+[24Dec2024 17:49:54.386] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vata74 lost connection: Disconnected
+[24Dec2024 17:49:54.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 left the game
+[24Dec2024 17:49:54.387] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for aa13d00e-5bda-37e1-a49d-1216688ffe68
+[24Dec2024 17:51:03.046] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@75fd73e9
+[24Dec2024 17:51:03.075] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Vata74[/127.104.211.112:41185] logged in with entity id 1019 at (367.49339778964736, 63.0, -232.00578107984754)
+[24Dec2024 17:51:03.076] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Vata74
+[24Dec2024 17:51:03.076] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Vata74
+[24Dec2024 17:51:03.076] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Vata74
+[24Dec2024 17:51:03.077] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Vata74
+[24Dec2024 17:51:03.078] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Vata74
+[24Dec2024 17:51:03.081] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Vata74
+[24Dec2024 17:51:03.081] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Vata74
+[24Dec2024 17:51:03.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 joined the game
+[24Dec2024 17:51:03.189] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for aa13d00e-5bda-37e1-a49d-1216688ffe68
+[24Dec2024 17:51:03.193] [Server thread/INFO] [Jade/]: Syncing config to Vata74 (aa13d00e-5bda-37e1-a49d-1216688ffe68)
+[24Dec2024 17:51:03.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: * Server tensting 2
+[24Dec2024 17:51:10.186] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vata74 lost connection: Disconnected
+[24Dec2024 17:51:10.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 left the game
+[24Dec2024 17:51:10.187] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for aa13d00e-5bda-37e1-a49d-1216688ffe68
+[24Dec2024 17:55:48.045] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@131044d9
+[24Dec2024 17:55:48.072] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Vata74[/127.104.211.112:44177] logged in with entity id 1183 at (367.49339778964736, 63.0, -232.00578107984754)
+[24Dec2024 17:55:48.074] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Vata74
+[24Dec2024 17:55:48.074] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Vata74
+[24Dec2024 17:55:48.075] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Vata74
+[24Dec2024 17:55:48.075] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Vata74
+[24Dec2024 17:55:48.077] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Vata74
+[24Dec2024 17:55:48.080] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Vata74
+[24Dec2024 17:55:48.081] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Vata74
+[24Dec2024 17:55:48.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 joined the game
+[24Dec2024 17:55:48.295] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for aa13d00e-5bda-37e1-a49d-1216688ffe68
+[24Dec2024 17:55:48.300] [Server thread/INFO] [Jade/]: Syncing config to Vata74 (aa13d00e-5bda-37e1-a49d-1216688ffe68)
