@@ -19644,3 +19644,46 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [24Dec2024 02:24:11.566] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Dec2024 02:24:11.593] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [24Dec2024 02:25:08.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 has made the advancement [World of illusion]
+[24Dec2024 02:26:09.950] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[24Dec2024 02:26:43.007] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed IceologerEntity['Iceologer'/48789, l='ServerLevel[world]', x=-1539.50, y=65.00, z=5843.50, removed=DISCARDED].
+[24Dec2024 02:27:05.311] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Denyse'/44161, l='ServerLevel[world]', x=-1532.98, y=64.56, z=5902.29] died, message: 'Denyse was chopped to bits by Skirmisher'
+[24Dec2024 02:27:05.312] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Denyse'/44161, l='ServerLevel[world]', x=-1532.98, y=64.56, z=5902.29] died: Denyse was chopped to bits by Skirmisher
+[24Dec2024 02:27:07.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 has made the advancement [Sick Shard]
+[24Dec2024 02:27:19.966] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Tu'/44154, l='ServerLevel[world]', x=-1539.03, y=66.00, z=5912.72] died: Tu was chopped to bits by Skirmisher
+[24Dec2024 02:27:23.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAN9IRV018 was blown up by Creepie
+[24Dec2024 02:27:26.065] [Server thread/DEBUG] [twilightforest/]: Player IAN9IRV018 (87cdf4ed-e9f7-3845-9a2f-252f8164e2be) respawned and received items held in storage
+[24Dec2024 02:27:34.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax was slain by Vindicator
+[24Dec2024 02:27:36.047] [Server thread/DEBUG] [twilightforest/]: Player Domitax (7effd5be-38be-38d2-9d2c-a8327f0f217a) respawned and received items held in storage
+[24Dec2024 02:27:43.416] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Bernie'/46551, l='ServerLevel[world]', x=-1534.88, y=64.00, z=5904.50] died: Bernie was shot by Hunter
+[24Dec2024 02:27:46.609] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Ellis'/44373, l='ServerLevel[world]', x=-1576.70, y=63.00, z=5956.13] died, message: 'Ellis was slain by Vindicator'
+[24Dec2024 02:27:46.610] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Ellis'/44373, l='ServerLevel[world]', x=-1576.70, y=63.00, z=5956.13] died: Ellis was slain by Vindicator
+[24Dec2024 02:28:12.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax was slain by Vindicator
+[24Dec2024 02:28:14.453] [Server thread/DEBUG] [twilightforest/]: Player Domitax (7effd5be-38be-38d2-9d2c-a8327f0f217a) respawned and received items held in storage
+[24Dec2024 02:28:21.272] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Ellena'/44156, l='ServerLevel[world]', x=-1576.40, y=66.00, z=5949.12] died: Ellena was sniped by Archer
+[24Dec2024 02:28:24.161] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Winston'/46519, l='ServerLevel[world]', x=-1577.68, y=63.23, z=5957.32] died, message: 'Winston was slain by Vindicator'
+[24Dec2024 02:28:24.162] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Winston'/46519, l='ServerLevel[world]', x=-1577.68, y=63.23, z=5957.32] died: Winston was slain by Vindicator
+[24Dec2024 02:28:27.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax was slain by Vindicator
+[24Dec2024 02:28:29.802] [Server thread/DEBUG] [twilightforest/]: Player Domitax (7effd5be-38be-38d2-9d2c-a8327f0f217a) respawned and received items held in storage
+[24Dec2024 02:28:36.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax was slain by Vindicator
+[24Dec2024 02:28:38.139] [Server thread/DEBUG] [twilightforest/]: Player Domitax (7effd5be-38be-38d2-9d2c-a8327f0f217a) respawned and received items held in storage
+[24Dec2024 02:28:42.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax was slain by Vindicator
+[24Dec2024 02:28:43.809] [Server thread/DEBUG] [twilightforest/]: Player Domitax (7effd5be-38be-38d2-9d2c-a8327f0f217a) respawned and received items held in storage
+[24Dec2024 02:28:49.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax was slain by Vindicator
+[24Dec2024 02:28:50.616] [Server thread/DEBUG] [twilightforest/]: Player Domitax (7effd5be-38be-38d2-9d2c-a8327f0f217a) respawned and received items held in storage
+[24Dec2024 02:28:54.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax was slain by Vindicator
+[24Dec2024 02:28:56.305] [Server thread/DEBUG] [twilightforest/]: Player Domitax (7effd5be-38be-38d2-9d2c-a8327f0f217a) respawned and received items held in storage
+[24Dec2024 02:28:58.262] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/statue1
+[24Dec2024 02:29:03.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax was slain by Vindicator
+[24Dec2024 02:29:04.304] [Server thread/DEBUG] [twilightforest/]: Player Domitax (7effd5be-38be-38d2-9d2c-a8327f0f217a) respawned and received items held in storage
+[24Dec2024 02:29:11.564] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 02:29:11.591] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 02:29:29.900] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[24Dec2024 02:29:41.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax has made the advancement [Cover Me with Diamonds]
+[24Dec2024 02:29:44.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 has made the advancement [Cover Me with Diamonds]
+[24Dec2024 02:29:49.797] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:mod_integration/keep_create
+[24Dec2024 02:29:49.822] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep
+[24Dec2024 02:32:16.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAN9IRV018 has made the advancement [Cover Me with Diamonds]
+[24Dec2024 02:32:49.850] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[24Dec2024 02:32:49.850] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[24Dec2024 02:34:11.569] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 02:34:11.596] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

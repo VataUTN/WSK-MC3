@@ -1797,6 +1797,12 @@
     },
     "done": true
   },
+  "friendsandfoes:adventure/kill_illusioner": {
+    "criteria": {
+      "killed_illusioner": "2024-12-24 02:25:08 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/orcas_might": {
     "criteria": {
       "all_effects": "2024-12-22 07:42:33 +0000"
@@ -2344,11 +2350,24 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_leggings_repairing": {
+    "criteria": {
+      "has_diamond_leggings": "2024-12-24 02:29:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-22 07:49:00 +0000"
     },
     "done": true
+  },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_evoker": "2024-12-24 02:27:06 +0000",
+      "killed_illusioner": "2024-12-24 02:25:08 +0000"
+    },
+    "done": false
   },
   "another_furniture:recipes/oak_chair": {
     "criteria": {
@@ -4578,6 +4597,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2024-12-24 02:29:44 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/flowering_azalea_boat": {
     "criteria": {
       "in_water": "2024-12-21 22:52:05 +0000"
@@ -5299,6 +5324,12 @@
     },
     "done": true
   },
+  "biomemakeover:biomemakeover/illunite_shard": {
+    "criteria": {
+      "get_stew": "2024-12-24 02:27:07 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/spruce_bench": {
     "criteria": {
       "has_slab": "2024-12-22 21:03:38 +0000"
@@ -5383,9 +5414,11 @@
       "minecraft:pillager": "2024-12-21 23:30:42 +0000",
       "minecraft:skeleton": "2024-12-21 23:25:34 +0000",
       "savage_and_ravage:creepie": "2024-12-22 04:25:31 +0000",
+      "savage_and_ravage:executioner": "2024-12-24 02:31:44 +0000",
       "minecraft:vindicator": "2024-12-22 04:21:04 +0000",
       "minecraft:spider": "2024-12-22 00:21:17 +0000",
       "minecraft:creeper": "2024-12-21 23:13:29 +0000",
+      "minecraft:evoker": "2024-12-24 02:27:06 +0000",
       "minecraft:witch": "2024-12-21 23:34:40 +0000",
       "minecraft:cave_spider": "2024-12-22 21:26:31 +0000",
       "minecraft:stray": "2024-12-22 20:45:29 +0000",

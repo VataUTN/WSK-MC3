@@ -1279,6 +1279,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_leggings_repairing": {
+    "criteria": {
+      "has_diamond_leggings": "2024-12-24 02:29:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-22 03:11:29 +0000"
@@ -2609,6 +2615,12 @@
   "comforts:sleeping_bag_black": {
     "criteria": {
       "has_black_wool": "2024-12-22 04:16:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2024-12-24 02:29:41 +0000"
     },
     "done": true
   },
@@ -6943,6 +6955,12 @@
       "in_outpost_snowy": "2024-12-24 02:04:46 +0000"
     },
     "done": false
+  },
+  "aether:recipes/combat/diamond_chestplate_repairing": {
+    "criteria": {
+      "has_diamond_chestplate": "2024-12-24 02:31:45 +0000"
+    },
+    "done": true
   },
   "dungeons_plus:adventure/find_tower": {
     "criteria": {
