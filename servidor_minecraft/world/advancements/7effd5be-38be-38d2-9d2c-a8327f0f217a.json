@@ -6338,6 +6338,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-12-24 04:10:53 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/crimson_drawer": {
     "criteria": {
       "has_planks": "2024-12-21 03:35:51 +0000"
@@ -7181,6 +7187,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-22 02:30:21 +0000"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/essences/wither_essence": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-12-24 04:10:53 +0000"
     },
     "done": true
   },
@@ -9612,6 +9624,12 @@
   "everycomp:recipes/everycomp/af/quark/blossom_table": {
     "criteria": {
       "has_planks": "2024-12-22 20:41:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-12-24 04:10:53 +0000"
     },
     "done": true
   },

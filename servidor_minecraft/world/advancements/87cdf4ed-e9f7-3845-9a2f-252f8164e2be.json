@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/tw/byg/jacaranda_table": {
+    "criteria": {
+      "has_planks": "2024-12-24 04:14:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lilac": {
     "criteria": {
       "has_lilac": "2024-12-21 04:50:12 +0000"
@@ -35,6 +41,12 @@
       "enter_swamp": "2024-12-21 04:43:27 +0000",
       "enter_dark_forest": "2024-12-21 04:43:27 +0000",
       "enter_badlands": "2024-12-21 04:43:27 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/db/byg/jacaranda_beam": {
+    "criteria": {
+      "has_planks": "2024-12-24 04:14:04 +0000"
     },
     "done": true
   },
@@ -776,6 +788,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/jacaranda_door": {
+    "criteria": {
+      "has_planks": "2024-12-24 04:14:04 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_smithing_table": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 05:45:24 +0000"
@@ -1082,6 +1100,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/nether_salad": {
+    "criteria": {
+      "has_bowl": "2024-12-24 04:06:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2024-12-21 05:00:26 +0000"
@@ -1109,6 +1133,12 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2024-12-24 02:48:41 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/af/byg/jacaranda_chair": {
+    "criteria": {
+      "has_planks": "2024-12-24 04:14:04 +0000"
     },
     "done": true
   },
@@ -1328,6 +1358,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "interact": "2024-12-24 04:15:35 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_bricks/cobblestone_brick_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_item": "2024-12-21 05:00:26 +0000"
@@ -1391,6 +1427,12 @@
   "stoneworks:recipes/stoneworks.main/granite_brick_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-22 02:12:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/af/byg/jacaranda_bench": {
+    "criteria": {
+      "has_planks": "2024-12-24 04:14:04 +0000"
     },
     "done": true
   },
@@ -1466,6 +1508,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-24 04:10:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2024-12-22 02:09:49 +0000"
@@ -1505,6 +1553,12 @@
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2024-12-24 02:06:38 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/jacaranda_button": {
+    "criteria": {
+      "has_planks": "2024-12-24 04:14:04 +0000"
     },
     "done": true
   },
@@ -1748,6 +1802,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/db/byg/jacaranda_seat": {
+    "criteria": {
+      "has_planks": "2024-12-24 04:14:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2024-12-21 04:51:12 +0000"
@@ -1910,6 +1970,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/jacaranda_boat": {
+    "criteria": {
+      "has_planks": "2024-12-24 04:14:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2024-12-24 01:37:33 +0000"
@@ -1979,6 +2045,12 @@
   "vinery:wine_rack_1": {
     "criteria": {
       "has_spruce_planks": "2024-12-22 03:05:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2024-12-24 04:06:31 +0000"
     },
     "done": true
   },
@@ -2126,6 +2198,12 @@
     },
     "done": true
   },
+  "netherdepthsupgrade:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2024-12-24 04:06:31 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/fried_rice": {
     "criteria": {
       "has_any_ingredient": "2024-12-24 01:33:57 +0000"
@@ -2144,6 +2222,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/af/byg/jacaranda_drawer": {
+    "criteria": {
+      "has_planks": "2024-12-24 04:14:04 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/dry_bamboo_ladder": {
     "criteria": {
       "has_dry_bamboo": "2024-12-21 04:43:26 +0000"
@@ -2159,6 +2243,12 @@
   "decorative_blocks:recipes/decorative_blocks.general/spruce_seat": {
     "criteria": {
       "has_plank": "2024-12-22 03:05:22 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/fishing_rod_repairing": {
+    "criteria": {
+      "has_fishing_rod": "2024-12-24 04:10:26 +0000"
     },
     "done": true
   },
@@ -2288,6 +2378,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/bp/byg/jacaranda_backpack_shelf": {
+    "criteria": {
+      "has_planks": "2024-12-24 04:14:04 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/white_tall_stool": {
     "criteria": {
       "has_wool": "2024-12-21 04:54:45 +0000"
@@ -2348,6 +2444,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/jacaranda_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-24 04:14:04 +0000"
+    },
+    "done": true
+  },
   "windswept:recipes/redstone/holly_trapped_chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-21 04:53:22 +0000"
@@ -2404,6 +2506,7 @@
       "byg:twilight_meadow": "2024-12-22 04:30:50 +0000",
       "byg:cherry_blossom_forest": "2024-12-24 03:22:44 +0000",
       "byg:cardinal_tundra": "2024-12-21 05:13:38 +0000",
+      "byg:amaranth_fields": "2024-12-24 04:13:17 +0000",
       "byg:basalt_barrera": "2024-12-21 05:38:16 +0000",
       "byg:temperate_rainforest": "2024-12-22 04:22:19 +0000",
       "byg:maple_taiga": "2024-12-22 04:03:00 +0000",
@@ -2767,6 +2870,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/jacaranda_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-24 04:14:04 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/pie_crust": {
     "criteria": {
       "has_wheat": "2024-12-24 01:35:55 +0000"
@@ -2812,6 +2921,12 @@
   "woodworks:recipes/decorations/spruce_ladder_from_spruce_planks_sawing": {
     "criteria": {
       "has_spruce_planks": "2024-12-22 03:05:22 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/jacaranda_wood": {
+    "criteria": {
+      "has_log": "2024-12-24 04:13:26 +0000"
     },
     "done": true
   },
@@ -2874,6 +2989,12 @@
       "in_better_zombie_dungeon": "2024-12-24 01:32:55 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-24 04:13:54 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
@@ -3110,6 +3231,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/af/byg/jacaranda_shutter": {
+    "criteria": {
+      "has_planks": "2024-12-24 04:14:04 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/birch_chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-21 04:53:22 +0000"
@@ -3303,7 +3430,8 @@
       "minecraft:witch": "2024-12-22 03:21:49 +0000",
       "minecraft:stray": "2024-12-21 05:18:33 +0000",
       "minecraft:zombie": "2024-12-21 05:05:07 +0000",
-      "minecraft:drowned": "2024-12-24 01:45:06 +0000"
+      "minecraft:drowned": "2024-12-24 01:45:06 +0000",
+      "minecraft:zombie_villager": "2024-12-24 04:14:25 +0000"
     },
     "done": false
   },
@@ -3346,6 +3474,12 @@
   "everycomp:recipes/everycomp/db/quark/blossom_palisade": {
     "criteria": {
       "has_planks": "2024-12-21 05:01:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/af/byg/jacaranda_planter_box": {
+    "criteria": {
+      "has_planks": "2024-12-24 04:14:04 +0000"
     },
     "done": true
   },
@@ -3679,6 +3813,18 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/jacaranda_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-24 04:14:04 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/af/byg/jacaranda_shelf": {
+    "criteria": {
+      "has_planks": "2024-12-24 04:14:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2024-12-21 04:54:45 +0000"
@@ -3861,6 +4007,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-12-24 04:10:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2024-12-21 05:03:12 +0000"
@@ -3894,6 +4046,12 @@
   "aether:recipes/decorations/skyroot_cartography_table": {
     "criteria": {
       "has_paper": "2024-12-22 04:46:42 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/tf/byg/jacaranda_banister": {
+    "criteria": {
+      "has_planks": "2024-12-24 04:14:04 +0000"
     },
     "done": true
   },
@@ -3961,6 +4119,12 @@
   "stoneworks:recipes/stoneworks.main/granite_tile_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-22 02:12:47 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/jacaranda_slab": {
+    "criteria": {
+      "has_planks": "2024-12-24 04:14:04 +0000"
     },
     "done": true
   },
@@ -4199,6 +4363,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/db/byg/jacaranda_support": {
+    "criteria": {
+      "has_planks": "2024-12-24 04:14:04 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/andesite_tile_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-22 02:11:01 +0000"
@@ -4214,6 +4384,12 @@
   "windswept:recipes/decorations/wild_berry_basket": {
     "criteria": {
       "has_berries": "2024-12-22 04:37:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/db/byg/jacaranda_palisade": {
+    "criteria": {
+      "has_planks": "2024-12-24 04:14:04 +0000"
     },
     "done": true
   },
@@ -4256,6 +4432,12 @@
   "twigs:recipes/rocky_dirt": {
     "criteria": {
       "has_item": "2024-12-22 02:11:59 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/faf/byg/jacaranda_beehive": {
+    "criteria": {
+      "has_planks": "2024-12-24 04:14:04 +0000"
     },
     "done": true
   },
@@ -4313,6 +4495,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/jacaranda_bookshelf": {
+    "criteria": {
+      "has_planks": "2024-12-24 04:14:04 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/oak_boards_from_oak_logs_sawing": {
     "criteria": {
       "has_oak_logs": "2024-12-21 04:51:42 +0000"
@@ -4324,6 +4512,7 @@
       "melon_slice": "2024-12-22 02:41:53 +0000",
       "cooked_porkchop": "2024-12-22 04:01:45 +0000",
       "cooked_beef": "2024-12-21 05:10:29 +0000",
+      "mushroom_stew": "2024-12-24 04:06:36 +0000",
       "cooked_mutton": "2024-12-21 04:59:57 +0000",
       "bread": "2024-12-24 02:49:10 +0000",
       "cooked_cod": "2024-12-22 02:36:43 +0000"
@@ -4339,6 +4528,12 @@
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2024-12-22 02:30:46 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/jacaranda_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-24 04:14:04 +0000"
     },
     "done": true
   },
@@ -4381,6 +4576,12 @@
   "aether:recipes/tools/wooden_pickaxe_repairing": {
     "criteria": {
       "has_wooden_pickaxe": "2024-12-21 04:52:37 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/bow_repairing": {
+    "criteria": {
+      "has_bow": "2024-12-24 04:13:54 +0000"
     },
     "done": true
   },
@@ -4456,6 +4657,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/tf/byg/hollow_jacaranda_log_vertical": {
+    "criteria": {
+      "has_planks": "2024-12-24 04:14:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-22 02:11:39 +0000"
@@ -4471,6 +4678,12 @@
   "stoneworks:recipes/stoneworks.main/diorite_bricks_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-24 02:08:14 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/jacaranda_planks": {
+    "criteria": {
+      "has_logs": "2024-12-24 04:13:26 +0000"
     },
     "done": true
   },
@@ -4495,6 +4708,12 @@
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-22 04:11:18 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/fd/byg/jacaranda_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-24 04:14:04 +0000"
     },
     "done": true
   },
@@ -4708,6 +4927,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2024-12-24 04:06:36 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/melon_slice": {
     "criteria": {
       "has_mini_melon": "2024-12-21 04:54:59 +0000"
@@ -4744,6 +4969,12 @@
       "has_mossy_stone_bricks": "2024-12-22 03:30:00 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2024-12-24 04:10:48 +0000"
+    },
+    "done": false
   },
   "twigs:recipes/cobblestone_bricks/cobblestone_brick_stairs_from_cobblestone_stonecutting": {
     "criteria": {
@@ -4985,6 +5216,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/jacaranda_fence": {
+    "criteria": {
+      "has_planks": "2024-12-24 04:14:04 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/tf/upgrade_aquatic/hollow_driftwood_log_vertical": {
     "criteria": {
       "has_planks": "2024-12-24 03:01:14 +0000"
@@ -5003,6 +5240,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/jacaranda_sign": {
+    "criteria": {
+      "has_planks": "2024-12-24 04:14:04 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/andesite_brick_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-22 02:11:01 +0000"
@@ -5012,6 +5255,12 @@
   "decorative_blocks:recipes/decorative_blocks.general/chandelier": {
     "criteria": {
       "has_torch": "2024-12-21 05:49:40 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/frozen/cutting/ice_bow": {
+    "criteria": {
+      "has_bow": "2024-12-24 04:13:54 +0000"
     },
     "done": true
   },
@@ -5249,6 +5498,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/af/byg/jacaranda_table": {
+    "criteria": {
+      "has_planks": "2024-12-24 04:14:04 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/diorite_tile_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-24 02:08:14 +0000"
@@ -5426,6 +5681,18 @@
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-21 05:11:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-24 04:10:44 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/jacaranda_crafting_table": {
+    "criteria": {
+      "has_planks": "2024-12-24 04:14:04 +0000"
     },
     "done": true
   },
