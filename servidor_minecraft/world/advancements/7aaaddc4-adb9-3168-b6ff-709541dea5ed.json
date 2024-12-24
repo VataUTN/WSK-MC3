@@ -9152,6 +9152,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/diamond_pickaxe_repairing": {
+    "criteria": {
+      "has_diamond_pickaxe": "2024-12-24 05:19:50 +0000"
+    },
+    "done": true
+  },
   "byg:recipes/byg.byg/embur_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-23 02:12:34 +0000"

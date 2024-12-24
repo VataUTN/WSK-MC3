@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/db/byg/jacaranda_beam": {
+    "criteria": {
+      "has_planks": "2024-12-24 05:22:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-22 04:07:32 +0000"
@@ -236,6 +242,12 @@
   "woodworks:recipes/decorations/dark_oak_fence_from_dark_oak_planks_sawing": {
     "criteria": {
       "has_dark_oak_planks": "2024-12-21 03:25:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2024-12-24 05:26:17 +0000"
     },
     "done": true
   },
@@ -557,6 +569,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-24 05:26:13 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/nether_brick_pavers_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-22 23:57:52 +0000"
@@ -644,6 +662,12 @@
   "woodworks:recipes/building_blocks/birch_planks_from_birch_logs_sawing": {
     "criteria": {
       "has_birch_logs": "2024-12-21 02:32:02 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/jacaranda_door": {
+    "criteria": {
+      "has_planks": "2024-12-24 05:22:04 +0000"
     },
     "done": true
   },
@@ -932,6 +956,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2024-12-21 02:28:45 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/af/byg/jacaranda_chair": {
+    "criteria": {
+      "has_planks": "2024-12-24 05:22:04 +0000"
     },
     "done": true
   },
@@ -1467,6 +1497,12 @@
   "stoneworks:recipes/stoneworks.main/mossy_granite_brick_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-21 22:51:48 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thick_pot": {
+    "criteria": {
+      "has_gold_block": "2024-12-24 05:26:13 +0000"
     },
     "done": true
   },
@@ -2299,6 +2335,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/golden_thin_pot": {
+    "criteria": {
+      "has_gold_block": "2024-12-24 05:26:13 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/redstone/dark_oak_fence_gate_from_dark_oak_logs_sawing": {
     "criteria": {
       "has_dark_oak_logs": "2024-12-21 03:24:13 +0000"
@@ -2528,6 +2570,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/jacaranda_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-24 05:22:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2024-12-22 22:03:04 +0000"
@@ -2555,6 +2603,12 @@
   "woodworks:recipes/decorations/spruce_ladder_from_spruce_planks_sawing": {
     "criteria": {
       "has_spruce_planks": "2024-12-22 03:22:22 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/jacaranda_wood": {
+    "criteria": {
+      "has_log": "2024-12-24 05:21:26 +0000"
     },
     "done": true
   },
@@ -3269,6 +3323,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/jacaranda_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-24 05:22:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2024-12-21 04:43:34 +0000"
@@ -3461,6 +3521,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/tf/byg/jacaranda_banister": {
+    "criteria": {
+      "has_planks": "2024-12-24 05:22:04 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/soul_brazier": {
     "criteria": {
       "has_bar": "2024-12-22 03:16:31 +0000"
@@ -3506,6 +3572,12 @@
   "woodworks:recipes/building_blocks/oak_stairs_from_oak_logs_sawing": {
     "criteria": {
       "has_oak_logs": "2024-12-21 02:15:12 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/jacaranda_slab": {
+    "criteria": {
+      "has_planks": "2024-12-24 05:22:04 +0000"
     },
     "done": true
   },
@@ -3785,6 +3857,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/jacaranda_bookshelf": {
+    "criteria": {
+      "has_planks": "2024-12-24 05:22:04 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/oak_boards_from_oak_logs_sawing": {
     "criteria": {
       "has_oak_logs": "2024-12-21 02:15:12 +0000"
@@ -3800,6 +3878,12 @@
   "handcrafted:recipes/misc/blue_bowl": {
     "criteria": {
       "has_terracotta": "2024-12-23 03:04:24 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/jacaranda_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-24 05:22:04 +0000"
     },
     "done": true
   },
@@ -4292,6 +4376,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/jacaranda_fence": {
+    "criteria": {
+      "has_planks": "2024-12-24 05:22:04 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_dungeon/glowing_blinding_stone": {
     "criteria": {
       "has_item": "2024-12-22 03:36:54 +0000"
@@ -4646,6 +4736,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/jacaranda_crafting_table": {
+    "criteria": {
+      "has_planks": "2024-12-24 05:22:04 +0000"
+    },
+    "done": true
+  },
   "clayworks:recipes/decorations/red_terracotta_wall_from_red_terracotta_stonecutting": {
     "criteria": {
       "has_red_terracotta": "2024-12-23 03:11:13 +0000"
@@ -4673,6 +4769,12 @@
   "stoneworks:recipes/stoneworks.main/mossy_cobbled_netherrack_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2024-12-22 23:57:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/tw/byg/jacaranda_table": {
+    "criteria": {
+      "has_planks": "2024-12-24 05:22:04 +0000"
     },
     "done": true
   },
@@ -5039,6 +5141,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-24 05:22:55 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/golden_ring": {
     "criteria": {
       "has_gold_ingot": "2024-12-21 22:06:45 +0000"
@@ -5174,6 +5282,12 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2024-12-23 23:04:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2024-12-24 05:22:55 +0000"
     },
     "done": true
   },
@@ -5537,6 +5651,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/nether_salad": {
+    "criteria": {
+      "has_bowl": "2024-12-24 05:28:56 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/iron_axe_repairing": {
     "criteria": {
       "has_iron_axe": "2024-12-22 03:38:01 +0000"
@@ -5693,6 +5813,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/golden_medium_pot": {
+    "criteria": {
+      "has_gold_block": "2024-12-24 05:26:13 +0000"
+    },
+    "done": true
+  },
   "clayworks:recipes/building_blocks/red_terracotta_brick_slab_from_red_terracotta_stonecutting": {
     "criteria": {
       "has_red_terracotta": "2024-12-23 03:11:13 +0000"
@@ -5814,6 +5940,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/af/byg/jacaranda_bench": {
+    "criteria": {
+      "has_planks": "2024-12-24 05:22:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2024-12-21 02:15:57 +0000"
@@ -5883,6 +6015,12 @@
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2024-12-21 04:50:13 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/jacaranda_button": {
+    "criteria": {
+      "has_planks": "2024-12-24 05:22:04 +0000"
     },
     "done": true
   },
@@ -6072,6 +6210,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/db/byg/jacaranda_seat": {
+    "criteria": {
+      "has_planks": "2024-12-24 05:22:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2024-12-21 02:15:57 +0000"
@@ -6192,6 +6336,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/jacaranda_boat": {
+    "criteria": {
+      "has_planks": "2024-12-24 05:22:04 +0000"
+    },
+    "done": true
+  },
   "clayworks:recipes/building_blocks/chiseled_bricks_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2024-12-23 03:10:42 +0000"
@@ -6267,6 +6417,12 @@
   "vinery:wine_rack_1": {
     "criteria": {
       "has_spruce_planks": "2024-12-22 03:22:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2024-12-24 05:28:56 +0000"
     },
     "done": true
   },
@@ -6366,9 +6522,21 @@
     },
     "done": true
   },
+  "netherdepthsupgrade:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2024-12-24 05:28:56 +0000"
+    },
+    "done": true
+  },
   "windswept:recipes/building_blocks/blue_ice_from_blue_ice_bricks_stonecutting": {
     "criteria": {
       "has_blue_ice": "2024-12-22 00:59:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/af/byg/jacaranda_drawer": {
+    "criteria": {
+      "has_planks": "2024-12-24 05:22:04 +0000"
     },
     "done": true
   },
@@ -6504,6 +6672,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/bp/byg/jacaranda_backpack_shelf": {
+    "criteria": {
+      "has_planks": "2024-12-24 05:22:04 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/white_tall_stool": {
     "criteria": {
       "has_wool": "2024-12-21 04:43:34 +0000"
@@ -6567,6 +6741,12 @@
   "twigs:recipes/bone_meal_from_seashells": {
     "criteria": {
       "has_item": "2024-12-22 06:44:22 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/jacaranda_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-24 05:22:04 +0000"
     },
     "done": true
   },
@@ -6741,6 +6921,12 @@
   "another_furniture:recipes/red_stool": {
     "criteria": {
       "has_wool": "2024-12-23 05:34:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-24 05:26:15 +0000"
     },
     "done": true
   },
@@ -7255,6 +7441,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/af/byg/jacaranda_shutter": {
+    "criteria": {
+      "has_planks": "2024-12-24 05:22:04 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/diorite_pillar_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-21 22:51:45 +0000"
@@ -7436,6 +7628,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/af/byg/jacaranda_planter_box": {
+    "criteria": {
+      "has_planks": "2024-12-24 05:22:04 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/birch_boards_from_birch_planks_sawing": {
     "criteria": {
       "has_birch_planks": "2024-12-22 01:04:59 +0000"
@@ -7535,6 +7733,12 @@
   "another_furniture:recipes/birch_shelf": {
     "criteria": {
       "has_planks": "2024-12-22 01:04:59 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_wide_pot": {
+    "criteria": {
+      "has_gold_block": "2024-12-24 05:26:13 +0000"
     },
     "done": true
   },
@@ -7781,6 +7985,12 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_stick": "2024-12-21 02:15:57 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/af/byg/jacaranda_shelf": {
+    "criteria": {
+      "has_planks": "2024-12-24 05:22:04 +0000"
     },
     "done": true
   },
@@ -8286,6 +8496,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/db/byg/jacaranda_support": {
+    "criteria": {
+      "has_planks": "2024-12-24 05:22:04 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_combat/maple_spear": {
     "criteria": {
       "has_item": "2024-12-22 00:45:49 +0000"
@@ -8295,6 +8511,12 @@
   "stoneworks:recipes/stoneworks.main/andesite_tile_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-22 03:44:23 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/db/byg/jacaranda_palisade": {
+    "criteria": {
+      "has_planks": "2024-12-24 05:22:04 +0000"
     },
     "done": true
   },
@@ -8343,6 +8565,12 @@
   "twigs:recipes/basalt_blocks/smooth_basalt_brick_slab_from_smooth_basalt_stonecutting": {
     "criteria": {
       "has_item": "2024-12-23 00:14:03 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/faf/byg/jacaranda_beehive": {
+    "criteria": {
+      "has_planks": "2024-12-24 05:22:04 +0000"
     },
     "done": true
   },
@@ -8553,6 +8781,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/everycomp/tf/byg/hollow_jacaranda_log_vertical": {
+    "criteria": {
+      "has_planks": "2024-12-24 05:22:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-22 01:18:08 +0000"
@@ -8577,9 +8811,21 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/jacaranda_planks": {
+    "criteria": {
+      "has_logs": "2024-12-24 05:21:26 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/birch_table": {
     "criteria": {
       "has_planks": "2024-12-22 01:04:59 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/fd/byg/jacaranda_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-24 05:22:04 +0000"
     },
     "done": true
   },
@@ -8772,6 +9018,12 @@
   "handcrafted:recipes/misc/bricks_pillar_trim": {
     "criteria": {
       "has_pillar_trim": "2024-12-23 03:10:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-24 05:26:15 +0000"
     },
     "done": true
   },
@@ -9033,6 +9285,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/jacaranda_sign": {
+    "criteria": {
+      "has_planks": "2024-12-24 05:22:04 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/chandelier": {
     "criteria": {
       "has_torch": "2024-12-21 21:57:20 +0000"
@@ -9213,6 +9471,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-24 05:22:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2024-12-22 00:59:27 +0000"
@@ -9234,6 +9498,12 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2024-12-22 01:07:48 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/af/byg/jacaranda_table": {
+    "criteria": {
+      "has_planks": "2024-12-24 05:22:04 +0000"
     },
     "done": true
   },
