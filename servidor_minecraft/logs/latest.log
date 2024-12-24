@@ -4386,3 +4386,32 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [24Dec2024 03:04:18.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAN9IRV018 joined the game
 [24Dec2024 03:04:18.300] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 87cdf4ed-e9f7-3845-9a2f-252f8164e2be
 [24Dec2024 03:04:18.307] [Server thread/INFO] [Jade/]: Syncing config to IAN9IRV018 (87cdf4ed-e9f7-3845-9a2f-252f8164e2be)
+[24Dec2024 03:07:05.274] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of IAN9IRV018) moved wrongly! 0.36367913306276023
+[24Dec2024 03:07:05.316] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of IAN9IRV018) moved wrongly! 0.600261313484225
+[24Dec2024 03:07:58.428] [Worker-Main-50/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=7, z=-24}
+[24Dec2024 03:07:58.430] [Worker-Main-50/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=259, y=6, z=-25}
+[24Dec2024 03:13:48.777] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@e37adcc
+[24Dec2024 03:13:48.792] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Joacoo_17[/127.12.163.108:58477] logged in with entity id 70861 at (585.4478048575074, 71.0, -422.6421959306855)
+[24Dec2024 03:13:48.793] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Joacoo_17
+[24Dec2024 03:13:48.793] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Joacoo_17
+[24Dec2024 03:13:48.794] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Joacoo_17
+[24Dec2024 03:13:48.794] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Joacoo_17
+[24Dec2024 03:13:48.795] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Joacoo_17
+[24Dec2024 03:13:48.796] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Joacoo_17
+[24Dec2024 03:13:48.797] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Joacoo_17
+[24Dec2024 03:13:48.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joacoo_17 joined the game
+[24Dec2024 03:13:48.877] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7aaaddc4-adb9-3168-b6ff-709541dea5ed
+[24Dec2024 03:13:48.887] [Server thread/INFO] [Jade/]: Syncing config to Joacoo_17 (7aaaddc4-adb9-3168-b6ff-709541dea5ed)
+[24Dec2024 03:13:54.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Domitax> hola joaco
+[24Dec2024 03:13:57.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Joacoo_17> hoal
+[24Dec2024 03:13:58.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Domitax> te gusta mi numero?
+[24Dec2024 03:14:05.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Joacoo_17> a la mierjajaj
+[24Dec2024 03:17:36.236] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=7, z=-17}
+[24Dec2024 03:17:36.237] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=6, z=-16}
+[24Dec2024 03:17:36.237] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=256, y=7, z=-18}
+[24Dec2024 03:18:42.380] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=7, z=-24}
+[24Dec2024 03:18:42.381] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=259, y=6, z=-25}
+[24Dec2024 03:22:12.879] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=153, y=-46, z=751} but found not block entity block Block{sculked:sculk_emitter}[waterlogged=false] at location
+[24Dec2024 03:22:12.879] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{sculked:sculk_emitter}[waterlogged=false] but failed at location BlockPos{x=153, y=-46, z=751}
+[24Dec2024 03:24:26.877] [Server thread/INFO] [de.cas_ual_ty.deuf.DEUF/]: Changing UUID of entity alexsmobs:hummingbird that already existed from 797324cf-5163-4143-a78f-7c59f969672c to 7f4c07e3-6d5d-47af-aab4-d1491a5c2b92
+[24Dec2024 03:26:52.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAN9IRV018 has made the advancement [The Parrots and the Bats]
