@@ -4415,3 +4415,23 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [24Dec2024 03:22:12.879] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{sculked:sculk_emitter}[waterlogged=false] but failed at location BlockPos{x=153, y=-46, z=751}
 [24Dec2024 03:24:26.877] [Server thread/INFO] [de.cas_ual_ty.deuf.DEUF/]: Changing UUID of entity alexsmobs:hummingbird that already existed from 797324cf-5163-4143-a78f-7c59f969672c to 7f4c07e3-6d5d-47af-aab4-d1491a5c2b92
 [24Dec2024 03:26:52.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAN9IRV018 has made the advancement [The Parrots and the Bats]
+[24Dec2024 03:29:29.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAN9IRV018 has made the advancement [Begun, The Emu War Has]
+[24Dec2024 03:29:59.273] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IAN9IRV018 lost connection: Disconnected
+[24Dec2024 03:29:59.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAN9IRV018 left the game
+[24Dec2024 03:29:59.274] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 87cdf4ed-e9f7-3845-9a2f-252f8164e2be
+[24Dec2024 03:31:18.575] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@296480a4
+[24Dec2024 03:31:18.588] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IAN9IRV018[/127.216.147.106:41195] logged in with entity id 84311 at (599.3311478067851, 70.0, -336.93202381082455)
+[24Dec2024 03:31:18.589] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to IAN9IRV018
+[24Dec2024 03:31:18.589] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to IAN9IRV018
+[24Dec2024 03:31:18.589] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to IAN9IRV018
+[24Dec2024 03:31:18.590] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to IAN9IRV018
+[24Dec2024 03:31:18.592] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to IAN9IRV018
+[24Dec2024 03:31:18.594] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to IAN9IRV018
+[24Dec2024 03:31:18.594] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to IAN9IRV018
+[24Dec2024 03:31:18.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAN9IRV018 joined the game
+[24Dec2024 03:31:18.660] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 87cdf4ed-e9f7-3845-9a2f-252f8164e2be
+[24Dec2024 03:31:18.665] [Server thread/INFO] [Jade/]: Syncing config to IAN9IRV018 (87cdf4ed-e9f7-3845-9a2f-252f8164e2be)
+[24Dec2024 03:35:44.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 has reached the goal [Dinner's Served!]
+[24Dec2024 03:35:55.579] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nefario99 lost connection: Disconnected
+[24Dec2024 03:35:55.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 left the game
+[24Dec2024 03:35:55.579] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for fbb53e14-15bb-301e-ba91-84f057026ea3
