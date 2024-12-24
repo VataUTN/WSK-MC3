@@ -19687,3 +19687,73 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [24Dec2024 02:32:49.850] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
 [24Dec2024 02:34:11.569] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Dec2024 02:34:11.596] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 02:36:08.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAN9IRV018 was slain by Domitax
+[24Dec2024 02:36:09.909] [Server thread/DEBUG] [twilightforest/]: Player IAN9IRV018 (87cdf4ed-e9f7-3845-9a2f-252f8164e2be) respawned and received items held in storage
+[24Dec2024 02:36:10.000] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[24Dec2024 02:36:16.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax has made the advancement [World of illusion]
+[24Dec2024 02:36:42.763] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shellie'/44159, l='ServerLevel[world]', x=-1522.01, y=67.00, z=5909.17] died, message: 'Shellie was slain by Vindicator'
+[24Dec2024 02:36:42.763] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Shellie'/44159, l='ServerLevel[world]', x=-1522.01, y=67.00, z=5909.17] died: Shellie was slain by Vindicator
+[24Dec2024 02:37:38.819] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joacoo_17 lost connection: Disconnected
+[24Dec2024 02:37:38.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joacoo_17 left the game
+[24Dec2024 02:37:38.820] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7aaaddc4-adb9-3168-b6ff-709541dea5ed
+[24Dec2024 02:38:13.006] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Boyce'/44303, l='ServerLevel[world]', x=-1581.68, y=67.00, z=5957.53] died, message: 'Boyce was struck down by Legioner'
+[24Dec2024 02:38:13.007] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Boyce'/44303, l='ServerLevel[world]', x=-1581.68, y=67.00, z=5957.53] died: Boyce was struck down by Legioner
+[24Dec2024 02:38:17.407] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Buena'/44162, l='ServerLevel[world]', x=-1588.38, y=68.56, z=5962.40] died, message: 'Buena was struck down by Legioner'
+[24Dec2024 02:38:17.407] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Buena'/44162, l='ServerLevel[world]', x=-1588.38, y=68.56, z=5962.40] died: Buena was struck down by Legioner
+[24Dec2024 02:38:26.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAN9IRV018 was slain by Vindicator
+[24Dec2024 02:38:28.323] [Server thread/DEBUG] [twilightforest/]: Player IAN9IRV018 (87cdf4ed-e9f7-3845-9a2f-252f8164e2be) respawned and received items held in storage
+[24Dec2024 02:38:29.856] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleo'/44255, l='ServerLevel[world]', x=-1576.33, y=64.00, z=5958.49] died, message: 'Cleo was struck down by Legioner'
+[24Dec2024 02:38:29.857] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Cleo'/44255, l='ServerLevel[world]', x=-1576.33, y=64.00, z=5958.49] died: Cleo was struck down by Legioner
+[24Dec2024 02:38:32.958] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Paz'/44150, l='ServerLevel[world]', x=-1530.87, y=66.00, z=5929.90] died, message: 'Paz was slain by Hunter'
+[24Dec2024 02:38:32.958] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Paz'/44150, l='ServerLevel[world]', x=-1530.87, y=66.00, z=5929.90] died: Paz was slain by Hunter
+[24Dec2024 02:38:41.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAN9IRV018 was slain by Vindicator
+[24Dec2024 02:38:43.004] [Server thread/DEBUG] [twilightforest/]: Player IAN9IRV018 (87cdf4ed-e9f7-3845-9a2f-252f8164e2be) respawned and received items held in storage
+[24Dec2024 02:39:05.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 was killed by Evoker using magic
+[24Dec2024 02:39:07.438] [Server thread/DEBUG] [twilightforest/]: Player Nefario99 (fbb53e14-15bb-301e-ba91-84f057026ea3) respawned and received items held in storage
+[24Dec2024 02:39:11.529] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 02:39:11.555] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 02:39:13.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 was shot by Domitax
+[24Dec2024 02:39:14.912] [Server thread/DEBUG] [twilightforest/]: Player Nefario99 (fbb53e14-15bb-301e-ba91-84f057026ea3) respawned and received items held in storage
+[24Dec2024 02:39:15.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAN9IRV018 was slain by Vex
+[24Dec2024 02:39:16.847] [Server thread/DEBUG] [twilightforest/]: Player IAN9IRV018 (87cdf4ed-e9f7-3845-9a2f-252f8164e2be) respawned and received items held in storage
+[24Dec2024 02:39:26.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 was slain by Vex
+[24Dec2024 02:39:28.133] [Server thread/DEBUG] [twilightforest/]: Player Nefario99 (fbb53e14-15bb-301e-ba91-84f057026ea3) respawned and received items held in storage
+[24Dec2024 02:39:29.950] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[24Dec2024 02:39:43.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax has made the advancement [Sick Shard]
+[24Dec2024 02:40:10.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax was struck down by Legioner
+[24Dec2024 02:40:11.815] [Server thread/DEBUG] [twilightforest/]: Player Domitax (7effd5be-38be-38d2-9d2c-a8327f0f217a) respawned and received items held in storage
+[24Dec2024 02:41:27.461] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Candice'/53326, l='ServerLevel[world]', x=-1627.70, y=65.00, z=6012.70] died, message: 'Candice was shot by Pillager'
+[24Dec2024 02:41:27.461] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Candice'/53326, l='ServerLevel[world]', x=-1627.70, y=65.00, z=6012.70] died: Candice was shot by Pillager
+[24Dec2024 02:42:49.900] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[24Dec2024 02:42:49.900] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[24Dec2024 02:43:05.005] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed IceologerEntity['Iceologer'/54642, l='ServerLevel[world]', x=-1607.50, y=67.00, z=5936.50, removed=DISCARDED].
+[24Dec2024 02:43:17.263] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Luther'/44192, l='ServerLevel[world]', x=-1566.30, y=62.00, z=5955.50] died, message: 'Luther was slain by Vex'
+[24Dec2024 02:43:17.263] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Luther'/44192, l='ServerLevel[world]', x=-1566.30, y=62.00, z=5955.50] died: Luther was slain by Vex
+[24Dec2024 02:43:42.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAN9IRV018 was slain by Vindicator
+[24Dec2024 02:43:43.787] [Server thread/DEBUG] [twilightforest/]: Player IAN9IRV018 (87cdf4ed-e9f7-3845-9a2f-252f8164e2be) respawned and received items held in storage
+[24Dec2024 02:43:55.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 was slain by Ravager
+[24Dec2024 02:43:56.783] [Server thread/DEBUG] [twilightforest/]: Player Nefario99 (fbb53e14-15bb-301e-ba91-84f057026ea3) respawned and received items held in storage
+[24Dec2024 02:43:58.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAN9IRV018 was slain by Ravager
+[24Dec2024 02:44:00.108] [Server thread/DEBUG] [twilightforest/]: Player IAN9IRV018 (87cdf4ed-e9f7-3845-9a2f-252f8164e2be) respawned and received items held in storage
+[24Dec2024 02:44:03.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 was slain by Vex
+[24Dec2024 02:44:04.792] [Server thread/DEBUG] [twilightforest/]: Player Nefario99 (fbb53e14-15bb-301e-ba91-84f057026ea3) respawned and received items held in storage
+[24Dec2024 02:44:11.540] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 02:44:11.569] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 02:44:15.432] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Domitax moved wrongly!
+[24Dec2024 02:44:25.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAN9IRV018 was slain by Ravager
+[24Dec2024 02:44:27.340] [Server thread/DEBUG] [twilightforest/]: Player IAN9IRV018 (87cdf4ed-e9f7-3845-9a2f-252f8164e2be) respawned and received items held in storage
+[24Dec2024 02:44:42.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAN9IRV018 was struck down by Legioner
+[24Dec2024 02:44:43.986] [Server thread/DEBUG] [twilightforest/]: Player IAN9IRV018 (87cdf4ed-e9f7-3845-9a2f-252f8164e2be) respawned and received items held in storage
+[24Dec2024 02:44:59.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAN9IRV018 was slain by Ravager
+[24Dec2024 02:45:01.192] [Server thread/DEBUG] [twilightforest/]: Player IAN9IRV018 (87cdf4ed-e9f7-3845-9a2f-252f8164e2be) respawned and received items held in storage
+[24Dec2024 02:45:21.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 was blown up by Creepie
+[24Dec2024 02:45:26.431] [Server thread/DEBUG] [twilightforest/]: Player Nefario99 (fbb53e14-15bb-301e-ba91-84f057026ea3) respawned and received items held in storage
+[24Dec2024 02:45:44.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 was blown up by Creepie
+[24Dec2024 02:45:46.421] [Server thread/DEBUG] [twilightforest/]: Player Nefario99 (fbb53e14-15bb-301e-ba91-84f057026ea3) respawned and received items held in storage
+[24Dec2024 02:45:59.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax was slain by Vex
+[24Dec2024 02:46:00.931] [Server thread/DEBUG] [twilightforest/]: Player Domitax (7effd5be-38be-38d2-9d2c-a8327f0f217a) respawned and received items held in storage
+[24Dec2024 02:46:05.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 was slain by Griefer
+[24Dec2024 02:46:06.285] [Server thread/DEBUG] [twilightforest/]: Player Nefario99 (fbb53e14-15bb-301e-ba91-84f057026ea3) respawned and received items held in storage
+[24Dec2024 02:46:10.050] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[24Dec2024 02:46:14.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 was slain by Vex
+[24Dec2024 02:46:15.298] [Server thread/DEBUG] [twilightforest/]: Player Nefario99 (fbb53e14-15bb-301e-ba91-84f057026ea3) respawned and received items held in storage

@@ -1178,6 +1178,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2024-12-24 02:41:07 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/stoneworks.main/andesite_shingle_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-22 02:11:01 +0000"
@@ -3048,6 +3054,7 @@
       "savage_and_ravage:creepie": "2024-12-24 02:22:49 +0000",
       "minecraft:vindicator": "2024-12-24 02:06:09 +0000",
       "minecraft:spider": "2024-12-21 05:25:04 +0000",
+      "savage_and_ravage:trickster": "2024-12-24 02:36:54 +0000",
       "minecraft:witch": "2024-12-22 03:21:49 +0000",
       "minecraft:stray": "2024-12-21 05:18:33 +0000",
       "minecraft:zombie": "2024-12-21 05:05:07 +0000",
