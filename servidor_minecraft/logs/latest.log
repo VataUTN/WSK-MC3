@@ -4164,3 +4164,34 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [24Dec2024 01:38:59.342] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7effd5be-38be-38d2-9d2c-a8327f0f217a
 [24Dec2024 01:38:59.348] [Server thread/INFO] [Jade/]: Syncing config to Domitax (7effd5be-38be-38d2-9d2c-a8327f0f217a)
 [24Dec2024 01:41:04.235] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18434ms or 368 ticks behind
+[24Dec2024 01:44:11.501] [Worker-Main-50/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=7, z=-24}
+[24Dec2024 01:44:11.502] [Worker-Main-50/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=259, y=6, z=-25}
+[24Dec2024 01:44:21.081] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=884, y=-33, z=-1856} but found not block entity block Block{minecraft:cave_air} at location
+[24Dec2024 01:44:21.082] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=884, y=-33, z=-1856}
+[24Dec2024 01:44:37.940] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[24Dec2024 01:45:41.140] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=7, z=-24}
+[24Dec2024 01:45:41.141] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=259, y=6, z=-25}
+[24Dec2024 01:45:49.995] [Worker-Main-50/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=7, z=-24}
+[24Dec2024 01:45:49.996] [Worker-Main-50/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=259, y=6, z=-25}
+[24Dec2024 01:46:04.676] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=7, z=-24}
+[24Dec2024 01:46:04.676] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=259, y=6, z=-25}
+[24Dec2024 01:46:18.388] [Worker-Main-50/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=7, z=-24}
+[24Dec2024 01:46:18.388] [Worker-Main-50/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=259, y=6, z=-25}
+[24Dec2024 01:47:32.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAN9IRV018 was slain by Skeleton
+[24Dec2024 01:48:31.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAN9IRV018 was shot by Skeleton
+[24Dec2024 01:48:43.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported IAN9IRV018 to Nefario99
+[24Dec2024 01:49:10.431] [Worker-Main-50/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=8, z=2}
+[24Dec2024 01:49:10.431] [Worker-Main-50/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=7, z=0}
+[24Dec2024 01:49:10.432] [Worker-Main-50/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=257, y=6, z=2}
+[24Dec2024 01:49:10.432] [Worker-Main-50/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=256, y=6, z=0}
+[24Dec2024 01:49:17.985] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Domitax) moved wrongly! 0.3998794198323168
+[24Dec2024 01:49:18.025] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Domitax) moved wrongly! 0.7997588396646336
+[24Dec2024 01:49:18.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Domitax) moved wrongly! 1.1624103988868342
+[24Dec2024 01:49:18.128] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Domitax) moved wrongly! 1.2023983504039393
+[24Dec2024 01:49:18.173] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Domitax) moved wrongly! 1.2783754573330555
+[24Dec2024 01:49:18.194] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Domitax) moved wrongly! 1.3867428032749274
+[24Dec2024 01:49:24.043] [Worker-Main-50/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=7, z=-24}
+[24Dec2024 01:49:24.044] [Worker-Main-50/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=259, y=6, z=-25}
+[24Dec2024 01:50:00.367] [Worker-Main-50/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=7, z=-24}
+[24Dec2024 01:50:00.368] [Worker-Main-50/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=259, y=6, z=-25}
+[24Dec2024 01:51:28.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAN9IRV018 was slain by Skeleton

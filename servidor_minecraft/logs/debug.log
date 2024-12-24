@@ -18369,3 +18369,127 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [24Dec2024 01:42:34.715] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/entrance/entrance_1
 [24Dec2024 01:42:49.600] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
 [24Dec2024 01:42:49.600] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[24Dec2024 01:44:08.920] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 01:44:08.957] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 01:44:11.069] [Worker-Main-50/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_circle_3
+[24Dec2024 01:44:11.078] [Worker-Main-50/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_circle_2
+[24Dec2024 01:44:11.082] [Worker-Main-50/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_circle_1
+[24Dec2024 01:44:11.501] [Worker-Main-50/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=7, z=-24}
+[24Dec2024 01:44:11.502] [Worker-Main-50/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=259, y=6, z=-25}
+[24Dec2024 01:44:20.986] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/mushroom_3
+[24Dec2024 01:44:20.988] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/mushroom_1
+[24Dec2024 01:44:21.027] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:dungeons/mushroom_2
+[24Dec2024 01:44:21.081] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=884, y=-33, z=-1856} but found not block entity block Block{minecraft:cave_air} at location
+[24Dec2024 01:44:21.082] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=884, y=-33, z=-1856}
+[24Dec2024 01:44:37.940] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[24Dec2024 01:45:12.421] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of betterwitchhuts:oak/witch_hut_double
+[24Dec2024 01:45:12.426] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of betterwitchhuts:dark_forest/witch_hut_double
+[24Dec2024 01:45:12.433] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of betterwitchhuts:giant_tree_taiga/witch_hut_double
+[24Dec2024 01:45:12.438] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of betterwitchhuts:birch/witch_hut_double
+[24Dec2024 01:45:12.442] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of betterwitchhuts:taiga/witch_hut_double
+[24Dec2024 01:45:38.735] [Worker-Main-50/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:maya_temple
+[24Dec2024 01:45:41.140] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=7, z=-24}
+[24Dec2024 01:45:41.141] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=259, y=6, z=-25}
+[24Dec2024 01:45:43.272] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:starts/junction_lg
+[24Dec2024 01:45:49.995] [Worker-Main-50/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=7, z=-24}
+[24Dec2024 01:45:49.996] [Worker-Main-50/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=259, y=6, z=-25}
+[24Dec2024 01:45:51.216] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:ghosttown/roads/street_04
+[24Dec2024 01:46:04.676] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=7, z=-24}
+[24Dec2024 01:46:04.676] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=259, y=6, z=-25}
+[24Dec2024 01:46:09.750] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[24Dec2024 01:46:16.828] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/roof/roof_1_2
+[24Dec2024 01:46:16.830] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/roof/roof_split_1
+[24Dec2024 01:46:16.831] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/roof/roof_2_straight_1
+[24Dec2024 01:46:16.833] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/roof/roof_3_3
+[24Dec2024 01:46:16.836] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/big/room_big_4
+[24Dec2024 01:46:16.839] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/dungeon/room_12
+[24Dec2024 01:46:16.840] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/dungeon/room_11
+[24Dec2024 01:46:16.842] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/dungeon/room_10
+[24Dec2024 01:46:16.843] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/roof/roof_4_1
+[24Dec2024 01:46:16.844] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/dungeon/room_9
+[24Dec2024 01:46:16.846] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/dungeon/room_8
+[24Dec2024 01:46:16.846] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/dungeon/door_5
+[24Dec2024 01:46:16.847] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/corridor/t/corridor_t_2
+[24Dec2024 01:46:16.849] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_4
+[24Dec2024 01:46:16.851] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_25
+[24Dec2024 01:46:16.854] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/big/room_big_11
+[24Dec2024 01:46:16.857] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_8
+[24Dec2024 01:46:16.858] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_21
+[24Dec2024 01:46:16.859] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_33
+[24Dec2024 01:46:16.861] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_7
+[24Dec2024 01:46:16.862] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_10
+[24Dec2024 01:46:16.865] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/big/room_big_1
+[24Dec2024 01:46:16.866] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_1
+[24Dec2024 01:46:16.867] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_23
+[24Dec2024 01:46:16.868] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_9
+[24Dec2024 01:46:16.870] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/corridor/cross/corridor_cross_3
+[24Dec2024 01:46:16.871] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_12
+[24Dec2024 01:46:16.872] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/big/room_big_7
+[24Dec2024 01:46:16.874] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_14
+[24Dec2024 01:46:16.875] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_11
+[24Dec2024 01:46:16.876] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/room_22
+[24Dec2024 01:46:16.877] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/room/big/room_big_9
+[24Dec2024 01:46:16.879] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/dungeon/room_7
+[24Dec2024 01:46:16.879] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/wall/flat/wall_flat_1
+[24Dec2024 01:46:16.880] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomemakeover:mansion/corridor/cross/corridor_cross_2
+[24Dec2024 01:46:18.388] [Worker-Main-50/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=7, z=-24}
+[24Dec2024 01:46:18.388] [Worker-Main-50/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=259, y=6, z=-25}
+[24Dec2024 01:46:26.080] [Worker-Main-50/DEBUG] [ModernFix/]: Using cached upgraded version of betterwitchhuts:witch_circle
+[24Dec2024 01:46:32.357] [Worker-Main-50/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_spawn_altar_2
+[24Dec2024 01:46:32.358] [Worker-Main-50/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_7
+[24Dec2024 01:46:32.368] [Worker-Main-50/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_1
+[24Dec2024 01:46:32.373] [Worker-Main-50/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_spawn_altar_3
+[24Dec2024 01:46:32.374] [Worker-Main-50/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_3
+[24Dec2024 01:46:32.378] [Worker-Main-50/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_2
+[24Dec2024 01:46:32.381] [Worker-Main-50/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_spawn_altar_1
+[24Dec2024 01:46:32.382] [Worker-Main-50/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_6
+[24Dec2024 01:46:32.386] [Worker-Main-50/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_4
+[24Dec2024 01:46:32.390] [Worker-Main-50/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_spawn_altar_2
+[24Dec2024 01:46:32.394] [Worker-Main-50/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_spawn_altar_1
+[24Dec2024 01:46:36.985] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:deep_ruins
+[24Dec2024 01:46:43.998] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of structory:decoration/jungle_well
+[24Dec2024 01:47:32.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAN9IRV018 was slain by Skeleton
+[24Dec2024 01:47:36.133] [Server thread/DEBUG] [twilightforest/]: Player IAN9IRV018 (87cdf4ed-e9f7-3845-9a2f-252f8164e2be) respawned and received items held in storage
+[24Dec2024 01:48:31.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAN9IRV018 was shot by Skeleton
+[24Dec2024 01:48:33.067] [Server thread/DEBUG] [twilightforest/]: Player IAN9IRV018 (87cdf4ed-e9f7-3845-9a2f-252f8164e2be) respawned and received items held in storage
+[24Dec2024 01:48:43.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported IAN9IRV018 to Nefario99
+[24Dec2024 01:49:08.933] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 01:49:08.962] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 01:49:10.431] [Worker-Main-50/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=8, z=2}
+[24Dec2024 01:49:10.431] [Worker-Main-50/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=7, z=0}
+[24Dec2024 01:49:10.432] [Worker-Main-50/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=257, y=6, z=2}
+[24Dec2024 01:49:10.432] [Worker-Main-50/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=256, y=6, z=0}
+[24Dec2024 01:49:17.985] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Domitax) moved wrongly! 0.3998794198323168
+[24Dec2024 01:49:18.025] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Domitax) moved wrongly! 0.7997588396646336
+[24Dec2024 01:49:18.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Domitax) moved wrongly! 1.1624103988868342
+[24Dec2024 01:49:18.128] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Domitax) moved wrongly! 1.2023983504039393
+[24Dec2024 01:49:18.173] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Domitax) moved wrongly! 1.2783754573330555
+[24Dec2024 01:49:18.194] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Domitax) moved wrongly! 1.3867428032749274
+[24Dec2024 01:49:24.043] [Worker-Main-50/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=7, z=-24}
+[24Dec2024 01:49:24.044] [Worker-Main-50/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=259, y=6, z=-25}
+[24Dec2024 01:49:29.700] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[24Dec2024 01:50:00.367] [Worker-Main-50/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=7, z=-24}
+[24Dec2024 01:50:00.368] [Worker-Main-50/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=259, y=6, z=-25}
+[24Dec2024 01:50:21.527] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/farm_ruin/connector
+[24Dec2024 01:50:21.528] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:entities/villager/bandit
+[24Dec2024 01:50:21.531] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/farm_ruin/outer1
+[24Dec2024 01:50:54.485] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of yungsbridges:bridge/stone/16_0_broken
+[24Dec2024 01:51:28.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAN9IRV018 was slain by Skeleton
+[24Dec2024 01:51:30.745] [Server thread/DEBUG] [twilightforest/]: Player IAN9IRV018 (87cdf4ed-e9f7-3845-9a2f-252f8164e2be) respawned and received items held in storage
+[24Dec2024 01:52:49.650] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[24Dec2024 01:52:49.650] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[24Dec2024 01:54:07.873] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_underground/main_piece
+[24Dec2024 01:54:07.883] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/ruin2
+[24Dec2024 01:54:07.891] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/house1
+[24Dec2024 01:54:07.899] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/connector4
+[24Dec2024 01:54:07.908] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/connector3
+[24Dec2024 01:54:07.924] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/connector1
+[24Dec2024 01:54:07.924] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/connector2
+[24Dec2024 01:54:07.925] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/connector5
+[24Dec2024 01:54:07.930] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/doorway
+[24Dec2024 01:54:07.950] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/castle1
+[24Dec2024 01:54:08.012] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/castle2
+[24Dec2024 01:54:08.019] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/mound_corner
+[24Dec2024 01:54:08.039] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/mound1
+[24Dec2024 01:54:08.927] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 01:54:08.988] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

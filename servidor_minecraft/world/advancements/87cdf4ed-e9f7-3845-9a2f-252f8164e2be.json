@@ -513,6 +513,12 @@
     },
     "done": true
   },
+  "twilightdelight:recipes/frozen/cutting/ice_sword": {
+    "criteria": {
+      "has_diamond_sword": "2024-12-24 01:51:04 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/vegetable_noodles": {
     "criteria": {
       "has_any_ingredient": "2024-12-24 01:33:57 +0000"
@@ -808,6 +814,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_sword_repairing": {
+    "criteria": {
+      "has_diamond_sword": "2024-12-24 01:51:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 05:45:24 +0000"
@@ -835,6 +847,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2024-12-21 04:54:44 +0000"
+    },
+    "done": true
+  },
+  "windswept:recipes/misc/rose_flower_banner_pattern": {
+    "criteria": {
+      "has_roses": "2024-12-24 01:48:29 +0000"
     },
     "done": true
   },
@@ -930,7 +948,8 @@
       "minecraft:spider": "2024-12-21 05:25:04 +0000",
       "minecraft:witch": "2024-12-22 03:21:49 +0000",
       "minecraft:stray": "2024-12-21 05:18:33 +0000",
-      "minecraft:zombie": "2024-12-21 05:05:07 +0000"
+      "minecraft:zombie": "2024-12-21 05:05:07 +0000",
+      "minecraft:drowned": "2024-12-24 01:45:06 +0000"
     },
     "done": false
   },
@@ -1255,6 +1274,12 @@
   "vinery:spruce_wine_rack_small": {
     "criteria": {
       "has_spruce_planks": "2024-12-22 03:05:22 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_sword_repairing": {
+    "criteria": {
+      "has_iron_sword": "2024-12-24 01:50:50 +0000"
     },
     "done": true
   },
@@ -1901,6 +1926,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/iron_axe_repairing": {
+    "criteria": {
+      "has_iron_axe": "2024-12-24 01:52:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2024-12-21 04:52:33 +0000"
@@ -2261,6 +2292,12 @@
       "dirt": "2024-12-21 05:25:50 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-12-24 01:43:25 +0000"
+    },
+    "done": true
   },
   "stoneworks:recipes/stoneworks.main/andesite_shingle_stairs_from_andesite_stonecutting": {
     "criteria": {
@@ -2930,6 +2967,12 @@
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-21 05:11:19 +0000"
+    },
+    "done": true
+  },
+  "windswept:recipes/misc/yellow_dye_from_yellow_rose_bush": {
+    "criteria": {
+      "has_yellow_rose_bush": "2024-12-24 01:48:29 +0000"
     },
     "done": true
   },
@@ -4071,6 +4114,12 @@
   "farmersdelight:recipes/farmersdelight/melon_juice": {
     "criteria": {
       "has_melon_slice": "2024-12-21 05:40:42 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_chestplate_repairing": {
+    "criteria": {
+      "has_iron_chestplate": "2024-12-24 01:53:14 +0000"
     },
     "done": true
   },
