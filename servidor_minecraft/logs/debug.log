@@ -22132,3 +22132,16 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [24Dec2024 04:59:30.650] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
 [24Dec2024 04:59:52.189] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-1235, y=65, z=3271} in ResourceKey[minecraft:dimension / minecraft:overworld]
 [24Dec2024 04:59:54.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Domitax no longer a server operator
+[24Dec2024 05:01:02.266] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Return portal found, redirecting! :)
+[24Dec2024 05:01:02.278] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=-144, y=37, z=412} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[24Dec2024 05:01:02.279] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=-144, y=37, z=412} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[24Dec2024 05:01:02.999] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_plus:tower/top/full
+[24Dec2024 05:02:50.600] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[24Dec2024 05:02:50.600] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[24Dec2024 05:04:11.567] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 05:04:11.592] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 05:06:10.750] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[24Dec2024 05:08:46.434] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:boat_2
+[24Dec2024 05:09:11.556] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 05:09:11.583] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 05:09:30.700] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
