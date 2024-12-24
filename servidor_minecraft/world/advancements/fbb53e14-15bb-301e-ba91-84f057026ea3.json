@@ -3629,6 +3629,12 @@
     },
     "done": true
   },
+  "vinery:grass_slab": {
+    "criteria": {
+      "has_grass_block": "2024-12-24 18:18:16 +0000"
+    },
+    "done": true
+  },
   "clayworks:recipes/building_blocks/gray_terracotta_slab": {
     "criteria": {
       "has_gray_terracotta": "2024-12-24 01:00:21 +0000"
@@ -6852,6 +6858,7 @@
   },
   "immersive_weathering:immersive_weathering/dirts": {
     "criteria": {
+      "grass": "2024-12-24 18:18:16 +0000",
       "dirt": "2024-12-21 22:50:39 +0000"
     },
     "done": false
