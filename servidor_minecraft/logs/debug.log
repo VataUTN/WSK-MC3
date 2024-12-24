@@ -15259,3 +15259,30 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [24Dec2024 17:15:39.517] [Server thread/DEBUG] [mixin/]: Mixing net.minecraftforge.items.wrapper.PlayerArmorInvWrapperMixin from redirector-forge.mixins.json into net.minecraftforge.items.wrapper.PlayerArmorInvWrapper
 [24Dec2024 17:15:39.517] [Server thread/DEBUG] [mixin/]: redirector-forge.mixins.json:net.minecraftforge.items.wrapper.PlayerArmorInvWrapperMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
 [24Dec2024 17:15:49.960] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[24Dec2024 17:19:09.910] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[24Dec2024 17:19:09.910] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[24Dec2024 17:19:16.488] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 17:19:16.522] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 17:20:12.489] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/rooms/large_hall
+[24Dec2024 17:20:12.493] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/walkways/stairs
+[24Dec2024 17:20:12.494] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/shafts/dead_end
+[24Dec2024 17:20:12.496] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/intersections/three_way
+[24Dec2024 17:20:12.498] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/intersections/four_way
+[24Dec2024 17:20:12.500] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/shafts/small
+[24Dec2024 17:20:12.501] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/dead_ends/chest
+[24Dec2024 17:20:12.503] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/walkways/lava
+[24Dec2024 17:20:12.504] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/rooms/library
+[24Dec2024 17:20:12.506] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/dead_ends/normal
+[24Dec2024 17:20:12.507] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/walkways/iron_bars
+[24Dec2024 17:20:12.508] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/walkways/spawner
+[24Dec2024 17:20:12.510] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/walkways/normal
+[24Dec2024 17:20:12.515] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/rooms/dungeon
+[24Dec2024 17:20:12.520] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/rooms/bedroom
+[24Dec2024 17:20:12.524] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/walkways/stairs_bars
+[24Dec2024 17:20:12.527] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/walkways/broken
+[24Dec2024 17:20:12.530] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/rooms/cells
+[24Dec2024 17:20:12.533] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/shafts/large
+[24Dec2024 17:22:30.060] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[24Dec2024 17:24:16.484] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 17:24:16.512] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 17:25:50.010] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
