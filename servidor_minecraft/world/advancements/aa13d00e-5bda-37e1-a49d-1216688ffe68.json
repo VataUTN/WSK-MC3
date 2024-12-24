@@ -971,6 +971,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/decorations/acacia_leaf_pile": {
+    "criteria": {
+      "has_acacia_leaves": "2024-12-24 16:54:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2024-12-21 22:06:45 +0000"
@@ -1413,6 +1419,12 @@
   "stoneworks:recipes/stoneworks.main/mossy_netherrack_brick_wall_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2024-12-22 23:57:29 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/acacia_leaves": {
+    "criteria": {
+      "has_copper_block": "2024-12-24 16:54:34 +0000"
     },
     "done": true
   },
@@ -1989,6 +2001,12 @@
   "blue_skies:recipes/blue_skies_everbright_blocks/cracked_turquoise_stonebrick_from_smelting_turquoise_stonebrick": {
     "criteria": {
       "has_item": "2024-12-22 01:37:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2024-12-24 17:01:30 +0000"
     },
     "done": true
   },
@@ -4319,6 +4337,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/decorations/spruce_leaf_pile": {
+    "criteria": {
+      "has_spruce_leaves": "2024-12-24 16:54:23 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/leather_boots_repairing": {
     "criteria": {
       "has_leather_boots": "2024-12-22 00:00:16 +0000"
@@ -5886,6 +5910,12 @@
     },
     "done": true
   },
+  "immersive_weathering:recipes/jungle_leaves": {
+    "criteria": {
+      "has_copper_block": "2024-12-24 16:54:28 +0000"
+    },
+    "done": true
+  },
   "clayworks:recipes/building_blocks/terracotta_stairs": {
     "criteria": {
       "has_terracotta": "2024-12-23 03:04:25 +0000"
@@ -6844,6 +6874,18 @@
   "delightful:recipes/food/cooking/nut_milk": {
     "criteria": {
       "has_nuts": "2024-12-21 02:15:47 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/spruce_leaves": {
+    "criteria": {
+      "has_copper_block": "2024-12-24 16:54:23 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/jungle_leaf_pile": {
+    "criteria": {
+      "has_jungle_leaves": "2024-12-24 16:54:28 +0000"
     },
     "done": true
   },
