@@ -3461,6 +3461,12 @@
     },
     "done": true
   },
+  "clayworks:recipes/misc/lime_dye_from_baking": {
+    "criteria": {
+      "has_sea_pickle": "2024-12-24 06:27:11 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/db/quark/blossom_support": {
     "criteria": {
       "has_planks": "2024-12-24 05:54:00 +0000"
@@ -5753,6 +5759,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2024-12-24 06:27:11 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_smithing_table": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 22:06:46 +0000"
@@ -7702,6 +7714,12 @@
   "handcrafted:recipes/misc/stone_pillar_trim": {
     "criteria": {
       "has_pillar_trim": "2024-12-23 05:27:14 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_leviathan": {
+    "criteria": {
+      "ignis": "2024-12-24 06:28:38 +0000"
     },
     "done": true
   },
