@@ -9483,15 +9483,15 @@
     },
     "done": true
   },
-  "decorative_blocks:recipes/decorative_blocks.general/warped_support": {
-    "criteria": {
-      "has_plank": "2024-12-24 04:23:03 +0000"
-    },
-    "done": true
-  },
   "woodworks:recipes/redstone/warped_pressure_plate_from_warped_stems_sawing": {
     "criteria": {
       "has_warped_stems": "2024-12-24 04:22:52 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/warped_support": {
+    "criteria": {
+      "has_plank": "2024-12-24 04:23:03 +0000"
     },
     "done": true
   },

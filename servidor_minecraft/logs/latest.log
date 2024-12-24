@@ -4488,3 +4488,26 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [24Dec2024 04:28:35.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAN9IRV018 was slain by Zap
 [24Dec2024 04:32:25.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax was slain by Reinforced Blaze
 [24Dec2024 04:33:39.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax was slain by Reinforced Blaze
+[24Dec2024 04:40:12.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax was slain by Reinforced Blaze
+[24Dec2024 04:40:28.263] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Domitax lost connection: Disconnected
+[24Dec2024 04:40:28.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax left the game
+[24Dec2024 04:40:28.264] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7effd5be-38be-38d2-9d2c-a8327f0f217a
+[24Dec2024 04:51:12.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 2 of a max of 20 players online: Joacoo_17, IAN9IRV018
+[24Dec2024 04:54:49.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 2 of a max of 20 players online: Joacoo_17, IAN9IRV018
+[24Dec2024 04:57:18.826] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7c1d6c99
+[24Dec2024 04:57:18.842] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Domitax[/127.232.93.209:33903] logged in with entity id 114573 at (-347.3334629344444, 70.17675927506424, 512.0330984270645)
+[24Dec2024 04:57:18.844] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Domitax
+[24Dec2024 04:57:18.844] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Domitax
+[24Dec2024 04:57:18.844] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Domitax
+[24Dec2024 04:57:18.844] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Domitax
+[24Dec2024 04:57:18.846] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Domitax
+[24Dec2024 04:57:18.848] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Domitax
+[24Dec2024 04:57:18.848] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Domitax
+[24Dec2024 04:57:18.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax joined the game
+[24Dec2024 04:57:18.889] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7effd5be-38be-38d2-9d2c-a8327f0f217a
+[24Dec2024 04:57:18.903] [Server thread/INFO] [Jade/]: Syncing config to Domitax (7effd5be-38be-38d2-9d2c-a8327f0f217a)
+[24Dec2024 04:58:16.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Domitax to Domitax
+[24Dec2024 04:58:24.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Domitax to IAN9IRV018
+[24Dec2024 04:58:35.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A player is required to run this command here
+[24Dec2024 04:59:23.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Domitax a server operator
+[24Dec2024 04:59:54.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Domitax no longer a server operator
