@@ -4486,3 +4486,5 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [24Dec2024 04:27:05.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAN9IRV018 has reached the goal [Riders On The Storm]
 [24Dec2024 04:27:59.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax was slain by Incomplete Wither
 [24Dec2024 04:28:35.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAN9IRV018 was slain by Zap
+[24Dec2024 04:32:25.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax was slain by Reinforced Blaze
+[24Dec2024 04:33:39.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax was slain by Reinforced Blaze
