@@ -750,6 +750,12 @@
     },
     "done": true
   },
+  "immersive_weathering:immersive_weathering/weeds": {
+    "criteria": {
+      "wheat": "2024-12-23 23:35:24 +0000"
+    },
+    "done": true
+  },
   "goodending:recipes/cypress_boat": {
     "criteria": {
       "in_water": "2024-12-21 02:22:48 +0000"
