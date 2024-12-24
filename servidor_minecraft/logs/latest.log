@@ -4241,3 +4241,38 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [24Dec2024 02:15:00.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
 [24Dec2024 02:15:00.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...p Domitax  -2023 69 -1915<--[HERE]
 [24Dec2024 02:15:05.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Domitax to -2022.500000, 69.000000, -1914.500000
+[24Dec2024 02:15:11.333] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Miles'/44158, l='ServerLevel[world]', x=-1526.29, y=65.00, z=5906.29] died: Miles was slain by Griefer
+[24Dec2024 02:15:16.151] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['David'/44157, l='ServerLevel[world]', x=-1534.41, y=65.00, z=5909.16] died: David was blown up by Creepie
+[24Dec2024 02:15:23.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 was slain by Vindicator
+[24Dec2024 02:15:29.418] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Sung'/44153, l='ServerLevel[world]', x=-1529.16, y=65.00, z=5908.54] died: Sung was slain by Vindicator
+[24Dec2024 02:16:22.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 was slain by Vindicator
+[24Dec2024 02:16:30.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAN9IRV018 was slain by Vindicator
+[24Dec2024 02:16:34.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 was slain by Vindicator
+[24Dec2024 02:16:44.066] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cindi'/44113, l='ServerLevel[world]', x=-1521.30, y=66.56, z=5909.70] died, message: 'Cindi was slain by Vindicator'
+[24Dec2024 02:16:44.067] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Cindi'/44113, l='ServerLevel[world]', x=-1521.30, y=66.56, z=5909.70] died: Cindi was slain by Vindicator
+[24Dec2024 02:16:56.564] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Herman'/44094, l='ServerLevel[world]', x=-1539.06, y=66.00, z=5933.48] died, message: 'Herman was slain by Vindicator'
+[24Dec2024 02:16:56.565] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Herman'/44094, l='ServerLevel[world]', x=-1539.06, y=66.00, z=5933.48] died: Herman was slain by Vindicator
+[24Dec2024 02:17:05.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Domitax to Nefario99
+[24Dec2024 02:17:51.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAN9IRV018 has made the advancement [Ol' Betsy]
+[24Dec2024 02:17:52.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAN9IRV018 has made the advancement [Take Aim]
+[24Dec2024 02:18:34.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 was slain by Vindicator
+[24Dec2024 02:18:35.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax was chopped to bits by Skirmisher
+[24Dec2024 02:18:56.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 has reached the goal [Smooth Criminal]
+[24Dec2024 02:19:20.665] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IAN9IRV018 lost connection: Disconnected
+[24Dec2024 02:19:20.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAN9IRV018 left the game
+[24Dec2024 02:19:20.666] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 87cdf4ed-e9f7-3845-9a2f-252f8164e2be
+[24Dec2024 02:21:44.822] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@240256c7
+[24Dec2024 02:21:44.836] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IAN9IRV018[/127.216.147.106:60661] logged in with entity id 47360 at (-1507.3797767429608, 40.275125, 5934.300000011921)
+[24Dec2024 02:21:44.837] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to IAN9IRV018
+[24Dec2024 02:21:44.837] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to IAN9IRV018
+[24Dec2024 02:21:44.837] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to IAN9IRV018
+[24Dec2024 02:21:44.837] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to IAN9IRV018
+[24Dec2024 02:21:44.839] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to IAN9IRV018
+[24Dec2024 02:21:44.840] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to IAN9IRV018
+[24Dec2024 02:21:44.840] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to IAN9IRV018
+[24Dec2024 02:21:44.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAN9IRV018 joined the game
+[24Dec2024 02:21:44.901] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 87cdf4ed-e9f7-3845-9a2f-252f8164e2be
+[24Dec2024 02:21:44.906] [Server thread/INFO] [Jade/]: Syncing config to IAN9IRV018 (87cdf4ed-e9f7-3845-9a2f-252f8164e2be)
+[24Dec2024 02:23:20.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAN9IRV018 has made the advancement [Creepie Crawly]
+[24Dec2024 02:23:55.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Domitax> xaero-waypoint:vinland:V:544:64:-264:12:false:0:Internal-overworld-waypoints
+[24Dec2024 02:25:08.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 has made the advancement [World of illusion]

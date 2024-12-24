@@ -938,6 +938,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-12-24 02:18:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2024-12-21 22:54:50 +0000"
@@ -1198,7 +1204,8 @@
   },
   "repurposed_structures:villages": {
     "criteria": {
-      "in_village_mushroom": "2024-12-22 22:42:26 +0000"
+      "in_village_mushroom": "2024-12-22 22:42:26 +0000",
+      "in_village_oak": "2024-12-24 02:14:41 +0000"
     },
     "done": false
   },
@@ -2967,6 +2974,12 @@
     },
     "done": true
   },
+  "environmental:adventure/upgrade_thief_hood": {
+    "criteria": {
+      "upgrade": "2024-12-24 02:18:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-21 23:17:58 +0000"
@@ -3495,6 +3508,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2024-12-24 02:18:56 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/dry_bamboo_ladder": {
     "criteria": {
       "has_dry_bamboo": "2024-12-21 22:45:52 +0000"
@@ -3756,6 +3775,12 @@
   "woodworks:recipes/building_blocks/dark_oak_boards_from_dark_oak_logs_sawing": {
     "criteria": {
       "has_dark_oak_logs": "2024-12-21 22:46:31 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/iron_nugget": {
+    "criteria": {
+      "has_copper_block": "2024-12-24 02:18:56 +0000"
     },
     "done": true
   },
@@ -5820,6 +5845,12 @@
     },
     "done": true
   },
+  "windswept:recipes/misc/snow_golem_banner_pattern": {
+    "criteria": {
+      "has_golden_carrot": "2024-12-24 02:18:56 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/bamboo_bundle_uncrafting": {
     "criteria": {
       "has_bundle": "2024-12-21 22:45:52 +0000"
@@ -6339,6 +6370,12 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_fletching_table": {
+    "criteria": {
+      "has_flint": "2024-12-24 02:18:56 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/stone_axe_repairing": {
     "criteria": {
       "has_stone_axe": "2024-12-21 22:51:03 +0000"
@@ -6426,6 +6463,12 @@
   "environmental:recipes/transportation/wisteria_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-22 05:36:03 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_gloves_repairing": {
+    "criteria": {
+      "has_chainmail_gloves": "2024-12-24 02:18:56 +0000"
     },
     "done": true
   },
@@ -7316,6 +7359,12 @@
   "everycomp:recipes/everycomp/af/ecologics/coconut_chair": {
     "criteria": {
       "has_planks": "2024-12-22 20:38:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_chestplate_repairing": {
+    "criteria": {
+      "has_golden_chestplate": "2024-12-24 02:15:55 +0000"
     },
     "done": true
   },
@@ -8478,6 +8527,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/service_bell": {
+    "criteria": {
+      "has_nugget": "2024-12-24 02:18:56 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/spruce_sign_from_spruce_logs_sawing": {
     "criteria": {
       "has_spruce_logs": "2024-12-22 00:46:16 +0000"
@@ -8601,6 +8656,12 @@
   "ecologics:recipes/ecologics/coconut_sign": {
     "criteria": {
       "has_planks": "2024-12-22 20:38:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:18:56 +0000"
     },
     "done": true
   },
