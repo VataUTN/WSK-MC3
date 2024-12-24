@@ -4093,3 +4093,23 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [24Dec2024 17:55:48.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 joined the game
 [24Dec2024 17:55:48.295] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for aa13d00e-5bda-37e1-a49d-1216688ffe68
 [24Dec2024 17:55:48.300] [Server thread/INFO] [Jade/]: Syncing config to Vata74 (aa13d00e-5bda-37e1-a49d-1216688ffe68)
+[24Dec2024 18:09:48.858] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[24Dec2024 18:10:00.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[24Dec2024 18:10:00.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: me<--[HERE]
+[24Dec2024 18:10:02.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[24Dec2024 18:10:02.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: save<--[HERE]
+[24Dec2024 18:15:53.382] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vata74 lost connection: Disconnected
+[24Dec2024 18:15:53.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vata74 left the game
+[24Dec2024 18:15:53.384] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for aa13d00e-5bda-37e1-a49d-1216688ffe68
+[24Dec2024 18:15:53.965] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@57b4948d
+[24Dec2024 18:15:54.001] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nefario99[/127.74.28.59:57023] logged in with entity id 5231 at (-1230.4560870424834, 68.25, 3204.894497751348)
+[24Dec2024 18:15:54.002] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Nefario99
+[24Dec2024 18:15:54.002] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Nefario99
+[24Dec2024 18:15:54.003] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Nefario99
+[24Dec2024 18:15:54.003] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Nefario99
+[24Dec2024 18:15:54.006] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Nefario99
+[24Dec2024 18:15:54.009] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Nefario99
+[24Dec2024 18:15:54.010] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Nefario99
+[24Dec2024 18:15:54.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 joined the game
+[24Dec2024 18:15:54.109] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for fbb53e14-15bb-301e-ba91-84f057026ea3
+[24Dec2024 18:15:54.135] [Server thread/INFO] [Jade/]: Syncing config to Nefario99 (fbb53e14-15bb-301e-ba91-84f057026ea3)

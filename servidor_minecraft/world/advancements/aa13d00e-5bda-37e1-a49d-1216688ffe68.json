@@ -4727,6 +4727,12 @@
     },
     "done": true
   },
+  "immersive_weathering:recipes/dark_oak_leaves": {
+    "criteria": {
+      "has_copper_block": "2024-12-24 18:03:52 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/salmonberry_pips": {
     "criteria": {
       "has_salmonberries": "2024-12-21 02:27:46 +0000"
@@ -7020,6 +7026,12 @@
   "everycomp:recipes/everycomp/db/byg/jacaranda_seat": {
     "criteria": {
       "has_planks": "2024-12-24 05:22:04 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/dark_oak_leaf_pile": {
+    "criteria": {
+      "has_dark_oak_leaves": "2024-12-24 18:03:52 +0000"
     },
     "done": true
   },
