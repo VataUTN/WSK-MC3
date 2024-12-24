@@ -227,6 +227,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/galosphere/smooth_amethyst": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-24 05:49:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2024-12-21 04:43:14 +0000"
@@ -1037,6 +1043,18 @@
       "minecraft:warped_forest": "2024-12-23 00:03:54 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-24 05:45:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2024-12-24 05:49:43 +0000"
+    },
+    "done": true
   },
   "woodworks:recipes/redstone/oak_button_from_oak_logs_sawing": {
     "criteria": {
@@ -1927,6 +1945,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/galosphere/smooth_amethyst_stairs_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-24 05:49:46 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/golden_gloves_repairing": {
     "criteria": {
       "has_golden_gloves": "2024-12-22 03:50:48 +0000"
@@ -2489,6 +2513,12 @@
   "clayworks:recipes/building_blocks/red_terracotta_vertical_slab_from_red_terracotta_stonecutting": {
     "criteria": {
       "has_red_terracotta": "2024-12-23 03:11:13 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/galosphere/amethyst_stairs": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-24 05:49:46 +0000"
     },
     "done": true
   },
@@ -3341,6 +3371,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-24 05:45:48 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/ice_from_bucket_freezing": {
     "criteria": {
       "has_water_bucket": "2024-12-22 22:48:58 +0000"
@@ -3683,6 +3719,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-24 05:45:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2024-12-21 22:51:48 +0000"
@@ -3704,6 +3746,12 @@
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2024-12-23 05:27:14 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/amethyst_blocks/polished_amethyst": {
+    "criteria": {
+      "has_item": "2024-12-24 05:49:46 +0000"
     },
     "done": true
   },
@@ -3881,6 +3929,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/galosphere/amethyst_brick_slab_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-24 05:49:46 +0000"
+    },
+    "done": true
+  },
   "byg:recipes/byg.byg/jacaranda_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-24 05:22:04 +0000"
@@ -3980,6 +4034,12 @@
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2024-12-23 00:01:38 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/galosphere/smooth_amethyst_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-24 05:49:46 +0000"
     },
     "done": true
   },
@@ -4277,6 +4337,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/pasta_with_meatballs": {
     "criteria": {
       "has_any_ingredient": "2024-12-21 04:43:16 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/galosphere/smooth_amethyst_slab_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-24 05:49:46 +0000"
     },
     "done": true
   },
@@ -6120,6 +6186,12 @@
     },
     "done": true
   },
+  "twigs:recipes/amethyst_blocks/polished_amethyst_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-24 05:49:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-22 03:16:30 +0000"
@@ -6534,6 +6606,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/galosphere/amethyst_brick_stairs_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-24 05:49:46 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/af/byg/jacaranda_drawer": {
     "criteria": {
       "has_planks": "2024-12-24 05:22:04 +0000"
@@ -6663,6 +6741,12 @@
   "minecraft:recipes/decorations/brown_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2024-12-23 02:55:41 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/galosphere/amethyst_bricks_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-24 05:49:46 +0000"
     },
     "done": true
   },
@@ -6800,6 +6884,7 @@
       "byg:rainbow_beach": "2024-12-21 22:32:33 +0000",
       "byg:temperate_grove": "2024-12-21 04:45:25 +0000",
       "byg:black_forest": "2024-12-21 22:48:23 +0000",
+      "byg:orchard": "2024-12-24 05:42:56 +0000",
       "byg:red_oak_forest": "2024-12-23 05:46:43 +0000",
       "byg:rose_fields": "2024-12-22 04:01:18 +0000",
       "byg:cika_woods": "2024-12-21 04:42:28 +0000",
@@ -7218,6 +7303,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/galosphere/amethyst_stairs_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-24 05:49:46 +0000"
+    },
+    "done": true
+  },
   "clayworks:recipes/building_blocks/terracotta_stairs_from_terracotta_stonecutting": {
     "criteria": {
       "has_terracotta": "2024-12-23 03:04:24 +0000"
@@ -7402,6 +7493,12 @@
   "woodworks:recipes/decorations/crimson_ladder": {
     "criteria": {
       "has_stick": "2024-12-21 02:15:57 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/galosphere/amethyst_slab_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-24 05:49:46 +0000"
     },
     "done": true
   },
@@ -7946,9 +8043,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-12-24 05:45:49 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/oak_slab_from_oak_planks_sawing": {
     "criteria": {
       "has_oak_planks": "2024-12-21 02:15:17 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/amethyst_blocks/cut_amethyst_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-24 05:49:46 +0000"
     },
     "done": true
   },
@@ -8087,6 +8196,12 @@
   "woodworks:recipes/redstone/birch_button_from_birch_planks_sawing": {
     "criteria": {
       "has_birch_planks": "2024-12-22 01:04:59 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/galosphere/amethyst_slab": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-24 05:49:46 +0000"
     },
     "done": true
   },
@@ -9348,6 +9463,12 @@
   "aether:recipes/combat/golden_helmet_repairing": {
     "criteria": {
       "has_golden_helmet": "2024-12-23 02:40:53 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/galosphere/chiseled_amethyst_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-24 05:49:46 +0000"
     },
     "done": true
   },
