@@ -359,6 +359,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "mutton": "2024-12-24 01:20:16 +0000",
       "apple": "2024-12-23 04:09:46 +0000",
       "buzzier_bees:honey_bread": "2024-12-23 04:06:42 +0000",
       "carrot": "2024-12-24 01:05:49 +0000"
@@ -1292,6 +1293,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/diamond_pickaxe_repairing": {
+    "criteria": {
+      "has_diamond_pickaxe": "2024-12-24 01:21:21 +0000"
+    },
+    "done": true
+  },
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2024-12-23 03:49:06 +0000"
@@ -1534,6 +1541,7 @@
   },
   "byg:adventure/oh_the_biomes_youll_go": {
     "criteria": {
+      "byg:white_mangrove_marshes": "2024-12-24 01:23:57 +0000",
       "byg:amaranth_fields": "2024-12-23 04:06:48 +0000",
       "byg:temperate_rainforest": "2024-12-23 03:50:03 +0000"
     },
@@ -1602,6 +1610,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:dark_forest": "2024-12-23 03:49:07 +0000",
+      "minecraft:mangrove_swamp": "2024-12-24 01:23:52 +0000",
       "minecraft:sparse_jungle": "2024-12-23 04:05:56 +0000",
       "minecraft:river": "2024-12-23 04:06:44 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-23 04:05:42 +0000",

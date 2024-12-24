@@ -4100,3 +4100,53 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [24Dec2024 01:06:05.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 left the game
 [24Dec2024 01:06:05.066] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for fbb53e14-15bb-301e-ba91-84f057026ea3
 [24Dec2024 01:11:49.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BaljeetGorreado has made the advancement [Gone Bananas!]
+[24Dec2024 01:27:42.256] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Domitax lost connection: Disconnected
+[24Dec2024 01:27:42.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Domitax left the game
+[24Dec2024 01:27:42.257] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7effd5be-38be-38d2-9d2c-a8327f0f217a
+[24Dec2024 01:28:04.558] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BaljeetGorreado lost connection: Disconnected
+[24Dec2024 01:28:04.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BaljeetGorreado left the game
+[24Dec2024 01:28:04.559] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 5edfb866-bcc7-3968-96c6-f6e8b2295f9d
+[24Dec2024 01:29:07.764] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@fa364ee
+[24Dec2024 01:29:07.780] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nefario99[/127.193.196.243:53789] logged in with entity id 17818 at (-1388.7890654835442, 77.0, 5304.998382007314)
+[24Dec2024 01:29:07.781] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Nefario99
+[24Dec2024 01:29:07.782] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Nefario99
+[24Dec2024 01:29:07.782] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Nefario99
+[24Dec2024 01:29:07.782] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Nefario99
+[24Dec2024 01:29:07.784] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Nefario99
+[24Dec2024 01:29:07.786] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Nefario99
+[24Dec2024 01:29:07.787] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Nefario99
+[24Dec2024 01:29:07.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 joined the game
+[24Dec2024 01:29:07.826] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for fbb53e14-15bb-301e-ba91-84f057026ea3
+[24Dec2024 01:29:07.832] [Server thread/INFO] [Jade/]: Syncing config to Nefario99 (fbb53e14-15bb-301e-ba91-84f057026ea3)
+[24Dec2024 01:29:25.065] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@62ee5454
+[24Dec2024 01:29:25.081] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IAN9IRV018[/127.216.147.106:40111] logged in with entity id 17970 at (-519.2308504741736, 71.0, 760.0917579451909)
+[24Dec2024 01:29:25.083] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to IAN9IRV018
+[24Dec2024 01:29:25.083] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to IAN9IRV018
+[24Dec2024 01:29:25.083] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to IAN9IRV018
+[24Dec2024 01:29:25.083] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to IAN9IRV018
+[24Dec2024 01:29:25.085] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to IAN9IRV018
+[24Dec2024 01:29:25.086] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to IAN9IRV018
+[24Dec2024 01:29:25.086] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to IAN9IRV018
+[24Dec2024 01:29:25.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAN9IRV018 joined the game
+[24Dec2024 01:29:25.142] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 87cdf4ed-e9f7-3845-9a2f-252f8164e2be
+[24Dec2024 01:29:25.147] [Server thread/INFO] [Jade/]: Syncing config to IAN9IRV018 (87cdf4ed-e9f7-3845-9a2f-252f8164e2be)
+[24Dec2024 01:29:37.661] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IAN9IRV018 lost connection: Disconnected
+[24Dec2024 01:29:37.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAN9IRV018 left the game
+[24Dec2024 01:29:37.662] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 87cdf4ed-e9f7-3845-9a2f-252f8164e2be
+[24Dec2024 01:29:57.618] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@47f6b779
+[24Dec2024 01:29:57.634] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IAN9IRV018[/127.216.147.106:54273] logged in with entity id 18150 at (-520.012317302492, 70.1715999686718, 760.5360382569411)
+[24Dec2024 01:29:57.635] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to IAN9IRV018
+[24Dec2024 01:29:57.635] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to IAN9IRV018
+[24Dec2024 01:29:57.636] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to IAN9IRV018
+[24Dec2024 01:29:57.636] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to IAN9IRV018
+[24Dec2024 01:29:57.638] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to IAN9IRV018
+[24Dec2024 01:29:57.640] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to IAN9IRV018
+[24Dec2024 01:29:57.640] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to IAN9IRV018
+[24Dec2024 01:29:57.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAN9IRV018 joined the game
+[24Dec2024 01:29:57.734] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 87cdf4ed-e9f7-3845-9a2f-252f8164e2be
+[24Dec2024 01:29:57.740] [Server thread/INFO] [Jade/]: Syncing config to IAN9IRV018 (87cdf4ed-e9f7-3845-9a2f-252f8164e2be)
+[24Dec2024 01:30:18.060] [Worker-Main-50/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=255, y=7, z=-24}
+[24Dec2024 01:30:18.061] [Worker-Main-50/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=259, y=6, z=-25}
+[24Dec2024 01:32:47.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nefario99 has made the advancement [When in Rome]
+[24Dec2024 01:32:54.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported IAN9IRV018 to Nefario99
+[24Dec2024 01:32:55.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IAN9IRV018 has made the advancement [When in Rome]
